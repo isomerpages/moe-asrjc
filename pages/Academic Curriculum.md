@@ -135,5 +135,29 @@ The H3 curriculum is designed to allow exceptionally strong students who have th
 </table>
 
 #### Other Details:
-
-
+<html>
+<body>
+<table>
+  <tr>
+    <td>
+			
+**Application Period**
+</td>
+<td>
+	
+* October 	
+</td>
+  </tr>
+    <tr>
+    <td>
+			
+**Maximum number of Academic Units (AU)**
+</td>
+<td>
+	
+* The maximum number of AUs that a student can offer is 12.  	
+</td>
+  </tr> 
+</table>
+</body>
+</html>
