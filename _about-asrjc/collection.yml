@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - terms-of-use.md
+      - Our Ethos.md
       - privacy.md
       - faq.md
