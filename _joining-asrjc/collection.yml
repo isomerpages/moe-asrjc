@@ -1,4 +1,5 @@
 collections:
   joining-asrjc:
     output: true
-    order: []
+    order:
+      - Joint Admission Exercise.md
