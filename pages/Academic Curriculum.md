@@ -158,6 +158,18 @@ The H3 curriculum is designed to allow exceptionally strong students who have th
 * The maximum number of AUs that a student can offer is 12.  	
 </td>
   </tr> 
+	<tr>
+    <td>
+			
+**Other Conditions**
+</td>
+<td>
+	
+* The number of H3 subjects to be offered by a student is capped at 1.
+* Students may apply for H3 modules offered by MOE and/or the universities but they can only choose to offer one H3 module eventually.
+* Other criteria are as stipulated by the institutions offering the H3 module.
+</td>
+  </tr> 
 </table>
 </body>
 </html>
