@@ -2,5 +2,6 @@ collections:
   joining-asrjc:
     output: true
     order:
+      - Direct School Admission.md
       - Returning Singaporeans or International students.md
       - Joint Admission Exercise.md
