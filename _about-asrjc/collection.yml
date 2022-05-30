@@ -2,4 +2,5 @@ collections:
   about-asrjc:
     output: true
     order:
+      - faq.md
       - example-page.md
