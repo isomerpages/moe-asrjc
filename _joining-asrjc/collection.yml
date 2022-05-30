@@ -2,7 +2,7 @@ collections:
   joining-asrjc:
     output: true
     order:
-      - Frequently Asked Questions.md
-      - Direct School Admission.md
-      - Returning Singaporeans or International students.md
       - Joint Admission Exercise.md
+      - Returning Singaporeans or International students.md
+      - Direct School Admission.md
+      - Frequently Asked Questions.md
