@@ -2,4 +2,5 @@ collections:
   joining-asrjc:
     output: true
     order:
+      - Returning Singaporeans or International students.md
       - Joint Admission Exercise.md
