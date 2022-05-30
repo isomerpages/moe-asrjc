@@ -3,7 +3,6 @@ title: Direct School Admission
 permalink: /direct-school-admission/
 description: ""
 ---
-
 <img src="/images/Basketball-Boys-1024x676.jpg" 
      style="width:50%">
 <img src="/images/Dance-1024x668.jpg" 
@@ -103,11 +102,4 @@ AND
 
 **2) Application Process**
 
-*   Submit online application form through this [**link**](http://dsa.asrjc.edu.sg/).
-*   The deadline for the submission of online application forms is **Fri 15 July 2022**.
-*   Applicants are **strongly encouraged** to submit their application well in advance of the deadline to be considered for Phase 1.
-*   Applicants are required to attach scanned copies of the following along with their application:
-    *   Secondary School Report book with Sec 3 Year-end and Sec 4 Mid-year results,  including copies of latest school academic results **if available**
-    *   School CCA records
-    *   Relevant certifications and/or records of achievement related to the area of talent
-*   Applicants may go ahead to submit the application form first if the official documents are unavailable.
+
