@@ -2,7 +2,7 @@ collections:
   about-asrjc:
     output: true
     order:
-      - example-page.md
+      - Principal's Message.md
       - terms-of-use.md
       - privacy.md
       - faq.md
