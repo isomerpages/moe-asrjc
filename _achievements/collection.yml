@@ -2,4 +2,5 @@ collections:
   achievements:
     output: true
     order:
+      - Co Curricular Activities.md
       - Academic.md
