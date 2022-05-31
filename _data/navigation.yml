@@ -1,6 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: ABOUT ASRJC
+    collection: about-asrjc
+  - title: Menu Title
+    collection: joining-asrjc
