@@ -2,5 +2,6 @@ collections:
   asrjc-experience:
     output: true
     order:
+      - Co Curricular Activities.md
       - Character and Citizenship Education.md
       - Academic Curriculum.md
