@@ -7,7 +7,7 @@ The creative and sporting talents of ASRJC add much to the vibrancy of the colle
 
 Our CCAs are:
 
-**Sports & Games**  
+### **Sports & Games**  
 Badminton  
 Basketball  
 Sport Climbing\*  
@@ -28,7 +28,7 @@ _\*Sport Climbing will not be offered to JC1s in 2022_
 
 
 
-**Performing Arts**  
+### **Performing Arts**  
 Chinese Orchestra  
 Choir  
 Dance Society (Contemporary)  
@@ -42,7 +42,7 @@ _\*Music Club will not be offered to JC1s in 2022_
 
 ![Chinese Orchestra](https://asrjc.moe.edu.sg/wp-content/uploads/2018/09/Chinese-Orchestra-1024x683.jpg "Chinese Orchestra")
 
-**Clubs & Societies**  
+### **Clubs & Societies**  
 Audio Visual Aids Club  
 Chinese LDDS  
 Debate and Creative Communications  
