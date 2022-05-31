@@ -330,8 +330,3 @@ Shortlisted applicants from the trials will be required to attend an in-person i
   </tr>
 </tbody>
 </table>
-
-
-
-
-
