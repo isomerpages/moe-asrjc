@@ -37,6 +37,7 @@ Chew Wei Jie (21/25)
 Nur Hastika Bte Hassan Abdullah Poh (21/26)
 
 **Most Impactful Project (Team)**
+
 Manangan Jezelei Gwyneth A. (21/30)  
 Toh Xing Ying Eunice (21/14)  
 Zhao Yifan (21/30)  
