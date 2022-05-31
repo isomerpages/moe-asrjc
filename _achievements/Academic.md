@@ -21,8 +21,7 @@ Tiffany Poon (22/29)
 #### Singapore Science and Engineering Fair (Team) 2021
 
 **Silver (Team)**   
-Clarissa Koh Shi Qi (21/11) 
-
+Clarissa Koh Shi Qi (21/11)
 Marvyn Chia Kai Liang (21/07)  
 Lim Donggeon (21/07)
 
