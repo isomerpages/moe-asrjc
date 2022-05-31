@@ -332,6 +332,9 @@ Shortlisted applicants from the trials will be required to attend an in-person i
 </table>
 
 
+
+
+
 | Talent Areas | Trials/ Auditions<br>Schedule | Performance Tasks/<br>Instructions | Contact Person | H3 Grade | Marks (%) |
 |:---:|:---:|:---:|:---:|---|---|
 | Sports |  |  |  | Distinction | 70-100 |
