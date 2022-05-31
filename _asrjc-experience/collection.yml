@@ -2,10 +2,10 @@ collections:
   asrjc-experience:
     output: true
     order:
-      - Special Programmes/Talent Development (Alpha) Programme.md
+      - Special Programmes/.keep
       - Special Programmes/Science, Technology, Engineering, and Mathematics
         (STEM) Programme.md
-      - Special Programmes/.keep
+      - Special Programmes/Talent Development (Alpha) Programme.md
       - Academic Calendar/.keep
       - Academic Calendar/Academic Curriculum.md
       - Academic Calendar/Rank Points.md
