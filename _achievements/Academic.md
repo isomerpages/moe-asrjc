@@ -57,8 +57,8 @@ Thai Le Minh Hoai (21/11)
 
 #### Singapore Young Physicists' Tournament 2021
 
-**Certificate of Merit  
-**Jordan Tan Wei Zheng (21/06)  
+**Certificate of Merit**  
+Jordan Tan Wei Zheng (21/06)  
 Kelvin Ching Kay Feng (21/06)  
 Lee Tze Shuan, Amelia (21/06)
 
