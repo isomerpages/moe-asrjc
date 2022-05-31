@@ -77,7 +77,6 @@ Manish Choudhary (21/03)
 #### URA Cube (2019)
 
 **First Place- Outstanding Award (Team)** 
-
 Sze Zo Ey  
 Kang Kiat Meng  
 Loo Jia Xian  
