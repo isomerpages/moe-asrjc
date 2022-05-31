@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Special Programmes/.keep
-      - Special Programmes.md
       - Academic Calendar/.keep
       - Academic Calendar/Academic Curriculum.md
       - Academic Calendar/Rank Points.md
