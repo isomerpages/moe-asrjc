@@ -2,9 +2,9 @@ collections:
   asrjc-experience:
     output: true
     order:
-      - Academic Calendar/Rank Points.md
-      - Academic Calendar/Academic Curriculum.md
       - Academic Calendar/.keep
+      - Academic Calendar/Academic Curriculum.md
+      - Academic Calendar/Rank Points.md
       - Student Developmental Pathway.md
       - Co Curricular Activities.md
       - Character and Citizenship Education.md
