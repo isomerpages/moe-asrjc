@@ -103,8 +103,7 @@ Sky Lim Kai Yi (20/15)
 Woo Jing Tong (20/22)  
 Yao Cheng (20/02)
 
-**Merit**
-
+**Merit**               
 Floretta Setia Pradana (20/27)
 
 * * *
