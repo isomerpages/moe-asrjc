@@ -81,7 +81,6 @@ Sze Zo Ey
 Kang Kiat Meng  
 Loo Jia Xian  
 Ann Mei Yi Victoria Grace 
-
 Teh Bee Ting  
 Hsu Sandy Oo  
 Lim Jin Pin  
