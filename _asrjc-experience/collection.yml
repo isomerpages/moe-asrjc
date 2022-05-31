@@ -1,4 +1,5 @@
 collections:
   asrjc-experience:
     output: true
-    order: []
+    order:
+      - Academic Curriculum.md
