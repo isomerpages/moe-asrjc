@@ -24,7 +24,7 @@ Volleyball
 
 _\*Sport Climbing will not be offered to JC1s in 2022_
 
-![Basketball_1](https://asrjc.moe.edu.sg/wp-content/uploads/2018/09/Basketball_1-1024x683.jpg "Basketball_1")
+![](/images/Basketball_1-1024x683.jpg)
 
 
 
@@ -40,7 +40,7 @@ Symphonic Band
 
 _\*Music Club will not be offered to JC1s in 2022_
 
-![Chinese Orchestra](https://asrjc.moe.edu.sg/wp-content/uploads/2018/09/Chinese-Orchestra-1024x683.jpg "Chinese Orchestra")
+![](/images/Chinese-Orchestra-1024x683.jpg)
 
 ### **Clubs & Societies**  
 Audio Visual Aids Club  
@@ -56,4 +56,4 @@ Students’ Council
 Tamil LDDS  
 Visual Arts Club
 
-![TLDDS Dance@AGNI2018](https://asrjc.moe.edu.sg/wp-content/uploads/2018/09/TLDDS-Dance@AGNI2018-1024x683.jpg "TLDDS Dance@AGNI2018")
+![](/images/TLDDS-Dance@AGNI2018-1024x683.jpg)
