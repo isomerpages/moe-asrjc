@@ -111,6 +111,7 @@ AND
 </html>
 
 ##### **2) Application Process**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -140,33 +141,8 @@ AND
     <td class="tg-0pky">Special Note:</td>
     <td class="tg-0pky">• Applicants who are not offered a place in Phase 1 need not resubmit, as all applications will be considered for both Phase 1 and 2 (if there is vacancy).<br>• Successful DSA-JC candidates will gain admission to ASRJC in 2023 for their JC education as long as they meet the eligibility set by MOE for the two-year Junior College Course based on their GCE O-Level examinations results.<br>• Please note that successful DSA-JC candidates will <span style="font-weight:bold">NOT</span> be allowed to participate in the Joint Admissions Exercise. They will also <span style="font-weight:bold">NOT</span> be allowed to transfer to another school after the release of the GCE O-Level examination results.<br>• They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Applicants admitted to <span style="font-weight:bold">TLEP</span> must offer H2 Tamil Language and Literature and take part in the activities related to TLEP.<br>• Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</td>
   </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
 </tbody>
 </table>
-##### **3)** **Selection Process**
-
-**Trials / Auditions**
-
-Applicants will be shortlisted for trials/auditions based on evidence of the following aspects:
-
-*   Track record, experience and commitment to the talent area.
-*   Achievements, qualifications and certifications in the talent areas.
-
-**Interviews**
-
-Applicants will be shortlisted for interviews based on their performance at trials / auditions.
-
-(Note: For students applying for DSA in the Science & Technology and Tamil Language Elective Programme, they will only be required to attend an interview.)
-
-Shortlisted applicants from the trials will be required to attend an in-person interview to enable the College to better understand the:
-
-*   Applicant’s interest/ passion for the specific talent area;
-*   Applicant’s experiences (if any) in nurturing the specific talent area (e.g through school CCA, sport academies/ clubs or private coaching);
-*   Applicant’s motivation for joining ASRJC;
-*   Applicant’s ability to cope with JC curriculum.
 
 ##### **4) Details of Selection Trials/Auditions**
 
