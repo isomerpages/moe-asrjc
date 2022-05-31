@@ -2,7 +2,7 @@ collections:
   asrjc-experience:
     output: true
     order:
-      - Special Programmes/Special Programmes.md
+      - Special Programmes/STEM.md
       - Special Programmes/.keep
       - Academic Calendar/.keep
       - Academic Calendar/Academic Curriculum.md
