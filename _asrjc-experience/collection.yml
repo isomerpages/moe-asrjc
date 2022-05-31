@@ -2,6 +2,7 @@ collections:
   asrjc-experience:
     output: true
     order:
+      - Special Programmes/Tamil Language Elective Programme (TLEP).md
       - Special Programmes/ASR International Narratives (ASRIN).md
       - Special Programmes/.keep
       - Special Programmes/Science, Technology, Engineering, and Mathematics
