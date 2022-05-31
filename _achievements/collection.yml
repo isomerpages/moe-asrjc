@@ -2,6 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Awards and Scholarships.md
       - Academic.md
       - Co Curricular Activities.md
+      - Awards and Scholarships.md
