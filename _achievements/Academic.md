@@ -114,6 +114,8 @@ Floretta Setia Pradana (20/27)
 #### 32nd Singapore Physics Olympiad (SPhO) 2019
 
 **Honorable Mention**
+
+
 Sky Lim Kai Yi (20/15)
 
 * * *
