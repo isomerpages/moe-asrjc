@@ -9,7 +9,7 @@ locations:
       - Ang Mo Kio Ave 6
       - Singapore 569843
     operating_hours: []
-    maps_link: ""
+    maps_link: https://goo.gl/maps/krbdMtiJdCt8GbEA9
     title: Location
 contacts:
   - content:
