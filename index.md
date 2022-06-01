@@ -11,8 +11,8 @@ sections:
       subtitle: Hero subtitle
       background: /images/ASRJC.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Highlights
+          description: ""
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
