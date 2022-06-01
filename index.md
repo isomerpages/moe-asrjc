@@ -17,9 +17,6 @@ sections:
         - title: DSA 2022
           description: ""
           url: /direct-school-admission/
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
