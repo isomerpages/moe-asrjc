@@ -16,7 +16,7 @@ sections:
           url: /highlights/
         - title: DSA 2022
           description: ""
-          url: ""
+          url: /direct-school-admission/
         - title: Page A
           description: Page A is important too
           url: /privacy/
