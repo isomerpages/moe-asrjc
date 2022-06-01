@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: Highlights
           description: ""
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+          url: /highlights/
+        - title: DSA 2022
+          description: ""
+          url: ""
         - title: Page A
           description: Page A is important too
           url: /privacy/
