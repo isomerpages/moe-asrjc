@@ -18,11 +18,6 @@ sections:
           url: /direct-school-admission/
   - infobar:
       title: "ASRJC: Leading, Learning and Serving"
-      description: About a sentence worth of description here
-      button: Button text
-      url: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/lQhjavlrNGw?start=8" title="YouTube
-        video player" frameborder="0" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+      button: Click here
+      url: https://www.youtube.com/watch?v=lQhjavlrNGw&t=5s
 ---
