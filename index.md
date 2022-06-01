@@ -7,11 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
+      title: Anderson Serangoon Junior College
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/ASRJC.gif
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -29,5 +27,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
