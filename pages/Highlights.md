@@ -15,3 +15,6 @@ We then celebrated interdisciplinary learning and the fusion of Arts and Science
 
 ![](/images/highlights%203.jpg)
 ![](/images/highlights%204.jpg)
+
+We concluded with the Arts Symposium that explores and deepens understanding towards local and global issues through the Arts. This year we curated exhibitions and designed activities under the theme - Sustainability - An Exploration through the Arts. What a fun-filled and action-packed April for ASR, all for the purpose of offering an interdisciplinary and collaborative approach to learning!
+
