@@ -8,7 +8,6 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Anderson Serangoon Junior College
-      subtitle: Hero subtitle
       background: /images/ASRJC.gif
       key_highlights:
         - title: Highlights
