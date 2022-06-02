@@ -51,3 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-asrjc-staging.netlify.app
 prod: https://moe-asrjc-prod.netlify.app
+resources_name: news
