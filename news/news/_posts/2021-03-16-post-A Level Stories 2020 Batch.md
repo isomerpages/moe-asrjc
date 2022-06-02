@@ -61,3 +61,29 @@ Zane understands that in practicing law, it is important to listen to and develo
 Zane aims to pursue a career in criminal or family law, and is considering studying Law, Political Science, or Public Policy in University.
 
 All the best, Zane!
+
+### Kavya Prabakaran
+![](/images/Alevel-2020-batch-6-300x300.png)
+
+From young, Kavya’s parents and teachers would share with her stories of Indian history and culture, which sparked her interest in the Tamil language and Indian culture. She thus enrolled into the Tamil Language Elective Programme (TLEP) at ASRJC as a way to stay connected and learn more about her heritage and to pursue her interests. 
+
+As part of the TLEP, she had the opportunity to learn from professors and researchers who specialised in Tamil language, culture and heritage. Through these interactions, she gained new perspectives and skills, such as translation, which Kavya believes is an important tool to improve communications in multi-racial Singapore. 
+
+Kavya was also a member of the pioneer ASRJC Tamil Debate team. With hard work and sheer determination, she and her team members secured the very first championship for the college and set a record of having a Best Speaker from ASRJC for every round of the debate during the National Tamil Debate, Sorrsilambam 2019. Kavya herself, was the Best Speaker for the Quarter-finals. 
+
+Kavya is considering a career in teaching as she has been greatly inspired by her teachers, especially Mdm Vani, who taught her H2 Tamil Language & Literature in ASRJC and imparted many valuable lessons on resilience and the pursuit of excellence. Alternatively, she would like to pursue a degree in Psychology, particularly in Criminal Psychology and Child Psychology, and hopes to become a psychologist in the future. 
+
+We wish you all the best for your future endeavours, Kavya!
+
+### Schuyler Walter Chua Zong Han
+![](/images/Alevel-2020-batch-7-300x300.png)
+
+Schuyler is a self-motivated student who was focused on achieving excellence in all of his endeavours. His incredible passion, talent and aptitude for Volleyball secured him a place in ASRJC through the DSA-JC route. 
+
+As a competitive Volleyball player in college, Schuyler and his team achieved Second Runner-Up in the 2019 National 'A' Division School Games. In recognition of his Volleyball performance, Schuyler received the Singapore Schools Sports Council Colours Award in 2019. His love for the sport and his leadership qualities were affirmed by his CCA seniors, who voted him as Captain of the team. Under his leadership, the team witnessed an exponential improvement in skills and forged strong teamwork. Schuyler’s achievement of the Singapore Armed Forces (SAF) Young Leaders Award in 2020 was a testament to his strong leadership skills. 
+
+Besides being a talented and dedicated sportsman, Schuyler performed well academically. He achieved the Top Arts Student and Top in H2 Literature Awards in the 2019 JC1 Promotional Examination. He was also awarded the College Advisory Committee Scholarship in JC1 and was part of the Alpha Programme.
+
+Given his many achievements, Schuyler has applied for several scholarships and hopes to pursue a degree either in Economics, Literature or Psychology at the National University of Singapore.
+
+All the best, Schuyler!
