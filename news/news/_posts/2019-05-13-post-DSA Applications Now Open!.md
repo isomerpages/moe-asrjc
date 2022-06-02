@@ -5,3 +5,6 @@ date: 2019-05-13
 layout: post
 description: ""
 ---
+![](/images/DSA-1024x682.jpg)
+
+Direct School Admission to ASRJC are now open till 30 July 2019. Prospective DSA students, please [click here](https://asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/) or go to our Direct School Admission page for more information.
