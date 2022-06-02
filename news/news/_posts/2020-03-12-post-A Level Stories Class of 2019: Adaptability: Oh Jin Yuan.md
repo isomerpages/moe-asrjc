@@ -6,7 +6,6 @@ layout: post
 description: ""
 ---
 
-
 **ADAPTABILITY**
 
 **Name: Oh Jin Yuan**
