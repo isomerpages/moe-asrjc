@@ -5,6 +5,7 @@ date: 2020-03-12
 layout: post
 description: ""
 ---
+![](/images/Jinyuan3-1024x683.jpg)
 
 **ADAPTABILITY**
 
