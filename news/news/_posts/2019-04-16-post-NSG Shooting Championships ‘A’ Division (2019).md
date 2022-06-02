@@ -27,5 +27,4 @@ _The Air Rifle Women’s Team achieved 6th Position._
 _To top it off, Ethan Tan Wei Jie from 19/16 achieved 3rd place in the Air Rifle Men Finals._
 
 ![](/images/Shooting-Team-2019-Chuan-Wang-Derek-Foo-1024x683.jpg)
-
 **_Well done to all shooters!_**
