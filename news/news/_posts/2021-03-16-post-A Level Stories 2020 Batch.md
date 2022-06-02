@@ -48,3 +48,16 @@ Nonetheless, Emily overcame these challenges by being adaptable and flexible. Sh
 Emily is looking to pursue writing as a career. As such, she hopes to explore different types of writing in university, such as screenplay and creative writing, to apply what she has learnt in Literature and Art thus far and to discover her personal writer’s voice. She is keen to take up a double major in English Literature and Art History.   
 
 All the best, Emily!
+
+### Lee Jun Cong, Zane
+![](/images/Alevel-2020-batch-5-300x300.png)
+
+Zane is an exemplary student and leader, who has a profound passion for law. His interest in Law was sparked when he took part in the 11th Junior College Law Programme in which he took on a two-week internship with a law firm. There, Zane became convinced that law is a powerful tool that can bring about improvements in the life of others and that his outspoken nature could be used for the greater good. 
+
+In his spare time, Zane read through the judgements of Singapore’s Supreme and High Court archives to expand his knowledge of Singapore law. To hone his persuasive skills, he took part in the Harvard Model Congress Asia in Tokyo, where he contributed actively in the debating and drafting of the Model United Nation bills, which were eventually endorsed by his international counterparts in the General Assembly.
+
+Zane understands that in practicing law, it is important to listen to and develop a sense of empathy for the people in the community. In ASRJC, he would often lend a listening ear to Uncle Henry, the school’s bookshop vendor, as he shared with Zane his personal struggles. While waiting to enlist in NS, he volunteered at the Meet-the-People sessions for his constituency. Hearing the struggles of these people strengthened his belief that legal representation should not only be an entitlement to the rich.
+
+Zane aims to pursue a career in criminal or family law, and is considering studying Law, Political Science, or Public Policy in University.
+
+All the best, Zane!
