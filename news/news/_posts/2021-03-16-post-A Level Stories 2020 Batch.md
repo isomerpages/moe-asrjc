@@ -87,3 +87,16 @@ Besides being a talented and dedicated sportsman, Schuyler performed well academ
 Given his many achievements, Schuyler has applied for several scholarships and hopes to pursue a degree either in Economics, Literature or Psychology at the National University of Singapore.
 
 All the best, Schuyler!
+
+### Darren Yeo
+![](/images/Alevel-2020-batch-1-300x300.png)
+
+When Darren was in primary school, he enjoyed singing along to the theme songs of the Chinese dramas he used to watch. Recognising his interest, Darren’s parents encouraged him to join Choir as a CCA in school. Darren has since been in a choir for 6 years, joining ASRJC Choir after secondary school. 
+
+Darren has had many positive experiences while in the ASRJC Choir. He learned about hospitality and singing while on an overseas choir exchange with Chulalongkorn University. He built up his self-confidence undertaking a solo during ASRJC Choir’s Open House 2020 performance. He felt a great sense of achievement following the performance of the choir’s SYF pieces, which they had spent months mastering. 
+
+Despite his lack of formal music training, Darren gamely took on the role of Assistant Student Conductor, heeding his mother’s advice to seize any valuable opportunity that presented itself. He was greatly inspired by the choir’s student conductor, who showed him the ropes, guided him during training and taught him the importance of flexibility to ensure that training sessions could continue despite the COVID-19 pandemic. The support he received from his Student Conductor, together with the sense of camaraderie amongst his choir mates, is something Darren will remember fondly. 
+
+If possible, Darren would continue pursuing his interest in choir in university. He hopes to study Biochemistry, or delve into the field of Veterinarian Science given his love for birds.
+
+All the best, Darren!
