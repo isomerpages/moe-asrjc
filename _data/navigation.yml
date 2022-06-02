@@ -8,3 +8,5 @@ links:
     collection: asrjc-experience
   - title: Achievements
     collection: achievements
+  - title: NEWS
+    resource_room: true
