@@ -5,6 +5,8 @@ date: 2019-03-29
 layout: post
 description: ""
 ---
+![](/images/A%20level%20results-1024x682.jpeg)
+
 ASRJC Celebrates – 2018 ‘A’ Level Results
 =========================================
 
