@@ -18,3 +18,5 @@ Receiving its first batch of students in 1984, Anderson Junior College was the 1
 Led by Mr Lee Fong Seng with 79 academic staff in its first year, the college grew in strength and stature, with almost 150 academic staff and 15 Heads of Departments in 2018.
 
 The Anderson Junior College Hostel commenced construction in 2009 and was completed in 2012 to better serve the needs of international students in the college.
+
+![](/images/AJC.jpg)
