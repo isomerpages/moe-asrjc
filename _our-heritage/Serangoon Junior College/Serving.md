@@ -10,3 +10,7 @@ In line with the college’s Motto, To Learn To Serve, Serangoon Junior College 
      style="width:25%">
 		 
 ![](/images/SRJC%20Serving.jpg)
+
+**Our Partners**
+
+Serangoon Junior College had forged long and lasting partnerships with organisations that have been our beneficiaries, such as the Nature Society (Singapore), Ling Kwang Home, and Chen Su Lan Methodist Children’s Home. Yearly events were conducted by various Co-Curricular Activity groups such as the Performing Arts groups and most notably the Community Champions Council to interact with the residents of Ling Kwang Home.
