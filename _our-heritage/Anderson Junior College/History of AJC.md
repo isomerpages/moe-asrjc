@@ -20,3 +20,9 @@ Led by Mr Lee Fong Seng with 79 academic staff in its first year, the college gr
 The Anderson Junior College Hostel commenced construction in 2009 and was completed in 2012 to better serve the needs of international students in the college.
 
 ![](/images/AJC.jpg)
+
+
+**The College Crest**  
+The college crest, designed by Heng Eng Hwa in 1984, is formed from the initials of the college. The letter **A**, in the form of a yellow flame, symbolise the vitality and youthful aspirations of the students. The dark blue letters, **J** and **C**, supporting the flame, symbolise the college support for the individual in his efforts to realise his ambition. The four circles at the base depict racial harmony, highlighting the college motto, **NON MIHI SOLUM**.
+
+![](/images/Anderson_Junior_College_logo.png)
