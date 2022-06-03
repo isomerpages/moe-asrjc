@@ -39,3 +39,14 @@ The Laurel Leaves symbolise Achievement.
 
 **Our Principals**  
 The College has been served by six principals thus far: the founding principal Mr Thomas Tan from 1988 to 1996, Ms Jenny Yong from 1996 to 2002, Mrs Kok Chwee Kee from 2002 to 2006, Mr Tan Teck Hock from 2007 to 2010 and Mrs Wong-Cheang Mei Heng, from 2011 to 2014. Mr Manogaran Suppiah, appointed in December 2014, is the College’s sixth principal.
+
+<img src="/images/Ms-Jenny-Yong2-200x300.jpg" 
+     style="width:25%">
+		 
+![](/images/Ms-Jenny-Yong2-200x300.jpg)
+
+![](/images/Mr-Tan-Teck-Hock-200x300.jpg)
+
+![](/images/Mrs-Wong-Cheang-Mei-Heng-200x300.jpg)
+
+![](/images/Mr-Manogaran-Suppiah1-200x300.jpg)
