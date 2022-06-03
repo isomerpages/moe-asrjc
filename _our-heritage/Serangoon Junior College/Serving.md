@@ -34,3 +34,9 @@ The WILL Run was definitely one of SRJC’s key events which demonstrated the co
 
 ![](/images/SRJC%20Serving%205.jpg)
 
+Packed with song, dance and a touch of acrobatics, the Thanksgiving Concert concert became a biennial tradition and one of the highlights of college life for students at Serangoon Junior College (SRJC). Introduced in 2007, the Thanksgiving Concert was incepted to commemorate the SR family’s fund-raising efforts. It evolved to be a concert in which stars of the concert were the staff, who entertained and motivated the students ahead of their year-end examinations.
+
+![](/images/SRJC%20Serving%206.jpg)
+
+**The Spirit of Giving**  
+During the SG50 celebrations, SRJC held its inaugural SR Fiesta in 2015 (later named SR Fiestar), an exciting all-day carnival with food and game stalls run by the JC1 students to raise funds for the community. Held during the National Day celebrations, SR Fiesta was a day of celebration and enjoyment. Following the carnival, an intellectually and emotionally-charged forum, SR Giving, was held for students to voice their opinions and decide on which organisation to pledge the funds to.
