@@ -19,3 +19,12 @@ In 1988, 60 student leaders underwent the college’s first Alpha-Bravo (AB) Cam
 A college initiative in 2013, the Agents of Change endeavour saw 10 groups of AJCians initiating exciting projects aimed at enhancing college life. Guided by the college motto of Non Mihi Solum, the students began projects that made improvements to the college’s physical environment and also introduced novel programmes such as AJam (a weekly student-led radio broadcast). The spirit of positive change continued in 2014, when an AJC Marketplace was set up in the school hall by enthusiastic students who marketed their ideas for improvements to the college to the rest of their peers.
 
 ![](/images/AJC%20-%20Leading2.jpg)
+
+**Leadership in the Sporting Arena**  
+
+<img src="/images/Leadership-in-the-Sporting-Arena-Naomi-Tan-212x300.jpg" 
+     style="width:75%">
+
+AJC was a sporting powerhouse since its inception. The famed AJC ‘Golden Girls’ once made waves by winning Track and Field events at national and even regional levels in 1985. Naomi Tan created history in August 1985 by becoming the first AJC athlete to lead her fellow athletes to take the oath at the Opening Ceremony of the ASEAN Schools Championships. In 1987, AJC secured its reputation as the top college in the ‘A’ Divisions, clinching top honours in basketball, softball, gymnastics, trampoline and other events. From 1987 to 1989, AJC Basketball was Boys’ Champions for three consecutive years. In 1997, the Squash team staged an upset win over National Junior College to achieve its first gold in 18 years. The Volleyball team also won gold for the college in years 2001, 2003 and 2006, overcoming serious obstacles such as the onset of SARS and injury to their teacher-coach in 2003. In 2017, the Basketball Boys team defeated Hwa Chong Institution to bring home the ‘A’ Divisions championship again, a feat not seen since 1989. Through the years, the college demonstrated its ability to stay at the forefront of competitive sports.
+
+![](/images/learning-3.jpg)
