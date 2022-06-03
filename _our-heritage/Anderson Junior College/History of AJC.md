@@ -25,7 +25,8 @@ The Anderson Junior College Hostel commenced construction in 2009 and was comple
 **The College Crest**  
 The college crest, designed by Heng Eng Hwa in 1984, is formed from the initials of the college. The letter **A**, in the form of a yellow flame, symbolise the vitality and youthful aspirations of the students. The dark blue letters, **J** and **C**, supporting the flame, symbolise the college support for the individual in his efforts to realise his ambition. The four circles at the base depict racial harmony, highlighting the college motto, **NON MIHI SOLUM**.
 
-![](/images/Anderson_Junior_College_logo.png)
+<img src="/images/Anderson_Junior_College_logo.png" 
+     style="width:75%">
 
 **Our Principals**  
 Seven principals helmed the college through the years: the founding principal Mr Lee Fong Seng from 1983 to 1987, Mrs Rebecca Mok from 1988 to 1992, Miss Tan Teng Wah from 1992 to 1998, Mr Tan Tiek Kwee from 1998 to 2005, Ms Susan Leong from 2005 to 2011, and Mr Lee Seng Hai from 2011 to 2015. The 7th principal, Ms Tay Lai Ling, was appointed in December 2015.
