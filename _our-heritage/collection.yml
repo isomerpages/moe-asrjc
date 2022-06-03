@@ -2,4 +2,5 @@ collections:
   our-heritage:
     output: true
     order:
+      - Serangoon Junior College/.keep
       - Anderson Junior College/.keep
