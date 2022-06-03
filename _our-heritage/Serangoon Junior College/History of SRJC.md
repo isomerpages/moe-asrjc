@@ -4,7 +4,7 @@ permalink: /about-asrjc/heritage/srjc/history-of-srjc/
 description: ""
 third_nav_title: Serangoon Junior College
 ---
-![](/images/Temporary-premise-in-Hougang-Copy-300x215.jpg)### History of SRJC
+### History of SRJC
 
 **SRJC VISION**  
 Serangoon Junior College’s vision is to nurture every SRJCian to be a leader and a learner who is driven by values, imagination and a desire to serve others.
@@ -25,3 +25,17 @@ Established in March 1988, Serangoon Junior College set up its temporary premise
 In December 1990, the College relocated to its present campus at Upper Serangoon Road. It was officially declared open on 29 May 1992 by Mr Lee Yock Suan, the then Minister for Education and Member of Parliament for Cheng San GRC.
 
 **The College Crest**
+
+![](/images/Serangoon%20JC.png)
+
+The College colours are Red, Gold and Green.  
+Red represents Dignity and Warmth. It symbolises that each SRJCian should be dignified and have warmth for their fellow beings.  
+Gold represents Goodness and Purity. It signifies that SRJCians will be individuals of good character and conviction.  
+Green represents Youth with a thirst for knowledge and an eagerness to learn.  
+The Symbols in the College Crest are the Lion, the Flames and the Laurel Leaves.  
+The Lion symbolises Nationhood and Courage.  
+The Flames symbolise Enlightenment.  
+The Laurel Leaves symbolise Achievement.
+
+**Our Principals**  
+The College has been served by six principals thus far: the founding principal Mr Thomas Tan from 1988 to 1996, Ms Jenny Yong from 1996 to 2002, Mrs Kok Chwee Kee from 2002 to 2006, Mr Tan Teck Hock from 2007 to 2010 and Mrs Wong-Cheang Mei Heng, from 2011 to 2014. Mr Manogaran Suppiah, appointed in December 2014, is the College’s sixth principal.
