@@ -43,4 +43,5 @@ Packed with song, dance and a touch of acrobatics, the Thanksgiving Concert conc
 
 During the SG50 celebrations, SRJC held its inaugural SR Fiesta in 2015 (later named SR Fiestar), an exciting all-day carnival with food and game stalls run by the JC1 students to raise funds for the community. Held during the National Day celebrations, SR Fiesta was a day of celebration and enjoyment. Following the carnival, an intellectually and emotionally-charged forum, SR Giving, was held for students to voice their opinions and decide on which organisation to pledge the funds to.
 
-![](/images/SRJC%20Serving%207.jpg)
+<img src="/images/SRJC%20Serving%207.jpg" 
+     style="width:75%">
