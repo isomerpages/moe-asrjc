@@ -13,9 +13,9 @@ In 1988, 60 student leaders underwent the college’s first Alpha-Bravo (AB) Cam
 <img src="/images/Nurturing-Leaders-Alpha-Bravo-Camp-2014_2-200x300.jpg" 
      style="width:25%">
 
-![](/images/AJC%20-%20Learning.jpg)
+![](/images/AJC%20-%20Leading.jpg)
 
 **Agents of Change**  
 A college initiative in 2013, the Agents of Change endeavour saw 10 groups of AJCians initiating exciting projects aimed at enhancing college life. Guided by the college motto of Non Mihi Solum, the students began projects that made improvements to the college’s physical environment and also introduced novel programmes such as AJam (a weekly student-led radio broadcast). The spirit of positive change continued in 2014, when an AJC Marketplace was set up in the school hall by enthusiastic students who marketed their ideas for improvements to the college to the rest of their peers.
 
-![](/images/AJC%20-%20Learning%202.jpg)
+![](/images/AJC%20-%20Leading2.jpg)
