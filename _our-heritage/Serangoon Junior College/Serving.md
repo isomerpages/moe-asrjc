@@ -19,3 +19,10 @@ Serangoon Junior College had forged long and lasting partnerships with organisat
      style="width:75%">
 		 
 ![](/images/SRJC%20Serving%204.jpg)
+
+**Learning to Serve**
+
+The first Integrated Service Learning Camp was held in 2003 to develop youth mentors to plan, conceptualise and perform community service. In line with this tradition, the Service-Learning Symposium was hosted annually to expose students to a range of organisations. Speakers from these organisations would engage the students in lively and inspiring presentations on their objectives and how they provide for the needs of the community.
+
+<img src="/images/Students-learn-from-one-another-in-the-Service-Learning-Symposium-2016-300x199.jpg" 
+     style="width:75%">
