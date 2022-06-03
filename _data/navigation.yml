@@ -1,7 +1,5 @@
 logo: /images/Master-Horizontal-Logo-reduced-380x99 (1).png
 links:
-  - title: About ASRJC
-    collection: about-asrjc
   - title: Joining ASRJC
     collection: joining-asrjc
   - title: ASRJC Experience
@@ -10,3 +8,8 @@ links:
     collection: achievements
   - title: NEWS
     resource_room: true
+  - title: About ASRJC
+    url: /about-asrjc
+    sublinks:
+      - title: Principal Message
+        url: /about-asrjc/principals-message/
