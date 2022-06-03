@@ -21,3 +21,5 @@ links:
     collection: achievements
   - title: News
     resource_room: true
+  - title: Menu Title
+    collection: our-heritage
