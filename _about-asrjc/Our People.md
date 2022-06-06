@@ -10,9 +10,7 @@ hi
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">School Leaders</label>  
     <div>  
-      <p> 
-
-**Principal**  
+      <p>**Principal**  
 Mr Manogaran Suppiah
 
 **Vice-Principals**  
