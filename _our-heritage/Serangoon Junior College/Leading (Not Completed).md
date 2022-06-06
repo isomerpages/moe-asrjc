@@ -20,7 +20,8 @@ The development of student leaders had evolved over the history of SR. Up until 
 <img src="/images/SRJC%20-%20Leading%204.jpg" 
      style="width:25%">
 		 
+![](/images/SRJC%20Leading%205%20Orientation-2017-300x225.jpg)
+		 
 ![](/images/SRJC%20-%20Leading%204.jpg)
 
 ![](/images/SRJC%20-%20Leading%203.jpg)
-
