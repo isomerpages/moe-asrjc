@@ -24,7 +24,24 @@ description: ""
 			<p>Ms Tan Su Chin</p>
 			<p>**Senior Teacher**</p>
 			<p>Ms Kat Kar Hwee</p>
-			<p>Mdm Sharon Lim (Administration)</p>
+			<p>**SH Economics**</p>
+			<p>Mr Tan Boon Sun</p>
+			<p>**SH Economics**</p>
+			<p>Mdm Lim Min Fong</p>
+			<p>**SH Student Leadership**</p>
+			<p>Mr Chung Ka Wing Kevin</p>
+			<p>**Teachers**</p> <ul>  
+        <li>Ms Cai Mingfang</li>  
+        <li>Mr Chen Huangzhi</li>  
+        <li>Mr Gan Teck Ming, Alvin</li>
+			  <li>Mr Jowell Yong Kaijie</li>  
+        <li>Ms Koh Boey Kwee</li>  
+        <li>Ms Lai Peck Chai</li>
+			  <li>Ms Nurdiyanah Bte Mohd Daud</li>  
+        <li>Ms Tan Sok Mun Ruth</li>  
+        <li>Ms Ten Cai Tian</li>
+			  <li>Ms Wang Shuhui Mabel</li>
+      </ul>  
     </div>  
 </li>
 </ul>
