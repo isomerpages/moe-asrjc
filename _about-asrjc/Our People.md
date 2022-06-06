@@ -13,9 +13,13 @@ description: ""
       <p>**Principal**
 				
 Mr Manogaran Suppiah</p>
-		
-      <p>This is line 2<br>
-        This is line 3</p>
+      <p>**Vice-Principals**  
+Ms Low Bee Yen
+
+Mr Chan Zheng Ming
+
+Mdm Sharon Lim (Administration)<br>
+       </p>
     </div>
   </li>
 </ul>
