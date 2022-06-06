@@ -23,6 +23,11 @@ In keeping with the college motto Non Mihi Solum, AJC always regarded service as
 **Serving the Community**  
 Serving the community always underpinned the philosophy of education in AJC. Over the years, AJCians had a multitude of opportunities for serving the college, the country and the international community. The first Overseas Community Involvement Programme (OCIP) project to Inner Mongolia in 1997 marked a significant milestone in AJC’s participation in community service. Since then, OCIP trips to various countries and regions, including Chiangmai, Vietnam, Laos, Indonesia and Hainan became a regular affair. AJCians taught English, interacted with the locals, and constructed facilities for the betterment of people’s lives in their various projects. Through these meaningful ventures, AJCians learnt invaluable lessons in love, humility, and service.
 
+![](/images/Serving-the-Community-OCIP-Mongolia-203x300.jpg)
+
+![](/images/Serving-the-Community-College-CIP-2009-1024x683.jpg)
+
+![](/images/Serving-the-Community-Chao-Yang-Special-School-2004-e1537776364766-1024x684.jpg)
 (insert pictures and captions)
 
 **Family Day**  
