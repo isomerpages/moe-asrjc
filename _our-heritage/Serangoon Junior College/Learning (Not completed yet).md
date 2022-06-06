@@ -41,3 +41,5 @@ Despite their humble beginnings, SRJCians have achieved admirable academic and n
 
 **CCA Achievements**   
 In any endeavour, it was emphasised to SRJCians that the focus should be on the process rather than the outcome. Motivated to put in their best, SRJCians from Performing Arts to Sports to Clubs and Societies made a mark in national competitions and the like. Some prominent accomplishments include:
+
+(Insert pics and captions)
