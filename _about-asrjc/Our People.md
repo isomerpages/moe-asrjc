@@ -11,6 +11,7 @@ description: ""
       <p>**Principal**</p>
 			<p>Mr Manogaran Suppiah</p>
 			<p>**Vice-Principals**</p>
+			<p>Ms Low Bee Yen</p>
 			<p>Mr Chan Zheng Ming</p>
 			<p>Mdm Sharon Lim (Administration)</p>
     </div>  
