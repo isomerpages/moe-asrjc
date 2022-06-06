@@ -5,13 +5,14 @@ description: ""
 ---
 <ul class="jekyllcodex_accordion">  
  <li>  
-    <input type="checkbox" id="accordion2">  
-    <label for="accordion2">School leaders</label>  
+    <input type="checkbox" id="accordion1">  
+    <label for="accordion1">School leaders</label>  
     <div>  
       <p>**Principal**</p>
-			<p>Mr MS</p>
-			<p>Vice Principal</p>
-			<p>123</p>
+			<p>Mr Manogaran Suppiah</p>
+			<p>Vice-Principals</p>
+			<p>Mr Chan Zheng Ming</p>
+			<p>Mdm Sharon Lim (Administration)</p>
     </div>  
 </li>  
 </ul>
