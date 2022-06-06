@@ -42,7 +42,9 @@ Serving the community always underpinned the philosophy of education in AJC. Ove
 **Family Day**  
 It began in 1986, when AJC was all abuzz with activity at the college’s first AJC Food and Fun Fair, where students, staff and their family members thronged the food and games stalls set up by students. A day designated to fun and bonding, the biennial event sought to raise money for charity and for the college’s building fund. It was later renamed ‘Family Day’ to not only show appreciation for the support from loved ones, but also to reflect the strongest of bonds in the AJ Family.
 
+![](/images/Family-Day-2014_1-1024x683.jpg)
 
+![](/images/Family-Day-2014_3-1024x683.jpg)
 (insert pictures and captions)
 
 
