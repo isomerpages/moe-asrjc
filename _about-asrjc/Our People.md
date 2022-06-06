@@ -10,7 +10,7 @@ description: ""
     <div>  
       <p>**Principal**</p>
 			<p>Mr Manogaran Suppiah</p>
-			<p>Vice-Principals</p>
+			<p>**Vice-Principals**</p>
 			<p>Mr Chan Zheng Ming</p>
 			<p>Mdm Sharon Lim (Administration)</p>
     </div>  
