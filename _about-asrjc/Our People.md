@@ -32,6 +32,14 @@ Mdm Sharon Lim (Administration)</li>
 			<p>123</p>
     </div>  
 </li>  
-  <li>	
-	
+   <li>  
+    <input type="checkbox" id="accordion3">  
+    <label for="accordion3">Skool leaders</label>  
+    <div>  
+      <p>**Principal**</p>  
+      <p>Mr Manogaran Suppiah<br></p> 
+			<p>**VICE Principal**</p>  
+      <p>Ms Low</p>  
+    </div>  
+  </li>
 </ul>
