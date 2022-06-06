@@ -7,7 +7,14 @@ third_nav_title: Serangoon Junior College
 **Pioneer Teachers**   
 Back in 1988, SRJC only had a pioneering staff strength of 45 teachers and yet, there was quite a number who continued to teach. Some of whom include Mrs Katherine Pah, Mdm Saadiah, and Mr Foo Toon Lock who taught in the institution when it first opened its doors to the first batch of JC1 students. One of the prominent pioneer teachers was the late Ms Rosalind Gurupatham Jeyamoney, who taught Literature, and was the inspiration behind Literature Week. Despite battling cancer, she still showed up in class to conduct lessons in a wheelchair. She was truly an inspiration to her students, many of whom credited the Shakespeare-loving teacher with nurturing their passion for the subject.
 
-(insert pictures)
+![](/images/Group-picture-of-pioneer-teachers-300x200.jpg)
+Mdm Saadiah Bte Abdullah (third row, first from the right),  
+Mrs Katherine Pah (third row, second from the right),  
+Mr Foo Toon Lock (second row, first from the left),  
+Ms Rosalind Gurupatham Jeyamoney  
+(fourth row, fourth from the left)
+
+Back in 1988, SRJC only had a pioneering staff strength of 45 teachers and yet, there was quite a number who continued to teach. Some of whom include Mrs Katherine Pah, Mdm Saadiah, and Mr Foo Toon Lock who taught in the institution when it first opened its doors to the first batch of JC1 students. One of the prominent pioneer teachers was the late Ms Rosalind Gurupatham Jeyamoney, who taught Literature, and was the inspiration behind Literature Week. Despite battling cancer, she still showed up in class to conduct lessons in a wheelchair. She was truly an inspiration to her students, many of whom credited the Shakespeare-loving teacher with nurturing their passion for the subject.
 
 **Arts@SR**  
 In the realm of the arts, students were offered a myriad of opportunities to express themselves creatively. Those from Performing Arts CCAs would hold concerts such as the Performing Arts Special and Shiokissimo, where they would present solo performances and collaborative highlights between the different CCAs. Those who were musically inclined would participate in RockFest where they would take the stage in front of a live audience. There were also literary performances such as Not So Macbeth (1990), King Lear (1991), Pai An (1996), and King Hamlet (1998). Finally what started out as a small affair in the early 2000s soon evolved to a week long affair celebrating English Literature, which would then culminate in the much anticipated Literature Night.
