@@ -65,3 +65,7 @@ The year 1990 saw the birth of the AJC Golden Baton Marathon, one of the most no
 ![](/images/Running-for-a-Cause-2010-1024x683.jpg)
 
 ![](/images/Running-for-a-Cause_2-1024x683.jpg)
+
+![](/images/Running-for-a-Cause-2014-1024x683.jpg)
+
+![](/images/AJC%20serving.jpg)
