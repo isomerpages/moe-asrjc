@@ -10,7 +10,17 @@ hi
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">School Leaders</label>  
     <div>  
-      <p>This is a simple one line item 1</p>  
+      <p> 
+
+**Principal**  
+Mr Manogaran Suppiah
+
+**Vice-Principals**  
+Ms Low Bee Yen
+
+Mr Chan Zheng Ming
+
+Mdm Sharon Lim (Administration)</p>  
     </div>  
 </li>
 	  <li>  
