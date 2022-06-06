@@ -45,7 +45,14 @@ It began in 1986, when AJC was all abuzz with activity at the college’s first 
 ![](/images/Family-Day-2014_1-1024x683.jpg)
 
 ![](/images/Family-Day-2014_3-1024x683.jpg)
-(insert pictures and captions)
+
+![](/images/Family-Day-2004-1024x683.jpg)
+
+![](/images/Family-Day-2006-1024x683.jpg)
+
+![](/images/Family-Day-2014_2-1024x683.jpg)
+
+![](/images/Family-Day-2008-1024x683.jpg)
 
 
 **Running for a Cause**  
