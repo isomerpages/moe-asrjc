@@ -23,3 +23,5 @@ AJCians were always provided with avenues to engage with issues of national and 
 
 **House Interaction Programme (HIP)**  
 Since 2007, AJC conducted the yearly House Interaction Programme to boost character-building amongst JC1 students. In a day of fun and merriment at East Coast Park, students toiled under the hot sun, honing teamwork and resilience as they built a sandcastle that expressed their class identity. Indeed a sight to behold, elaborate turrets and grandiose layouts of massive sandcastles belied class leaders’ abilities in planning, designing and negotiating differences. Amidst peals of laughter, students forged bonds with their classmates that would accompany them for life.
+
+![](/images/AJC%20Learning%204.jpg)
