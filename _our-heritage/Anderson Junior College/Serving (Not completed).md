@@ -28,6 +28,14 @@ Serving the community always underpinned the philosophy of education in AJC. Ove
 ![](/images/Serving-the-Community-College-CIP-2009-1024x683.jpg)
 
 ![](/images/Serving-the-Community-Chao-Yang-Special-School-2004-e1537776364766-1024x684.jpg)
+
+![](/images/Serving-the-Community-Tray-Return-2014-1024x683.jpg)
+
+![](/images/Serving-the-Community-OCIP-Malacca-2012-e1537776265623-1024x683.jpg)
+
+![](/images/Serving-the-Community-OCIP-2011-1024x680.jpg)
+
+![](/images/Serving-the-Community-OCIP-Thailand.jpg)
 (insert pictures and captions)
 
 **Family Day**  
