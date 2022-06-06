@@ -3,7 +3,7 @@ title: Our People
 permalink: /about-asrjc/our-people/
 description: ""
 ---
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">School Leaders</label>  
