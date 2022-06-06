@@ -57,3 +57,11 @@ It began in 1986, when AJC was all abuzz with activity at the college’s first 
 
 **Running for a Cause**  
 The year 1990 saw the birth of the AJC Golden Baton Marathon, one of the most novel fund-raising events to have been conceived at AJC. The event saw both teachers and students running relays from Ang Mo Kio to Woodlands and back over a distance of 42km while carrying golden batons sponsored for $500 each. Since then, running for a cause took the form of the Resilience Run event, which sought to reach out to the wider community. During these runs, each cohort of AJCians stepped forward to pledge their accumulated distance achieved to secure sponsorship of rice, which was then distributed to the needy families each year. In their inaugural attempt in 2015, AJC secured sponsorship of 1500kg of rice from NTUC FairPrice Foundation in support of the “Run for Rice” movement which benefitted low income families in Singapore.
+
+![](/images/Running-for-a-Cause-2011-1024x683.jpg)
+
+![](/images/Running-for-a-Cause_1-1024x683.jpg)
+
+![](/images/Running-for-a-Cause-2010-1024x683.jpg)
+
+![](/images/Running-for-a-Cause_2-1024x683.jpg)
