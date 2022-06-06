@@ -13,3 +13,5 @@ As the North Zone Centre of Excellence (CoE) for Science, AJC promoted critical 
 
 **Anderson Science Programme in Research and Enrichment (ASPiRE)**  
 ASPiRE was AJC’s signature science research programme. Comprising a two-tier _Science Adventurers_ and _Science Pioneers_ structure, ASPiRE aligned its objectives to the CoE’s goals to develop scientific skills and cultivate students with the heart to advance science for the betterment of society. All AJC Science students experienced ASPiRE as _Science Adventurers_, and those who were talented and passionate in science research could stretch themselves further as _Science Pioneers_. Due to the college’s partnership with Agency for Science, Technology and Research (A\*STAR), Temasek Life Sciences Laboratory (TLL), Singapore Technologies (ST) Engineering, Defence Science Organisation (DSO) National Laboratories, and tertiary institutions like NUS, NTU, and SUTD, _Science Pioneers_ could enjoy research mentorship opportunities, immerse themselves in authentic research environments and learn from practising scientists.
+
+![](/images/AJC%20Learning%202.jpg)
