@@ -23,7 +23,8 @@ In keeping with the college motto Non Mihi Solum, AJC always regarded service as
 **Serving the Community**  
 Serving the community always underpinned the philosophy of education in AJC. Over the years, AJCians had a multitude of opportunities for serving the college, the country and the international community. The first Overseas Community Involvement Programme (OCIP) project to Inner Mongolia in 1997 marked a significant milestone in AJC’s participation in community service. Since then, OCIP trips to various countries and regions, including Chiangmai, Vietnam, Laos, Indonesia and Hainan became a regular affair. AJCians taught English, interacted with the locals, and constructed facilities for the betterment of people’s lives in their various projects. Through these meaningful ventures, AJCians learnt invaluable lessons in love, humility, and service.
 
-![](/images/Serving-the-Community-OCIP-Mongolia-203x300.jpg)
+<img src="/images/Serving-the-Community-OCIP-Mongolia-203x300.jpg" 
+     style="width:50%"> 
 
 ![](/images/Serving-the-Community-College-CIP-2009-1024x683.jpg)
 
@@ -40,6 +41,7 @@ Serving the community always underpinned the philosophy of education in AJC. Ove
 
 **Family Day**  
 It began in 1986, when AJC was all abuzz with activity at the college’s first AJC Food and Fun Fair, where students, staff and their family members thronged the food and games stalls set up by students. A day designated to fun and bonding, the biennial event sought to raise money for charity and for the college’s building fund. It was later renamed ‘Family Day’ to not only show appreciation for the support from loved ones, but also to reflect the strongest of bonds in the AJ Family.
+
 
 (insert pictures and captions)
 
