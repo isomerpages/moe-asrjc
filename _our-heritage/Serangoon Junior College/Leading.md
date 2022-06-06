@@ -20,10 +20,10 @@ The ACE@SRJC Programme was first conceptualised in 2011 with the aim of offering
 The development of student leaders had evolved over the history of SR. Up until 2007, House Captains were directly elected by the student population, with the five Houses named after constellations from 2002. From 2008, the College began to organise student leaders together as a community and a white polo T-shirt was introduced to offer student leaders a visible identity marker. By 2010, the then-Student Council Investiture became the Student Leaders’ Investiture, thus allowing the students to witness the investiture of every single student leader. The next year, the House leadership was merged with the Student Council. From 2014, with the renewed focus on student centricity, student leaders gained greater autonomy, voice, and initiative. The Student Council evolved from an apex to a nexus – a glue connecting different groups of student leaders, and Councillors collaborated with Class Leaders to drive student-run efforts such as SR Fiesta, Open House, and Orientation.
 
 <img src="/images/SRJC%20-%20Leading%204.jpg" 
-     style="width:25%">
+     style="width:50%">
 		 
 <img src="/images/SRJC%20Leading%205%20Orientation-2017-300x225.jpg" 
-     style="width:25%">
+     style="width:50%">
 		 
 
 
