@@ -10,8 +10,8 @@ third_nav_title: CCE
 
 **MOE Sexuality Education in Schools**
 
-Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
-The goals of Sexuality Education are to:
+1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+2. The goals of Sexuality Education are to:
 To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
 To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
@@ -38,9 +38,31 @@ At Anderson Serangoon Junior College, the following lessons from the Growing Yea
 
  
 
-Junior College / Centralised Institute 1
+**Junior College / Centralised Institute 1**
 
 Theme 3B from Module: Developing Healthy Relationships
 
 ![](/images/SED1-1536x825.jpg)
 
+**Junior College / Centralised Institute 2**
+
+“Love Matters (2nd Edition)” Teaching & Learning resource package
+
+![](/images/SED2-1536x653.jpg)
+
+**eTeens Programme:**
+
+eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.
+Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STI/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Anderson Serangoon Junior College, the eTeens programme will be implemented as follows in 2022:**
+
+![](/images/SED3-1536x288.jpg)
+
+**Information for Parents**
+
+Parents may opt their children out of Sexuality Education and/or supplementary sexuality education programmes by MOE-approved external providers.
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 18 January 2022 for JC2s and 15 April 2022 for JC1s.
+Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 15 April  2022.
+Parents can contact the school at 6459 6822 for discussion or to seek clarification about the school’s sexuality education programme.
+Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
