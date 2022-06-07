@@ -31,6 +31,7 @@ description: ""
 			<p>**SH Student Leadership**</p>
 			<p>Mr Chung Ka Wing Kevin</p>
 			<p>**Teachers**</p>  
+			<ul>
         <li>Ms Cai Mingfang</li>  
         <li>Mr Chen Huangzhi</li>  
         <li>Mr Gan Teck Ming, Alvin</li>
@@ -47,15 +48,11 @@ description: ""
  <li>  
     <input type="checkbox" id="accordion3">  
     <label for="accordion3">English Department</label>  
-    <div>  
+    <div>
       <p>**HOD English**</p>
-			
 			<p>Mr Koh Tze Khang Adrian</p>
-			
-			
 			<p>**Senior Teacher (General Paper)**</p>
 			<p>Mdm Tang Ling Ling</p>
-			
 			<p>**Senior Teacher (Literature)**</p>
 			<p>Ms Chew Ai Ling Melissa</p>
 			<p>**SH General Paper**</p>
@@ -64,7 +61,8 @@ description: ""
 			<p>Ms Ang Hui Ting</p>
 			<p>**SH English Literature**</p>
 			<p>Mdm Lim Sok Peng</p>
-			<p>**Teachers**</p>  
+		<ul>
+			<p>**Teachers**</p>
         <li>Ms Cai Mingfang</li>
         <li>Mr Chen Huangzhi</li>  
         <li>Mr Gan Teck Ming, Alvin</li>
