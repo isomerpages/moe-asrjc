@@ -213,7 +213,7 @@ description: ""
 			<p>Mr Chew Tse Yong</p>
 			<p>**JC2 Deputy Dean**</p>
 			<p>Ms Khiew Shi Hui</p>
-						<p>**Lead Teacher (Physics)**</p>
+			<p>**Lead Teacher (Physics)**</p>
 			<p>Mr Sng Peng Poo</p>
 			<p>**Senior Teacher (Biology)**</p>
 			<p>Mdm Leow Li Ting</p>
@@ -223,7 +223,7 @@ description: ""
 			<p>**Senior Teachers (Physics)**</p>
 			<p>Mdm Tay Sai Ghor</p>
 			<p>Mr Yip Kim Wah</p>
-			      <p>**SH Biology**</p>
+			<p>**SH Biology**</p>
 			<p>Mdm Resma Bte Gulzar Mohd</p>
 			<p>**SH Chemistry**</p>
 			<p>Mr Yang Wee Chin, Kenneth</p>
