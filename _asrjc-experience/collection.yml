@@ -2,15 +2,15 @@ collections:
   asrjc-experience:
     output: true
     order:
+      - Academic Curriculum/.keep
+      - Academic Curriculum/Academic Curriculum.md
+      - Academic Curriculum/Rank Points.md
+      - Student Developmental Pathway.md
       - CCE/.keep
       - CCE/Leadership Development.md
       - CCE/Civic Education.md
       - CCE/Education and Career Guidance.md
       - CCE/Sexuality Education.md
-      - Academic Curriculum/.keep
-      - Academic Curriculum/Academic Curriculum.md
-      - Academic Curriculum/Rank Points.md
-      - Student Developmental Pathway.md
       - Co Curricular Activities.md
       - Special Programmes/.keep
       - Special Programmes/Science, Technology, Engineering, and Mathematics
