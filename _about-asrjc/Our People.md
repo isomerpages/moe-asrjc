@@ -60,11 +60,7 @@ description: ""
 			<p>Ms Ang Hui Ting</p>
 			<p>**SH English Literature**</p>
 			<p>Mdm Lim Sok Peng</p>
-	
-<p>
-	
-**Teachers**</p>  
-
+			<p>**Teachers**</p>  
         <li>Ms Cai Mingfang</li>
         <li>Mr Chen Huangzhi</li>  
         <li>Mr Gan Teck Ming, Alvin</li>
