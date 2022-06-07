@@ -179,3 +179,21 @@ Shortlisted applicants from the trials will be required to attend an in-person i
   </tr>
 </tbody>
 </table>
+
+#### **5) Enquiry**
+For general enquiries regarding DSA, you may contact the following personnel:
+
+HOD/PE & CCA, Ms Tay Li May - tay_li_may@schools.gov.sg
+Dean, Ms Corrine Zhu - zhu_youyan@schools.gov.sg
+
+#### **6) Other Information**
+
+Subject Combinations offered at ASRJC
+The tentative list of subject combinations offered in 2023 is downloadable [here](/files/2022-Subject-Combinations.pdf).
+
+Change of college campus in 2024
+The College will be moving to a holding site from January 2024 at the following address:
+
+1033 Upper Serangoon Road
+Singapore 534768
+(site of former Serangoon Junior College)
