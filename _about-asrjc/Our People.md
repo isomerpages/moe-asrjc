@@ -63,16 +63,24 @@ description: ""
 			<p>Mdm Lim Sok Peng</p>
 			<p>**Teachers**</p>
 			<ul>
-        <li>Ms Cai Mingfang</li>
-        <li>Mr Chen Huangzhi</li>  
-        <li>Mr Gan Teck Ming, Alvin</li>
-			  <li>Mr Jowell Yong Kaijie</li>  
-        <li>Ms Koh Boey Kwee</li>  
-        <li>Ms Lai Peck Chai</li>
-			  <li>Ms Nurdiyanah Bte Mohd Daud</li>  
-        <li>Ms Tan Sok Mun Ruth</li>  
-        <li>Ms Ten Cai Tian</li>
-			  <li>Ms Wang Shuhui Mabel</li>
+        <li>Ms Alviedo Dionne Rochelle Menez</li>
+        <li>Ms Ang Soey Leng Lynn</li>  
+        <li>Ms Aw Yuan Ling Cheryl</li>
+			  <li>Ms Choo Li Min Bernadette Teresa</li>  
+        <li>Ms Daljit Kaur d/o Sundit Singh</li>  
+        <li>Mdm Eng Seok Hoon Rose</li>
+			  <li>Ms Goh Mei-Yi, Eunice</li>  
+        <li>Ms Hemma Balakrishnan</li>  
+        <li>Ms Ho Ying Xin, Berakah</li>
+			  <li>Ms Lim Li Wen, Evon</li>
+				<li>Ms Aw Yuan Ling Cheryl</li>
+			  <li>Ms Choo Li Min Bernadette Teresa</li>  
+        <li>Ms Daljit Kaur d/o Sundit Singh</li>  
+        <li>Mdm Eng Seok Hoon Rose</li>
+			  <li>Ms Goh Mei-Yi, Eunice</li>  
+        <li>Ms Hemma Balakrishnan</li>  
+        <li>Ms Ho Ying Xin, Berakah</li>
+			  <li>Ms Lim Li Wen, Evon</li>
       </ul>  
     </div>  
 </li>
