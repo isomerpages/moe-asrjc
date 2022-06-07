@@ -136,35 +136,28 @@ description: ""
 			<p>Mr Kan Kok Leong</p>
 			<p>**JC1 Deputy Dean**</p>
 			<p>Mr Lee Han Meng Desmond</p>
-			<p>**Senior Teacher (Literature)**</p>
-			<p>Ms Chew Ai Ling Melissa</p>
-			<p>**SH General Paper**</p>
-			<p>Ms Sharifah Nadzirah Bte Syed Zulkifli</p>
-			<p>**SH General Paper**</p>
-			<p>Ms Ang Hui Ting</p>
-			<p>**SH English Literature**</p>
-			<p>Mdm Lim Sok Peng</p>
+			<p>**Senior Teachers**</p>
+			<p>Mr Anuar Bin Kassim</p>
+			<p>Mr Cheu Ker Jim</p>
+			<p>**SH Mathematics**</p>
+			<p>Mr Lim Ting</p>
+			<p>**SH Mathematics**</p>
+			<p>Mr Tay Guo Yong</p>
+			<p>**SH Information and Communication Technology**</p>
+			<p>Ms Koh Wenting</p>
+			<p>**SH IME & EdTech (Covering)**</p>
+			<p>Mr Lam Meng Hwee</p>
 			<p>**Teachers**</p>
 			<ul>
-        <li>Ms Alviedo Dionne Rochelle Menez</li>
-        <li>Ms Ang Soey Leng Lynn</li>  
-        <li>Ms Aw Yuan Ling Cheryl</li>
-			  <li>Ms Choo Li Min Bernadette Teresa</li>  
-        <li>Ms Daljit Kaur d/o Sundit Singh</li>  
-        <li>Mdm Eng Seok Hoon Rose</li>
-			  <li>Ms Goh Mei-Yi, Eunice</li>  
-        <li>Ms Hemma Balakrishnan</li>  
-        <li>Ms Ho Ying Xin, Berakah</li>
-			  <li>Ms Lim Li Wen, Evon</li>
-				<li>Ms Lim Wenjia, Claresta</li>
-			  <li>Ms Choo Li Min Bernadette Teresa</li>  
-        <li>Ms Loh Yee Wei Clare</li>  
-        <li>Mr Peter John Herd</li>
-			  <li>Ms Sim Shan Lin</li>  
-        <li>Mr Tan Deng Zheng</li>  
-        <li>Mr Tsui Hui Ee Samuel</li>
-			  <li>Ms Xu Xiuwen</li>
-				<li>Ms Usha d/o Pillai</li>
+        <li>Ms Foo Yong Jeh</li>
+        <li>Ms Koh Seok Xian</li>  
+        <li>Mdm Koh Suh Miin</li>
+			  <li>Mr Lau Haw Ping</li>  
+        <li>Mr Lee Dong Liang</li>  
+        <li>Ms Ng Cheng Yee</li>
+			  <li>Mdm Sundraes Teckwani</li>  
+        <li>Mr Tan Chin Kah</li>  
+        <li>Ms Tan Li Rong</li>
       </ul>  
     </div>  
 </li>
