@@ -199,20 +199,29 @@ description: ""
 </li>
 <li>  
     <input type="checkbox" id="accordion9">  
-    <label for="accordion9">English Department</label>  
+    <label for="accordion9">Science Department</label>  
     <div>
-      <p>**HOD English**</p>
-			<p>Mr Koh Tze Khang Adrian</p>
-			<p>**Senior Teacher (General Paper)**</p>
-			<p>Mdm Tang Ling Ling</p>
-			<p>**Senior Teacher (Literature)**</p>
-			<p>Ms Chew Ai Ling Melissa</p>
-			<p>**SH General Paper**</p>
-			<p>Ms Sharifah Nadzirah Bte Syed Zulkifli</p>
-			<p>**SH General Paper**</p>
-			<p>Ms Ang Hui Ting</p>
-			<p>**SH English Literature**</p>
-			<p>Mdm Lim Sok Peng</p>
+      <p>**HOD Science (Chemistry & Biology)**</p>
+			<p>Mr Ng Yung Hui Eugene</p>
+			<p>**HOD Science (Physics & Science Research) (Covering)**</p>
+			<p>Mr Ong Jun Kok</p>
+			<p>**HOD Character and Citizenship Education**</p>
+			<p>Mr Yeo Wee Leng, Joshua</p>
+			<p>**HOD Information & Communication Technology**</p>
+			<p>Mr Oh Chee Tiong</p>
+			<p>**JC1 Dean**</p>
+			<p>Mr Chew Tse Yong</p>
+			<p>**JC2 Deputy Dean**</p>
+			<p>Ms Khiew Shi Hui</p>
+						<p>**Lead Teacher (Physics)**</p>
+			<p>Mr Sng Peng Poo</p>
+			<p>**Senior Teacher (Biology)**</p>
+			<p>Mdm Leow Li Ting</p>
+			<p>**Senior Teachers (Chemistry)**</p>
+			<p>Ms Cheng Chee Wei Esther</p>
+			<p>Mrs Chai Chung Mun</p>
+			<p>**JC2 Deputy Dean**</p>
+			<p>Ms Khiew Shi Hui</p>
 			<p>**Teachers**</p>
 			<ul>
         <li>Ms Alviedo Dionne Rochelle Menez</li>
