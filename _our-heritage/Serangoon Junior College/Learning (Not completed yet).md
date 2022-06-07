@@ -67,6 +67,18 @@ Since 2007, under the purview of the Education and Career Guidance (ECG) committ
 **Outstanding Achievements**   
 Despite their humble beginnings, SRJCians have achieved admirable academic and non-academic outcomes. These students truly embodied the recurring message in SRJC’s school song “We lead her to glory / Our best in all we do”.
 
+![](/images/Mr-Tan-Aik-Fong-with-Principal-Mr-Thomas-Tan-300x216.jpg)
+Mr Tan Aik Fong with Principal Mr Thomas Tan
+
+Mr Tan Aik Fong was the first Student of the Year from the pioneer class of 1989. He attained a stellar performance at the A Levels and was a role model in evoking the school motto ‘Discere Servire’ (To Learn, To Serve). In 2017, he was the Secretary of the SRJC Alumni Association and was its President from 1999 till 2015.
+
+Dr. Yeo Tze Ling was the top A Level student in 1996. Her performance was especially inspirational because she has been blind from glaucoma from the age of five. Now, a research scientist at A\*Star, SRJC named an award after her. The award is presented to students who have excelled academically despite their personal difficulties.
+
+![](/images/Dr-Yeo-Tze-Ling-wiht-Principal-Mrs-Jenny-Yong-300x209.jpg)
+Dr Yeo Tze Ling with Principal, Mrs Jenny Yong
+
+
+
 **CCA Achievements**   
 In any endeavour, it was emphasised to SRJCians that the focus should be on the process rather than the outcome. Motivated to put in their best, SRJCians from Performing Arts to Sports to Clubs and Societies made a mark in national competitions and the like. Some prominent accomplishments include:
 
