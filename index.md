@@ -15,7 +15,7 @@ sections:
           url: /highlights/
         - title: DSA 2022
           description: ""
-          url: /direct-school-admission/
+          url: /joining-asrjc/direct-school-admission/
   - infobar:
       title: "ASRJC: Leading, Learning and Serving"
       button: Click here
