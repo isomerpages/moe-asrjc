@@ -73,14 +73,15 @@ description: ""
         <li>Ms Hemma Balakrishnan</li>  
         <li>Ms Ho Ying Xin, Berakah</li>
 			  <li>Ms Lim Li Wen, Evon</li>
-				<li>Ms Aw Yuan Ling Cheryl</li>
+				<li>Ms Lim Wenjia, Claresta</li>
 			  <li>Ms Choo Li Min Bernadette Teresa</li>  
-        <li>Ms Daljit Kaur d/o Sundit Singh</li>  
-        <li>Mdm Eng Seok Hoon Rose</li>
-			  <li>Ms Goh Mei-Yi, Eunice</li>  
-        <li>Ms Hemma Balakrishnan</li>  
-        <li>Ms Ho Ying Xin, Berakah</li>
-			  <li>Ms Lim Li Wen, Evon</li>
+        <li>Ms Loh Yee Wei Clare</li>  
+        <li>Mr Peter John Herd</li>
+			  <li>Ms Sim Shan Lin</li>  
+        <li>Mr Tan Deng Zheng</li>  
+        <li>Mr Tsui Hui Ee Samuel</li>
+			  <li>Ms Xu Xiuwen</li>
+				<li>Ms Usha d/o Pillai</li>
       </ul>  
     </div>  
 </li>
