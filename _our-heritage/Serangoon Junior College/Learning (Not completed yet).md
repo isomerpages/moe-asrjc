@@ -66,7 +66,16 @@ Mr Muhamad Salahuddin B Ibrahim (centre in photo) is a Lead Teacher who has serv
 Ms Melissa Chew has taught English Literature in Serangoon Junior College since June 2006 and in 2014 she received the Inspiring Teacher of English Award.
 
 ![](/images/Ms-Dionne-Chow.jpg)
+
 Ms Dionne Chow (right in photo), who has taught in SRJC since January 2011, was lauded with the title of Inspiring Teacher of English Award 2015.
+
+![](/images/Mdm-Wong-Teck-Jee-300x225.jpeg)
+
+Mdm Wong Teck Jee has been with the College since 1996 when she was awarded the Inspiring Chinese Language Teachers Awards in 2015.
+
+![](/images/Mdm-Kamalavani.jpg)
+
+Awarded as Tamil Murasu's Most Inspiring Tamil Teachers Awards 2013, Mdm Kamalavani d/o Palaiyan has taught in SRJC from 2004.
 
 **Distinguished Speaker Series (DSS)**  
 Since 2007, under the purview of the Education and Career Guidance (ECG) committee, SRJC established ‘The Distinguished Speaker Series’, which offered opportunities to learn from the experiences and insights of some of Singapore’s most influential individuals from different fields. Some of the individuals who shared their stories include Dr Tan Lai Yong, the ‘Barefoot Doctor’ who used his talents to help the less fortunate in China, Ms Cassandra Chiu, whose visual impairment did not impede her path to success, the late Mr Subhas Anandan, the eminent criminal lawyer whose conduct of several landmark cases have shaped the face of criminal law in Singapore, Ms Indranee Rajah, the Senior Minister of State for Law and Education and Minister Khaw Boon Wan, the Minister for Transport.
