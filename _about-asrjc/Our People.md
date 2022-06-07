@@ -85,4 +85,47 @@ description: ""
       </ul>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion4">  
+    <label for="accordion4">Humanities Department</label>  
+    <div>  
+      <p>**HOD Humanities**</p>
+			<p>Ms Ong Shu Hui</p>
+			<p>**JC2 Dean**</p>
+			<p>Ms Zhu Youyan, Corrine</p>
+			<p>**SH EP**</p>
+			<p>Mr Goh Ying Shi Darwin</p>
+			<p>**Teachers**</p>  
+			<ul>
+        <li>Ms Lim Mei Fu Gayne</li>  
+        <li>Ms Neo Zhi Wei</li>  
+        <li>Mr Ng Kim Teck</li>
+			  <li>Mr Ng Mong Rong Justin</li>  
+        <li>Mr Peh Yang Beng Kenneth</li>
+      </ul>  
+    </div>  
+</li>
+<li>  
+    <input type="checkbox" id="accordion5">  
+    <label for="accordion5">Languages Department</label>  
+    <div>  
+      <p>**HOD Languages**</p>
+			<p>Mdm Ong Kwee Hoon</p>
+			<p>**Lead Teacher (Tamil Language)**</p>
+			<p>Mr Veeramuthu Ganesan</p>
+			<p>**SH Chinese Language**</p>
+			<p>Ms Esther Tan Pin Yong</p>
+			<p>**SH Education and Career Guidance**</p>
+			<p>Ms Ang Feng Ling</p>
+			<p>**Teachers**</p>  
+			<ul>
+        <li>Mdm Kamalavani d/o Palaiyan</li>  
+        <li>Ms Ma Junhui</li>  
+        <li>Ms Ng Pei Chiun</li>
+			  <li>Mdm Raudah Bte Ali</li>  
+        <li>Mdm Wong Teck Jee</li>  
+        <li>Mdm Yao Heping</li>
+      </ul>  
+    </div>  
+</li>
 </ul>
