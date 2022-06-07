@@ -2,10 +2,10 @@ collections:
   asrjc-experience:
     output: true
     order:
-      - CCE/Education and Career Guidance.md
-      - CCE/Civic Education.md
-      - CCE/Leadership Development.md
       - CCE/.keep
+      - CCE/Leadership Development.md
+      - CCE/Civic Education.md
+      - CCE/Education and Career Guidance.md
       - Academic Curriculum/.keep
       - Academic Curriculum/Academic Curriculum.md
       - Academic Curriculum/Rank Points.md
