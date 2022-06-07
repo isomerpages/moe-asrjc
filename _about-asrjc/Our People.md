@@ -56,12 +56,18 @@ description: ""
 			<p>**Senior Teacher (General Paper)**</p>
 			<p>Mdm Tang Ling Ling</p>
 			<p>**Senior Teacher (Literature)**</p>
-			<p>Mr Tan Boon Sun</p>
-			<p>**SH Economics**</p>
-			<p>Mdm Lim Min Fong</p>
-			<p>**SH Student Leadership**</p>
-			<p>Mr Chung Ka Wing Kevin</p>
-			<p>**Teachers**</p>  
+			<p>Ms Chew Ai Ling Melissa</p>
+			<p>**SH General Paper**</p>
+			<p>Ms Sharifah Nadzirah Bte Syed Zulkifli</p>
+			<p>**SH General Paper**</p>
+			<p>Ms Ang Hui Ting</p>
+			<p>**SH English Literature**</p>
+			<p>Mdm Lim Sok Peng</p>
+			
+<p>
+	
+**Teachers**</p>  
+
         <li>Ms Cai Mingfang</li>  
         <li>Mr Chen Huangzhi</li>  
         <li>Mr Gan Teck Ming, Alvin</li>
