@@ -62,7 +62,18 @@ SRJCians have achieved outstanding ‘A’ Level results as evidenced by the con
 **Distinguished Speaker Series (DSS)**  
 Since 2007, under the purview of the Education and Career Guidance (ECG) committee, SRJC established ‘The Distinguished Speaker Series’, which offered opportunities to learn from the experiences and insights of some of Singapore’s most influential individuals from different fields. Some of the individuals who shared their stories include Dr Tan Lai Yong, the ‘Barefoot Doctor’ who used his talents to help the less fortunate in China, Ms Cassandra Chiu, whose visual impairment did not impede her path to success, the late Mr Subhas Anandan, the eminent criminal lawyer whose conduct of several landmark cases have shaped the face of criminal law in Singapore, Ms Indranee Rajah, the Senior Minister of State for Law and Education and Minister Khaw Boon Wan, the Minister for Transport.
 
-(insert pictures and captions)
+![](/images/Dr-Tan-Lai-Yong-speaking-to-SRJCians-20131-300x200.jpg)
+Dr Tan Lai Yong speaking to SRJCians (2013)
+
+![](/images/THELAT1-300x199.jpg)
+The late Mr Subhas Anandan with Principal Mr Tan Teck Hock (2013)
+
+![](/images/Ms-Indranee-Rajah-with-a-group-of-JC2-students-2014-300x200.jpg)
+Ms Indranee Rajah with a group of JC2 students (2014)
+
+![](/images/MINIST1-300x200.jpg)
+Minister Khaw Boon Wan with Principal Mr Manogaran and students (2016)
+
 
 **Outstanding Achievements**   
 Despite their humble beginnings, SRJCians have achieved admirable academic and non-academic outcomes. These students truly embodied the recurring message in SRJC’s school song “We lead her to glory / Our best in all we do”.
