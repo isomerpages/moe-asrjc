@@ -70,4 +70,26 @@ Despite their humble beginnings, SRJCians have achieved admirable academic and n
 **CCA Achievements**   
 In any endeavour, it was emphasised to SRJCians that the focus should be on the process rather than the outcome. Motivated to put in their best, SRJCians from Performing Arts to Sports to Clubs and Societies made a mark in national competitions and the like. Some prominent accomplishments include:
 
-(Insert pics and captions)
+![](/images/SR-Touch-Football-Champions-at-the-2014-National-Touch-League-300x200.jpg)
+SR Touch Football Champions at the 2014 National Touch League
+
+![](/images/d2.jpg)
+
+SR Taekwondo celebrating as they clinched the A Division boys' and girls' overall titles at the 2015 National Inter-Schools Taekwondo Championships
+
+Touch Football (Girls) were the Overall Champions for four consecutive years at the National Touch Football (JC) League, ‘A’ Division between 2013 and 2016.
+
+Taekwondo was the Overall Champions at the 2015 National Inter-Schools Taekwondo Championships.
+
+Rock Climbing was the Overall Champions at the 2015 National Schools Sport Climbing Championship.
+
+Canoeing attained Gold at the Singapore Canoe Marathon 2015.
+
+Dance has been achieving the Certificate of Distinction at the Singapore Youth Festival for a consecutive number of years in 2013, 2015 and 2017
+
+SR Chorale achieved the Certificate of Distinction at the 2015 & 2017 Singapore Youth Festival
+
+SR Guzheng was awarded the Certificate of Distinction at the 2015 & 2017 Singapore Youth Festival
+
+S\*Star’s winning Amazing Science Challenge project, “The Secret Painting” was selected to be a permanent exhibit at the Singapore Science Centre, a testimony of our excellence in Science and Design
+
