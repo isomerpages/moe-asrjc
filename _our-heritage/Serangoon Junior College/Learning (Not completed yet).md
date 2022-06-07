@@ -42,12 +42,26 @@ In the realm of the arts, students were offered a myriad of opportunities to exp
 
 (insert pictures)
 
-**Learning Beyond Singapore**   
+**Learning Beyond Singapore**
+
+![](/images/Trip-to-China-by-the-History-and-Geography-Departments-in-1996-e1537777073100-300x171.jpg)
+Trip to China by the History and Geography Departments in 1996
+
+![](/images/Literature-Trip-to-UK-in-1996-300x171.jpg)
+Literature Trip to UK in 1996
+
 In Serangoon Junior College, learning experiences took place both within and outside the classroom. A number of trips to Nepal, Indonesia and Malaysia were made in the early 1990s as part of Outdoor Activities Club’s (ODAC) overseas trips.
 
 The first subject-based overseas trip took place in 2001 when 50 students travelled to England to study the roots of English Literature and observe its current developments. The College also organised a trip to France and China to immerse the History students in authentic environments where their lessons can come alive. Seizing on its potential for meaningful and experiential learning, the College continued to organise overseas trips for the students. This evolved into one of SRJC’s proudest signature programmes, the Serangoon Junior College Global Classroom Experience (SRGCE), which commenced in 2008. Besides outdoor learning and adventure elements, the Service-Learning component was also strongly emphasised in several of the trips to Cambodia, Vietnam and China.
 
-(insert pictures)
+![](/images/Rock-Climbing-at-Yangshuo-in-2013-225x300.jpg)
+Rock Climbing at Yangshuo in 2013
+
+![](/images/SRGCE-Danang-2017-Copy-1024x768.jpeg)
+SRGCE Danang 2017
+
+![](/images/SRGCE-Hong-Kong-2017-Copy-1024x768.jpeg)
+SRGCE Hong Kong 2017
 
 **Learning Beyond the Classroom**  
 Across the years, different departments put on learning festivals and workshops that offered supplementary information from human geography to global trends. Since the early 1990s, the Humanities and Commerce Department organised its first Humanities and Commerce Week. It was aimed at promoting awareness and interest in the subjects in a variety of ways. The first GP week was organised to stimulate further interest in the subject by complementing and reinforcing the enrichment activities with publications, public cultural performances, projects and overseas field trips. Other subjects also held similar platforms, with the Mathematics, Science and Humanities departments holding Symposiums for fellow SRJCians and even students from neighbouring secondary schools. The Mother Tongue department also regularly conducted a fortnight of events to celebrate and appreciate the languages and unique customary practices.
