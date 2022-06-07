@@ -223,33 +223,25 @@ description: ""
 			<p>**Senior Teachers (Physics)**</p>
 			<p>Mdm Tay Sai Ghor</p>
 			<p>Mr Yip Kim Wah</p>
-			      <p>**HOD Science (Chemistry & Biology)**</p>
-			<p>Mr Ng Yung Hui Eugene</p>
-			<p>**HOD Science (Physics & Science Research) (Covering)**</p>
-			<p>Mr Ong Jun Kok</p>
-			<p>**HOD Character and Citizenship Education**</p>
-			<p>Mr Yeo Wee Leng, Joshua</p>
-			<p>**HOD Information & Communication Technology**</p>
-			<p>Mr Oh Chee Tiong</p>
-			<p>**JC1 Dean**</p>
-			<p>Mr Chew Tse Yong</p>
-			<p>**JC2 Deputy Dean**</p>
-			<p>Ms Khiew Shi Hui</p>
-						<p>**Lead Teacher (Physics)**</p>
-			<p>Mr Sng Peng Poo</p>
-			<p>**Senior Teacher (Biology)**</p>
-			<p>Mdm Leow Li Ting</p>
-			<p>**Senior Teachers (Chemistry)**</p>
-			<p>Ms Cheng Chee Wei Esther</p>
-			<p>Mrs Chai Chung Mun</p>
+			      <p>**SH Biology**</p>
+			<p>Mdm Resma Bte Gulzar Mohd</p>
+			<p>**SH Chemistry**</p>
+			<p>Mr Yang Wee Chin, Kenneth</p>
+			<p>Ms Wong Kai Ning</p>
+			<p>**SH Physics**</p>
+			<p>Mrs Chua- Loo Wee Ping</p>
+			<p>**SH STEM**</p>
+			<p>Mr Soo Kah Wai Kelvin</p>
+			<p>**SH Guidance**/p>
+			<p>Mr Yang Weizheng, Adrian</p>
 			<p>**Teachers**</p>
 			<ul>
-        <li>Ms Alviedo Dionne Rochelle Menez</li>
+        <li>Ms Agnes Chia Yi Fang</li>
         <li>Ms Ang Soey Leng Lynn</li>  
-        <li>Ms Aw Yuan Ling Cheryl</li>
-			  <li>Ms Choo Li Min Bernadette Teresa</li>  
-        <li>Ms Daljit Kaur d/o Sundit Singh</li>  
-        <li>Mdm Eng Seok Hoon Rose</li>
+        <li>Ms Aw Meng Yuan</li>
+			  <li>Mr Chia Zhao Shan Elsen</li>  
+        <li>Ms Chua Charlotte</li>  
+        <li>Ms Eng Chai Hoon Jaslyn</li>
 			  <li>Ms Goh Mei-Yi, Eunice</li>  
         <li>Ms Hemma Balakrishnan</li>  
         <li>Ms Ho Ying Xin, Berakah</li>
