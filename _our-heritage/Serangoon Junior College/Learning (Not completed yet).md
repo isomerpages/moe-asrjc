@@ -76,11 +76,16 @@ Mr Tan Aik Fong was the first Student of the Year from the pioneer class of 1989
 Dr Yeo Tze Ling with Principal, Mrs Jenny Yong
 
 Dr. Yeo Tze Ling was the top A Level student in 1996. Her performance was especially inspirational because she has been blind from glaucoma from the age of five. Now, a research scientist at A\*Star, SRJC named an award after her. The award is presented to students who have excelled academically despite their personal difficulties.
-
+					
 ![](/images/MRKENN3-300x200.jpg)
 Mr Kenneth Goh in Oxford University, England after receiving the National Youth Achievement Award
 
 Mr Kenneth Goh was the top A Level student in 1998. He distinguished himself by earning a string of awards - a National Youth Achievement Award (Silver), a Colours Award (Distinction) for rock-climbing, and a Service Award for being the President of ODAC. Upon graduating, Kenneth received the Singapore Government Overseas Merit Scholarship to pursue an engineering course at Oxford University.
+
+![](/images/Ms-Annabelle-Ng_s-Gold-at-the-SEA-Games-2015-Top-right-in-photo-300x170.jpg)
+Ms Annabelle Ng's Gold at the SEA Games 2015 (Top right in photo)
+
+Ms Annabelle Ng was an avid canoeist since she was a student in SRJC. Her passion for the sport continued to blossom as evidenced by the multitude of awards she has earned at regional sporting events. In 2015, alongside her teammates, Ms Ng won the SEA Games gold.
 
 **CCA Achievements**   
 In any endeavour, it was emphasised to SRJCians that the focus should be on the process rather than the outcome. Motivated to put in their best, SRJCians from Performing Arts to Sports to Clubs and Societies made a mark in national competitions and the like. Some prominent accomplishments include:
