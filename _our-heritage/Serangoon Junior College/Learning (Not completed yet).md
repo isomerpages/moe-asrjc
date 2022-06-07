@@ -52,7 +52,14 @@ The first subject-based overseas trip took place in 2001 when 50 students travel
 **Learning Beyond the Classroom**  
 Across the years, different departments put on learning festivals and workshops that offered supplementary information from human geography to global trends. Since the early 1990s, the Humanities and Commerce Department organised its first Humanities and Commerce Week. It was aimed at promoting awareness and interest in the subjects in a variety of ways. The first GP week was organised to stimulate further interest in the subject by complementing and reinforcing the enrichment activities with publications, public cultural performances, projects and overseas field trips. Other subjects also held similar platforms, with the Mathematics, Science and Humanities departments holding Symposiums for fellow SRJCians and even students from neighbouring secondary schools. The Mother Tongue department also regularly conducted a fortnight of events to celebrate and appreciate the languages and unique customary practices.
 
+![](/images/Mother-Tongue-Cultural-Fortnight-20131-300x150.jpg)
+Mother Tongue Cultural Fortnight 2013
 
+![](/images/PROFES1-300x183.jpg)
+Professor Edwin Thumboo’s visit to SRJC during the 2003 Literature Week
+
+![](/images/Humanities-Week-in-2003-300x187.jpg)
+Humanities Week in 2003
 
 **Dedicated Teachers**   
 SRJCians have achieved outstanding ‘A’ Level results as evidenced by the consecutive Value-Added Awards for commendable performance from 2010-2013. While these accomplishments are a reflection of the students’ relentless effort and drive to persevere in their pursuit of excellence, such successes would not have been possible had it not been for the teachers’ care and guidance. Among many of these dedicated teachers are:
@@ -75,7 +82,7 @@ Mdm Wong Teck Jee has been with the College since 1996 when she was awarded the 
 
 ![](/images/Mdm-Kamalavani.jpg)
 
-![](/images/Mother-Tongue-Cultural-Fortnight-20131-300x150.jpg)Awarded as Tamil Murasu's Most Inspiring Tamil Teachers Awards 2013, Mdm Kamalavani d/o Palaiyan has taught in SRJC from 2004.
+Awarded as Tamil Murasu's Most Inspiring Tamil Teachers Awards 2013, Mdm Kamalavani d/o Palaiyan has taught in SRJC from 2004.
 
 **Distinguished Speaker Series (DSS)**  
 Since 2007, under the purview of the Education and Career Guidance (ECG) committee, SRJC established ‘The Distinguished Speaker Series’, which offered opportunities to learn from the experiences and insights of some of Singapore’s most influential individuals from different fields. Some of the individuals who shared their stories include Dr Tan Lai Yong, the ‘Barefoot Doctor’ who used his talents to help the less fortunate in China, Ms Cassandra Chiu, whose visual impairment did not impede her path to success, the late Mr Subhas Anandan, the eminent criminal lawyer whose conduct of several landmark cases have shaped the face of criminal law in Singapore, Ms Indranee Rajah, the Senior Minister of State for Law and Education and Minister Khaw Boon Wan, the Minister for Transport.
