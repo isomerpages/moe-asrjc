@@ -220,8 +220,28 @@ description: ""
 			<p>**Senior Teachers (Chemistry)**</p>
 			<p>Ms Cheng Chee Wei Esther</p>
 			<p>Mrs Chai Chung Mun</p>
+			<p>**Senior Teachers (Physics)**</p>
+			<p>Mdm Tay Sai Ghor</p>
+			<p>Mr Yip Kim Wah</p>
+			      <p>**HOD Science (Chemistry & Biology)**</p>
+			<p>Mr Ng Yung Hui Eugene</p>
+			<p>**HOD Science (Physics & Science Research) (Covering)**</p>
+			<p>Mr Ong Jun Kok</p>
+			<p>**HOD Character and Citizenship Education**</p>
+			<p>Mr Yeo Wee Leng, Joshua</p>
+			<p>**HOD Information & Communication Technology**</p>
+			<p>Mr Oh Chee Tiong</p>
+			<p>**JC1 Dean**</p>
+			<p>Mr Chew Tse Yong</p>
 			<p>**JC2 Deputy Dean**</p>
 			<p>Ms Khiew Shi Hui</p>
+						<p>**Lead Teacher (Physics)**</p>
+			<p>Mr Sng Peng Poo</p>
+			<p>**Senior Teacher (Biology)**</p>
+			<p>Mdm Leow Li Ting</p>
+			<p>**Senior Teachers (Chemistry)**</p>
+			<p>Ms Cheng Chee Wei Esther</p>
+			<p>Mrs Chai Chung Mun</p>
 			<p>**Teachers**</p>
 			<ul>
         <li>Ms Alviedo Dionne Rochelle Menez</li>
