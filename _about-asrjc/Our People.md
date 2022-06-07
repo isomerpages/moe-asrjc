@@ -295,14 +295,15 @@ description: ""
 			<p>**Corporate Support Officers**</p>
 			<p>Ms Hannah Yeo Yen Ling</p>
 			<p>**Operations Support Officers**</p>
-			<p>Mr Liew Chee Keong Calvin</p>
-			<p>Mr Lim Sim Seng Andrew</p>
-			<p>Mrs Ng-Lam Chwee Wah</p>
-			<p>Mr Oh Piow Kwang</p>
-		 <p>Ms Tan Lay Kwee Joanne</p>
-			<p>Mr Liew Chee Keong Calvin</p>
-			<p>Mr Lim Sim Seng Andrew</p>
-			<p>Mrs Ng-Lam Chwee Wah</p>
-			<p>Mr Oh Piow Kwang</p>
-		 <p>Ms Tan Lay Kwee Joanne</p>
+			<p>Mdm Choo Ah Sai Lina</p>
+			<p>Mdm Jamuna Rani D/O Muthia</p>
+			<p>Mdm Lim Chey Keng Anne</p>
+			<p>Mr Neo Say Kiong</p>
+		 <p>Mr Ng Tuck Sing Andy</p>
+			<p>Mdm Oh Siew Eng</p>
+			<p>Ms Soh Imm Gim</p>
+			<p>Ms Tan Yuen Peng</p>
+			<p>Mdm Tan Seah Gek Jessica</p>
+		 <p>Mdm Toh Swee Ai Judy</p>
+			 <p>Mdm Usharani Uthaya Kumaran</p>
 </ul>
