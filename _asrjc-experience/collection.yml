@@ -2,12 +2,12 @@ collections:
   asrjc-experience:
     output: true
     order:
-      - Student Developmental Pathway.md
-      - Character and Citizenship Education.md
-      - Co Curricular Activities.md
       - Academic Curriculum/.keep
       - Academic Curriculum/Academic Curriculum.md
       - Academic Curriculum/Rank Points.md
+      - Student Developmental Pathway.md
+      - Character and Citizenship Education.md
+      - Co Curricular Activities.md
       - Special Programmes/.keep
       - Special Programmes/Science, Technology, Engineering, and Mathematics
         (STEM) Programme.md
