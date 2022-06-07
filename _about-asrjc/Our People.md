@@ -48,10 +48,7 @@ description: ""
     <input type="checkbox" id="accordion3">  
     <label for="accordion3">English Department</label>  
     <div>  
-      <p>
-				
-**HOD English**
-			</p>
+      <p>**HOD English**</p>
 			<p>Mr Koh Tze Khang Adrian</p>
 			<p>**Senior Teacher (General Paper)**</p>
 			<p>Mdm Tang Ling Ling</p>
