@@ -35,6 +35,14 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 			<p>Click [here](/files/ASRJC-Application-Form-for-Admission-of-International-Students_30-Dec-2019.pdf) to download the ASRJC Application Form for International Student.</p>
     </div>
 	</li>
+		    <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">1.4 JC REJUVENATION PROGRAMME</label>
+    <div>
+      <p>Q: How will the JC Rejuvenation Programme affect ASRJC?</p>
+			<p>ASRJC is slated to be rejuvenated under the programme. To facilitate construction work, the college will temporarily move to and operate from the former site of SRJC along Upper Serangoon Road from 2024 to 2027. The college is expected to operate from its rejuvenated campus in Ang Mo Kio from 2028 onwards.</p>
+    </div>
+	</li>
 	
 	
 	
