@@ -28,8 +28,6 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
     </div>
 	</li>
 
-
-Click here to download the ASRJC Application Form for Returning Singaporeans.
 	
 	
 	
