@@ -61,6 +61,9 @@ Professor Edwin Thumboo’s visit to SRJC during the 2003 Literature Week
 ![](/images/Humanities-Week-in-2003-300x187.jpg)
 Humanities Week in 2003
 
+![](/images/Humanities-Symposium-in-20032-300x187.jpg)
+Humanities Symposium in 2003
+
 **Dedicated Teachers**   
 SRJCians have achieved outstanding ‘A’ Level results as evidenced by the consecutive Value-Added Awards for commendable performance from 2010-2013. While these accomplishments are a reflection of the students’ relentless effort and drive to persevere in their pursuit of excellence, such successes would not have been possible had it not been for the teachers’ care and guidance. Among many of these dedicated teachers are:
 
