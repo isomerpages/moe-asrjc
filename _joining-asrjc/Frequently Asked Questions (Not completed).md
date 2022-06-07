@@ -43,10 +43,10 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 			<p>ASRJC is slated to be rejuvenated under the programme. To facilitate construction work, the college will temporarily move to and operate from the former site of SRJC along Upper Serangoon Road from 2024 to 2027. The college is expected to operate from its rejuvenated campus in Ang Mo Kio from 2028 onwards.</p>
     </div>
 	</li>
-	
-	
+</ul>	
 	
 #### 2\. ENTRY REQUIREMENTS
+
 
 #### 3\. JAE APPEAL PROCEDURE
 
