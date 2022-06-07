@@ -10,14 +10,26 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">1.1 JOINT ADMISSIONS EXERCISE (JAE) </label>
     <div>
-      <p>The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE O-Level certificate holders to apply for admission to post-secondary institutions.
-
-The Joint Admissions Exercise 2022 is scheduled to be conducted in January 2022.
-
-More information on JAE can be found on MOE's website here.</p>
+      <p>The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE O-Level certificate holders to apply for admission to post-secondary institutions.</p>
+			<p>The Joint Admissions Exercise 2022 is scheduled to be conducted in January 2022.</p>
+			<p>More information on JAE can be found on MOE's website here.</p>
     </div>
 	</li>
-
+ <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Multi-line Folded</label>
+    <div>
+      <p>
+        This is all going
+        to become just one line\n even though there are multiple lines
+      </p>
+    </div>
+  </li>
+	
+	
+	
+	
+	
 #### 2\. ENTRY REQUIREMENTS
 
 #### 3\. JAE APPEAL PROCEDURE
