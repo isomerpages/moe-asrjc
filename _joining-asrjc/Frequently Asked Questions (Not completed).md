@@ -63,11 +63,10 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
         <li>Subject 5 - Any O-level subject (excluding Religious Knowledge and CCA)</li>
       </ul>
     </div>
+		<p>For admission to a junior college, a student must obtain an L1R5 aggregate not exceeding 20 points. The English grade must be at least a C6; Mother Tongue at least a D7 and Mathematics at least a D7.</p>
     </div>
 	</li>
 
-
-For admission to a junior college, a student must obtain an L1R5 aggregate not exceeding 20 points. The English grade must be at least a C6; Mother Tongue at least a D7 and Mathematics at least a D7.
 #### 3\. JAE APPEAL PROCEDURE
 
 #### 4\. SUBJECT COMBINATIONS
