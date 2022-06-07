@@ -112,8 +112,6 @@ AND
 
 
 
-
-
 ##### **2) Application Process**
 
 | Step 1: Application | ● Submit online application form through this link.<br>● The deadline for the submission of online application forms is Fri 15 July 2022.<br>● Applicants are strongly encouraged to submit their application well in advance of the deadline to be considered for Phase 1.<br>● Applicants are required to attach scanned copies of the following along with their application:<br>    ○ Secondary School Report book with Sec 3 Year-end and Sec 4 Mid-year results,  including copies of latest school academic results if available<br>    ○ School CCA records<br>    ○ Relevant certifications and/or records of achievement related to the area of talent<br>● Applicants may go ahead to submit the application form first if the official documents are unavailable. |
