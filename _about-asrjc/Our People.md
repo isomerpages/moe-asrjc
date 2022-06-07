@@ -197,4 +197,44 @@ description: ""
       </ul>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion9">  
+    <label for="accordion9">English Department</label>  
+    <div>
+      <p>**HOD English**</p>
+			<p>Mr Koh Tze Khang Adrian</p>
+			<p>**Senior Teacher (General Paper)**</p>
+			<p>Mdm Tang Ling Ling</p>
+			<p>**Senior Teacher (Literature)**</p>
+			<p>Ms Chew Ai Ling Melissa</p>
+			<p>**SH General Paper**</p>
+			<p>Ms Sharifah Nadzirah Bte Syed Zulkifli</p>
+			<p>**SH General Paper**</p>
+			<p>Ms Ang Hui Ting</p>
+			<p>**SH English Literature**</p>
+			<p>Mdm Lim Sok Peng</p>
+			<p>**Teachers**</p>
+			<ul>
+        <li>Ms Alviedo Dionne Rochelle Menez</li>
+        <li>Ms Ang Soey Leng Lynn</li>  
+        <li>Ms Aw Yuan Ling Cheryl</li>
+			  <li>Ms Choo Li Min Bernadette Teresa</li>  
+        <li>Ms Daljit Kaur d/o Sundit Singh</li>  
+        <li>Mdm Eng Seok Hoon Rose</li>
+			  <li>Ms Goh Mei-Yi, Eunice</li>  
+        <li>Ms Hemma Balakrishnan</li>  
+        <li>Ms Ho Ying Xin, Berakah</li>
+			  <li>Ms Lim Li Wen, Evon</li>
+				<li>Ms Lim Wenjia, Claresta</li>
+			  <li>Ms Choo Li Min Bernadette Teresa</li>  
+        <li>Ms Loh Yee Wei Clare</li>  
+        <li>Mr Peter John Herd</li>
+			  <li>Ms Sim Shan Lin</li>  
+        <li>Mr Tan Deng Zheng</li>  
+        <li>Mr Tsui Hui Ee Samuel</li>
+			  <li>Ms Xu Xiuwen</li>
+				<li>Ms Usha d/o Pillai</li>
+      </ul>  
+    </div>  
+</li>
 </ul>
