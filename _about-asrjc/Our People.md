@@ -49,9 +49,13 @@ description: ""
     <label for="accordion3">English Department</label>  
     <div>  
       <p>**HOD English**</p>
+			
 			<p>Mr Koh Tze Khang Adrian</p>
+			
+			
 			<p>**Senior Teacher (General Paper)**</p>
 			<p>Mdm Tang Ling Ling</p>
+			
 			<p>**Senior Teacher (Literature)**</p>
 			<p>Ms Chew Ai Ling Melissa</p>
 			<p>**SH General Paper**</p>
