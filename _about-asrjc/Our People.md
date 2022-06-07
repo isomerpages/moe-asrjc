@@ -181,4 +181,20 @@ description: ""
       </ul>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion8">  
+    <label for="accordion8">Project Work Department</label>  
+    <div>  
+      <p>**HOD Project Work**</p>
+			<p>Mr Lim Che Pinn Andy</p>
+			<p>**Teachers**</p>  
+			<ul>
+        <li>Mr Foo Chuan Wang Derek</li>  
+        <li>Ms Khaw Maylee</li> 
+        <li>Ms Koh Yi Ting Cristee</li>
+			  <li>Ms Lim Dun Lin</li>
+				<li>Ms Lim Li Wen Evon</li> 
+      </ul>  
+    </div>  
+</li>
 </ul>
