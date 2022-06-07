@@ -55,6 +55,9 @@ Across the years, different departments put on learning festivals and workshops 
 ![](/images/Mother-Tongue-Cultural-Fortnight-20131-300x150.jpg)
 Mother Tongue Cultural Fortnight 2013
 
+(image)
+Science Week 2015
+
 ![](/images/PROFES1-300x183.jpg)
 Professor Edwin Thumboo’s visit to SRJC during the 2003 Literature Week
 
