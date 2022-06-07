@@ -2,7 +2,7 @@ collections:
   joining-asrjc:
     output: true
     order:
-      - DSA1.md
+      - Direct School Admission.md
       - Joint Admission Exercise.md
       - Returning Singaporeans or International students.md
       - Frequently Asked Questions (Not completed).md
