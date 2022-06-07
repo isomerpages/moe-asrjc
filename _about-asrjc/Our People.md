@@ -161,4 +161,25 @@ description: ""
       </ul>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion7">  
+    <label for="accordion7">Physical Education Department</label>  
+    <div>  
+      <p>**HOD Physical Education**</p>
+			<p>Ms Tay Li May</p>
+			<p>**Senior Teachers**</p>
+			<p>Mr Chua Wee Lian William</p>
+			<p>Ms Eleonor Rivera</p>
+			<p>**SH PE & CCA (Covering)**</p>
+			<p>Mr Chang Shu Yuet</p>
+			<p>**Teachers**</p>  
+			<ul>
+        <li>Mr Chong Song Cheng</li>  
+        <li>Mr Ho Kuan Peng</li> 
+        <li>Mr Lee Kok Weng</li>
+			  <li>Mr Lim Lek Ming, Joe</li> 
+      </ul>  
+    </div>  
+</li>
+ <li>  
 </ul>
