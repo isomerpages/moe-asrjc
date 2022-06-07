@@ -242,19 +242,24 @@ description: ""
 			  <li>Mr Chia Zhao Shan Elsen</li>  
         <li>Ms Chua Charlotte</li>  
         <li>Ms Eng Chai Hoon Jaslyn</li>
-			  <li>Ms Goh Mei-Yi, Eunice</li>  
-        <li>Ms Hemma Balakrishnan</li>  
-        <li>Ms Ho Ying Xin, Berakah</li>
-			  <li>Ms Lim Li Wen, Evon</li>
-				<li>Ms Lim Wenjia, Claresta</li>
-			  <li>Ms Choo Li Min Bernadette Teresa</li>  
-        <li>Ms Loh Yee Wei Clare</li>  
-        <li>Mr Peter John Herd</li>
-			  <li>Ms Sim Shan Lin</li>  
-        <li>Mr Tan Deng Zheng</li>  
-        <li>Mr Tsui Hui Ee Samuel</li>
-			  <li>Ms Xu Xiuwen</li>
-				<li>Ms Usha d/o Pillai</li>
+			  <li>Mdm Goh Sok Leng</li>  
+        <li>Mr Goh Wing Hoe, Vincent</li>  
+        <li>Ms Hu Meijiao</li>
+			  <li>Ms Khoo Ching Wan</li>
+				<li>Mrs Lian-Lim Chew Ling</li>
+			  <li>Ms Lee Gui Wei</li>  
+        <li>Ms Leow Shu Ting</li>  
+        <li>Mdm Leung Sau Wai</li>
+			  <li>Mr Ng Song En, John</li>  
+        <li>Mr Peh Kar Liang</li>  
+        <li>Mdm Sim Yong Hui</li>
+			  <li>Ms Seah Suei Hua Jocelyn</li>
+				<li>Ms Tan Ee Yong</li>
+				<li>Mr Tan Heng Huat, Jason</li>
+			  <li>Mdm Tan Pei Yun</li>  
+        <li>Ms Tok Kah En</li>  
+        <li>Mrs Wong Foon Mui</li>
+			  <li>Mr Yeong Chong Yiing</li>
       </ul>  
     </div>  
 </li>
