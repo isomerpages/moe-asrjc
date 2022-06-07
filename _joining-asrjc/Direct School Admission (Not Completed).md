@@ -3,9 +3,6 @@ title: Direct School Admission (Not Completed)
 permalink: /joining-asrjc/direct-school-admission/
 description: ""
 ---
-
-
-
 <img src="/images/Basketball-Boys-1024x676.jpg" 
      style="width:50%">
 <img src="/images/Dance-1024x668.jpg" 
