@@ -66,7 +66,14 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 		<p>For admission to a junior college, a student must obtain an L1R5 aggregate not exceeding 20 points. The English grade must be at least a C6; Mother Tongue at least a D7 and Mathematics at least a D7.</p>
     </div>
 	</li>
-
+<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">2.2 How do I seek admission to ASRJC?</label>
+    <div>
+      <p>After receiving an instruction booklet from your secondary schools, you can apply for either Science or Arts courses through the internet or personally at any junior college during the stipulated registration period. You can indicate up to 12 institutions on the application form in order of your preference.</p>
+    </div>
+	</li>
+	
 #### 3\. JAE APPEAL PROCEDURE
 
 #### 4\. SUBJECT COMBINATIONS
