@@ -93,3 +93,11 @@ SR Guzheng was awarded the Certificate of Distinction at the 2015 & 2017 Singapo
 
 S\*Star’s winning Amazing Science Challenge project, “The Secret Painting” was selected to be a permanent exhibit at the Singapore Science Centre, a testimony of our excellence in Science and Design
 
+![](/images/SR-Dance-rehearsing-for-the-2017-Singapore-Youth-Festival-300x200.jpg)
+SR Dance rehearsing for the 2017 Singapore Youth Festival
+
+![](/images/SR-Canoeists-displaying-courage-and-endurance-2001-300x227.jpg)
+SR Canoeists displaying courage and endurance (2001)
+
+![](/images/The-SR-Choir-pictured-with-Principal-Ms-Jenny-Yong-19981-300x227.jpg)
+The SR Choir, pictured with Principal Ms Jenny Yong (1998)
