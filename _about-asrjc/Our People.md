@@ -263,4 +263,46 @@ description: ""
       </ul>  
     </div>  
 </li>
+<li>  
+    <input type="checkbox" id="accordion10">  
+    <label for="accordion10">Executive & Administrative Staff</label>  
+    <div>
+      <p>**Administrative Manager**</p>
+			<p>Mdm Lee Lian Hong</p>
+			<p>**Operations Manager**</p>
+			<p>Mr Kwok Sian Khee Sam</p>
+			<p>**Administrative Executives**</p>
+			<p>Mrs Kun-Ong Suan Pek Geraldine</p>
+			<p>Mdm Rohdiya Bte Aman</p>
+			<p>**Senior School Counsellor**</p>
+			<p>Ms Chiang Yik Huey, Sophia</p>
+			<p>**ICT Manager**</p>
+			<p>Mr Tan Wee Dat</p>
+			<p>**Desktop Engineer**</p>
+			<p>Mr Wong Ee Kiong</p>
+			<p>Mr Pee Chun Kan</p>
+			<p>**Management Support Officers**</p>
+			<p>Mdm Norliah Bte Jais</p>
+			<p>Mdm Rohaya</p>
+			<p>**AVA Technician**</p>
+			<p>Mr Lim Wenjun</p>
+			<p>**Technical Support Officers**</p>
+			<p>Mr Liew Chee Keong Calvin</p>
+			<p>Mr Lim Sim Seng Andrew</p>
+			<p>Mrs Ng-Lam Chwee Wah</p>
+			<p>Mr Oh Piow Kwang</p>
+		 <p>Ms Tan Lay Kwee Joanne</p>
+			<p>**Corporate Support Officers**</p>
+			<p>Ms Hannah Yeo Yen Ling</p>
+			<p>**Operations Support Officers**</p>
+			<p>Mr Liew Chee Keong Calvin</p>
+			<p>Mr Lim Sim Seng Andrew</p>
+			<p>Mrs Ng-Lam Chwee Wah</p>
+			<p>Mr Oh Piow Kwang</p>
+		 <p>Ms Tan Lay Kwee Joanne</p>
+			<p>Mr Liew Chee Keong Calvin</p>
+			<p>Mr Lim Sim Seng Andrew</p>
+			<p>Mrs Ng-Lam Chwee Wah</p>
+			<p>Mr Oh Piow Kwang</p>
+		 <p>Ms Tan Lay Kwee Joanne</p>
 </ul>
