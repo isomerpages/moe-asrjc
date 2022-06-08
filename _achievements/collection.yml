@@ -2,9 +2,9 @@ collections:
   achievements:
     output: true
     order:
-      - SRJC Achievements/.keep
-      - AJC Acheivements/.keep
       - Achievements.md
+      - AJC Acheivements/.keep
+      - SRJC Achievements/.keep
       - Academic.md
       - Co Curricular Activities.md
       - Awards and Scholarships.md
