@@ -25,3 +25,9 @@ third_nav_title: SRJC Achievements
 | **Clubs & Societies** |  |
 | S*STAR | **Singapore Amazing Machine Competition**<br><br>– 2nd Runner-Up |
 | SRJC Debates | **YMCA Plain English Speaking Awards (PESA)**<br><br>– Winner<br><br>**ITE Debate Championships**<br><br>- 20th Best Speaker, Gold Division<br><br>- 11th Best Speaker, Silver Division<br><br>- 12th Best Speaker, Silver Division<br><br>- Special achievement from a Silver Division team |
+
+##### **Staff Achievements**
+
+![](/images/SRJC%20Achievement%202.jpg)
+
+![](/images/SRJC%20Achievement%203.jpg)
