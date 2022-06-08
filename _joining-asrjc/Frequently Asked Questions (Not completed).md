@@ -71,7 +71,13 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
     <label for="accordion6">2.2 How do I seek admission to ASRJC?</label>
     <div>
       <p>After receiving an instruction booklet from your secondary schools, you can apply for either Science or Arts courses through the internet or personally at any junior college during the stipulated registration period. You can indicate up to 12 institutions on the application form in order of your preference.</p>
-    </div>
+			<p> 
+
+| Science | 11 |
+|---|---|
+| Art | 11 | </p>
+		
+  </div>
 	</li>
 	
 #### 3\. JAE APPEAL PROCEDURE
