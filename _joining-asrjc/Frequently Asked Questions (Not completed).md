@@ -136,8 +136,8 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion11">
-    <label for="accordion11">4.2 What are the subjects offered in ASRJC?</label>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">4.2 What are the subjects offered in ASRJC?</label>
     <div>
       <p>Subjects offered in ASRJC are as follows:</p>
 			<p>H1 Subjects</p>
