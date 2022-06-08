@@ -108,3 +108,8 @@ third_nav_title: AJC Acheivements
 | **Symphonic Band** | SYF - Distinction |
 | **Tamil LDDS (Dance)** | SYF - Distinction |
 | **Tamil LDDS** | Vaanavil 2017 (Inter-JC all arts Tamil Competition)<br><br>Tamil Short Film Competition - 1st Place<br>A capella Song Competition - 1st Place<br>Stand-up Comedy Competition - 1st Place<br>AJC also won the Challenge Trophy |
+
+
+##### **Staff Achievements**
+
+![](/images/AJC%20Staff%20Achievements.jpg)
