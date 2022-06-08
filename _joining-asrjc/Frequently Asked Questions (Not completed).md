@@ -33,7 +33,7 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
     <div>
 			<p>International students seeking admission into ASRJC should visit MOE International Students Admissions for more information about the admission and registration procedure. International students are advised to sit for a centralised assessment - Junior College Principals Academy Certification Test (J-PACT) before applying to ASRJC. Information about the J-PACT test is available <a href="https://www.pact.sg/index.php?option=com_content&amp;view=article&amp;id=59:what-is-jpact&amp;catid=47:what-is-jpact&amp;Itemid=95">here</a>.
 		
-			</p>
+</p>
     </div>
 	</li>
 		    <li>
