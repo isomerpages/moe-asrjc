@@ -127,4 +127,14 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 
 #### 4\. SUBJECT COMBINATIONS
 
+<ul class="jekyllcodex_accordion">
+<li>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">4.1 What does a typical JC subject combination look like?</label>
+    <div>
+      <p>At ASRJC, we offer 3 H2 and 1 H1 content subjects OR 4 H2 content subjects, together with 3 H1 subjects which are General Paper, Project Work and Mother Tongue Language.</p>
+    </div>
+	</li>
+</ul>
+
 #### 5\. COVID-19-related FAQs
