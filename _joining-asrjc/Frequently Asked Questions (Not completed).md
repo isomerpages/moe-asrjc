@@ -102,9 +102,11 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
       <p>It is probable that you did not meet the specific subject requirements (i.e. the grades) to enter a junior college. Please check Section 6a of the JAE Information Booklet for the exact requirements.</p>
   </div>
 	</li>
-	
+
 
 #### 3\. JAE APPEAL PROCEDURE
+
+
 <ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion10">
