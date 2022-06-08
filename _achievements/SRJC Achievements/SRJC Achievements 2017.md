@@ -33,3 +33,7 @@ third_nav_title: SRJC Achievements
 | Guzheng Ensemble | SYF Distinction |
 | **Clubs & Societies** |  |
 | Photography | Schools Digital Media Photo Essay Competition (Merit Award) |
+
+##### **Staff Achievements**
+
+![](/images/SRJC%20Achievement%201.jpg)
