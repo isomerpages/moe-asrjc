@@ -103,8 +103,10 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
   </div>
 	</li>
 	
+
 #### 3\. JAE APPEAL PROCEDURE
 
+<ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion10">
     <label for="accordion10">3.1 I would like to make an appeal to enrol in ASRJC. How do I make an appeal?</label>
@@ -121,6 +123,7 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 		<p> Please note that the original documents must be produced during the submission for the purpose of verification. </p>
   </div>
 	</li>
+</ul>
 
 #### 4\. SUBJECT COMBINATIONS
 
