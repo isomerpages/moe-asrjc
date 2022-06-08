@@ -131,3 +131,12 @@ third_nav_title: AJC Acheivements
 | **Wushu** | ·         SSC National School Games 'A' Division Wushu Championships 2016 (Boys) - 5th<br><br>·         SSC National School Games 'A' Division Wushu Championships 2016 (Girls) - 5th |
 | **Performing Arts** |  |
 | **Music Club** | Voice of My Generation Competition:<br><br>2nd in the Rock Band Category and the Most Popular Band Award, Rock Sugar consisting of Ezekiel Toh (PDG 06/16), Vanessa Chua (PDG 10/16), Jordan Sia (PDG 19/16), Choy Mei Yen (PDG 28/16) and Shawn Ong (PDG 28/16)<br><br>3rd in the Acoustic Category, The Experiment consisting of Javier Keow (PDG 16/15), Zhang Shu Han (PDG 01/16) and Joshua Tan (PDG 18/16) |
+
+
+##### **Staff Achievements**
+
+![](/images/AJC%20Staff%20Achievements%204%20.jpg)
+
+![](/images/AJC%20Staff%20Achievements%205%20.jpg)
+
+![](/images/AJC%20Staff%20Achievements%206%20.jpg)
