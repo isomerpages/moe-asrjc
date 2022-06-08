@@ -4,7 +4,6 @@ permalink: /achievements/AJC-Acheivements/2018
 description: ""
 third_nav_title: AJC Acheivements
 ---
-
 ##### **Academic Achievements**
 
 | **Dept** | **Title** | **Achievement** |
@@ -136,3 +135,7 @@ third_nav_title: AJC Acheivements
 | **Clubs & Societies** |  |
 | TLDDS | Inter JC Tamil Debates Competition -  Champion, Overall Best Speaker (Maria Immaculate) |
 |  Red Cross Youth | Red Cross Youth First Aid Competition 2018 - Silver Award |
+
+##### **Staff Achievements**
+
+(insert pictures)
