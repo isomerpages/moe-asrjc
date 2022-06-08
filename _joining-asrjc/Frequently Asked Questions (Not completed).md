@@ -160,34 +160,4 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 
 #### 5\. COVID-19-related FAQs
 
-
-
-
-
-#### 2\. ENTRY REQUIREMENTS
-
-
-
-
-
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion12">
-    <label for="accordion12">2.1 How do I qualify for a 2-year JC course?</label>
-    <div>
-      <p>The aggregate of the First Language (L1) and 5 relevant subjects (R5) is computed automatically by the Ministry of Education to determine if you qualify for a 2-year JC course.</p>
-			<p>First language (L1) refers to English/Higher Mother Tongue.</p>
-			<p>The relevant 5 subjects (R5) must include:</p>
-			<div>
-      <ul>
-        <li>Subject 1 - Humanities/Higher Art/Higher Music</li>
-        <li>Subject 2 - Mathematics/Science</li>
-        <li>Subject 3 - Humanities/Higher Art/Higher Music/Mathematics/Science</li>
-				<li>Subject 4 - Any O-level subject (excluding Religious Knowledge and CCA)</li>
-        <li>Subject 5 - Any O-level subject (excluding Religious Knowledge and CCA)</li>
-      </ul>
-    </div>
-		<p>For admission to a junior college, a student must obtain an L1R5 aggregate not exceeding 20 points. The English grade must be at least a C6; Mother Tongue at least a D7 and Mathematics at least a D7.</p>
-    </div>
-	</li>
-</ul>
+The college takes direction from MOE on the measures that we put in place in response to the current situation. For updated information on COVID-19 related matters, refer to the FAQs on MOE website and MOH website.
