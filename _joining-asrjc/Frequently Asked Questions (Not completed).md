@@ -12,7 +12,7 @@ description: ""
     <div>
       <p>The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE O-Level certificate holders to apply for admission to post-secondary institutions.</p>
 			<p>The Joint Admissions Exercise 2022 is scheduled to be conducted in January 2022.</p>
-			<p>More information on JAE can be found on MOE's website here.</p>
+			<p>More information on JAE can be found on MOE's website here (insert valid link here).</p>
     </div>
 	</li>
    <li>
@@ -32,6 +32,7 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
     <label for="accordion3">1.3 INTERNATIONAL STUDENTS </label>
     <div>
 			<p>International students seeking admission into ASRJC should visit MOE International Students Admissions for more information about the admission and registration procedure. International students are advised to sit for a centralised assessment - Junior College Principals Academy Certification Test (J-PACT) before applying to ASRJC. Information about the J-PACT test is available <a href="https://www.pact.sg/index.php?option=com_content&amp;view=article&amp;id=59:what-is-jpact&amp;catid=47:what-is-jpact&amp;Itemid=95">here</a>.
+		
 			</p>
     </div>
 	</li>
