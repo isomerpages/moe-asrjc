@@ -142,9 +142,9 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
       <p>Subjects offered in ASRJC are as follows:</p>
 			<p>H1 Subjects</p>
 			<p>Biology, Chinese Language, Chemistry, Economics, General Paper, Geography, History, Literature in English, Malay Language, Mathematics, Physics, Project Work, Tamil Language</p>
-			<p>H1 Subjects</p>
-		  <p>Subjects offered in ASRJC are as follows:</p>
-			<p>H1 Subjects</p>
+			<p>H2 Subjects</p>
+		  <p>Art, Biology, Chemistry, Chinese Language & Literature, Economics, Further Mathematics, Geography, History, Literature in English, Mathematics, Physics, Tamil Language & Literature</p>
+			<p>H3 Subjects</p>
 			<p>Subjects offered in ASRJC are as follows:</p>
 			<p>H1 Subjects</p>
 			<p>Subjects offered in ASRJC are as follows:</p>
