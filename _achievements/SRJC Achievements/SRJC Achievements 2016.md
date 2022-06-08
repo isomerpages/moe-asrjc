@@ -31,3 +31,9 @@ third_nav_title: SRJC Achievements
 ![](/images/SRJC%20Achievement%202.jpg)
 
 ![](/images/SRJC%20Achievement%203.jpg)
+
+Madam Saadiah is a Lead Teacher who has been with the College since 1988 and is one of the pioneer teachers of the College. In 2016, Madam Saadiah was nominated by colleagues and students for the inaugural Outstanding Economics Teacher Award organised by the Economic Society of Singapore (ESS). Some 130 nominations were received for 33 economics teachers and Madam Saadiah is one of the five finalists who were recognised for their contributions to the teaching and learning of Economics.
+
+As a teacher leader, Madam Saadiah actively contributes to the professional growth of many fellow teachers through personal coaching, mentoring and openly sharing her experiences. She also participates actively in the school and related networked learning communities, always striving to be an agent of change with her sincerity. In the classroom, she is dynamic and skilful in using a variety of innovative pedagogy and effective assessment methods to engage her students. Her high level of energy is also highly infectious. Well-read and always striving for continual self-development, she keeps up-to-date on current economic issues and developments and seeks to incorporate new ideas into her teaching to excite and enthuse students.
+
+Mdm Saadiah is indeed a role model to the teachers and students for her passion and mastery of Economics.
