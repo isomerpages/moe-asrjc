@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Achievements.md
+      - AJC Acheivements/AJC Achievements 2016.md
       - AJC Acheivements/AJC Achievement 2017.md
       - AJC Acheivements/AJC Achievement 2018 (not completed).md
       - AJC Acheivements/.keep
