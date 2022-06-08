@@ -156,7 +156,16 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 
 #### 5\. COVID-19-related FAQs
 
+
+
+
+
 #### 2\. ENTRY REQUIREMENTS
+
+
+
+
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion12">
@@ -177,3 +186,4 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 		<p>For admission to a junior college, a student must obtain an L1R5 aggregate not exceeding 20 points. The English grade must be at least a C6; Mother Tongue at least a D7 and Mathematics at least a D7.</p>
     </div>
 	</li>
+</ul>
