@@ -90,8 +90,8 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
       <p>Yes. The following table illustrates the possible cases where bonus points can be used:</p>
 			<p>
 			<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Obtained a CCA Grade 'A' from your secondary school</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Obtained CCA Grades 'B' &amp; 'C' from your secondary school</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Have grades A1 to C6 in both their first languages (i.e. English and a Higher Mother Tongue).</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td></tr></tbody></table>
-			</p>
-	    <p> *Note: there are no secondary schools that are affiliated to Anderson Serangoon Junior College.
+			</p>			
+<p> *Note: there are no secondary schools that are affiliated to Anderson Serangoon Junior College.
 </p>
   </div>
 	</li>
@@ -104,6 +104,23 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 	</li>
 	
 #### 3\. JAE APPEAL PROCEDURE
+
+<li>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">3.1 I would like to make an appeal to enrol in ASRJC. How do I make an appeal?</label>
+    <div>
+      <p>It is probable that you did not meet the specific subject requirements (i.e. the grades) to enter a junior college. Please check Section 6a of the JAE Information Booklet for the exact requirements.</p>
+			<p> You are required to submit the following documents: </p>
+			<div>
+      <ol>
+        <li>Application form: The applicant must submit the appeal online. Alternatively, the hard copy of this form would be made available at our General Office, after the release of the posting results.</li>
+        <li>A duplicate copy of your Joint Admission Exercise Form A, latest GCE O-Level results slip, CCA records and Secondary 4E/5N Mid-Year Examination and Preliminary Examination results.</li>
+        <li>Other supporting documents that may aid in your appeal.</li>
+      </ol>
+    </div>
+		<p> Please note that the original documents must be produced during the submission for the purpose of verification. </p>
+  </div>
+	</li>
 
 #### 4\. SUBJECT COMBINATIONS
 
