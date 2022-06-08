@@ -20,7 +20,7 @@ description: ""
     <label for="accordion2">1.2 RETURNING SINGAPOREANS </label>
     <div>
       <p>Returning Singaporeans seeking admission to ASRJC are required to participate in the School Placement Exercise for Returning Singaporeans - Junior Colleges and Millennia Institute (SPERS-JC/MI). It is a centralised placement exercise conducted in November each year for Returning Singaporeans who wish to join the Pre-University 1 level at the beginning of the next academic year.</p>
-			<p>Registration for SPERS - JC/MI opens in July each year and more information about SPERS-JC/MI is available here.</p>
+			<p>Registration for SPERS - JC/MI opens in July each year and more information about SPERS-JC/MI is available here (insert a valid link).</p>
 			<p>Click <a href="/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporeans_30-Dec-2019.pdf">here</a> to download the ASRJC Application Form for Returning Singaporeans.</p>
     </div>
 	</li>
