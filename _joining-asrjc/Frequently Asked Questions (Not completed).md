@@ -134,6 +134,55 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
     <div>
       <p>At ASRJC, we offer 3 H2 and 1 H1 content subjects OR 4 H2 content subjects, together with 3 H1 subjects which are General Paper, Project Work and Mother Tongue Language.</p>
     </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">4.2 What are the subjects offered in ASRJC?</label>
+    <div>
+      <p>Subjects offered in ASRJC are as follows:</p>
+			<p>H1 Subjects</p>
+			<p>Biology, Chinese Language, Chemistry, Economics, General Paper, Geography, History, Literature in English, Malay Language, Mathematics, Physics, Project Work, Tamil Language</p>
+			<p>H1 Subjects</p>
+		  <p>Subjects offered in ASRJC are as follows:</p>
+			<p>H1 Subjects</p>
+			<p>Subjects offered in ASRJC are as follows:</p>
+			<p>H1 Subjects</p>
+			<p>Subjects offered in ASRJC are as follows:</p>
+			<p>H1 Subjects</p>
+			<p>Subjects offered in ASRJC are as follows:</p>
+			<p>H1 Subjects</p>
+    </div>
+	</li>
 </ul>
+
+Subjects offered in ASRJC are as follows:
+
+H1 Subjects
+
+Biology, Chinese Language, Chemistry, Economics, General Paper, Geography, History, Literature in English, Malay Language, Mathematics, Physics, Project Work, Tamil Language
+
+H2 Subjects
+
+Art, Biology, Chemistry, Chinese Language & Literature, Economics, Further Mathematics, Geography, History, Literature in English, Mathematics, Physics, Tamil Language & Literature
+
+H3 Subjects
+
+Biology, Chemistry, Mathematics, Physics, Tamil Language & Literature
+
+Subjects offered in ASRJC are as follows:
+
+H1 Subjects
+
+Biology, Chinese Language, Chemistry, Economics, General Paper, Geography, History, Literature in English, Malay Language, Mathematics, Physics, Project Work, Tamil Language
+
+H2 Subjects
+
+Art, Biology, Chemistry, Chinese Language & Literature, Economics, Further Mathematics, Geography, History, Literature in English, Mathematics, Physics, Tamil Language & Literature
+
+H3 Subjects
+
+Biology, Chemistry, Mathematics, Physics, Tamil Language & Literature
+
+
 
 #### 5\. COVID-19-related FAQs
