@@ -21,7 +21,7 @@ description: ""
     <div>
       <p>Returning Singaporeans seeking admission to ASRJC are required to participate in the School Placement Exercise for Returning Singaporeans - Junior Colleges and Millennia Institute (SPERS-JC/MI). It is a centralised placement exercise conducted in November each year for Returning Singaporeans who wish to join the Pre-University 1 level at the beginning of the next academic year.</p>
 			<p>Registration for SPERS - JC/MI opens in July each year and more information about SPERS-JC/MI is available here.</p>
-			<p>
+			<p> 
 
 				
 Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporeans_30-Dec-2019.pdf) to download the ASRJC Application Form for Returning Singaporeans.</p>
@@ -31,7 +31,12 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
     <input type="checkbox" id="accordion3">
     <label for="accordion3">1.3 INTERNATIONAL STUDENTS </label>
     <div>
-      <p>International students seeking admission into ASRJC should visit MOE International Students Admissions for more information about the admission and registration procedure. International students are advised to sit for a centralised assessment - Junior College Principals Academy Certification Test (J-PACT) before applying to ASRJC. Information about the J-PACT test is available [here](https://www.pact.sg/index.php?option=com_content&view=article&id=59:what-is-jpact&catid=47:what-is-jpact&Itemid=95).</p>
+      <p>International students seeking admission into ASRJC should visit MOE International Students Admissions for more information about the admission and registration procedure. International students are advised to sit for a centralised assessment - Junior College Principals Academy Certification Test (J-PACT) before applying to ASRJC. Information about the J-PACT test is available [here]: https://www.pact.sg/index.php?option=com_content&view=article&id=59:what-is-jpact&catid=47:what-is-jpact&Itemid=95.
+
+Click [here]: https://markdowntohtml.com
+[1]: https://markdowntohtml.com
+[here]: https://markdowntohtml.com
+</p>
 			<p>Click [here](/files/ASRJC-Application-Form-for-Admission-of-International-Students_30-Dec-2019.pdf) to download the ASRJC Application Form for International Student.</p>
     </div>
 	</li>
