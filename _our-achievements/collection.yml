@@ -2,5 +2,5 @@ collections:
   our-achievements:
     output: true
     order:
-      - SRJC/.keep
       - AJC/.keep
+      - SRJC/.keep
