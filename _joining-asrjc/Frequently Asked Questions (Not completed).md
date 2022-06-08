@@ -160,4 +160,4 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 
 #### 5\. COVID-19-related FAQs
 
-The college takes direction from MOE on the measures that we put in place in response to the current situation. For updated information on COVID-19 related matters, refer to the FAQs on MOE website and MOH website.
+The college takes direction from MOE on the measures that we put in place in response to the current situation. For updated information on COVID-19 related matters, refer to the FAQs on [MOE website](https://www.moe.gov.sg/faqs-covid-19-infection) and [MOH website](https://ask.gov.sg/agency/moh).
