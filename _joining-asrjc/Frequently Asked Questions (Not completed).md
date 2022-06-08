@@ -95,7 +95,7 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 </p>
   </div>
 	</li>
-		<li>
+	<li>
     <input type="checkbox" id="accordion9">
     <label for="accordion9">2.5 My L1R5 stands at 12 points, excluding bonus points. Why does Form A not indicate that I am eligible for a junior college? </label>
     <div>
