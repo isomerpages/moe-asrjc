@@ -80,8 +80,14 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
       <p>Individual JCs do not determine the cut-off points. Admission is mostly based on the number of vacancies available as well as the results of students who apply to the JC. Here are the L1R5 cut-off points (after deduction of bonus points) to gain admission to Anderson Serangoon Junior College in 2021:</p>
 			<p>
 			<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Science</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">11</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Art</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">11</td></tr></tbody></table>
-			</p>
-				
+			</p>	
+  </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">2.4 Can I use bonus points to gain admission to ASRJC? </label>
+    <div>
+      <p>Yes. The following table illustrates the possible cases where bonus points can be used:</p>
   </div>
 	</li>
 	
