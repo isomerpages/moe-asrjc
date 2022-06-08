@@ -154,3 +154,61 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 
 
 #### 5\. COVID-19-related FAQs
+
+#### 2\. ENTRY REQUIREMENTS
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">2.1 How do I qualify for a 2-year JC course?</label>
+    <div>
+      <p>The aggregate of the First Language (L1) and 5 relevant subjects (R5) is computed automatically by the Ministry of Education to determine if you qualify for a 2-year JC course.</p>
+			<p>First language (L1) refers to English/Higher Mother Tongue.</p>
+			<p>The relevant 5 subjects (R5) must include:</p>
+			<div>
+      <ul>
+        <li>Subject 1 - Humanities/Higher Art/Higher Music</li>
+        <li>Subject 2 - Mathematics/Science</li>
+        <li>Subject 3 - Humanities/Higher Art/Higher Music/Mathematics/Science</li>
+				<li>Subject 4 - Any O-level subject (excluding Religious Knowledge and CCA)</li>
+        <li>Subject 5 - Any O-level subject (excluding Religious Knowledge and CCA)</li>
+      </ul>
+    </div>
+		<p>For admission to a junior college, a student must obtain an L1R5 aggregate not exceeding 20 points. The English grade must be at least a C6; Mother Tongue at least a D7 and Mathematics at least a D7.</p>
+    </div>
+	</li>
+<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">2.2 How do I seek admission to ASRJC?</label>
+    <div>
+      <p>After receiving an instruction booklet from your secondary schools, you can apply for either Science or Arts courses through the internet or personally at any junior college during the stipulated registration period. You can indicate up to 12 institutions on the application form in order of your preference.</p>
+  </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">2.3 What are the cut-off L1R5 points for admission to the various streams in ASRJC?</label>
+    <div>
+      <p>Individual JCs do not determine the cut-off points. Admission is mostly based on the number of vacancies available as well as the results of students who apply to the JC. Here are the L1R5 cut-off points (after deduction of bonus points) to gain admission to Anderson Serangoon Junior College in 2021:</p>
+			<p>
+			<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Science</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">11</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Art</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">11</td></tr></tbody></table>
+			</p>	
+  </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">2.4 Can I use bonus points to gain admission to ASRJC? </label>
+    <div>
+      <p>Yes. The following table illustrates the possible cases where bonus points can be used:</p>
+			<p>
+			<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Obtained a CCA Grade 'A' from your secondary school</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Obtained CCA Grades 'B' &amp; 'C' from your secondary school</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Have grades A1 to C6 in both their first languages (i.e. English and a Higher Mother Tongue).</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td></tr></tbody></table>
+			</p>			
+<p> *Note: there are no secondary schools that are affiliated to Anderson Serangoon Junior College.
+</p>
+  </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">2.5 My L1R5 stands at 12 points, excluding bonus points. Why does Form A not indicate that I am eligible for a junior college? </label>
+    <div>
+      <p>It is probable that you did not meet the specific subject requirements (i.e. the grades) to enter a junior college. Please check Section 6a of the JAE Information Booklet for the exact requirements.</p>
+  </div>
+	</li>
