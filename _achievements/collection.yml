@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Achievements.md
+      - AJC Acheivements/AJC 2016 Achievements.md
       - AJC Acheivements/.keep
       - SRJC Achievements/.keep
       - Academic.md
