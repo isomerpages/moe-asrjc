@@ -84,3 +84,27 @@ third_nav_title: AJC Acheivements
 |  NUS Merit Scholarship |  NUS |  Tan Qing Lin | 24/13 |
 |  NUS Merit Scholarship |  NUS |  Tham Wai Kin | 02/13 |
 |  NUS Merit Scholarship |  NUS |  Toh Steffie | 22/15 |
+
+##### **CCA Achievements**
+
+
+| **CCA** | **Competition/Award** |
+|---|---|
+| **Sports** |  |
+| **Badminton** | ·         National School Games Badminton Championships 2017 A Division Boys - 4th<br><br>·         National School Games Badminton Championships 2017 A Division Girls - Top 8 |
+| **Basketball** | ·         National School Games Basketball Championships 2017 A Division Boys - 1st, Champions<br><br>·         National School Games Basketball Championships 2017 A Division Girls - Top 8 |
+| **Hockey** | ·         National School Games Hockey Championships 2017 A Division Boys - 4th<br><br>·         National School Games Hockey Championships 2017 A Division Girls - 7th |
+| **Netball** | ·         National School Games Netball Championships 2017 A Division - Top 8 |
+| **Shooting** | ·         National School Games Shooting Championships 2017 A Division (Air Pistol Women) - 1st<br><br>·         National School Games Shooting Championships 2017 A Division (Air Rifle Women) - 2nd<br>·         National School Games Shooting Championships 2017 A Division (Air Pistol Men) - 5th<br>·         National School Games Shooting Championships 2017 A Division (Air Rifle Men) - 3rd |
+| **Squash** | ·         National School Games Squash Championships 2017 A Division Girls - 6th |
+| **Table-Tennis** | ·         National School Games Table-Tennis Championships 2017 A Division Girls - 5th |
+| **Volleyball** | ·         National School Games Volleyball Championships 2017 A Division Boys - 4th<br><br>·         National School Games Volleyball Championships 2017 A Division Girls - 3rd |
+| **Performing Arts** |  |
+| **Chinese Orchestra** | SYF - Distinction |
+| **Choir** | SYF - Distinction |
+| **Dance Society** | SYF - Distinction |
+| **Guitar Ensemble** | SYF - Accomplishment |
+| **Harmonica Band** | SYF - Distinction |
+| **Symphonic Band** | SYF - Distinction |
+| **Tamil LDDS (Dance)** | SYF - Distinction |
+| **Tamil LDDS** | Vaanavil 2017 (Inter-JC all arts Tamil Competition)<br><br>Tamil Short Film Competition - 1st Place<br>A capella Song Competition - 1st Place<br>Stand-up Comedy Competition - 1st Place<br>AJC also won the Challenge Trophy |
