@@ -107,3 +107,24 @@ third_nav_title: AJC Acheivements
 | Teaching Scholarship | Ministry of Education | Mohamed Ridzuan S/o Abu Bakar | 22/14 |
 | University Scholars Programme Scholarship | NTU | Ang Wan Qi |  22/16 |
 |  University Scholars Programme Scholarship |  NTU |  Ong Peixuan Olivia | 24/16 |
+
+
+##### CCA Achievements
+
+| **CCA** | **Competition/Award** |
+|---|---|
+| **Sports** |  |
+| Badminton | ·         National School Games 'A' Division Badminton Championship 2018 Boys' Team - 4th<br><br>·         National School Games 'A' Division Badminton Championship 2018 Girls' Team - Top 8 |
+|  Basketball | ·         National School Games 'A' Division Basketball Championship 2018 Boys' Team - 1st, Champion<br><br>·         National School Games 'A' Division Basketball Championship 2018 Girls' Team - Top 8 |
+|  Hockey | ·         National School Games 'A' Division Hockey Championship 2018 Boys' Team - 3rd |
+|  Shooting | ·         National School Games 'A' Division Shooting Championship 2018 Air Rifle Men Team - 4th<br><br>·         National School Games 'A' Division Shooting Championship 2018 Air Pistol Men Team - 5th<br>·         National School Games 'A' Division Shooting Championship 2018 Air Pistol Women Team - 3rd<br>·         National School Games 'A' Division Shooting Championship 2018 Air Rifle Women Team - 5th<br>·         NTU Invitation Shoot Air Pistol Women (Category A) - 2nd<br>·         NTU Invitation Shoot Air Rifle Women (Category A) - 3rd<br>·         NTU Invitation Shoot Air Rifle Men (Category A) - 3rd<br>·         NTU Invitation Shoot Air Rifle Men (Open) - 3rd |
+|  Squash | ·         National School Games 'A' Division Squash Championship 2018 Boys' Team - 7th<br><br>·         National School Games 'A' Division Squash Championship 2018 Girls' Team - 8th |
+| Taekwondo | ·         National School Games 'A' Division Taekwondo Championship 2018 (Male)  - 3rd<br><br>·         National School Games 'A' Division Taekwondo Championship 2018 (Female) - 4rd |
+|  Volleyball | ·         National School Games 'A' Division Volleyball Championship 2018 Boys' Team - 4th<br><br>·         National School Games 'A' Division Volleyball Championship 2018 Girls' Team - 4th |
+|  Wushu | National School Games 'A' Division Wushu Championship 2018 (Boys)<br><br>·         2nd International Changquan (Quanshu) - 1st (Ong Zi Meng)<br>·         1st International Broadsword (Short Weapon) - 3rd (Ong Zi Meng)<br>·         2nd International Cudgel (Long Weapon) - 1st (Ong Zi Meng)<br>·         2nd International Spear (Long Weapon) - 2nd (Joel Tan)<br>National School Games 'A' Division Wushu Championship 2018 (Girls)<br>·         2nd International Spear (Long Weapon) - 1st (Janelle Chia Wee)<br>·         2nd International Cudgel (Long Weapon) - 1st (Amanda Seah Yi Jun)<br>·         2nd International Sword (Short Weapon) - 4th (Ang Hui Min)<br>·         2nd International Broadsword (Short Weapon) - 1st (Amanda Seah Yi Jun)<br>·         1st International Broadsword (Short Weapon) - 2nd (Janelle Chia Wee)<br>·         1st International Nan Dao (Short Weapon) - 4th (Ong Li Jing)<br>·         2nd International Changquan (Quanshu) - 2nd (Amanda Seah Yi Jun) |
+| **Performing Arts** |  |
+| StAJeWorks | SYF (Drama) - Certificate of Accomplishment |
+|  CLDDS | SYF (Drama) - Certificate of Distinction |
+| **Clubs & Societies** |  |
+| TLDDS | Inter JC Tamil Debates Competition -  Champion, Overall Best Speaker (Maria Immaculate) |
+|  Red Cross Youth | Red Cross Youth First Aid Competition 2018 - Silver Award |
