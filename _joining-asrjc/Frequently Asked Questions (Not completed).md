@@ -105,7 +105,6 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 	
 
 #### 3\. JAE APPEAL PROCEDURE
-
 <ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion10">
@@ -126,7 +125,6 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 </ul>
 
 #### 4\. SUBJECT COMBINATIONS
-
 <ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion11">
