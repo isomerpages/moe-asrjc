@@ -111,3 +111,23 @@ third_nav_title: AJC Acheivements
 | **Wushu** | ·         SSC National School Games 'A' Division Wushu Championships 2016 (Boys) - 5th<br><br>·         SSC National School Games 'A' Division Wushu Championships 2016 (Girls) - 5th |
 | **Performing Arts** |  |
 | **Music Club** | Voice of My Generation Competition:<br><br>2nd in the Rock Band Category and the Most Popular Band Award, Rock Sugar consisting of Ezekiel Toh (PDG 06/16), Vanessa Chua (PDG 10/16), Jordan Sia (PDG 19/16), Choy Mei Yen (PDG 28/16) and Shawn Ong (PDG 28/16)<br><br>3rd in the Acoustic Category, The Experiment consisting of Javier Keow (PDG 16/15), Zhang Shu Han (PDG 01/16) and Joshua Tan (PDG 18/16) |
+
+
+
+
+| **CCA** | **Competition/Award** |
+|---|---|
+| **Sports** |  |
+| **Badminton** | ·         SSC National School Games 'A' Division Badminton Championships 2016 (Boys) - 3rd<br><br>·         SSC National School Games 'A' Division Badminton Championships 2016 (Girls) - Top 8 |
+| **Basketball** | ·         SSC National School Games 'A' Division Basketball Championships 2016 (Boys)- 3rd<br><br>·         SSC National School Games 'A' Division Basketball Championships 2016 (Girls) - Top 8 |
+| **Golf** | ·         SSC National School Games 'A' Division Golf Championships 2016 (Individual) - 2nd Atienza Aloysa Margiela Mabutas |
+| **Hockey** | ·         SSC National School Games 'A' Division Hockey Championships 2016 (Boys) - Top 8<br><br>·         SSC National School Games 'A' Division Hockey Championships 2016 (Girls) - Top 8 |
+| **Shooting** | ·         SSC National School Games 'A' Division Air Pistol Championships 2016 (Women) - 2nd<br><br>·         SSC National School Games 'A' Division Air Rifle Championships 2016 (Women) - 3rd<br><br>·         SSC National School Games 'A' Division Air Rifle Championships 2016 (Men) - 3rd |
+| **Squash** | ·         SSC National School Games 'A' Division Squash Championships 2016 (Boys) - 6th<br><br>·         SSC National School Games 'A' Division Squash Championships 2016 (Girls) - 6th |
+| **Table-Tennis** | ·         SSC National School Games 'A' Division Table-Tennis Championships 2016 (Boys) - 5th<br><br>·         SSC National School Games 'A' Division Table-Tennis Championships 2016 (Girls) - 5th |
+| **Tchoukball** | ·         SSC National School Games 'A' Division Tchoukball Championships 2016 (Girls) - 2nd |
+| **Tennis** | ·         SSC National School Games 'A' Division Tennis Championships 2016 (Girls) - Top 8 |
+| **Volleyball** | ·         SSC National School Games 'A' Division Volleyball Championships 2016 (Boys) - 4th<br><br>·         SSC National School Games 'A' Division Volleyball Championships 2016 (Girls) - Top 8 |
+| **Wushu** | ·         SSC National School Games 'A' Division Wushu Championships 2016 (Boys) - 5th<br><br>·         SSC National School Games 'A' Division Wushu Championships 2016 (Girls) - 5th |
+| **Performing Arts** |  |
+| **Music Club** | Voice of My Generation Competition:<br><br>2nd in the Rock Band Category and the Most Popular Band Award, Rock Sugar consisting of Ezekiel Toh (PDG 06/16), Vanessa Chua (PDG 10/16), Jordan Sia (PDG 19/16), Choy Mei Yen (PDG 28/16) and Shawn Ong (PDG 28/16)<br><br><br>3rd in the Acoustic Category, The Experiment consisting of Javier Keow (PDG 16/15), Zhang Shu Han (PDG 01/16) and Joshua Tan (PDG 18/16) |
