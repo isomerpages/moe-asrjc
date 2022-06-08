@@ -25,3 +25,68 @@ third_nav_title: AJC Acheivements
 |  Science | Clean Tech Competition 2016 | Semi-finalists: Jeremiah Ong Ray (PDG 20/16), Shayn Chan Wei En (PDG 20/16), Toh Yi Hong (PDG 20/16) |
 |  Science | International Researchers Club (IRC) Conference on Science, Engineering and Technology (IRC-SET) 2016 | Papers accepted at the Conference:<br><br>Team: Yang Nanyang (PDG 01/15), Qiu Jiabin (PDG 02/15), Liang Xuxian (PDG 03/15)<br><br>Team: Harsha Prem (PDG 11/15), Kim Yujin (PDG 12/15), Tao Zhenyuan (PDG 14/15)<br><br>Team: Aznikah Bte Abdul Nizar (PDG 05/15), Lin Hong Yi (PDG 17/15), Fong Kei Sen (PDG 20/15)<br><br>Individual: Zhu Dan (PDG 16/15) |
 | Science | International Student Science Fair (ISSF) 2016 | Best Oral Presentation: Abhimanyu Arora (PDG 20/15) |
+
+
+##### **Scholarship Awardees**
+
+
+| **Name of Scholarship** | **Organisation offering scholarship** | **Name** | **PDG** |
+|---|---|---|---|
+| A*Star Graduate Scholarship | Agency for Science, Technology and Research | Shawn Lee Ming Yang | 29/08 |
+| ASEAN Undergraduate Scholarship | Nanyang Technological University | Kaung Sett Moe Myint | 06/14 |
+| ASEAN Undergraduate Scholarship | National University of Singapore |  Liew Jin Hua | 25/14 |
+| ASEAN Undergraduate Scholarship |  National University of Singapore |  Yeap Seong Kee | 25/14 |
+| AVA Undergraduate Scholarship | Agri-Food & Veterinary Authority of Singapore |  Kelvin Chen Yizhan | 30/12 |
+|  College Scholarship | Nanyang Technological University |  Izza Haziqah Binte Abdul Rahman | 30/14 |
+| College Scholarship | Nanyang Technological University |  Tan Jia Le | 04/14 |
+| College Scholarship | Nanyang Technological University |  Lyndon Lim Zheng Jie |  05/14 |
+| College Scholarship | Nanyang Technological University |  Teo Wei Lie |  05/14 |
+| College Scholarship | Nanyang Technological University |  Nur'Aqilah Atasha Binte Mohamad Yosman |  06/14 |
+|  College Scholarship | Nanyang Technological University |  Javier Tan Joon Kiat | 15/14 |
+| DSTA Undergraduate Scholarship | Defence Science and Technology Agency | Daniel Seah Rui Qi | 03/12 |
+| DSO Postgraduate Scholarship | Defence Science Organisation National Laboratories | Ong Wei Guang | 04/04 |
+| Healthcare Merit Award | Ministry of Health | Umairah Binte Mohamed Shahrin | 18/13 |
+| Healthcare Merit Award | Ministry of Health | Sia Chi Hon | 15/13 |
+| Healthcare Merit Award | Ministry of Health | Tiffany Woo Mei Ling | 13/13 |
+| Healthcare Merit Award | Ministry of Health | Muhammad Zulhaziq Bin Azman | 14/13 |
+| Healthcare Merit Award | Ministry of Health | Jerrold Tan Jingjie | 19/13 |
+| Healthcare Merit Award | Ministry of Health | Andrea Ho An Qi | 19/14 |
+| Healthcare Merit Award | Ministry of Health | Teng Jian Wei | 15/13 |
+| Healthcare Merit Award | Ministry of Health | Phua Jue Ying | 19/14 |
+| Healthcare Merit Award | Ministry of Health | Charmaine Goh Mei Xian | 06/13 |
+| Healthcare Merit Scholarship | Ministry of Health | Loh Yong Jian | 06/08 |
+| Koh Boon Hwee Scholars Award | Nanyang Technological University of Singapore | Lim Ming Han | 24/08 |
+| MOE Teaching Award | Ministry of Education | Dominic Koh Jing Qun | 25/12 |
+|  MOE Teaching Award |  Ministry of Education | Toh Wei Xiong |  22/13 |
+|  MOE Teaching Award | Ministry of Education |  Navethira D/O Ravi Chandran |  33/14 |
+|  MOE Teaching Award |  Ministry of Education |  Koh Hui Li |  19/14 |
+|  MOE Teaching Award | Ministry of Education | Audrey Tee Zhu Yi |  27/14 |
+| Nanyang Scholarship | Nanyang Technological University of Singapore |  Soh Zhi Hui Jonathan |  35/12 |
+| Nanyang Scholarship |  Nanyang Technological University of Singapore | Joel Yeo Jie Wei | 03/14 |
+| Nanyang Scholarship |  Nanyang Technological University of Singapore |  Tiew Yee Tat, Minton | 04/14 |
+| Nanyang Scholarship |  Nanyang Technological University of Singapore |  Goh Jia En Josephine |  08/14 |
+| Nanyang Scholarship |  Nanyang Technological University of Singapore | Heng Yen Ling Audrey |  17/14 |
+| Nanyang Scholarship |  Nanyang Technological University of Singapore | Toh Wee Siang Jeremy |  23/14 |
+| Nanyang Scholarship |  Nanyang Technological University of Singapore | Phuah Cheng Kai | 24/14 |
+| Nanyang Scholarship |  Nanyang Technological University of Singapore | Clarice Tay Wei Qi |  25/14 |
+|  Nanyang Scholarship |  Nanyang Technological University of Singapore |  Lau Shu Qing | 26/14 |
+| Singapore Armed Forces Merit Scholarship | Ministry of Defence | Isabelle Sua Rui Ern | 09/14 |
+| Singapore Industry Scholarship | Ministry of Education | Pai Shriya Satish | 27/14 |
+| Singapore Industry Scholarship | Ministry of Education | M. Mayreshh | 05/12 |
+| Singapore Industry Scholarship | Ministry of Education | Tan Jian Hao Jordan | 04/12 |
+| SPRING Executive Development Scholarship | SPRING | Kshitij Bansal | 09/12 |
+| SUTD Asian Leadership Programme Scholarship | Singapore University of Technology and Design | Caleb See De Kai | 20/12 |
+| SUTD Asian Leadership Programme Scholarship | Singapore University of Technology and Design | Tan Shao Xuan | 12/12 |
+| SUTD Global Leadership Programme Scholarship (Berkeley) | Singapore University of Technology and Design | Wong Ye Qi Daryll | 23/14 |
+| SUTD Undergraduate Merit Scholarship | Singapore University of Technology and Design | Sundaram Mohan Janani | 06/14 |
+| SUTD Undergraduate Merit Scholarship | Singapore University of Technology and Design | Teo Yue Xiang | 22/12 |
+| SUTD Undergraduate Merit Scholarship | Singapore University of Technology and Design | Zenn Png Zhuang Yi | 05/14 |
+| SUTD Undergraduate Scholarship | Singapore University of Technology and Design | Seah San Yong | 21/12 |
+| SUTD Undergraduate Scholarship | Singapore University of Technology and Design | Teo Wei Jie, Zachary | 23/14 |
+| SUTD Undergraduate Scholarship | Singapore University of Technology and Design | Keith Koh Wei Ming | 25/14 |
+| Teaching Scholarship (Local) | Ministry of Education | Lim Zhi Ying, Nicholas | 28/13 |
+| Teaching Scholarship (Local) | Ministry of Education | Kang Choon Kiat |  03/13 |
+| Teaching Scholarship (Local) |  Ministry of Education |  Cheng Xin Ze |  26/13 |
+|  University Scholars Programme Scholarship | Nanyang Technological University | Tan Jun Yang | 13/14 |
+|  University Scholars Programme Scholarship | Nanyang Technological University | Aw Gang Xin Ronson |  17/14 |
+|  ZJU exchange programme |  Singapore University of Technology and Design | Toh Wei Jie | 03/12 |
