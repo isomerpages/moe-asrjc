@@ -36,7 +36,6 @@ Click [here](/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporea
 			
 				
 				
-				
 <p>Click <p><a href="/files/ASRJC-Application-Form-for-Admission-of-International-Students_30-Dec-2019.pdf">here</a> to download the ASRJC Application Form for International Student.</p>          
 </p>
     </div>
