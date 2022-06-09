@@ -42,8 +42,8 @@ description: ""
     </div>
 	</li>
    <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">English Department</label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">English Department</label>
     <div>
       <p style="margin-bottom:0;"><b>HOD English</b></p>
       <p style="margin : 0; padding-top:0;">Mr Koh Tze Khang Adrian</p>
@@ -58,7 +58,7 @@ description: ""
 			<p style="margin-bottom:0;"><b>SH English Literature</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Lim Sok Peng</p>
       <p style="margin-bottom:0;"><b>Teachers</b></p>
-      <p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
+      <p style="margin : 0; padding-top:0;">Ms Alviedo Dionne Rochelle Menez</p>
       <p>Mr Chen Huangzhi</p>
       <p>Mr Gan Teck Ming, Alvin</p>
       <p>Mr Jowell Yong Kaijie</p>
