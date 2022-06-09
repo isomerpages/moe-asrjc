@@ -8,8 +8,8 @@ description: ""
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">School leaders</label>  
     <div>  
-      <p>**Principal**</p>
-			<p>Mr Manogaran Suppiah</p>
+			<p style="margin-bottom:0;"><b>Principal</b></p>
+			<p style="margin : 0; padding-top:0;">Mr Manogaran Suppiah</p>
 			<p>**Vice-Principals**</p>
 			<p>Ms Low Bee Yen</p>
 			<p>Mr Chan Zheng Ming</p>
