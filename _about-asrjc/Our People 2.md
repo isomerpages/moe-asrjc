@@ -16,4 +16,18 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mdm Sharon Lim (Administration)</p>
     </div>
 	</li>
+	 <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Economics Department</label>
+    <div>
+      <p style="margin-bottom:0;"><b>HOD Economics</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Tan Su Chin</p>
+			<p style="margin-bottom:0;"><b>Senior Teacher</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Kat Kar Hwee</p>
+			<p style="margin-bottom:0;"><b>HOD Economics</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Tan Su Chin</p>
+			<p style="margin-bottom:0;"><b>Senior Teacher</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Kat Kar Hwee</p>
+    </div>
+	</li>
 </ul>
