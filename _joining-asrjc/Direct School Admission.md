@@ -180,10 +180,9 @@ Shortlisted applicants from the trials will be required to attend an in-person i
 #### **5) Enquiry**
 For general enquiries regarding DSA, you may contact the following personnel:
 
-HOD/PE & CCA, Ms Tay Li May -  <a href="mailto:tay_li_may@schools.gov.sg"></a>
-tay_li_may@schools.gov.sg
+HOD/PE & CCA, Ms Tay Li May -  <a href="mailto:tay_li_may@schools.gov.sg">tay_li_may@schools.gov.sg</a>
 
-Dean, Ms Corrine Zhu - <a href="mailto:zhu_youyan@schools.gov.sg"></a>zhu_youyan@schools.gov.sg 
+Dean, Ms Corrine Zhu - <a href="mailto:zhu_youyan@schools.gov.sg">zhu_youyan@schools.gov.sg </a>
 
 #### **6) Other Information**
 
