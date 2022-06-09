@@ -247,7 +247,7 @@ description: ""
   </li>
 	 <li>						
     <input id="accordion10" type="checkbox">						
-    <label for="accordio10">Executive & Administrative Staff</label>		
+    <label for="accordion10">Executive & Administrative Staff</label>		
     <div>
 			<p style="margin-bottom:0;"><b>Administrative Manager</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Lee Lian Hong</p>
