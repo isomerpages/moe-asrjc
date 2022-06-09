@@ -101,13 +101,13 @@ Students can use the sample presentation deck titled **IEF 2022 Science Research
 	* Labelled Illustration and/or Photographs of Prototype
 	* STEM Application in the Prototype
 
-* Students can use the sample presentation deck titled **IEF 2022 Innovation Deck (Prototype)** for reference, which can be found [here](https://tinyurl.com/23ElementzProjectTemplates) https://tinyurl.com/23ElementzProjectTemplates.
+* Students can use the sample presentation deck titled **IEF 2022 Innovation Deck (Prototype)** for reference, which can be found [here](https://tinyurl.com/23ElementzProjectTemplates).
 
 * Shortlisted teams can use their prototype to aid their presentation during the final judging.
 
 * If the research projects conducted involve animals and birds, please adhere to the rules regarding the care and use of animals for scientific purposes, as published on the website of The Animal & Veterinary Service (AVS) [here](https://www.nparks.gov.sg/avs/resources/legislation/animals-and-birds-act-chapter-7). 
 
-* If the innovation projects involve vertebrate animals and/or potentially hazardous biological agents, they are most likely required to be reviewed and approved by the Scientific Review Committee (SRC) before experimentation. All proposed human research must be reviewed and approved by an Institutional Review Board (IRB) before experimentation begins. For more information, please visit https://www.science.edu.sg/docs/default-source/scs-documents/for-schools/ssef_2018_operational_guidelines_for_src_and_irb_2018.pdf
+* If the innovation projects involve vertebrate animals and/or potentially hazardous biological agents, they are most likely required to be reviewed and approved by the Scientific Review Committee (SRC) before experimentation. All proposed human research must be reviewed and approved by an Institutional Review Board (IRB) before experimentation begins. For more information, please visit [here](https://www.science.edu.sg/docs/default-source/scs-documents/for-schools/ssef_2018_operational_guidelines_for_src_and_irb_2018.pdf). https://www.science.edu.sg/docs/default-source/scs-documents/for-schools/ssef_2018_operational_guidelines_for_src_and_irb_2018.pdf
 
 **Annex C**
 
