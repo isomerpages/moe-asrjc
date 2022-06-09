@@ -27,7 +27,7 @@ The idea or solution should be in accordance with the theme: **Sustainability**.
 
 The invitation letter for the 23rd International Elementz Fair is attached here.
 
-All enquiries can be directed to Mr Kelvin Soo (soo_kah_wai_kelvin@schools.gov.sg)
+All enquiries can be directed to Mr Kelvin Soo <a href="mailto:soo_kah_wai_kelvin@schools.gov.sg">soo_kah_wai_kelvin@schools.gov.sg</a>
 
 ***Annex A***
 
