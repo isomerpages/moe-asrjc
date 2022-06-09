@@ -41,4 +41,29 @@ description: ""
 			<p>Ms Wang Shuhui Mabel</p>
     </div>
 	</li>
+   <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">English Department</label>
+    <div>
+      <p style="margin-bottom:0;"><b>HOD English</b></p>
+      <p style="margin : 0; padding-top:0;">Mr Koh Tze Khang Adrian</p>
+      <p style="margin-bottom:0;"><b>Senior Teacher (General Paper)</b></p>
+      <p style="margin : 0; padding-top:0;">Mdm Tang Ling Ling</p>
+      <p style="margin-bottom:0;"><b>Senior Teacher (Literature)</b></p>
+      <p style="margin : 0; padding-top:0;">Ms Chew Ai Ling Melissa</p>
+      <p style="margin-bottom:0;"><b>SH General Paper</b></p>
+      <p style="margin : 0; padding-top:0;">Ms Sharifah Nadzirah Bte Syed Zulkifli</p>
+      <p style="margin-bottom:0;"><b>Teachers</b></p>
+      <p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
+      <p>Mr Chen Huangzhi</p>
+      <p>Mr Gan Teck Ming, Alvin</p>
+      <p>Mr Jowell Yong Kaijie</p>
+      <p>Ms Koh Boey Kwee</p>
+      <p>Ms Lai Peck Chai</p>
+      <p>Ms Nurdiyanah Bte Mohd Daud</p>
+      <p>Ms Tan Sok Mun Ruth</p>
+      <p>Ms Ten Cai Tian</p>
+      <p>Ms Wang Shuhui Mabel</p>
+    </div>
+  </li>
 </ul>
