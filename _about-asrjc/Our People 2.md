@@ -120,4 +120,45 @@ description: ""
 			<p>Mdm Yao Heping</p>
     </div>
 	</li>
+   <li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Mathematics Department</label>
+    <div>
+      <p style="margin-bottom:0;"><b>HOD Mathematics and School Staff Developer</b></p>
+      <p style="margin : 0; padding-top:0;">Mr Kan Kok Leong</p>
+      <p style="margin-bottom:0;"><b>JC1 Deputy Dean</b></p>
+      <p style="margin : 0; padding-top:0;">Mr Lee Han Meng Desmond</p>
+      <p style="margin-bottom:0;"><b>Senior Teachers</b></p>
+      <p style="margin : 0; padding-top:0;">Mr Anuar Bin Kassim</p>
+			<p style="margin : 0; padding-top:0;">Mr Cheu Ker Jim</p>
+      <p style="margin-bottom:0;"><b>SH Mathematics</b></p>
+      <p style="margin : 0; padding-top:0;">Mr Lim Ting</p>
+						<p style="margin-bottom:0;"><b>SH Mathematics</b></p>
+			<p style="margin : 0; padding-top:0;">Mr Tay Guo Yong</p>
+			<p style="margin-bottom:0;"><b>SH Information and Communication Technology</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Koh Wenting</p>
+			<p style="margin-bottom:0;"><b>SH IME & EdTech (Covering)</b></p>
+			<p style="margin : 0; padding-top:0;">Mr Lam Meng Hwee</p>
+      <p style="margin-bottom:0;"><b>Teachers</b></p>
+      <p style="margin : 0; padding-top:0;">Ms Alviedo Dionne Rochelle Menez</p>
+			<p>Ms Ang Soey Leng Lynn</p>  
+			<p>Ms Aw Yuan Ling Cheryl</p>
+			<p>Ms Choo Li Min Bernadette Teresa</p>  
+			<p>Ms Daljit Kaur d/o Sundit Singh</p>  
+			<p>Mdm Eng Seok Hoon Rose</p>
+			<p>Ms Goh Mei-Yi, Eunice</p>  
+			<p>Ms Hemma Balakrishnan</p>  
+			<p>Ms Ho Ying Xin, Berakah</p>
+			<p>Ms Lim Li Wen, Evon</p>
+			<p>Ms Lim Wenjia, Claresta</p>
+			<p>Ms Choo Li Min Bernadette Teresa</p>
+			<p>Ms Loh Yee Wei Clare</p>
+			<p>Mr Peter John Herd</p>
+			<p>Ms Sim Shan Lin</p>
+			<p>Mr Tan Deng Zheng</p> 
+			<p>Mr Tsui Hui Ee Samuel</p>
+			<p>Ms Xu Xiuwen</p>
+			<p>Ms Usha d/o Pillai</p>
+    </div>
+  </li>
 </ul>
