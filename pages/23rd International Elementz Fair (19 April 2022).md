@@ -101,7 +101,7 @@ Students can use the sample presentation deck titled **IEF 2022 Science Research
 	* Labelled Illustration and/or Photographs of Prototype
 	* STEM Application in the Prototype
 
-* Students can use the sample presentation deck titled **IEF 2022 Innovation Deck (Prototype)** for reference, which can be found in https://tinyurl.com/23ElementzProjectTemplates.
+* Students can use the sample presentation deck titled **IEF 2022 Innovation Deck (Prototype)** for reference, which can be found [here](https://tinyurl.com/23ElementzProjectTemplates) https://tinyurl.com/23ElementzProjectTemplates.
 
 * Shortlisted teams can use their prototype to aid their presentation during the final judging.
 
