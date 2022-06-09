@@ -62,7 +62,7 @@ Only students with net L1R5 equal or less than ASRJC cut-off points can be consi
 
 You can download the user guide for appeal<a href="/files/2022-User-Guide-for-Appeal.pdf">here</a>.
 
-<b>Only shortlisted candidates will be called up for an interview.</B>
+<b>Only shortlisted candidates will be called up for an interview.</b>
 
 All shortlisted candidates will be notified before the end of the Appeal period. Shortlisted candidates are to bring along the original and a duplicate copy of the:
 
@@ -75,7 +75,7 @@ All shortlisted candidates will be notified before the end of the Appeal period.
 
 ### **Subject Combinations in ASRJC**
 
-The list of subject combinations offered in 2022 is downloadable **[here](https://asrjc.moe.edu.sg/wp-content/uploads/2022/01/2022-Subject-Combinations-new.pdf).**
+The list of subject combinations offered in 2022 is downloadable <a href="files/2022-Subject-Combinations-new.pdf"> here</a>.
 
 ### **Selection Tests**
 
