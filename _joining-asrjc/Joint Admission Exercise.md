@@ -58,7 +58,7 @@ Students can enjoy up to a maximum of 4 bonus points. However, a minimum raw sco
 
 The Appeal period starts on 4 Feb, and will end on 9 Feb 2022.
 
-Only students with net L1R5 equal or less than ASRJC cut-off points can be considered for appeals. All appeals application must be completed online. The online application form can be accessed **[here](https://portal.asrjc.edu.sg/appeal)** ([**https://portal.asrjc.edu.sg/appeal**](https://portal.asrjc.edu.sg/appeal)). <b>The online application form will close at the end of the Appeal period.</b>
+Only students with net L1R5 equal or less than ASRJC cut-off points can be considered for appeals. All appeals application must be completed online. The online application form can be accessed <a href="https://portal.asrjc.edu.sg/appeal"> here</a>. <b>The online application form will close at the end of the Appeal period.</b>
 
 You can download the user guide for appeal<a href="/files/2022-User-Guide-for-Appeal.pdf">here</a>.
 
