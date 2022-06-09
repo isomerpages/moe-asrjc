@@ -108,9 +108,14 @@ You can still contact the School Counsellor the next working day during office h
 	</li>
    <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">1.2 RETURNING SINGAPOREANS </label>
+    <label for="accordion2">How is counselling done?</label>
     <div>
-      <p>Returning Singaporeans seeking admission to ASRJC are required to participate in the School Placement Exercise for Returning Singaporeans - Junior Colleges and Millennia Institute (SPERS-JC/MI). It is a centralised placement exercise conducted in November each year for Returning Singaporeans who wish to join the Pre-University 1 level at the beginning of the next academic year.</p>
+      <p>Counselling is usually done one-to-one in the counselling room. This is done so as to provide a conducive and safe environment for effective counselling to take place. In unique situations, counselling may be done in a group setting. All sessions are kept confidential EXCEPT when there is reason to believe that the client will:</p>
+			<ol>
+        <li>Cause harm to self.</li>
+        <li>Cause harm to other.</li>
+        <li>Commit a crime under Singapore Law.</li>
+      </ol>
 			<p>Registration for SPERS - JC/MI opens in July each year and more information about SPERS-JC/MI is available here (insert a valid link).</p>
 			<p>Click <a href="/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporeans_30-Dec-2019.pdf">here</a> to download the ASRJC Application Form for Returning Singaporeans.</p>
     </div>
