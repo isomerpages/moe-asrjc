@@ -79,4 +79,22 @@ description: ""
 			<p>Ms Usha d/o Pillai</p>
     </div>
   </li>
+	 <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Humanities Department</label>
+    <div>
+      <p style="margin-bottom:0;"><b>HOD Humanities</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Ong Shu Hui</p>
+			<p style="margin-bottom:0;"><b>JC2 Dean</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Zhu Youyan, Corrine</p>
+			<p style="margin-bottom:0;"><b>SH EP</b></p>
+			<p style="margin : 0; padding-top:0;">Mr Goh Ying Shi Darwin</p>
+			<p style="margin-bottom:0;"><b>Teachers</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Lim Mei Fu Gayne</p>
+			<p>Ms Neo Zhi Wei</p>
+			<p>Mr Ng Kim Teck</p>
+			<p>Mr Ng Mong Rong Justin</p>
+			<p>Mr Peh Yang Beng Kenneth</p>
+    </div>
+	</li>
 </ul>
