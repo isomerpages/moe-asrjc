@@ -221,15 +221,29 @@ description: ""
       <p style="margin-bottom:0;"><b>SH Guidance</b></p>
       <p style="margin : 0; padding-top:0;">Mr Yang Weizheng, Adrian</p>
       <p style="margin-bottom:0;"><b>Teachers</b></p>
-      <p style="margin : 0; padding-top:0;">Ms Foo Yong Jeh</p>
-			<p>Ms Koh Seok Xian</p>  
-			<p>Mdm Koh Suh Miin</p>
-			<p>Mr Lau Haw Ping</p>
-			<p>Mr Lee Dong Liang</p>
-			<p>Ms Ng Cheng Yee</p>
-			<p>Mdm Sundraes Teckwani</p>
-			<p>Mr Tan Chin Kah</p>
-			<p>Ms Tan Li Rong</p>
+			<p style="margin : 0; padding-top:0;">Ms Agnes Chia Yi Fang</p>
+			<p>Ms Ang Soey Leng Lynn</p>
+			<p>Ms Aw Meng Yuan</p>
+			<p>Mr Chia Zhao Shan Elsen</p>  		
+			<p>Ms Chua Charlotte</p>  					
+			<p>Ms Eng Chai Hoon Jaslyn</p>					
+			<p>Mdm Goh Sok Leng</p>  		
+			<p>Mr Goh Wing Hoe, Vincent</p>  					
+			<p>Ms Hu Meijiao</p>					
+			<p>Ms Khoo Ching Wan</p>		
+			<p>Mrs Lian-Lim Chew Ling</p>	
+			<p>Ms Lee Gui Wei</p>  		
+			<p>Ms Leow Shu Ting</p>  					
+			<p>Mdm Leung Sau Wai</p>					
+			<p>Mr Ng Song En, John</p>  		
+			<p>Mr Peh Kar Liang</p>  					
+			<p>Ms Seah Suei Hua Jocelyn</p>		
+			<p>Ms Tan Ee Yong</p>	
+			<p>Mr Tan Heng Huat, Jason</p>	
+			<p>Mdm Tan Pei Yun</p>  		
+			<p>Ms Tok Kah En</p>  					
+			<p>Mrs Wong Foon Mui</p>					
+			<p>Mr Yeong Chong Yiing</p>		
     </div>
   </li>
 </ul>
