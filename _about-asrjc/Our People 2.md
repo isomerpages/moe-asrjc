@@ -245,4 +245,55 @@ description: ""
 			<p>Mr Yeong Chong Yiing</p>		
     </div>
   </li>
+	 <li>						
+    <input id="accordion10" type="checkbox">						
+    <label for="accordio10">Executive & Administrative Staff</label>		
+    <div>
+			<p style="margin-bottom:0;"><b>Administrative Manager</b></p>
+			<p style="margin : 0; padding-top:0;">Mdm Lee Lian Hong</p>
+			<p style="margin-bottom:0;"><b>Operations Manager</b></p>	
+			<p style="margin : 0; padding-top:0;">Mr Kwok Sian Khee Sam</p>
+			<p style="margin-bottom:0;"><b>Administrative Executives</b></p>				
+			<p style="margin : 0; padding-top:0;">Mrs Kun-Ong Suan Pek Geraldine</p>						
+			<p style="margin : 0; padding-top:0;">Mdm Rohdiya Bte Aman</p>
+			<p style="margin-bottom:0;"><b>Senior School Counsellor</b></p>					
+			<p style="margin : 0; padding-top:0;">Ms Chiang Yik Huey, Sophia</p>				
+			<p style="margin-bottom:0;"><b>ICT Manager</b></p>
+			<p style="margin : 0; padding-top:0;">Mr Tan Wee Dat</p>			
+			<p style="margin-bottom:0;"><b>Desktop Engineer</b></p>			
+			<p style="margin : 0; padding-top:0;">Mr Wong Ee Kiong</p>			
+			<p style="margin : 0; padding-top:0;">Mr Pee Chun Kan</p>			
+			<p style="margin-bottom:0;"><b>Management Support Officers</b></p>			
+			<p style="margin : 0; padding-top:0;">Mdm Norliah Bte Jais</p>
+			<p style="margin : 0; padding-top:0;">Mdm Rohaya</p>			
+			<p style="margin-bottom:0;"><b>AVA Technician</b></p>			
+      <p style="margin : 0; padding-top:0;">Mr Lim Wenjun</p>						
+      <p style="margin-bottom:0;"><b>Technical Support Officers</b></p>	
+			<p style="margin : 0; padding-top:0;">Mr Liew Chee Keong Calvin</p>						
+			<p style="margin : 0; padding-top:0;">Mr Lim Sim Seng Andrew</p>			
+			<p style="margin : 0; padding-top:0;">Mrs Ng-Lam Chwee Wah</p>			
+			<p style="margin : 0; padding-top:0;">Ms Nurlela Binte Hamzah</p>			
+			<p style="margin : 0; padding-top:0;">Mr Oh Piow Kwang			
+			</p>			
+			<p style="margin : 0; padding-top:0;">Ms Tan Lay Kwee Joanne</p>			
+      <p style="margin-bottom:0;"><b>Corporate Support Officers</b></p>						
+      <p style="margin : 0; padding-top:0;">Ms Hannah Yeo Yen Ling</p>						
+      <p style="margin-bottom:0;"><b>Operations Support Officers</b></p>						
+      <p style="margin : 0; padding-top:0;">Mdm Resma Bte Gulzar Mohd</p>						
+			<p style="margin : 0; padding-top:0;">Mdm Choo Ah Sai Lina</p>
+			<p style="margin : 0; padding-top:0;">Mdm Jamuna Rani D/O Muthia</p>			
+			<p style="margin : 0; padding-top:0;">Mdm Lim Chey Keng Anne</p>			
+      <p style="margin : 0; padding-top:0;">Mr Neo Say Kiong</p>	
+			<p style="margin : 0; padding-top:0;">Mr Ng Tuck Sing Andy</p>
+			<p style="margin : 0; padding-top:0;">Mdm Oh Siew Eng</p>			
+			<p style="margin : 0; padding-top:0;">Ms Soh Imm Gim</p>			
+			<p style="margin : 0; padding-top:0;">Mdm Lim Chey Keng Anne</p>			
+      <p style="margin : 0; padding-top:0;">Ms Tan Yuen Peng</p>	
+			<p style="margin : 0; padding-top:0;">Mdm Tan Seah Gek Jessica</p>						
+			<p style="margin : 0; padding-top:0;">Mdm Toh Swee Ai Judy</p>
+			<p style="margin : 0; padding-top:0;">Mdm Usharani Uthaya Kumaran</p>			
+			<p style="margin-bottom:0;"><b>Librarian</b></p>			
+			<p style="margin : 0; padding-top:0;">Ms Jenny Heng</p>			
+    </div>						
+  </li>						
 </ul>
