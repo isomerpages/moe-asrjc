@@ -69,9 +69,9 @@ All enquiries can be directed to Mr Kelvin Soo <a href="mailto:soo_kah_wai_kelvi
 
 Students can use the sample presentation deck titled IEF 2022 Science Research Deck for reference, which can be found [here].(https://tinyurl.com/23ElementzProjectTemplates)
 
-* If the research projects conducted involve animals and birds, please adhere to the rules regarding the care and use of animals for scientific purposes, as published on the website of The Animal & Veterinary Service (AVS) [here](https://www.nparks.gov.sg/avs/resources/legislation/animals-and-birds-act-chapter-7). https://www.nparks.gov.sg/avs/resources/legislation/animals-and-birds-act-chapter-7
+* If the research projects conducted involve animals and birds, please adhere to the rules regarding the care and use of animals for scientific purposes, as published on the website of The Animal & Veterinary Service (AVS) [here](https://www.nparks.gov.sg/avs/resources/legislation/animals-and-birds-act-chapter-7). 
 
-* Most proposed research projects involving vertebrate animals and/or potentially hazardous biological agents must be reviewed and approved by the Scientific Review Committee (SRC) before experimentation. All proposed human research must be reviewed and approved by an Institutional Review Board (IRB) before experimentation begins. For more information, please visit
+* Most proposed research projects involving vertebrate animals and/or potentially hazardous biological agents must be reviewed and approved by the Scientific Review Committee (SRC) before experimentation. All proposed human research must be reviewed and approved by an Institutional Review Board (IRB) before experimentation begins. For more information, please visit [here](https://www.science.edu.sg/docs/default-source/scs-documents/for-schools/ssef_2018_operational_guidelines_for_src_and_irb_2018.pdf).
 https://www.science.edu.sg/docs/default-source/scs-documents/for-schools/ssef_2018_operational_guidelines_for_src_and_irb_2018.pdf
 
 **Annex B**
