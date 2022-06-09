@@ -33,8 +33,7 @@ All enquiries can be directed to Mr Kelvin Soo (soo_kah_wai_kelvin@schools.gov.s
 
 **CATEGORY A: SCIENCE AND/OR MATHEMATICS RESEARCH PROJECT**
 
-**1. OVERVIEW: PARTICIPATION RULES AND REGULATIONS **
-
+**1. OVERVIEW: PARTICIPATION RULES AND REGULATIONS**
 * Primary research and/or secondary research may be conducted for Science and/or Mathematics Research Project. Primary Research is based on raw first-hand data collected by the researchers themselves. Secondary research involves the use of information gathered originally by primary research which is then further analysed.
 * Each project must be sponsored by a teacher and approved by the HOD. It is the responsibility of the teacher representatives and/or the HOD to ensure that the research project is carried out by student participants in a COVID-19 safe manner in accordance to the prevailing rules. Schools must ensure that the necessary precautions are carried out.
 * **Both the synopsis and presentation deck** must be submitted into the Google Drive folder designated to the school by the **submission deadline, 14 March 2022 (Monday)**.
