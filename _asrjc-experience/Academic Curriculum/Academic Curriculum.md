@@ -152,7 +152,7 @@ The H3 curriculum is designed to allow exceptionally strong students who have th
     <tr>
     <td>
 			
-<b>Maximum number of Academic Units (AU</b>
+<b>Maximum number of Academic Units (AU)</b>
 </td>
 <td>
 	
