@@ -3,9 +3,6 @@ title: Joint Admission Exercise
 permalink: /joining-asrjc/joint-admission-exercise/
 description: ""
 ---
-
-
-
 Joint Admissions Exercise
 =========================
 
@@ -32,35 +29,9 @@ Past cut-off points for L1R5 aggregate after deduction of bonus points for Joint
 | 2022     | 11     | 10     |
 
 #### Calculation of L1R5 Score
-<html>
-<head>
-<style>
-</style>
-</head>
-<body>
-<table>
-  <tr>
-    <td>L1</td>
-		<td>EL/ Higher MTL</td>
-  </tr>
-  <tr>
-    <td>R1</td>
-    <td>Humanities/ Higher Art/ Higher Music/ Malay or Chinese (Special Programme)/ Bahasa Indonesian</td>
-  </tr>
-  <tr>
-    <td>R2</td>
-    <td>Mathematics/ Science</td>
-  </tr>
-  <tr>
-    <td>R3</td>
-    <td>Any subjects stated in R1 and R2</td>
-  </tr>
-  <tr>
-    <td>R4+R5</td>
-    <td>Any other O-level subjects (except Religious Knowledge and CCA) 
-</table>
-</body>
-</html>
+	
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#3A3A3A;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">L1</span></th><th style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#3A3A3A;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">EL/ Higher MTL</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#3A3A3A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">R1</span></td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#3A3A3A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Humanities/ Higher Art/ Higher Music/ Malay or Chinese (Special Programme)/ Bahasa Indonesian</span></td></tr><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#3A3A3A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">R2</span></td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#3A3A3A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Mathematics/ Science</span></td></tr><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#3A3A3A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">R3</span></td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#3A3A3A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Any subjects stated in R1 and R2</span></td></tr><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#3A3A3A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">R4+R5</span></td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#3A3A3A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Any other O-level subjects (except Religious Knowledge and CCA)</span></td></tr></tbody></table>
+	
 	
 #### Bonus Points Computation
 <html>
