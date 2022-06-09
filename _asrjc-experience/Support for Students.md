@@ -118,13 +118,25 @@ You can still contact the School Counsellor the next working day during office h
       </ol>
     </div>
 	</li>
-	    <li>
+	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">1.3 INTERNATIONAL STUDENTS </label>
+    <label for="accordion3">How long will counselling last? </label>
     <div>
-			<p>International students seeking admission into ASRJC should visit MOE International Students Admissions for more information about the admission and registration procedure. International students are advised to sit for a centralised assessment - Junior College Principals Academy Certification Test (J-PACT) before applying to ASRJC. Information about the J-PACT test is available <a href="https://www.pact.sg/index.php?option=com_content&amp;view=article&amp;id=59:what-is-jpact&amp;catid=47:what-is-jpact&amp;Itemid=95">here</a>.
-		
-</p>
-<p>Click <a href="/files/ASRJC-Application-Form-for-Admission-of-International-Students_30-Dec-2019.pdf">here</a> to download the ASRJC Application Form for International Student.</p>
+			<p>A single session will usually last for about 45 minutes to an hour. The number of sessions will depend on the nature of the issue that is being dealt with. Termination of the sessions can either be initiated by the counsellor or the client.</p>
     </div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Do I need to make an appointment? </label>
+    <div>
+			<p>The counselling service works on an appointment system. An appointment can be made either through SMS or email. The contact info can be found above. Students can also walk-in, although a prior appointment is preferred. In certain cases a teacher may refer a student to the counsellor. In such cases the counsellor will contact the student to arrange for an appointment.</p>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">How long will counselling last? </label>
+    <div>
+			<p>The counselling service in ASRJC is rendered free of charge. In the event that a referral is made to external parties for assessment or related services, the cost involved will be determined solely by the external agencies.</p>
+    </div>
+	</li>
+</ul>
