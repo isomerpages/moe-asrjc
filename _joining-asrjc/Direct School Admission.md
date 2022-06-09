@@ -3,13 +3,6 @@ title: Direct School Admission
 permalink: /joining-asrjc/direct-school-admission/
 description: ""
 ---
-<img src="/images/Basketball-Boys-1024x676.jpg" 
-     style="width:50%">
-<img src="/images/Dance-1024x668.jpg" 
-     style="width:50%">
-<img src="/images/Symphonic-Band-1024x683.jpg" 
-     style="width:50%">
-		 
 ![](/images/DSA.jpg)
 		 
 **Direct School Admission (DSA-JC) Exercise 2022**
