@@ -67,7 +67,8 @@ All enquiries can be directed to Mr Kelvin Soo <a href="mailto:soo_kah_wai_kelvi
 	*  Impact or Application of Results
 	*  Bibliography
 
-Students can use the sample presentation deck titled IEF 2022 Science Research Deck for reference, which can be found in [here](https://tinyurl.com/23ElementzProjectTemplates)
+Students can use the sample presentation deck titled IEF 2022 Science Research Deck for reference, which can be found [here].(https://tinyurl.com/23ElementzProjectTemplates)
+
 (https://tinyurl.com/23ElementzProjectTemplates).
 
 * If the research projects conducted involve animals and birds, please adhere to the rules regarding the care and use of animals for scientific purposes, as published on the website of The Animal & Veterinary Service (AVS) at https://www.nparks.gov.sg/avs/resources/legislation/animals-and-birds-act-chapter-7
