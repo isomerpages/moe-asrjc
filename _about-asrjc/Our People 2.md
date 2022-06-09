@@ -31,6 +31,14 @@ description: ""
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
 			<p>Mr Chen Huangzhi</p>
+			<p>Mr Gan Teck Ming, Alvin</p>
+			<p>Mr Jowell Yong Kaijie</p>
+			<p>Ms Koh Boey Kwee</p>
+			<p>Ms Lai Peck Chai</p>
+			<p>Ms Nurdiyanah Bte Mohd Daud</p>
+			<p>Ms Tan Sok Mun Ruth</p>
+			<p>Ms Ten Cai Tian</p>
+			<p>Ms Wang Shuhui Mabel</p>
     </div>
 	</li>
 </ul>
