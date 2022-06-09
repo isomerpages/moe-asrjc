@@ -4,9 +4,6 @@ permalink: /asrjc-experience/special-programmes/
 description: ""
 third_nav_title: Special Programmes
 ---
-
-
-
 ### Science, Technology, Engineering, and Mathematics (STEM) Programme
 
 **Science, Technology, Engineering, and Mathematics (STEM) Programme**
@@ -17,7 +14,7 @@ Click to find out more about the following ASRJC STEM opportunities:
 
 **Research Attachments**
 
-*   [Nanyang Research Programme](https://asrjc.moe.edu.sg/special-programmes/nanyang-research-programme/) (NRP) with Nanyang Technological University (NTU)
+*   [Nanyang Research Programme](/special-programmes/nanyang-research-programme/) (NRP) with Nanyang Technological University (NTU)
 *   [Science Research Programme](https://asrjc.moe.edu.sg/special-programmes/science-research-programme-srp/) (SRP) with National University of Singapore
 *   [Singapore University of Technology and Design (SUTD) Research Mentorship Programme (RMP)](https://asrjc.moe.edu.sg/special-programmes/singapore-university-of-technology-and-design-sutd-research-mentorship-programme-rmp/)
 
