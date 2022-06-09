@@ -17,4 +17,4 @@ A Parent Kit for HBL has been compiled by MOE to explain how home-based learning
 
 ### Parent Support Group (PSG)
 
-ASRJC's Parent Support Group (PSG) is a volunteer group comprising parents who wish to support the holistic growth of our students. Your participation in ASRJC PSG will certainly make a positive difference. Should you be keen to be part of the PSG, please fill up this [form](https://form.gov.sg/#!/628adb8bca2dcc0012c0d8db).
+ASRJC's Parent Support Group (PSG) is a volunteer group comprising parents who wish to support the holistic growth of our students. Your participation in ASRJC PSG will certainly make a positive difference. Should you be keen to be part of the PSG, please fill up this **[form](https://form.gov.sg/#!/628adb8bca2dcc0012c0d8db).**
