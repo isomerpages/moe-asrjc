@@ -3,8 +3,6 @@ title: Returning Singaporeans or International students
 permalink: /joining-asrjc/returning-singaporean-international-students/
 description: ""
 ---
-
-
 #### Returning Singaporeans
 
 Returning Singaporeans (RS) who wish to seek admission to JC1 in the next academic year are **required** to participate in the School Placement Exercise for Returning Singaporeans (SPERS-JC/MI) jointly conducted by the Ministry of Education and the Principal’s Academy. Click **[here](https://beta.moe.gov.sg/returning-singaporeans/post-secondary/spers/)** for more information.
