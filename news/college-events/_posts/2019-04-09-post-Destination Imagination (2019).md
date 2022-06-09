@@ -5,7 +5,7 @@ date: 2019-04-09
 layout: post
 description: ""
 ---
-![](/images/Destination%20Imagination-Loh-Han-Loong-1024x768.jpg)
+![](/images/6a784b05-a60c-4ce0-9fa4-52615fd2d597-Loh-Han-Loong-1024x768.jpg)
 
 Destination Imagination: As part of the ASR Scholars Programme, a team of 7 students participated in Destination Imagination (DI), Nationals 2019.DI consists of project-based challenges that are designed to build confidence and develop extraordinary creativity, critical thinking, communication, and teamwork skills. Held on the 6th April 2019, our team of students presented their creative and innovative solution, the product of months of hard work, to the challenge and was placed overall champions in the category, Medical Mystery (Secondary level).
 
