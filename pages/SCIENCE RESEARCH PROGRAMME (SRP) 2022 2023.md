@@ -61,4 +61,20 @@ The admission criteria include:
 * Successful completion of Research Methods Module (RMM),
 * Attendance at the 34th Science Research Congress (online), and
 * Acceptance of an approved Research Plan by a mentor.
+
+
+**RESEARCH METHODS MODULE (RMM)**
+
+The RMM will be accessible online during the first two weeks in April. Students are introduced to the library resources available on-campus, basic laboratory safety, ethics in research and gain some insights into the current R&D available in participating departments/research centres in NUS.  Students who intend to proceed to SRP 2022/23 then identify a self-selected research topic, perform background literature search and formulate a viable research plan.
+
+On completion of the RMM and attendance at the 34th Research Congress, students interested to proceed with the Mentorship Attachment and Science Research Congress may then submit a Research Plan to a prospective mentor and apply for admission to SRP 2022/23 in May.  On acceptance of the Research Plan approved by either a H3-SRP supervisor or an Enrichment-SRP mentor, they qualify as participants of the SRP 2022/23.
+
  
+
+TIME FRAME FOR RMM
+
+| Date |  |
+|---|---|
+| 1 -14 Apr 22 | Complete the Research Methods Module (RMM) |
+| 29 Apr 22 | Attend 34th Science Research Congress |
+
