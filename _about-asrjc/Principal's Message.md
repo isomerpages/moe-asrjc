@@ -3,8 +3,8 @@ title: Principal's Message
 permalink: /about-asrjc/principals-message/
 description: ""
 ---
-
 ![](/images/Principal's%20message%20image.jpg)
+
 **_Welcome to Anderson Serangoon Junior College_**
 
 Our vision, “Imaginative Thinkers, Caring Leaders”, encapsulates the overall direction and purpose of ASRJC. By embracing students from more than 120 secondary schools, ASRJC is not only diverse and inclusive, we are also dynamic and enterprising. We will be one of the first colleges to offer a unique blend of STEAM (Science, Technology, Engineering, Arts & Mathematics) education to help prepare our students for a fast changing world.  
@@ -15,4 +15,4 @@ Get to know ASRJC and let us be part of your growth.
 
 **Manogaran Suppiah**  
 **Principal  
-****Anderson Serangoon Junior College**
+**Anderson Serangoon Junior College**
