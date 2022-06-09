@@ -34,4 +34,5 @@ Allocation of projects to successful students: **By mid April 2021**
 
 Contact details of teacher mentor: Mdm Goh Sok Leng                            (goh_sok_leng@schools.gov.sg)
 
-![](/images/SUTD-QR-298x300.png)
+<img src="/images/SUTD-QR-298x300.jpg" 
+     style="width:25%">
