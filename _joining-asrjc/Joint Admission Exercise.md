@@ -60,7 +60,8 @@ The Appeal period starts on 4 Feb, and will end on 9 Feb 2022.
 
 Only students with net L1R5 equal or less than ASRJC cut-off points can be considered for appeals. All appeals application must be completed online. The online application form can be accessed **[here](https://portal.asrjc.edu.sg/appeal)** ([**https://portal.asrjc.edu.sg/appeal**](https://portal.asrjc.edu.sg/appeal)). **The online application form will close at the end of the Appeal period.**
 
-You can download the user guide for appeal **[here.](https://asrjc.moe.edu.sg/wp-content/uploads/2022/02/2022-User-Guide-for-Appeal.pdf)**
+<p>You can download the user guide for appeal<p><a href="/files/2022-User-Guide-for-Appeal.pdf">here</a>.</p>
+</p>
 
 **Only shortlisted candidates will be called up for an interview.**
 
