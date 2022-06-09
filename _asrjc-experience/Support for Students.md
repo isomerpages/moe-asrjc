@@ -96,5 +96,34 @@ Tel: 1800 3535 800 (Daily: 10am - 10pm, except public holidays)
 
 You can still contact the School Counsellor the next working day during office hours after you have spoken to any of the above services.
 
+#### FAQs
 
-
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">What is counselling?</label>
+    <div>
+      <p>Counselling simply refers to the process of talking to a trained professional in the aim of addressing any social, emotional or psychological issues that a person may have.</p>
+			<p>The Joint Admissions Exercise 2022 is scheduled to be conducted in January 2022.</p>
+			<p>More information on JAE can be found on MOE's website here (insert valid link here).</p>
+    </div>
+	</li>
+   <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">1.2 RETURNING SINGAPOREANS </label>
+    <div>
+      <p>Returning Singaporeans seeking admission to ASRJC are required to participate in the School Placement Exercise for Returning Singaporeans - Junior Colleges and Millennia Institute (SPERS-JC/MI). It is a centralised placement exercise conducted in November each year for Returning Singaporeans who wish to join the Pre-University 1 level at the beginning of the next academic year.</p>
+			<p>Registration for SPERS - JC/MI opens in July each year and more information about SPERS-JC/MI is available here (insert a valid link).</p>
+			<p>Click <a href="/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporeans_30-Dec-2019.pdf">here</a> to download the ASRJC Application Form for Returning Singaporeans.</p>
+    </div>
+	</li>
+	    <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">1.3 INTERNATIONAL STUDENTS </label>
+    <div>
+			<p>International students seeking admission into ASRJC should visit MOE International Students Admissions for more information about the admission and registration procedure. International students are advised to sit for a centralised assessment - Junior College Principals Academy Certification Test (J-PACT) before applying to ASRJC. Information about the J-PACT test is available <a href="https://www.pact.sg/index.php?option=com_content&amp;view=article&amp;id=59:what-is-jpact&amp;catid=47:what-is-jpact&amp;Itemid=95">here</a>.
+		
+</p>
+<p>Click <a href="/files/ASRJC-Application-Form-for-Admission-of-International-Students_30-Dec-2019.pdf">here</a> to download the ASRJC Application Form for International Student.</p>
+    </div>
+	</li>
