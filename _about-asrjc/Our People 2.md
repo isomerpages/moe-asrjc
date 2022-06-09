@@ -24,10 +24,12 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Ms Tan Su Chin</p>
 			<p style="margin-bottom:0;"><b>Senior Teacher</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Kat Kar Hwee</p>
-			<p style="margin-bottom:0;"><b>HOD Economics</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Tan Su Chin</p>
-			<p style="margin-bottom:0;"><b>Senior Teacher</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Kat Kar Hwee</p>
+			<p style="margin-bottom:0;"><b>SH Economics</b></p>
+			<p style="margin : 0; padding-top:0;">Mr Tan Boon Sun</p>
+			<p style="margin-bottom:0;"><b>SH Economics</b></p>
+			<p style="margin : 0; padding-top:0;">Mr Chung Ka Wing Kevin</p>
+			<p style="margin-bottom:0;"><b>Teachers</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
     </div>
 	</li>
 </ul>
