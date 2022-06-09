@@ -89,3 +89,37 @@ TIME FRAME FOR SRP 2022/23
 | Mid Jan 23 | Submit H3- and Enrichment-SRP scientific papers & abstracts |
 | Late Feb 23 | Oral Defence by H3-SRPians 2022/23 |
 | Late Apr 23 | Presentations by Enrichment-SRPians 2022/23 at the 35th Science Research Congress |
+
+**APPLICATION PROCEDURES FOR RESEARCH METHODS MODULE (RMM)**
+
+1.  Interested students **MUST** meet the following criteria before submitting your online application:
+
+| **Criteria** | **H3-SRP** | **Enrichment-SRP** |
+|---|---|---|
+| Raw L1R5 | 8 or better | 10 or better |
+| English Language | At least A2 | At least B3 |
+| Pure Science subjects | At least A2 | NA |
+
+
+2.  Prepare the following information before submitting your online application:
+
+*A.    Questions:*
+* What do you hope to achieve as a participant in RMM? (max: 100 words)
+* What are your long-term career goals? (max: 100 words)
+
+
+*B.    Details of participation in science / engineering / mathematics-related activities:*
+
+(Up to 6 per category from Sec/Year 1 to 4)
+
+* Mentorship Attachment (State the Programme, Institution/Organisation/Dept and Year)
+* Science & Engineering Fair/Science Fair/Project Work (State title of project, award and year obtained)
+* Bio/Chem/Informatics/Math/Phys Competition and Olympiad (State highest grade/award and year obtained)
+* Tan Kah Kee Young Inventors' Competition and/or Innovation Programme (IvP) Fair (State title of product, award/prize and year obtained)
+
+3.  Apply online at https://go.gov.sg/srprmm22 between 11 February (Friday) and 18 February 2022 (Friday).
+
+4.  Successful applicants of RMM will be notified via email in end March 2022.
+
+
+For inquiries, please contact Mrs Teo (Physics department) at leung_sau_wai@schools.gov.sg
