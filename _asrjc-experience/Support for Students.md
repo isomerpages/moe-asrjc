@@ -104,8 +104,6 @@ You can still contact the School Counsellor the next working day during office h
     <label for="accordion1">What is counselling?</label>
     <div>
       <p>Counselling simply refers to the process of talking to a trained professional in the aim of addressing any social, emotional or psychological issues that a person may have.</p>
-			<p>The Joint Admissions Exercise 2022 is scheduled to be conducted in January 2022.</p>
-			<p>More information on JAE can be found on MOE's website here (insert valid link here).</p>
     </div>
 	</li>
    <li>
