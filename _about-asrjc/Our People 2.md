@@ -97,4 +97,29 @@ description: ""
 			<p>Mr Peh Yang Beng Kenneth</p>
     </div>
 	</li>
+	 <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Languages Department</label>
+    <div>
+      <p style="margin-bottom:0;"><b>HOD Languages</b></p>
+			<p style="margin : 0; padding-top:0;">Mdm Ong Kwee Hoon</p>
+			<p style="margin-bottom:0;"><b>Lead Teacher (Tamil Language)</b></p>
+			<p style="margin : 0; padding-top:0;">Mr Veeramuthu Ganesan</p>
+			<p style="margin-bottom:0;"><b>SH Chinese Language</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Esther Tan Pin Yong</p>
+			<p style="margin-bottom:0;"><b>SH Education and Career Guidance</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Ang Feng Ling</p>
+			<p style="margin-bottom:0;"><b>Teachers</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
+			<p>Mr Chen Huangzhi</p>
+			<p>Mr Gan Teck Ming, Alvin</p>
+			<p>Mr Jowell Yong Kaijie</p>
+			<p>Ms Koh Boey Kwee</p>
+			<p>Ms Lai Peck Chai</p>
+			<p>Ms Nurdiyanah Bte Mohd Daud</p>
+			<p>Ms Tan Sok Mun Ruth</p>
+			<p>Ms Ten Cai Tian</p>
+			<p>Ms Wang Shuhui Mabel</p>
+    </div>
+	</li>
 </ul>
