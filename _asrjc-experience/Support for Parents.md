@@ -3,6 +3,8 @@ title: Support for Parents
 permalink: /asrjc-experience/support-for-parents/
 description: ""
 ---
+### Support for Parents
+
 ASRJC firmly believes in the strategic partnership between parents and the College to support the holistic development of our students. The College strives to seek out avenues for effective collaboration that value adds to our students' learning experience.
 
 ### ASRJC Portal
