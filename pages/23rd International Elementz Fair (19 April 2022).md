@@ -100,7 +100,7 @@ https://www.science.edu.sg/docs/default-source/scs-documents/for-schools/ssef_20
 	* Labelled Illustration and/or Photographs of Prototype
 	* STEM Application in the Prototype
 
-* Students can use the sample presentation deck titled IEF 2022 Innovation Deck (Prototype) for reference, which can be found in https://tinyurl.com/23ElementzProjectTemplates.
+* Students can use the sample presentation deck titled **IEF 2022 Innovation Deck (Prototype)** for reference, which can be found in https://tinyurl.com/23ElementzProjectTemplates.
 
 * Shortlisted teams can use their prototype to aid their presentation during the final judging.
 
@@ -108,9 +108,9 @@ https://www.science.edu.sg/docs/default-source/scs-documents/for-schools/ssef_20
 
 * If the innovation projects involve vertebrate animals and/or potentially hazardous biological agents, they are most likely required to be reviewed and approved by the Scientific Review Committee (SRC) before experimentation. All proposed human research must be reviewed and approved by an Institutional Review Board (IRB) before experimentation begins. For more information, please visit https://www.science.edu.sg/docs/default-source/scs-documents/for-schools/ssef_2018_operational_guidelines_for_src_and_irb_2018.pdf
 
-Annex C
+**Annex C**
 
-ONLINE PRESENTATION SKILLS WORKSHOP
+**ONLINE PRESENTATION SKILLS WORKSHOP**
 
 The online presentation skills workshop was successfully concluded on 27th Jan 2021. We thank our presenters Mr Lam Meng Hwee, Mrs Lim Li Ting, and Mrs Chai Chung Mun for sharing tips on how to do an effective and clear presentation, as well as how to record a video using different platforms. If you missed our workshop, please view our recorded video below.
 
@@ -123,3 +123,5 @@ Anderson Secondary School, Chung Cheng High Yishun, Compassvale Secondary School
 (Thailand School) Mahidol Wittayanusorn School
 
 (Vietnam School) Bui Thi Xuan High School, and the Vinschool group of schools.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zUI0TmcUi8U?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
