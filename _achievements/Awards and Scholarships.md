@@ -11,3 +11,7 @@ description: ""
 | **Name of award** | **Organization offering the award** | **Name of recipient** | **PDG** |
 |:---:|:---:|:---:|:---:|
 | SAF Young Leader Award | SAF | Schuyler Walter Chua Zong Han | 20/35 |
+
+| Name of award 	| Organization offering the award 	| Name of recipient 	| PDG 	|
+|:---:	|:---:	|:---:	|:---:	|
+| SAF Young Leader Award 	| SAF 	| Schuyler Walter Chua Zong Han 	| 20/35 	|
