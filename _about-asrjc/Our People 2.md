@@ -169,4 +169,18 @@ description: ""
 			<p>Mr Lim Lek Ming, Joe</p>
     </div>
 	</li>
+   <li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">Project Work Department</label>
+    <div>
+      <p style="margin-bottom:0;"><b>HOD Project Work</b></p>
+      <p style="margin : 0; padding-top:0;">Mr Lim Che Pinn Andy</p>
+      <p style="margin-bottom:0;"><b>Teachers</b></p>
+      <p style="margin : 0; padding-top:0;">Mr Foo Chuan Wang Derek</p>
+			<p>Ms Khaw Maylee</p>  
+			<p>Ms Koh Yi Ting Cristee</p>
+			<p>Ms Lim Dun Lin</p>
+			<p>Ms Lim Li Wen Evon</p>
+    </div>
+  </li>
 </ul>
