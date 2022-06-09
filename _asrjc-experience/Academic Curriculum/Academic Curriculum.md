@@ -18,7 +18,7 @@ Starting from 2006, students entering Junior Colleges (JCs) and Millennia Instit
 
 Students will be given opportunities to learn from the following three different disciplines: Languages; Humanities & the Arts; and Mathematics & Sciences. For instance, a Humanities/ Arts student will take at least one contrasting subject from the Mathematics and Sciences disciplines, and vice versa.
 
-More information can be found on the [Ministry of Education website](https://www.moe.gov.sg/microsites/cpdd/alevel2006/).
+More information can be found on the Ministry of Education website (insert valid link)
 
 #### Project Work
 
