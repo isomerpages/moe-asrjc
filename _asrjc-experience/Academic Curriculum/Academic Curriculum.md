@@ -4,12 +4,9 @@ permalink: /academic-curriculum/
 description: ""
 third_nav_title: Academic Curriculum
 ---
-
-
-
 #### PROSPECTUS
 
-**[Click to view ASRJC's E-Prospectus](https://asrjc.moe.edu.sg/wp-content/uploads/2022/01/ASRJC-PROSPECTUS-2022-Web-Version-New.pdf)**
+Click to view ASRJC's E-Prospectus (file bigger than 5MB)
 
 #### JC CURRICULUM
 
@@ -145,7 +142,7 @@ The H3 curriculum is designed to allow exceptionally strong students who have th
   <tr>
     <td>
 			
-**Application Period**
+<b>Application Period</b>
 </td>
 <td>
 	
@@ -155,7 +152,7 @@ The H3 curriculum is designed to allow exceptionally strong students who have th
     <tr>
     <td>
 			
-**Maximum number of Academic Units (AU)**
+<b>Maximum number of Academic Units (AU</b>
 </td>
 <td>
 	
@@ -165,7 +162,7 @@ The H3 curriculum is designed to allow exceptionally strong students who have th
 	<tr>
     <td>
 			
-**Other Conditions**
+<b>Other Conditions</b>
 </td>
 <td>
 	
