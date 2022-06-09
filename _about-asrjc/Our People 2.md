@@ -222,7 +222,6 @@ description: ""
       <p style="margin : 0; padding-top:0;">Mr Yang Weizheng, Adrian</p>
       <p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Agnes Chia Yi Fang</p>
-			<p>Ms Ang Soey Leng Lynn</p>
 			<p>Ms Aw Meng Yuan</p>
 			<p>Mr Chia Zhao Shan Elsen</p>  		
 			<p>Ms Chua Charlotte</p>  					
