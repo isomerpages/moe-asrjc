@@ -53,6 +53,10 @@ description: ""
       <p style="margin : 0; padding-top:0;">Ms Chew Ai Ling Melissa</p>
       <p style="margin-bottom:0;"><b>SH General Paper</b></p>
       <p style="margin : 0; padding-top:0;">Ms Sharifah Nadzirah Bte Syed Zulkifli</p>
+						<p style="margin-bottom:0;"><b>SH General Paper</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Ang Hui Ting</p>
+			<p style="margin-bottom:0;"><b>SH English Literature</b></p>
+			<p style="margin : 0; padding-top:0;">Mdm Lim Sok Peng</p>
       <p style="margin-bottom:0;"><b>Teachers</b></p>
       <p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
       <p>Mr Chen Huangzhi</p>
