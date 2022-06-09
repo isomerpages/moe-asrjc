@@ -14,5 +14,5 @@ If you are looking for a college that will help you grow into a better and stron
 Get to know ASRJC and let us be part of your growth.
 
 **Manogaran Suppiah**  
-**Principal  
+**Principal**  
 **Anderson Serangoon Junior College**
