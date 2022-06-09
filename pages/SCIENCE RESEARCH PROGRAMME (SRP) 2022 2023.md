@@ -78,3 +78,14 @@ TIME FRAME FOR RMM
 | 1 -14 Apr 22 | Complete the Research Methods Module (RMM) |
 | 29 Apr 22 | Attend 34th Science Research Congress |
 
+TIME FRAME FOR SRP 2022/23
+
+| Date |  |
+|---|---|
+| By early May 22 | Apply for SRP 2022/23 |
+| 30 May – 24 Jun 22 | Attend at least 2-week Full-time Attachment during the vacation |
+| Jun – Nov 22 | Work on research projects |
+| Mid Aug 22 | Register H3-Science Research projects (if applicable) |
+| Mid Jan 23 | Submit H3- and Enrichment-SRP scientific papers & abstracts |
+| Late Feb 23 | Oral Defence by H3-SRPians 2022/23 |
+| Late Apr 23 | Presentations by Enrichment-SRPians 2022/23 at the 35th Science Research Congress |
