@@ -30,6 +30,7 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Chung Ka Wing Kevin</p>
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
+			<p>Mr Chen Huangzhi</p>
     </div>
 	</li>
 </ul>
