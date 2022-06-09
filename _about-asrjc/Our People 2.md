@@ -151,4 +151,22 @@ description: ""
 			<p>Ms Tan Li Rong</p>
     </div>
   </li>
+<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">Physical Education Department</label>
+    <div>
+      <p style="margin-bottom:0;"><b>HOD Physical Education</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Tay Li May</p>
+			<p style="margin-bottom:0;"><b>Senior Teachers</b></p>
+			<p style="margin : 0; padding-top:0;">Mr Chua Wee Lian William</p>
+			<p style="margin : 0; padding-top:0;">Ms Eleonor Rivera</p>
+			<p style="margin-bottom:0;"><b>SH PE & CCA (Covering)</b></p>
+			<p style="margin : 0; padding-top:0;">Mr Chang Shu Yuet</p>
+			<p style="margin-bottom:0;"><b>Teachers</b></p>
+			<p style="margin : 0; padding-top:0;">Mr Chong Song Cheng</p>
+			<p>Mr Ho Kuan Peng</p>
+			<p>Mr Lee Kok Weng</p>
+			<p>Mr Lim Lek Ming, Joe</p>
+    </div>
+	</li>
 </ul>
