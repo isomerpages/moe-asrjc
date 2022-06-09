@@ -13,7 +13,7 @@ The ASRJC Portal provides an online platform for parents to keep up-to-date with
 
 ### Parent Kit for Home-Based Learning
 
-A Parent Kit for HBL has been compiled by MOE to explain how home-based learning will work, and how parents can support their children's learning during this period. This has also been sent to parents through the Parents Gateway. Click on the following links to download **[part 1](https://asrjc.moe.edu.sg/wp-content/uploads/2020/05/Parent-Kit-Part-1.pdf/wp-content/uploads/2020/05/Parent-Kit-Part-1.pdf)** , **[part 4](https://asrjc.moe.edu.sg/wp-content/uploads/2020/05/Parent-Kit-Part-4.pdf)** and [**part 6**](https://asrjc.moe.edu.sg/wp-content/uploads/2020/06/Parent-Kit-Part-6.pdf) of the Kit, relevant to JCs. Other parts of the Parent Kit can be found at **[https://www.moe.gov.sg/parentkit](https://www.moe.gov.sg/parentkit).**
+A Parent Kit for HBL has been compiled by MOE to explain how home-based learning will work, and how parents can support their children's learning during this period. This has also been sent to parents through the Parents Gateway. Click on the following links to download **part 1** (insert valid link), **[part 4](/files/Parent-Kit-Part-4.pdf)** and **[part 6](/files/Parent-Kit-Part-6.pdf)** of the Kit, relevant to JCs. Other parts of the Parent Kit can be found [here](https://www.moe.gov.sg/parentkit).
 
 ### Parent Support Group (PSG)
 
