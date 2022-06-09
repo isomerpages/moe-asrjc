@@ -29,99 +29,84 @@ The invitation letter for the 23rd International Elementz Fair is attached here.
 
 All enquiries can be directed to Mr Kelvin Soo (soo_kah_wai_kelvin@schools.gov.sg)
 
-Annex A
+***Annex A***
 
-CATEGORY A: SCIENCE AND/OR MATHEMATICS RESEARCH PROJECT
+**CATEGORY A: SCIENCE AND/OR MATHEMATICS RESEARCH PROJECT**
 
-OVERVIEW: PARTICIPATION RULES AND REGULATIONS 
-1.1 Primary research and/or secondary research may be conducted for Science and/or Mathematics Research Project. Primary Research is based on raw first-hand data collected by the researchers themselves. Secondary research involves the use of information gathered originally by primary research which is then further analysed.
+**1. OVERVIEW: PARTICIPATION RULES AND REGULATIONS **
 
-1.2 Each project must be sponsored by a teacher and approved by the HOD. It is the responsibility of the teacher representatives and/or the HOD to ensure that the research project is carried out by student participants in a COVID-19 safe manner in accordance to the prevailing rules. Schools must ensure that the necessary precautions are carried out.
+* Primary research and/or secondary research may be conducted for Science and/or Mathematics Research Project. Primary Research is based on raw first-hand data collected by the researchers themselves. Secondary research involves the use of information gathered originally by primary research which is then further analysed.
+* Each project must be sponsored by a teacher and approved by the HOD. It is the responsibility of the teacher representatives and/or the HOD to ensure that the research project is carried out by student participants in a COVID-19 safe manner in accordance to the prevailing rules. Schools must ensure that the necessary precautions are carried out.
+* **Both the synopsis and presentation deck** must be submitted into the Google Drive folder designated to the school by the **submission deadline, 14 March 2022 (Monday)**.
+* The Organisers reserve the right not to consider late entries.
 
-1.3 Both the synopsis and presentation deck must be submitted into the Google Drive folder designated to the school by the submission deadline, 14 March 2022 (Monday).
+**2. ELIGIBILITY**
 
-1.4 The Organisers reserve the right not to consider late entries.
+* Teacher representatives must indicate if their students are competing in the Secondary School or Junior College (JC) category.
 
-  ELIGIBILITY
-2.1 Teacher representatives must indicate if their students are competing in the Secondary School or Junior College (JC) category.
+* As a guideline, students who are still attending secondary school in 2022 must compete in the Secondary School category. Students who are attending JC or high school equivalent must compete in the JC category.
 
-2.2 As a guideline, students who are still attending secondary school in 2022 must compete in the Secondary School category. Students who are attending JC or high school equivalent must compete in the JC category.
+* In the event that the team has a mixture of students from both groups, the team must compete in the JC category.
 
-2.3 In the event that the team has a mixture of students from both groups, the team must compete in the JC category.
+* Registration of JC or high school equivalent students in the Secondary School category will result in disqualification. Please check with the Organisers if schools are unclear on the category.
 
-2.4 Registration of JC or high school equivalent students in the Secondary School category will result in disqualification. Please check with the Organisers if schools are unclear on the category.
+* If a school (such as Integrated Programme school) has projects in which some are undertaken by secondary school students, and others are undertaken by JC or high school equivalent students, the school can still only register a total maximum of five projects. Please register the projects under the correct categories.
 
-2.5 If a school (such as Integrated Programme school) has projects in which some are undertaken by secondary school students, and others are undertaken by JC or high school equivalent students, the school can still only register a total maximum of five projects. Please register the projects under the correct categories.
+**3. PROJECTS**
 
-  PROJECTS
-3.1 Both the project synopsis and the presentation deck must be named with the assigned project code, and deposited in the Google Drive folder designated for the school.
+* Both the project synopsis and the presentation deck must be named with the assigned project code, and deposited in the Google Drive folder designated for the school.
+* The project synopsis is a concise summary of the project report which will be used by judges during pre-judging. The synopsis will not be judged. For the synopsis, submit a word or PDF document comprising of an abstract (100 to 200 words), keys steps in methods (100 to 200 words), results and discussion (300 to 500 words), and a conclusion (50 to 100 words).
+* The presentation deck should generally include:
+	*  Literature Review
+	*  Rationale of Research
+	*  Research Question, Hypothesis, and Expected Outcome(s)
+	*  Procedures or Methods
+	*  Results and Analysis
+	*  Impact or Application of Results
+	*  Bibliography
 
-3.2 The project synopsis is a concise summary of the project report which will be used by judges during pre-judging. The synopsis will not be judged. For the synopsis, submit a word or PDF document comprising of an abstract (100 to 200 words), keys steps in methods (100 to 200 words), results and discussion (300 to 500 words), and a conclusion (50 to 100 words).
-
-3.3 The presentation deck should generally include:
-
-Literature Review
-Rationale of Research
-Research Question, Hypothesis, and Expected Outcome(s)
-Procedures or Methods
-Results and Analysis
-Impact or Application of Results
-Bibliography
 Students can use the sample presentation deck titled IEF 2022 Science Research Deck for reference, which can be found in https://tinyurl.com/23ElementzProjectTemplates.
 
-3.4 If the research projects conducted involve animals and birds, please adhere to the rules regarding the care and use of animals for scientific purposes, as published on the website of The Animal & Veterinary Service (AVS) at
+* If the research projects conducted involve animals and birds, please adhere to the rules regarding the care and use of animals for scientific purposes, as published on the website of The Animal & Veterinary Service (AVS) at https://www.nparks.gov.sg/avs/resources/legislation/animals-and-birds-act-chapter-7
 
-https://www.nparks.gov.sg/avs/resources/legislation/animals-and-birds-act-chapter-7
-
-3.5 Most proposed research projects involving vertebrate animals and/or potentially hazardous biological agents must be reviewed and approved by the Scientific Review Committee (SRC) before experimentation. All proposed human research must be reviewed and approved by an Institutional Review Board (IRB) before experimentation begins. For more information, please visit
-
+* Most proposed research projects involving vertebrate animals and/or potentially hazardous biological agents must be reviewed and approved by the Scientific Review Committee (SRC) before experimentation. All proposed human research must be reviewed and approved by an Institutional Review Board (IRB) before experimentation begins. For more information, please visit
 https://www.science.edu.sg/docs/default-source/scs-documents/for-schools/ssef_2018_operational_guidelines_for_src_and_irb_2018.pdf
 
-Annex B
+**Annex B**
 
-CATEGORY B: INNOVATION PROJECT (PROTOTYPE)
+**CATEGORY B: INNOVATION PROJECT (PROTOTYPE)**
 
-OVERVIEW: PARTICIPATION RULES AND REGULATIONS 
-1.1 Each team proposes an idea or solution that can address a societal issue that your country is facing today or will face in the near future. The idea or solution should be in accordance to the theme: Sustainability.
+**1. OVERVIEW: PARTICIPATION RULES AND REGULATION**
 
-1.2 Each project must be sponsored by a teacher and approved by the HOD. It is the responsibility of the teacher representatives and/or the HOD to ensure that the innovation project is carried out by student participants in a COVID-19 safe manner in accordance to the prevailing rules. Schools must ensure that the necessary precautions are carried out.
+* Each team proposes an idea or solution that can address a societal issue that your country is facing today or will face in the near future. The idea or solution should be in accordance to the theme: Sustainability.
+* Each project must be sponsored by a teacher and approved by the HOD. It is the responsibility of the teacher representatives and/or the HOD to ensure that the innovation project is carried out by student participants in a COVID-19 safe manner in accordance to the prevailing rules. Schools must ensure that the necessary precautions are carried out.
+* The presentation deck must be submitted into the Google Drive folder designated to the school by the submission deadline, 14 March 2021 (Monday).
+* The Organisers reserve the right not to consider late entries.
 
-1.3 The presentation deck must be submitted into the Google Drive folder designated to the school by the submission deadline, 14 March 2021 (Monday).
+**2. ELIGIBILITY**
 
-1.4 The Organisers reserve the right not to consider late entries.
+* Teacher representatives must indicate if their students are competing in the Secondary School or Junior College (JC) category.
+* As a guideline, students who are still attending secondary school in 2022 must compete in the Secondary School category. Students who are attending JC or high school equivalent must compete in the JC category.
+* In the event that the team has a mixture of students from both groups, the team must compete in the JC category.
+* Registration of JC or high school equivalent students in the Secondary School category will result in disqualification. Please check with the Organisers if schools are unclear on the category.
+* If a school (such as Integrated Programme school) has projects in which some are undertaken by secondary school students, and others are undertaken by JC or high school equivalent students, the school can still only register a total maximum of five projects. Please register the projects under the correct categories.
 
-ELIGIBILITY
-2.1 Teacher representatives must indicate if their students are competing in the Secondary School or Junior College (JC) category.
+**3. PROJECTS**
 
-2.2 As a guideline, students who are still attending secondary school in 2022 must compete in the Secondary School category. Students who are attending JC or high school equivalent must compete in the JC category.
+* The presentation deck must be named with the assigned project code, and deposited in the Google Drive folder designated for the school. No prototype needs to be submitted for the judging. Labelled illustrations and/or photographs of the prototype in the presentation deck will suffice.
+* The presentation deck should generally include:
+	* Identified Problem with Analysis of impacts of the problem
+	* Proposed Prototype (Solution), Features, Analysis and Effects
+	* Labelled Illustration and/or Photographs of Prototype
+	* STEM Application in the Prototype
 
-2.3 In the event that the team has a mixture of students from both groups, the team must compete in the JC category.
+* Students can use the sample presentation deck titled IEF 2022 Innovation Deck (Prototype) for reference, which can be found in https://tinyurl.com/23ElementzProjectTemplates.
 
-2.4 Registration of JC or high school equivalent students in the Secondary School category will result in disqualification. Please check with the Organisers if schools are unclear on the category.
+* Shortlisted teams can use their prototype to aid their presentation during the final judging.
 
-2.5 If a school (such as Integrated Programme school) has projects in which some are undertaken by secondary school students, and others are undertaken by JC or high school equivalent students, the school can still only register a total maximum of five projects. Please register the projects under the correct categories.
+* If the innovation projects involve animals and birds, please adhere to the rules regarding the care and use of animals for scientific purposes, as published on the website of The Animal & Veterinary Service (AVS) at: https://www.nparks.gov.sg/avs/resources/legislation/animals-and-birds-act-chapter-7
 
-  PROJECTS
-
-3.1 The presentation deck must be named with the assigned project code, and deposited in the Google Drive folder designated for the school. No prototype needs to be submitted for the judging. Labelled illustrations and/or photographs of the prototype in the presentation deck will suffice.
-
-3.2 The presentation deck should generally include:
-
-Identified Problem with Analysis of impacts of the problem
-Proposed Prototype (Solution), Features, Analysis and Effects
-Labelled Illustration and/or Photographs of Prototype
-STEM Application in the Prototype
-Students can use the sample presentation deck titled IEF 2022 Innovation Deck (Prototype) for reference, which can be found in https://tinyurl.com/23ElementzProjectTemplates.
-
-3.3 Shortlisted teams can use their prototype to aid their presentation during the final judging.
-
-3.4 If the innovation projects involve animals and birds, please adhere to the rules regarding the care and use of animals for scientific purposes, as published on the website of The Animal & Veterinary Service (AVS) at:
-
-https://www.nparks.gov.sg/avs/resources/legislation/animals-and-birds-act-chapter-7
-
-3.5 If the innovation projects involve vertebrate animals and/or potentially hazardous biological agents, they are most likely required to be reviewed and approved by the Scientific Review Committee (SRC) before experimentation. All proposed human research must be reviewed and approved by an Institutional Review Board (IRB) before experimentation begins. For more information, please visit
-
-https://www.science.edu.sg/docs/default-source/scs-documents/for-schools/ssef_2018_operational_guidelines_for_src_and_irb_2018.pdf
+* If the innovation projects involve vertebrate animals and/or potentially hazardous biological agents, they are most likely required to be reviewed and approved by the Scientific Review Committee (SRC) before experimentation. All proposed human research must be reviewed and approved by an Institutional Review Board (IRB) before experimentation begins. For more information, please visit https://www.science.edu.sg/docs/default-source/scs-documents/for-schools/ssef_2018_operational_guidelines_for_src_and_irb_2018.pdf
 
 Annex C
 
