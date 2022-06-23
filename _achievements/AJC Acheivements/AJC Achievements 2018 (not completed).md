@@ -139,3 +139,4 @@ third_nav_title: AJC Acheivements
 ##### **Staff Achievements**
 
 ![](/images/AJC%20Achievements%202018.jpg)
+![](/images/AJC%20Achievements%202018%202.jpg)
