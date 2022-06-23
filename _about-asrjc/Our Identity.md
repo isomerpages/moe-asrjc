@@ -3,8 +3,6 @@ title: Our Identity
 permalink: /about-asrjc/our-identity/
 description: ""
 ---
-
-
 Our Identity
 ============
 
@@ -38,10 +36,14 @@ Orange represents adventurousness and imagination. This captures Anderson and Se
 Teal represents empathy, groundedness and reliability. This reflects the values embodied in _Non Mihi Solum_ and _Discere Servire_ – the respective motto of Anderson and Serangoon Junior College. Teal is a combination of the blue and green in the two colleges’ colours.
 
 **OUR CREST**
-![](/images/crest-300x247.jpg)
+<img src="/images/crest-300x247.jpg" 
+     style="width:50%">
 The college crest derives its inspiration from the common ‘flame’ element in Anderson and Serangoon Junior Colleges’ crests and a flower bud that is ready to bloom.
-![](/images/Deconstruction1.png)
-![](/images/Deconstruction2.png)
+
+<img src="/images/Deconstruction1.png" 
+     style="width:50%">
+<img src="/images/Deconstruction2.png" 
+     style="width:50%">
 
 The flame design is formed by the college initials ‘ASR’. The continued use of the flame element represents both colleges’ history and heritage. The flame also symbolises truth, light and hope, which captures the college’s intent to develop justice-oriented and service-oriented students who are enlightened and in service of others. The flower bud symbolises youth and vitality and signifies the college as a place that nurtures leaders for the nation. With each petal of the flower embodying the college colours, this reinforces the way in which the college seeks to nurture students who are adventurous in thinking and boundless in imagination while remaining grounded and empathetic citizens of the nation.
 
