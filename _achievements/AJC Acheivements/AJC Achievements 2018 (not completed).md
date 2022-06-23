@@ -4,8 +4,6 @@ permalink: /achievements/AJC-Acheivements/2018
 description: ""
 third_nav_title: AJC Acheivements
 ---
-
-
 ##### **Academic Achievements**
 
 | **Dept** | **Title** | **Achievement** |
@@ -140,4 +138,4 @@ third_nav_title: AJC Acheivements
 
 ##### **Staff Achievements**
 
-(insert pictures)
+![](/images/AJC%20Achievements%202018.jpg)
