@@ -3,7 +3,8 @@ title: Principal's Message
 permalink: /about-asrjc/principals-message/
 description: ""
 ---
-![](/images/Principal's%20message%20image.jpg)
+<img src="/images/Principal's%20message%20image.jpg" 
+     style="width:70%">
 
 **_Welcome to Anderson Serangoon Junior College_**
 
