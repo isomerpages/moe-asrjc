@@ -1,6 +1,6 @@
 ---
 title: Talent Development (Alpha) Programme
-permalink: /asrjc-experience/Special-Programmes/science-research-enrichment-programme/
+permalink: /asrjc-experience/special-programmes/science-research-enrichment-programme/
 description: ""
 third_nav_title: Special Programmes
 ---

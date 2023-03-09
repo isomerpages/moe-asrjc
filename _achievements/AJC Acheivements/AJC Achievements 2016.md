@@ -1,6 +1,6 @@
 ---
 title: AJC Achievements 2016
-permalink: /achievements/AJC-Acheivements/2016
+permalink: /achievements/ajc-acheivements/2016/
 description: ""
 third_nav_title: AJC Acheivements
 ---
