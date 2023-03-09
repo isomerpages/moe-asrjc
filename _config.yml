@@ -49,6 +49,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-asrjc-staging.netlify.app
-prod: https://moe-asrjc-prod.netlify.app
+staging: https://staging.d2l6tfmz18j0q.amplifyapp.com/
+prod: https://master.d2l6tfmz18j0q.amplifyapp.com/
 resources_name: news
