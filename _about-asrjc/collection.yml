@@ -2,5 +2,4 @@ collections:
   about-asrjc:
     output: true
     order:
-      - Our Identity.md
       - Our People.md
