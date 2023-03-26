@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - Our Ethos.md
       - Our Identity.md
       - Our People.md
