@@ -1,5 +1,4 @@
 collections:
   about-asrjc:
     output: true
-    order:
-      - Our People.md
+    order: []
