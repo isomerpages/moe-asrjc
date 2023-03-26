@@ -2,8 +2,6 @@ collections:
   about-asrjc:
     output: true
     order:
-      - Our Heritage/Our Heritage.md
-      - Our Heritage/.keep
       - Principal's Message.md
       - Our Identity.md
       - Our People.md
