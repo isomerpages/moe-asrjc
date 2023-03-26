@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Our Heritage.md
-      - Serangoon Junior College/.keep
-      - Serangoon Junior College/History of SRJC.md
-      - Serangoon Junior College/Learning.md
-      - Serangoon Junior College/Serving.md
-      - Serangoon Junior College/Leading.md
       - Anderson Junior College/.keep
       - Anderson Junior College/History of AJC.md
       - Anderson Junior College/Learning.md
       - Anderson Junior College/Serving.md
       - Anderson Junior College/Leading.md
+      - Serangoon Junior College/.keep
+      - Serangoon Junior College/History of SRJC.md
+      - Serangoon Junior College/Learning.md
+      - Serangoon Junior College/Serving.md
+      - Serangoon Junior College/Leading.md
