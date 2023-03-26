@@ -8,9 +8,9 @@ Anderson Junior College and Serangoon Junior College have a strong history of 35
 **Anderson Junior College**
 
 [<img src="/images/Anderson_Junior_College_logo.png" 
-     style="width:75%">](/about-asrjc/heritage/ajc/history-of-ajc/)
+     style="width:35%">](/about-asrjc/heritage/ajc/history-of-ajc/)
 		 
 **Serangoon Junior College**
 
 [<img src="/images/Serangoon%20JC.png" 
-     style="width:75%">](/about-asrjc/heritage/srjc/history-of-srjc/)
+     style="width:35%">](/about-asrjc/heritage/srjc/history-of-srjc/)
