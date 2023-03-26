@@ -37,7 +37,7 @@ Teal represents empathy, groundedness and reliability. This reflects the values 
 
 **OUR CREST**
 <img src="/images/crest-300x247.jpg" 
-     style="width:50%">
+     style="width:40%">
 The college crest derives its inspiration from the common ‘flame’ element in Anderson and Serangoon Junior Colleges’ crests and a flower bud that is ready to bloom.
 
 <img src="/images/Deconstruction1.png" 
