@@ -13,7 +13,7 @@ sections:
         - title: Highlights
           description: ""
           url: /highlights/
-        - title: DSA 2022
+        - title: DSA 2023
           description: ""
           url: /joining-asrjc/direct-school-admission/
   - infobar:
