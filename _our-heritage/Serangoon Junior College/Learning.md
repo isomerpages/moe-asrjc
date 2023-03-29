@@ -54,17 +54,32 @@ Back in 1988, SRJC only had a pioneering staff strength of 45 teachers and yet, 
 	
 In the realm of the arts, students were offered a myriad of opportunities to express themselves creatively. Those from Performing Arts CCAs would hold concerts such as the Performing Arts Special and Shiokissimo, where they would present solo performances and collaborative highlights between the different CCAs. Those who were musically inclined would participate in RockFest where they would take the stage in front of a live audience. There were also literary performances such as Not So Macbeth (1990), King Lear (1991), Pai An (1996), and King Hamlet (1998). Finally what started out as a small affair in the early 2000s soon evolved to a week long affair celebrating English Literature, which would then culminate in the much anticipated Literature Night.
 
-![](/images/Shiokissmo-2006-300x199.jpg)
-Shiokissimo (2006)
+	
+	
+<figure>
+<img src="/images/Shiokissmo-2006-300x199.jpg"
+		     style="width:40%">
+<figcaption> <strong> Shiokissimo (2006) </figcaption>
+</figure>		 	
 
-![](/images/Literature-Night-Performance-2008-300x200.jpg)
-Literature Night Performance (2008)
+<figure>
+<img src="/images/Literature-Night-Performance-2008-300x200.jpg"
+		     style="width:40%">
+<figcaption> <strong> Literature Night Performance (2008) </figcaption>
+</figure>		 
 
-![](/images/20th-Anniversary-Performance-2009-300x199.jpg)
-20th Anniversary Performance (2009)
+<figure>
+<img src="/images/20th-Anniversary-Performance-2009-300x199.jpg"
+		     style="width:40%">
+<figcaption> <strong> 20th Anniversary Performance (2009) </figcaption>
+</figure>		 
 
-![](/images/Rock-Fest-2014-300x200.jpg)
-Rock Fest (2014)
+<figure>
+<img src="/images/Rock-Fest-2014-300x200.jpg"
+		     style="width:40%">
+<figcaption> <strong> Rock Fest (2014) </figcaption>
+</figure>		 
+
 
 **Learning Beyond Singapore**
 
