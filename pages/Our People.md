@@ -81,9 +81,9 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Humanities Department</label>
     <div>
-      <p style="margin-bottom:0;"><b>HOD Humanities</b></p>
+      <p style="margin-bottom:0;"><b>HOD Humanities & Engagement & Partnerships</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Ong Shu Hui</p>
-			<p style="margin-bottom:0;"><b>JC2 Dean</b></p>
+			<p style="margin-bottom:0;"><b>JC1 Dean</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Zhu Youyan, Corrine</p>
 			<p style="margin-bottom:0;"><b>SH EP</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Goh Ying Shi Darwin</p>
