@@ -18,8 +18,10 @@ Serangoon Junior College had forged long and lasting partnerships with organisat
 
 <img src="/images/SRJC%20Serving%203.jpg" 
      style="width:40%">
-		 
-![](/images/SRJC%20Serving%204.jpg)
+
+<img src="/images/SRJC%20Serving%204.jpg" 
+     style="width:40%">
+
 
 **Learning to Serve**
 
