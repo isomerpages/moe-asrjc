@@ -85,10 +85,11 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Ms Ong Shu Hui</p>
 			<p style="margin-bottom:0;"><b>JC1 Dean</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Zhu Youyan, Corrine</p>
-			<p style="margin-bottom:0;"><b>SH EP</b></p>
+			<p style="margin-bottom:0;"><b>SH Engagement & Partnerships</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Goh Ying Shi Darwin</p>
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Lim Mei Fu Gayne</p>
+			<p style="margin : 0; padding-top:0;">Mr Kuan Jie Hui Eugene</p>
+			<p>Ms Lim Mei Fu Gayne</p>
 			<p>Ms Neo Zhi Wei</p>
 			<p>Mr Ng Kim Teck</p>
 			<p>Mr Ng Mong Rong Justin</p>
