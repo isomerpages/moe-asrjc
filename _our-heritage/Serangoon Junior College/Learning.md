@@ -171,23 +171,34 @@ Across the years, different departments put on learning festivals and workshops 
 **Dedicated Teachers**   
 SRJCians have achieved outstanding ‘A’ Level results as evidenced by the consecutive Value-Added Awards for commendable performance from 2010-2013. While these accomplishments are a reflection of the students’ relentless effort and drive to persevere in their pursuit of excellence, such successes would not have been possible had it not been for the teachers’ care and guidance. Among many of these dedicated teachers are:
 
-![](/images/Mr-Salahuddin-300x200.jpg)
+
+<img src="/images/Mr-Salahuddin-300x200.jpg"  
+     style="width:40%">
+	
 
 Mr Muhamad Salahuddin B Ibrahim (centre in photo) is a Lead Teacher who has served in education for 18 years. He was acknowledged as one of the most caring teachers in the college, having won the Caring Teacher Commendation Award from Exxon Mobil in 2008 and SRJC’s annual Caring Teacher Award in 2011 and 2012, and the President’s Award for Teachers in 2015.
 
-![](/images/Ms-Melissa-Chew2.jpg)
+<img src="/images/Ms-Melissa-Chew2.jpg"  
+     style="width:40%">
+
 
 Ms Melissa Chew has taught English Literature in Serangoon Junior College since June 2006 and in 2014 she received the Inspiring Teacher of English Award.
 
-![](/images/Ms-Dionne-Chow.jpg)
+<img src="/images/Ms-Dionne-Chow.jpg"  
+     style="width:40%">	
+
 
 Ms Dionne Chow (right in photo), who has taught in SRJC since January 2011, was lauded with the title of Inspiring Teacher of English Award 2015.
 
-![](/images/Mdm-Wong-Teck-Jee-300x225.jpeg)
+<img src="/images/Mdm-Wong-Teck-Jee-300x225.jpeg"  
+     style="width:40%">		
+
 
 Mdm Wong Teck Jee has been with the College since 1996 when she was awarded the Inspiring Chinese Language Teachers Awards in 2015.
 
-![](/images/Mdm-Kamalavani.jpg)
+<img src="/images/Mdm-Kamalavani.jpg"  
+     style="width:40%">			
+
 
 Awarded as Tamil Murasu's Most Inspiring Tamil Teachers Awards 2013, Mdm Kamalavani d/o Palaiyan has taught in SRJC from 2004.
 
