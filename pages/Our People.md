@@ -25,12 +25,12 @@ description: ""
 			<p style="margin-bottom:0;"><b>Senior Teacher</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Kat Kar Hwee</p>
 			<p style="margin-bottom:0;"><b>SH Economics</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Tan Boon Sun</p>
-			<p style="margin-bottom:0;"><b>SH Economics</b></p>
+			<p style="margin : 0; padding-top:0;">Mdm Lim Min Fong</p>
+			<p style="margin : 0; padding-top:0;">Ms Teng Yuting</p>
+			<p style="margin-bottom:0;"><b>SH Student Leadership</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Chung Ka Wing Kevin</p>
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
-			<p>Mr Chen Huangzhi</p>
 			<p>Mr Gan Teck Ming, Alvin</p>
 			<p>Mr Jowell Yong Kaijie</p>
 			<p>Ms Koh Boey Kwee</p>
