@@ -205,17 +205,36 @@ Awarded as Tamil Murasu's Most Inspiring Tamil Teachers Awards 2013, Mdm Kamalav
 **Distinguished Speaker Series (DSS)**  
 Since 2007, under the purview of the Education and Career Guidance (ECG) committee, SRJC established ‘The Distinguished Speaker Series’, which offered opportunities to learn from the experiences and insights of some of Singapore’s most influential individuals from different fields. Some of the individuals who shared their stories include Dr Tan Lai Yong, the ‘Barefoot Doctor’ who used his talents to help the less fortunate in China, Ms Cassandra Chiu, whose visual impairment did not impede her path to success, the late Mr Subhas Anandan, the eminent criminal lawyer whose conduct of several landmark cases have shaped the face of criminal law in Singapore, Ms Indranee Rajah, the Senior Minister of State for Law and Education and Minister Khaw Boon Wan, the Minister for Transport.
 
-![](/images/Dr-Tan-Lai-Yong-speaking-to-SRJCians-20131-300x200.jpg)
-Dr Tan Lai Yong speaking to SRJCians (2013)
+<figure>
+<img src="/images/Dr-Tan-Lai-Yong-speaking-to-SRJCians-20131-300x200.jpg"
+		     style="width:40%">
+<figcaption> <strong>Dr Tan Lai Yong speaking to SRJCians (2013)</figcaption>
+</figure>			
 
-![](/images/THELAT1-300x199.jpg)
-The late Mr Subhas Anandan with Principal Mr Tan Teck Hock (2013)
 
-![](/images/Ms-Indranee-Rajah-with-a-group-of-JC2-students-2014-300x200.jpg)
-Ms Indranee Rajah with a group of JC2 students (2014)
+	
+<figure>
+<img src="/images/THELAT1-300x199.jpg"
+		     style="width:40%">
+<figcaption> <strong>The late Mr Subhas Anandan with Principal Mr Tan Teck Hock (2013)</figcaption>
+</figure>			
 
-![](/images/MINIST1-300x200.jpg)
-Minister Khaw Boon Wan with Principal Mr Manogaran and students (2016)
+
+	
+<figure>
+<img src="/images/Ms-Indranee-Rajah-with-a-group-of-JC2-students-2014-300x200.jpg"
+		     style="width:40%">
+<figcaption> <strong>Ms Indranee Rajah with a group of JC2 students (2014)</figcaption>
+</figure>			
+
+
+	
+<figure>
+<img src="/images/MINIST1-300x200.jpg"
+		     style="width:40%">
+<figcaption> <strong>Minister Khaw Boon Wan with Principal Mr Manogaran and students (2016)</figcaption>
+</figure>			
+
 
 
 **Outstanding Achievements**   
