@@ -57,26 +57,25 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Ms Ang Hui Ting</p>
 			<p style="margin-bottom:0;"><b>SH English Literature</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Lim Sok Peng</p>
+			<p style="margin-bottom:0;"><b>SH Civic Education (Covering)</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Choo Li Min Bernadette Teresa</p>			
       <p style="margin-bottom:0;"><b>Teachers</b></p>
       <p style="margin : 0; padding-top:0;">Ms Alviedo Dionne Rochelle Menez</p>
 			<p>Ms Ang Soey Leng Lynn</p>  
 			<p>Ms Aw Yuan Ling Cheryl</p>
-			<p>Ms Choo Li Min Bernadette Teresa</p>  
-			<p>Ms Daljit Kaur d/o Sundit Singh</p>  
-			<p>Mdm Eng Seok Hoon Rose</p>
-			<p>Ms Goh Mei-Yi, Eunice</p>  
+			<p>Ms Chai Xue Fang Beatrice</p>  
+			<p>Mdm Eng Seok Hoon Rose</p>  
+			<p>Ms Goh Mei-Yi, Eunice</p>
 			<p>Ms Hemma Balakrishnan</p>  
-			<p>Ms Ho Ying Xin, Berakah</p>
-			<p>Ms Lim Li Wen, Evon</p>
+			<p>Ms Ho Ying Xin, Berakah</p>  
 			<p>Ms Lim Wenjia, Claresta</p>
-			<p>Ms Choo Li Min Bernadette Teresa</p>
 			<p>Ms Loh Yee Wei Clare</p>
-			<p>Mr Peter John Herd</p>
 			<p>Ms Sim Shan Lin</p>
-			<p>Mr Tan Deng Zheng</p> 
+			<p>Mr Tan Deng Zheng</p>
+			<p>Mr Tay Xiang Wei</p>
 			<p>Mr Tsui Hui Ee Samuel</p>
 			<p>Ms Xu Xiuwen</p>
-			<p>Ms Usha d/o Pillai</p>
+			<p>Ms Usha d/o Pillai</p> 
     </div>
   </li>
 	 <li>
