@@ -83,11 +83,20 @@ In the realm of the arts, students were offered a myriad of opportunities to exp
 
 **Learning Beyond Singapore**
 
-![](/images/Trip-to-China-by-the-History-and-Geography-Departments-in-1996-e1537777073100-300x171.jpg)
-Trip to China by the History and Geography Departments in 1996
+	
+<figure>
+<img src="/images/Trip-to-China-by-the-History-and-Geography-Departments-in-1996-e1537777073100-300x171.jpg"
+		     style="width:40%">
+<figcaption> <strong> Trip to China by the History and Geography Departments in 1996 </figcaption>
+</figure>		 	
+	
+<figure>
+<img src="/images/Literature-Trip-to-UK-in-1996-300x171.jpg"
+		     style="width:40%">
+<figcaption> <strong> Literature Trip to UK in 1996 </figcaption>
+</figure>		 	
 
-![](/images/Literature-Trip-to-UK-in-1996-300x171.jpg)
-Literature Trip to UK in 1996
+
 
 In Serangoon Junior College, learning experiences took place both within and outside the classroom. A number of trips to Nepal, Indonesia and Malaysia were made in the early 1990s as part of Outdoor Activities Club’s (ODAC) overseas trips.
 
