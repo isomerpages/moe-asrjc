@@ -240,35 +240,61 @@ Since 2007, under the purview of the Education and Career Guidance (ECG) committ
 **Outstanding Achievements**   
 Despite their humble beginnings, SRJCians have achieved admirable academic and non-academic outcomes. These students truly embodied the recurring message in SRJC’s school song “We lead her to glory / Our best in all we do”.
 
-![](/images/Mr-Tan-Aik-Fong-with-Principal-Mr-Thomas-Tan-300x216.jpg)
-Mr Tan Aik Fong with Principal Mr Thomas Tan
+	
+<figure>
+<img src="/images/Mr-Tan-Aik-Fong-with-Principal-Mr-Thomas-Tan-300x216.jpg"
+		     style="width:40%">
+<figcaption> <strong>Mr Tan Aik Fong with Principal Mr Thomas Tan</figcaption>
+</figure>				
+
 
 Mr Tan Aik Fong was the first Student of the Year from the pioneer class of 1989. He attained a stellar performance at the A Levels and was a role model in evoking the school motto ‘Discere Servire’ (To Learn, To Serve). In 2017, he was the Secretary of the SRJC Alumni Association and was its President from 1999 till 2015.
 
-![](/images/Dr-Yeo-Tze-Ling-wiht-Principal-Mrs-Jenny-Yong-300x209.jpg)
-Dr Yeo Tze Ling with Principal, Mrs Jenny Yong
+	
+	
+<figure>
+<img src="/images/Dr-Yeo-Tze-Ling-wiht-Principal-Mrs-Jenny-Yong-300x209.jpg"
+		     style="width:40%">
+<figcaption> <strong>Dr Yeo Tze Ling with Principal, Mrs Jenny Yong</figcaption>
+</figure>					
+
 
 Dr. Yeo Tze Ling was the top A Level student in 1996. Her performance was especially inspirational because she has been blind from glaucoma from the age of five. Now, a research scientist at A\*Star, SRJC named an award after her. The award is presented to students who have excelled academically despite their personal difficulties.
-					
-![](/images/MRKENN3-300x200.jpg)
-Mr Kenneth Goh in Oxford University, England after receiving the National Youth Achievement Award
+
+<figure>
+<img src="/images/MRKENN3-300x200.jpg"
+		     style="width:40%">
+<figcaption> <strong>Mr Kenneth Goh in Oxford University, England after receiving the National Youth Achievement Award</figcaption>
+</figure>						
+
 
 Mr Kenneth Goh was the top A Level student in 1998. He distinguished himself by earning a string of awards - a National Youth Achievement Award (Silver), a Colours Award (Distinction) for rock-climbing, and a Service Award for being the President of ODAC. Upon graduating, Kenneth received the Singapore Government Overseas Merit Scholarship to pursue an engineering course at Oxford University.
 
-![](/images/Ms-Annabelle-Ng_s-Gold-at-the-SEA-Games-2015-Top-right-in-photo-300x170.jpg)
-Ms Annabelle Ng's Gold at the SEA Games 2015 (Top right in photo)
+<figure>
+<img src="/images/Ms-Annabelle-Ng_s-Gold-at-the-SEA-Games-2015-Top-right-in-photo-300x170.jpg"
+		     style="width:40%">
+<figcaption> <strong>Ms Annabelle Ng's Gold at the SEA Games 2015 (Top right in photo)</figcaption>
+</figure>							
+
 
 Ms Annabelle Ng was an avid canoeist since she was a student in SRJC. Her passion for the sport continued to blossom as evidenced by the multitude of awards she has earned at regional sporting events. In 2015, alongside her teammates, Ms Ng won the SEA Games gold.
 
 **CCA Achievements**   
 In any endeavour, it was emphasised to SRJCians that the focus should be on the process rather than the outcome. Motivated to put in their best, SRJCians from Performing Arts to Sports to Clubs and Societies made a mark in national competitions and the like. Some prominent accomplishments include:
 
-![](/images/SR-Touch-Football-Champions-at-the-2014-National-Touch-League-300x200.jpg)
-SR Touch Football Champions at the 2014 National Touch League
+<figure>
+<img src="/images/SR-Touch-Football-Champions-at-the-2014-National-Touch-League-300x200.jpg"
+		     style="width:40%">
+<figcaption> <strong>SR Touch Football Champions at the 2014 National Touch League</figcaption>
+</figure>					
 
-![](/images/d2.jpg)
 
-SR Taekwondo celebrating as they clinched the A Division boys' and girls' overall titles at the 2015 National Inter-Schools Taekwondo Championships
+<figure>
+<img src="/images/d2.jpg"
+		     style="width:40%">
+<figcaption> <strong>SR Taekwondo celebrating as they clinched the A Division boys' and girls' overall titles at the 2015 National Inter-Schools Taekwondo Championships</figcaption>
+</figure>		
+
 
 Touch Football (Girls) were the Overall Champions for four consecutive years at the National Touch Football (JC) League, ‘A’ Division between 2013 and 2016.
 
@@ -286,11 +312,24 @@ SR Guzheng was awarded the Certificate of Distinction at the 2015 & 2017 Singapo
 
 S\*Star’s winning Amazing Science Challenge project, “The Secret Painting” was selected to be a permanent exhibit at the Singapore Science Centre, a testimony of our excellence in Science and Design
 
-![](/images/SR-Dance-rehearsing-for-the-2017-Singapore-Youth-Festival-300x200.jpg)
-SR Dance rehearsing for the 2017 Singapore Youth Festival
+<figure>
+<img src="/images/SR-Dance-rehearsing-for-the-2017-Singapore-Youth-Festival-300x200.jpg"
+		     style="width:40%">
+<figcaption> <strong>SR Dance rehearsing for the 2017 Singapore Youth Festival</figcaption>
+</figure>			
 
-![](/images/SR-Canoeists-displaying-courage-and-endurance-2001-300x227.jpg)
-SR Canoeists displaying courage and endurance (2001)
 
-![](/images/The-SR-Choir-pictured-with-Principal-Ms-Jenny-Yong-19981-300x227.jpg)
-The SR Choir, pictured with Principal Ms Jenny Yong (1998)
+	
+<figure>
+<img src="/images/SR-Canoeists-displaying-courage-and-endurance-2001-300x227.jpg"
+		     style="width:40%">
+<figcaption> <strong>SR Canoeists displaying courage and endurance (2001)</figcaption>
+</figure>			
+
+
+	
+<figure>
+<img src="/images/The-SR-Choir-pictured-with-Principal-Ms-Jenny-Yong-19981-300x227.jpg"
+		     style="width:40%">
+<figcaption> <strong>The SR Choir, pictured with Principal Ms Jenny Yong (1998)</figcaption>
+</figure>			
