@@ -29,23 +29,29 @@ Back in 1988, SRJC only had a pioneering staff strength of 45 teachers and yet, 
 </figure>		 
 		 
 
+<figure>
+<img src="/images/Mr-Foo-Toon-Lock.jpg"
+		     style="width:20%">
+<figcaption> <strong> Mr Foo Toon Lock, Mathematics Department</strong> </figcaption>
+</figure>		 
 
-<img src="/images/Mr-Foo-Toon-Lock.jpg" 
-     style="width:20%">
-		 
-Mr Foo Toon Lock, Mathematics Department
 
-<img src="/images/Mdm-Saadiah-Bte-Abdullah.jpg" 
-     style="width:20%">
-		 
-Mdm Saadiah Bte Abdullah, Humanities Department (Economics)
+<figure>
+<img src="/images/Mdm-Saadiah-Bte-Abdullah.jpg"
+		     style="width:20%">
+<figcaption> <strong> Mdm Saadiah Bte Abdullah, Humanities Department (Economics)/strong> </figcaption>
+</figure>		 
 
-<img src="/images/Ms-Rosalind-Gurupatham-Jeyamoney.jpg" 
-     style="width:20%">
-	
-Ms Rosalind Gurupatham Jeyamoney, English Department (Literature)
+<figure>
+<img src="/images/Ms-Rosalind-Gurupatham-Jeyamoney.jpg"
+		     style="width:20%">
+<figcaption> <strong> Ms Rosalind Gurupatham Jeyamoney, English Department (Literature) </figcaption>
+</figure>		 
 		 
+
+
 **Arts@SR**  
+	
 In the realm of the arts, students were offered a myriad of opportunities to express themselves creatively. Those from Performing Arts CCAs would hold concerts such as the Performing Arts Special and Shiokissimo, where they would present solo performances and collaborative highlights between the different CCAs. Those who were musically inclined would participate in RockFest where they would take the stage in front of a live audience. There were also literary performances such as Not So Macbeth (1990), King Lear (1991), Pai An (1996), and King Hamlet (1998). Finally what started out as a small affair in the early 2000s soon evolved to a week long affair celebrating English Literature, which would then culminate in the much anticipated Literature Night.
 
 ![](/images/Shiokissmo-2006-300x199.jpg)
