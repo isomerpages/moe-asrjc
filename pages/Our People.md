@@ -111,11 +111,7 @@ description: ""
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Kamalavani d/o Palaiyan</p>
 			<p>Ms Ma Junhui</p>
-			<p>Ms Ng Pei Chiun</p>
-			<p>Mdm Raudah Bte Ali</p>
-			<p>Mdm Tan Seck Khim</p>
-			<p>Mdm Wong Teck Jee</p>
-			<p>Ms Tan Sok Mun Ruth</p>
+			<p>Ms Siti Nur Khairiah Binte Zakaria</p>
 			<p>Mdm Yao Heping</p>
     </div>
 	</li>
