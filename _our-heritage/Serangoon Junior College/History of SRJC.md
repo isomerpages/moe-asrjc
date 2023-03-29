@@ -17,18 +17,30 @@ The college motto, _Discere Servire_ (To Learn, To Serve) inspires every SRJCi
 Established in March 1988, Serangoon Junior College set up its temporary premises in Hougang. With a pioneering staff of 45 teachers, lessons for the first batch of 673 students commenced in April of the same year.
 
 ![](/images/Building-the-new-school-300x200.jpg)
+<img src="/images/principal.jpg"  
+     style="width:75%">
+
 
 Established in March 1988, Serangoon Junior College set up its temporary premises in Hougang. With a pioneering staff of 45 teachers, lessons for the first batch of 673 students commenced in April of the same year.
 
 ![](/images/Building-the-new-school-2-Copy-300x258.jpg)
+<img src="/images/principal.jpg"  
+     style="width:75%">
+
 
 ![](/images/Temporary-premise-in-Hougang-Copy-300x215.jpg)
+<img src="/images/principal.jpg"  
+     style="width:75%">
+
 
 In December 1990, the College relocated to its present campus at Upper Serangoon Road. It was officially declared open on 29 May 1992 by Mr Lee Yock Suan, the then Minister for Education and Member of Parliament for Cheng San GRC.
 
 **The College Crest**
 
 ![](/images/Serangoon%20JC.png)
+<img src="/images/principal.jpg"  
+     style="width:75%">
+
 
 The College colours are Red, Gold and Green.  
 Red represents Dignity and Warmth. It symbolises that each SRJCian should be dignified and have warmth for their fellow beings.  
@@ -42,21 +54,34 @@ The Laurel Leaves symbolise Achievement.
 **Our Principals**  
 The College has been served by six principals thus far: the founding principal Mr Thomas Tan from 1988 to 1996, Ms Jenny Yong from 1996 to 2002, Mrs Kok Chwee Kee from 2002 to 2006, Mr Tan Teck Hock from 2007 to 2010 and Mrs Wong-Cheang Mei Heng, from 2011 to 2014. Mr Manogaran Suppiah, appointed in December 2014, is the College’s sixth principal.
 
-Ms Jenny Yong
-
-<img src="/images/Ms-Jenny-Yong2-200x300.jpg" 
-     style="width:75%"
-		 align=left> 
-	
-
-
-
-Mr Tan Teck Hock
-
-<img src="/images/Mr-Tan-Teck-Hock-200x300.jpg" 
-     style="width:75%"
-		 align=left>
+<center><b>Mr Thomas Tan (MISSING PICTURE)</b></center>
 		 
-![](/images/Mrs-Wong-Cheang-Mei-Heng-200x300.jpg)
+<figure>
+<img src="/images/Ms-Jenny-Yong2-200x300.jpg" 
+     style="width:35%">
+<figcaption> <strong> Ms Jenny Yong </strong> </figcaption>
+</figure>
+		 
 
-![](/images/Mr-Manogaran-Suppiah1-200x300.jpg)
+<center><b>Mrs Kok Chwee Kee (MISSING PICTURE)</b></center>
+
+<figure>
+<img src="/images/Mr-Tan-Teck-Hock-200x300.jpg" 
+     style="width:35%">
+<figcaption> <strong> Mr Tan Teck Hock </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Mrs-Wong-Cheang-Mei-Heng-200x300.jpg" 
+     style="width:35%">
+<figcaption> <strong> Mrs Wong-Cheang Mei Heng </strong> </figcaption>
+</figure>
+		 
+<figure>
+<img src="/images/Mr-Manogaran-Suppiah1-200x300.jpg" 
+     style="width:35%">
+<figcaption> <strong> Mr Manogaran Suppiah
+
+*</strong> </figcaption>
+</figure>
+
