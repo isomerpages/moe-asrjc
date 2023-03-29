@@ -28,14 +28,16 @@ Serangoon Junior College had forged long and lasting partnerships with organisat
 The first Integrated Service Learning Camp was held in 2003 to develop youth mentors to plan, conceptualise and perform community service. In line with this tradition, the Service-Learning Symposium was hosted annually to expose students to a range of organisations. Speakers from these organisations would engage the students in lively and inspiring presentations on their objectives and how they provide for the needs of the community.
 
 <img src="/images/Students-learn-from-one-another-in-the-Service-Learning-Symposium-2016-300x199.jpg" 
-     style="width:75%">
+     style="width:40%">
 
 
 **Breaking Limits for A Good Cause**
 
 The WILL Run was definitely one of SRJC’s key events which demonstrated the college’s strong spirit of Service-Learning. While the way it was carried out had evolved through the years, its conception in 2008 was founded on the objectives of conquering one’s physical limits and raising funds for charity. $50,000 was raised and donated to the Singapore Disability Sports Council in 2009, a legacy that would continue, benefitting many other organisations through the years, as SRJCians demonstrated their unity in a spirit of camaraderie and giving.
 
-![](/images/SRJC%20Serving%205.jpg)
+
+<img src="/images/SRJC%20Serving%205.jpg" 
+     style="width:40%">
 
 Packed with song, dance and a touch of acrobatics, the Thanksgiving Concert concert became a biennial tradition and one of the highlights of college life for students at Serangoon Junior College (SRJC). Introduced in 2007, the Thanksgiving Concert was incepted to commemorate the SR family’s fund-raising efforts. It evolved to be a concert in which stars of the concert were the staff, who entertained and motivated the students ahead of their year-end examinations.
 
@@ -46,4 +48,4 @@ Packed with song, dance and a touch of acrobatics, the Thanksgiving Concert conc
 During the SG50 celebrations, SRJC held its inaugural SR Fiesta in 2015 (later named SR Fiestar), an exciting all-day carnival with food and game stalls run by the JC1 students to raise funds for the community. Held during the National Day celebrations, SR Fiesta was a day of celebration and enjoyment. Following the carnival, an intellectually and emotionally-charged forum, SR Giving, was held for students to voice their opinions and decide on which organisation to pledge the funds to.
 
 <img src="/images/SRJC%20Serving%207.jpg" 
-     style="width:75%">
+     style="width:40%">
