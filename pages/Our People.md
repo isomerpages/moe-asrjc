@@ -184,10 +184,10 @@ description: ""
     <input type="checkbox" id="accordion9">
     <label for="accordion9">Science Department</label>
     <div>
-      <p style="margin-bottom:0;"><b>HOD Science (Chemistry &amp; Biology)</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Ng Yung Hui Eugene</p>
-      <p style="margin-bottom:0;"><b>HOD Science (Physics &amp; Science Research) (Covering)</b></p>
+      <p style="margin-bottom:0;"><b>HOD Science (Biology and Physics)</b></p>
       <p style="margin : 0; padding-top:0;">Mr Ong Jun Kok</p>
+      <p style="margin-bottom:0;"><b>HOD Science (Chemistry &amp; Science Research) (Covering)</b></p>
+      <p style="margin : 0; padding-top:0;">Ms Wong Kai Ning</p>
       <p style="margin-bottom:0;"><b>HOD Character and Citizenship Education</b></p>
       <p style="margin : 0; padding-top:0;">Mr Yeo Wee Leng, Joshua</p>
       <p style="margin-bottom:0;"><b>HOD Information &amp; Communication Technology</b></p>
