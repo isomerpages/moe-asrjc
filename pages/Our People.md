@@ -81,11 +81,11 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Humanities Department</label>
     <div>
-      <p style="margin-bottom:0;"><b>HOD Humanities & Engagement & Partnerships</b></p>
+      <p style="margin-bottom:0;"><b>HOD Humanities &amp; Engagement &amp; Partnerships</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Ong Shu Hui</p>
 			<p style="margin-bottom:0;"><b>JC1 Dean</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Zhu Youyan, Corrine</p>
-			<p style="margin-bottom:0;"><b>SH Engagement & Partnerships</b></p>
+			<p style="margin-bottom:0;"><b>SH Engagement &amp; Partnerships</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Goh Ying Shi Darwin</p>
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Kuan Jie Hui Eugene</p>
@@ -121,22 +121,22 @@ description: ""
     <div>
       <p style="margin-bottom:0;"><b>HOD Mathematics and School Staff Developer</b></p>
       <p style="margin : 0; padding-top:0;">Mr Kan Kok Leong</p>
-      <p style="margin-bottom:0;"><b>JC1 Deputy Dean</b></p>
+      <p style="margin-bottom:0;"><b>JC2 Deputy Dean</b></p>
       <p style="margin : 0; padding-top:0;">Mr Lee Han Meng Desmond</p>
       <p style="margin-bottom:0;"><b>Senior Teachers</b></p>
       <p style="margin : 0; padding-top:0;">Mr Anuar Bin Kassim</p>
 			<p style="margin : 0; padding-top:0;">Mr Cheu Ker Jim</p>
       <p style="margin-bottom:0;"><b>SH Mathematics</b></p>
       <p style="margin : 0; padding-top:0;">Mr Lim Ting</p>
-						<p style="margin-bottom:0;"><b>SH Mathematics</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Tay Guo Yong</p>
 			<p style="margin-bottom:0;"><b>SH Information and Communication Technology</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Koh Wenting</p>
-			<p style="margin-bottom:0;"><b>SH IME & EdTech (Covering)</b></p>
+			<p style="margin-bottom:0;"><b>SH IME &amp; EdTech (Covering)</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Lam Meng Hwee</p>
       <p style="margin-bottom:0;"><b>Teachers</b></p>
       <p style="margin : 0; padding-top:0;">Ms Foo Yong Jeh</p>
-			<p>Ms Koh Seok Xian</p>  
+			<p>Mr Gi Soong Chee</p>
+			<p>Ms Koh Seok Xian</p>
 			<p>Mdm Koh Suh Miin</p>
 			<p>Mr Lau Haw Ping</p>
 			<p>Mr Lee Dong Liang</p>
@@ -155,7 +155,7 @@ description: ""
 			<p style="margin-bottom:0;"><b>Senior Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Chua Wee Lian William</p>
 			<p style="margin : 0; padding-top:0;">Ms Eleonor Rivera</p>
-			<p style="margin-bottom:0;"><b>SH PE & CCA (Covering)</b></p>
+			<p style="margin-bottom:0;"><b>SH PE &amp; CCA (Covering)</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Chang Shu Yuet</p>
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Chong Song Cheng</p>
@@ -182,13 +182,13 @@ description: ""
     <input type="checkbox" id="accordion9">
     <label for="accordion9">Science Department</label>
     <div>
-      <p style="margin-bottom:0;"><b>HOD Science (Chemistry & Biology)</b></p>
+      <p style="margin-bottom:0;"><b>HOD Science (Chemistry &amp; Biology)</b></p>
       <p style="margin : 0; padding-top:0;">Mr Ng Yung Hui Eugene</p>
-      <p style="margin-bottom:0;"><b>HOD Science (Physics & Science Research) (Covering)</b></p>
+      <p style="margin-bottom:0;"><b>HOD Science (Physics &amp; Science Research) (Covering)</b></p>
       <p style="margin : 0; padding-top:0;">Mr Ong Jun Kok</p>
       <p style="margin-bottom:0;"><b>HOD Character and Citizenship Education</b></p>
       <p style="margin : 0; padding-top:0;">Mr Yeo Wee Leng, Joshua</p>
-      <p style="margin-bottom:0;"><b>HOD Information & Communication Technology</b></p>
+      <p style="margin-bottom:0;"><b>HOD Information &amp; Communication Technology</b></p>
       <p style="margin : 0; padding-top:0;">Mr Oh Chee Tiong</p>
 						<p style="margin-bottom:0;"><b>JC1 Dean</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Chew Tse Yong</p>
@@ -242,7 +242,7 @@ description: ""
   </li>
 	 <li>						
     <input id="accordion10" type="checkbox">						
-    <label for="accordion10">Executive & Administrative Staff</label>		
+    <label for="accordion10">Executive &amp; Administrative Staff</label>		
     <div>
 			<p style="margin-bottom:0;"><b>Administrative Manager</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Lee Lian Hong</p>
