@@ -190,15 +190,18 @@ description: ""
       <p style="margin : 0; padding-top:0;">Ms Wong Kai Ning</p>
       <p style="margin-bottom:0;"><b>HOD Character and Citizenship Education</b></p>
       <p style="margin : 0; padding-top:0;">Mr Yeo Wee Leng, Joshua</p>
-      <p style="margin-bottom:0;"><b>HOD Information &amp; Communication Technology</b></p>
+      <p style="margin-bottom:0;"><b>HOD Information &amp; Communication Technology &amp; Assessment</b></p>
       <p style="margin : 0; padding-top:0;">Mr Oh Chee Tiong</p>
-						<p style="margin-bottom:0;"><b>JC1 Dean</b></p>
+			      <p style="margin-bottom:0;"><b>School Staff Developer
+</b></p>
+      <p style="margin : 0; padding-top:0;">Mr Ng Yung Hui Eugene</p>
+						<p style="margin-bottom:0;"><b>JC2 Dean</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Chew Tse Yong</p>
-			<p style="margin-bottom:0;"><b>JC2 Deputy Dean</b></p>
+			<p style="margin-bottom:0;"><b>JC1 Deputy Dean</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Khiew Shi Hui</p>
 			<p style="margin-bottom:0;"><b>Lead Teacher (Physics)</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Sng Peng Poo</p>
-			<p style="margin-bottom:0;"><b>Senior Teacher (Biology)</b></p>
+			<p style="margin-bottom:0;"><b>Lead Teacher (Biology)</b></p>
       <p style="margin : 0; padding-top:0;">Mdm Leow Li Ting</p>
       <p style="margin-bottom:0;"><b>Senior Teachers (Chemistry)</b></p>
       <p style="margin : 0; padding-top:0;">Ms Cheng Chee Wei Esther</p>
@@ -210,9 +213,10 @@ description: ""
       <p style="margin : 0; padding-top:0;">Mdm Resma Bte Gulzar Mohd</p>
 			      <p style="margin-bottom:0;"><b>SH Chemistry</b></p>
       <p style="margin : 0; padding-top:0;">Mr Yang Wee Chin, Kenneth</p>
-			<p style="margin : 0; padding-top:0;">Ms Wong Kai Ning</p>
-			<p style="margin-bottom:0;"><b>SH Physics</b></p>
-			<p style="margin : 0; padding-top:0;">Mrs Chua-Loo Wee Ping</p>
+						<p style="margin-bottom:0;"><b>SH Chemistry (Covering)</b></p>
+      <p style="margin : 0; padding-top:0;">Mr Peh Kar Liang</p>
+			<p style="margin-bottom:0;"><b>SH Physics (Covering)</b></p>
+			<p style="margin : 0; padding-top:0;">Mdm Tan Pei Yun</p>
 			<p style="margin-bottom:0;"><b>SH STEM</b></p>
       <p style="margin : 0; padding-top:0;">Mr Soo Kah Wai Kelvin</p>
       <p style="margin-bottom:0;"><b>SH Guidance</b></p>
@@ -225,21 +229,17 @@ description: ""
 			<p>Ms Eng Chai Hoon Jaslyn</p>					
 			<p>Mdm Goh Sok Leng</p>  		
 			<p>Mr Goh Wing Hoe, Vincent</p>  					
-			<p>Ms Hu Meijiao</p>					
-			<p>Ms Khoo Ching Wan</p>		
+			<p>Ms Hu Meijiao</p>						
 			<p>Mrs Lian-Lim Chew Ling</p>	
 			<p>Ms Lee Gui Wei</p>  		
 			<p>Ms Leow Shu Ting</p>  					
 			<p>Mdm Leung Sau Wai</p>					
-			<p>Mr Ng Song En, John</p>  		
-			<p>Mr Peh Kar Liang</p>  					
-			<p>Ms Seah Suei Hua Jocelyn</p>		
-			<p>Ms Tan Ee Yong</p>	
+			<p>Mdm Sim Yong Hui</p>  		
+			<p>Ms Seah Suei Hua Jocelyn</p>  					
+			<p>Ms Tan Ee Yong</p>		
 			<p>Mr Tan Heng Huat, Jason</p>	
-			<p>Mdm Tan Pei Yun</p>  		
-			<p>Ms Tok Kah En</p>  					
-			<p>Mrs Wong Foon Mui</p>					
-			<p>Mr Yeong Chong Yiing</p>		
+			<p>Ms Tok Kah En</p>	
+			<p>Mr Yeong Chong Yiing</p>  		
     </div>
   </li>
 	 <li>						
