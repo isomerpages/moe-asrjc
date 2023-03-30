@@ -170,12 +170,14 @@ description: ""
     <div>
       <p style="margin-bottom:0;"><b>HOD Project Work</b></p>
       <p style="margin : 0; padding-top:0;">Mr Lim Che Pinn Andy</p>
+			<p style="margin-bottom:0;"><b>SH Project Work  
+</b></p>
+      <p style="margin : 0; padding-top:0;">Ms Lim Li Wen Evon</p>
       <p style="margin-bottom:0;"><b>Teachers</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Foo Chuan Wang Derek</p>
+      <p style="margin : 0; padding-top:0;">Mr Ng Song En, John</p>
 			<p>Ms Khaw Maylee</p>  
 			<p>Ms Koh Yi Ting Cristee</p>
-			<p>Ms Lim Dun Lin</p>
-			<p>Ms Lim Li Wen Evon</p>
+			<p>Mrs Malarvizhi Haugen</p>
     </div>
   </li>
  <li>
