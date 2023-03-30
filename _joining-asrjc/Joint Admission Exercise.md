@@ -21,7 +21,51 @@ Applicants may apply for the Joint Admissions Exercise (JAE) registration via th
 
 Past cut-off points for L1R5 aggregate after deduction of bonus points for Joint Admission Exercise are shown in the table below. As posting of students is subject to availability of vacancies, not all students who have applied to ASRJC (with L1R5 aggregate as listed in the table) are posted here.
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#9b9b9b;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Year</th><th style="background-color:#9b9b9b;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Arts</th><th style="background-color:#9b9b9b;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Science</th></tr></thead><tbody><tr><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2019</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">12</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">11</td></tr><tr><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2020</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">11</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">11</td></tr><tr><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">11</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">11</td></tr><tr><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2022</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">11</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">10</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dllr{background-color:#808080;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-sm4r{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dllr"><span style="font-weight:bold;font-style:inherit">Year</span></th>
+    <th class="tg-dllr"><span style="font-weight:bold;font-style:inherit">Arts</span></th>
+    <th class="tg-dllr"><span style="font-weight:bold;font-style:inherit">Science</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">2019</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">12</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">11</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">2020</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">11</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">11</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">2021</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">11</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">11</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">2022</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">11</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">10</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">2023</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">11</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">10</span></td>
+  </tr>
+</tbody>
+</table>
 
 #### Calculation of L1R5 Score
 	
@@ -29,14 +73,14 @@ Past cut-off points for L1R5 aggregate after deduction of bonus points for Joint
 	
 	
 #### Bonus Points Computation
-<html>
-<head>
+
+
 <style>
 </style>
-</head>
-<body>
+
+
 <table>
-  <tr>
+  <tbody><tr>
     <td>Students with A1 to C6 in both their first languages (English and Higher Mother Tongue)</td>
 		<td>2 bonus points</td>
   </tr>
@@ -48,21 +92,21 @@ Past cut-off points for L1R5 aggregate after deduction of bonus points for Joint
     <td>Students who obtained an 'Good' in CCA</td>
     <td>1 bonus point</td>
   </tr>
-</table>
-</body>
-</html>
+</tbody></table>
+
+
 
 Students can enjoy up to a maximum of 4 bonus points. However, a minimum raw score of L1R5 20 points is necessary to qualify for bonus points.
 
 ### **Post-JAE Appeal Procedure**
 
-The Appeal period starts on 4 Feb, and will end on 9 Feb 2022.
+Appeals for admission to ASRJC will commence on Thursday, 2 February 2023 and end on Wednesday, 8 February 2023.
 
-Only students with net L1R5 equal or less than ASRJC cut-off points can be considered for appeals. All appeals application must be completed online. The online application form can be accessed <a href="https://portal.asrjc.edu.sg/appeal"> here</a>. <b>The online application form will close at the end of the Appeal period.</b>
+Only students with net L1R5 equal or less than ASRJC cut-off points can be considered for appeals.&nbsp;All appeals application must be completed online. The online application form can be accessed&nbsp;**[here](https://portal.asrjc.edu.sg/appeal)**.&nbsp;**All appeals must be submitted by Wednesday 8 February 2023, 9am.**
 
-You can download the user guide for appeal<a href="/files/2022-User-Guide-for-Appeal.pdf">here</a>.
+You can download the user guide for appeal&nbsp;**[here.](/files/2023-user-guide-for-appeal.pdf)**
 
-<b>Only shortlisted candidates will be called up for an interview.</b>
+<b><u>Only shortlisted candidates will be called up for an interview.</u></b>
 
 All shortlisted candidates will be notified before the end of the Appeal period. Shortlisted candidates are to bring along the original and a duplicate copy of the:
 
@@ -73,16 +117,16 @@ All shortlisted candidates will be notified before the end of the Appeal period.
 * Secondary school testimonial
 * Other relevant supporting documents
 
-### **Subject Combinations in ASRJC**
+### **Subject&nbsp;Combinations&nbsp;in ASRJC**
 
-The list of subject combinations offered in 2022 is downloadable <a href="files/2022-Subject-Combinations-new.pdf"> here</a>.
+The list of subject combinations offered in 2022 is downloadable [here](/files/asrjc-subject-combination-list-2023.pdf).
 
 ### **Selection Tests**
 
 **H2 Further Mathematics**
 
-H2 Further Mathematics is to be offered with H2 Mathematics as a double mathematics course. The test for H2 Further Mathematics will be conducted on 8 February 2022.
+H2 Further Mathematics is to be offered with H2 Mathematics as a double mathematics course. The test for H2 Further Mathematics is on Monday 6 February, 2.30pm.
 
 **H2 Art**
 
-The test for H2 Art will be conducted on 8 February 2022. Students are advised to bring their own drawing and painting materials for the test, and submit their portfolio at the same time. The interview will be conducted on the afternoon of 8 February 2022.
+The test for H2 Art is on Monday 6 February, 2.30pm. Students are advised to bring their own drawing and painting materials for the test, and submit their portfolio at the same time. The interview will be conducted on the same afternoon.
