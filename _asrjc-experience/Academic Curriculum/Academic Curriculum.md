@@ -6,7 +6,12 @@ third_nav_title: Academic Curriculum
 ---
 #### PROSPECTUS
 
-Click to view ASRJC's E-Prospectus (file bigger than 5MB)
+<p><a href="/files/asrjc-prospectus-2023-web.pdf">
+<img style="width:35%" src="/images/oh2023-logo-circle-300x292.png">
+</a></p>
+
+
+[Click to view ASRJC's E-Prospectus](/files/asrjc-prospectus-2023-web.pdf)
 
 #### JC CURRICULUM
 
@@ -14,11 +19,11 @@ Starting from 2006, students entering Junior Colleges (JCs) and Millennia Instit
 
 ![](/images/a-level-curriculum-framework.png)
 
-(Source: https://www.moe.gov.sg/education/pre-university/gce-a-level-curriculum)
+(Source:&nbsp;https://www.moe.gov.sg/education/pre-university/gce-a-level-curriculum)
 
-Students will be given opportunities to learn from the following three different disciplines: Languages; Humanities & the Arts; and Mathematics & Sciences. For instance, a Humanities/ Arts student will take at least one contrasting subject from the Mathematics and Sciences disciplines, and vice versa.
+Students will be given opportunities to learn from the following three different disciplines: Languages; Humanities &amp; the Arts; and Mathematics &amp; Sciences. For instance, a Humanities/ Arts student will take at least one contrasting subject from the Mathematics and Sciences disciplines, and vice versa.
 
-More information can be found on the Ministry of Education website (insert valid link)
+More information can be found on the&nbsp;Ministry of Education website (insert valid link)
 
 #### Project Work
 
@@ -26,7 +31,7 @@ More information can be found on the Ministry of Education website (insert vali
 
 *   It aims to provide students with the opportunity to explore the inter-relationships and inter-connectedness of subject-specific knowledge; encourages students to break away from compartmentalised learning, and to develop the ability to integrate information and make meaningful links between different strands of knowledge.
 *   A group of 4 or 5 students will conduct a project based on the project task given (i.e. question), under the supervision of a supervising tutor.
-*   PW is calculated as a H1 subject and thus the grading system is the same as other H1 subject (ie. A, B, C, D, E, S & U).
+*   PW is calculated as a H1 subject and thus the grading system is the same as other H1 subject (ie. A, B, C, D, E, S &amp; U).
 
 **What is the structure of PW?**
 
@@ -136,10 +141,10 @@ The H3 curriculum is designed to allow exceptionally strong students who have th
 </table>
 
 #### Other Details:
-<html>
-<body>
+
+
 <table>
-  <tr>
+  <tbody><tr>
     <td>
 			
 <b>Application Period</b>
@@ -171,6 +176,4 @@ The H3 curriculum is designed to allow exceptionally strong students who have th
 * Other criteria are as stipulated by the institutions offering the H3 module.
 </td>
   </tr> 
-</table>
-</body>
-</html>
+</tbody></table>
