@@ -3,7 +3,6 @@ title: SCIENCE RESEARCH PROGRAMME (SRP) 2022 2023
 permalink: /special-programmes/science-research-programme-srp/
 description: ""
 ---
-
 ### Science Research & Enrichment Programme
 
 #### **SCIENCE RESEARCH PROGRAMME (SRP) 2022/23**
@@ -93,7 +92,7 @@ TIME FRAME FOR SRP 2022/23
 
 **APPLICATION PROCEDURES FOR RESEARCH METHODS MODULE (RMM)**
 
-1.  Interested students **MUST** meet the following criteria before submitting your online application:
+1. Interested students **MUST** meet the following criteria before submitting your online application:
 
 | **Criteria** | **H3-SRP** | **Enrichment-SRP** |
 |---|---|---|
@@ -102,7 +101,7 @@ TIME FRAME FOR SRP 2022/23
 | Pure Science subjects | At least A2 | NA |
 
 
-2.  Prepare the following information before submitting your online application:
+2. Prepare the following information before submitting your online application:
 
 *A.    Questions:*
 * What do you hope to achieve as a participant in RMM? (max: 100 words)
@@ -118,9 +117,9 @@ TIME FRAME FOR SRP 2022/23
 * Bio/Chem/Informatics/Math/Phys Competition and Olympiad (State highest grade/award and year obtained)
 * Tan Kah Kee Young Inventors' Competition and/or Innovation Programme (IvP) Fair (State title of product, award/prize and year obtained)
 
-3.  Apply online at https://go.gov.sg/srprmm22 between 11 February (Friday) and 18 February 2022 (Friday).
+3. Apply online at [https://go.gov.sg/srprmm22](https://go.gov.sg/srprmm22) between **11 February (Friday)** and **18 February 2022 (Friday)**.
 
-4.  Successful applicants of RMM will be notified via email in end March 2022.
+4. Successful applicants of RMM will be notified via email in end March 2022.
 
 
 For inquiries, please contact Mrs Teo (Physics department) at leung_sau_wai@schools.gov.sg
