@@ -17,4 +17,4 @@ At JC2, students' exploration of possible education and career pathways are enha
 At the end of JC1, students can choose to take up the ASR Industry Experience (work attachments) and/or the Industry Exposure (learning journeys) Programmes, which raise awareness in various industries such as sciences, engineering, law, healthcare, arts, hospitality and social services. ASRJC's list of partners include Singapore Academy of Law, Ho Wong Law Practice LLC, Ministry of Health Holdings, PwC, Microsoft, Building and Construction Authority, Land Transport Authority, Wildlife Reserve Singapore, National Gallery, Hilton Singapore, Bizlink, Codomo, ACRES, etc.
 
 ### Useful links
-[University Application 2022](/files/Useful-information-for-University-Application-2022-Mod-9-Feb.pdf)
+[University Application 2023](/files/useful-information-for-university-application-2023_14-feb-23.pdf)
