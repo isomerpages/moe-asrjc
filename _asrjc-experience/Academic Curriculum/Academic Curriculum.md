@@ -17,13 +17,15 @@ third_nav_title: Academic Curriculum
 
 Starting from 2006, students entering Junior Colleges (JCs) and Millennia Institute take an A-Level curriculum that emphasises breadth of learning and flexibility.
 
-![](/images/a-level-curriculum-framework.png)
+
+<img style="width:55%" src="/images/a-level-curriculum-framework.png">
+
 
 (Source:&nbsp;https://www.moe.gov.sg/education/pre-university/gce-a-level-curriculum)
 
 Students will be given opportunities to learn from the following three different disciplines: Languages; Humanities &amp; the Arts; and Mathematics &amp; Sciences. For instance, a Humanities/ Arts student will take at least one contrasting subject from the Mathematics and Sciences disciplines, and vice versa.
 
-More information can be found on the&nbsp;Ministry of Education website (insert valid link)
+More information can be found on the&nbsp;[Ministry of Education website](https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses).
 
 #### Project Work
 
@@ -171,8 +173,8 @@ The H3 curriculum is designed to allow exceptionally strong students who have th
 </td>
 <td>
 	
-* The number of H3 subjects to be offered by a student is capped at 1.
-* Students may apply for H3 modules offered by MOE and/or the universities but they can only choose to offer one H3 module eventually.
+* The number of H3 subjects to be offered by a student is capped at 1.<br>
+* Students may apply for H3 modules offered by MOE and/or the universities but they can only choose to offer one H3 module eventually.<br>
 * Other criteria are as stipulated by the institutions offering the H3 module.
 </td>
   </tr> 
