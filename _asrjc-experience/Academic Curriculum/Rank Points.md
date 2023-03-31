@@ -4,9 +4,6 @@ permalink: /academic-curriculum/rank-points/
 description: ""
 third_nav_title: Academic Curriculum
 ---
-
-
-
 Rank Points
 ===========
 
@@ -93,7 +90,7 @@ National examinations for all H1 subjects will be taken at the end of JC2. The e
 
 The maximum number of rank points (RP) for admissions to university a student can achieve is 90. A higher score (out of 90) would place a student in a better position for admissions to university.
 
-**Computation of Rank Points without H1 MTL**
+**<u>Computation of Rank Points without H1 MTL</u>**
 
 A student’s rank points are calculated by adding together the rank points the student has achieved for
 
@@ -101,7 +98,7 @@ A student’s rank points are calculated by adding together the rank points the 
 *   H1 General Paper,
 *   and H1 Project Work.
 
-**A.** Maximum Rank Points 
+**A.**&nbsp;Maximum Rank Points 
 
 = 3 H2 + 1 H1 + H1 GP + H1 PW
 
@@ -109,7 +106,7 @@ A student’s rank points are calculated by adding together the rank points the 
 
 = 90 RP
 
-In *Case A*, assuming a student achieves an ‘A’ for all subjects with the exception of a ‘B’ for one of his/her H2 subjects, the calculation of rank points is as follows:
+In <u>Case A</u>, assuming a student achieves an ‘A’ for all subjects with the exception of a ‘B’ for one of his/her H2 subjects, the calculation of rank points is as follows:
 
 Rank Points 
 
@@ -119,23 +116,23 @@ Rank Points
 
 = 87.5 RP
 
-**Computation of Rank Points with H1 MTL**
+**<u>Computation of Rank Points with H1 MTL</u>**
 
 H1 MTL may be included in the computation of the rank points. In such an event, the rank points inclusive of H1 MTL will be rebased from /100 to /90.
 
-**B.** Rank Points 
+**B.**&nbsp;Rank Points 
 
 = \[(3 H2 + 1 H1 + H1 GP + H1 PW + H1 MTL) / 100\] x 90
 
 = \[(20 + 20 + 20 + 10 + 10 + 10 + 10) / 100\] x 90
 
- \= (100 / 100) x 90
+&nbsp;\= (100 / 100) x 90
 
- \= 1 x 90
+&nbsp;\= 1 x 90
 
- = 90 RP
+&nbsp;= 90 RP
 
-In *Case B*, assuming the same student achieves an ‘A’ for all subjects (inclusive of H1 MTL) with the exception of a ‘B’ for one of his/her H2 subjects, the calculation of rank points **inclusive of H1 MTL** is as follows:
+In <u>Case B</u>, assuming the same student achieves an ‘A’ for all subjects (inclusive of H1 MTL) with the exception of a ‘B’ for one of his/her H2 subjects, the calculation of rank points&nbsp;**inclusive of H1 MTL**&nbsp;is as follows:
 
 Rank Points 
 
@@ -151,11 +148,11 @@ Rank Points
 
 In the event of the inclusion of H1 MTL in the computation of rank points, the better (i.e. higher) of the two computed rank points (i.e. Case B (87.75 RP) in the example of Case A vs Case B) will be considered by the universities for admissions.
 
-**Computation of Rank Points for students who offer 4 H2 Subjects**
+**<u>Computation of Rank Points for students who offer 4 H2 Subjects</u>**
 
 Students who offer four H2 content subjects do not have a H1 content subject. In this case, the student’s weakest H2 subject will be computed as a H1 content subject. This means the student’s number of rank points achieved for that H2 subject will be halved (calculated as /10 instead of /20).
 
-**C.** Rank Points 
+**C.**&nbsp;Rank Points 
 
 = 3 H2 + weakest 1 H2 calculated as 1 H1 + H1 GP + H1 PW
 
@@ -163,7 +160,7 @@ Students who offer four H2 content subjects do not have a H1 content subject. In
 
 = 90
 
-In *Case C*, assuming a student offers four H2 content subjects and achieves an ‘A’ for all subjects with the exception of a ‘B’ for one of his/her H2 subjects, the calculation of rank points is as follows:
+In <u>Case C</u>, assuming a student offers four H2 content subjects and achieves an ‘A’ for all subjects with the exception of a ‘B’ for one of his/her H2 subjects, the calculation of rank points is as follows:
 
 Rank Points 
 
