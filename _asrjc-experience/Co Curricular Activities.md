@@ -10,21 +10,18 @@ Our CCAs are:
 ### **Sports & Games**  
 Badminton  
 Basketball  
-Sport Climbing\*  
 Football  
-Ultimate Frisbee  
 Hockey  
 Netball  
 Shooting (Air Pistol and Rifle)  
 Table Tennis  
 Taekwondo  
 Tennis  
-Touch Football (Girls)  
+Touch Rugby  
+Ultimate Frisbee  
 Volleyball
 
-_\*Sport Climbing will not be offered to JC1s in 2022_
-
-![](/images/Basketball_1-1024x683.jpg)
+![](/images/Basketball-Boys-1024x676.jpg)
 
 
 
@@ -35,10 +32,7 @@ Dance Society (Contemporary)
 StageWorks (English Drama)  
 Guitar Ensemble  
 Harmonica Band  
-Music Club\*  
 Symphonic Band
-
-_\*Music Club will not be offered to JC1s in 2022_
 
 ![](/images/Chinese-Orchestra-1024x683.jpg)
 
@@ -50,7 +44,7 @@ Community Champions Council
 Outdoor Activities Club  
 Photographic Society  
 Red Cross Youth  
-STEM Inc.  
+STEM  
 Strategist Society  
 Students’ Council  
 Tamil LDDS  
