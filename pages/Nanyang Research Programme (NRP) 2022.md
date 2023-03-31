@@ -17,16 +17,21 @@ Interested students&nbsp;**MUST**&nbsp;meet the following criteria before submit
 1.  Able to commit from March 2023 - Feb 2024.
 2.  L1R5 – 11 or better
 
-**Project Choice**All applicants will be asked to indicate&nbsp;only&nbsp;**one**&nbsp;project choice. Please choose wisely and research into the project topics that pique your interest before making your choice and submitting your application.&nbsp;Applicants will have to provide a write-up articulating your reason(s) for wanting to work on the chosen project and why you feel you are best suited to work on it.
+**Project Choice**<br>
+All applicants will be asked to indicate&nbsp;only&nbsp;**one**&nbsp;project choice. Please choose wisely and research into the project topics that pique your interest before making your choice and submitting your application.&nbsp;Applicants will have to provide a write-up articulating your reason(s) for wanting to work on the chosen project and why you feel you are best suited to work on it.
 
 Before applying, please watch this&nbsp;[video](https://www.youtube.com/watch?v=htZ7FwQQG1o).
 
 To apply, please visit the NRP portal&nbsp;[here](https://nrph3.goodtech.com.sg/2023/page/login.jsp).
 
-**School Endorsement**Once applications close, all complete applications will be routed back to schools for endorsement.
+**School Endorsement**<br>
+Once applications close, all complete applications will be routed back to schools for endorsement.
 
-**Selection of Applicants**Applications will then be shortlisted and selected by the supervisors. Students may or may not receive emails or phone calls from their respective Supervisors.
+**Selection of Applicants**<br>
+Applications will then be shortlisted and selected by the supervisors. Students may or may not receive emails or phone calls from their respective Supervisors.
 
-**Selection Outcome**Schools will be notified of the selection outcome usually by end March.
+**Selection Outcome**<br>
+Schools will be notified of the selection outcome usually by end March.
 
-**Contact Us**Should you have queries, do email Mdm Tan Pei Yun at&nbsp;[tan\_pei\_yun@schools.gov.sg](mailto:tan_pei_yun@schools.gov.sg)&nbsp;or to NTU at&nbsp;[TalentOutreach@ntu.edu.sg](mailto:TalentOutreach@ntu.edu.sg). Please cc Mdm Tan in all emails to NTU.&nbsp;**Please refrain from writing directly to the various NRP Supervisors whose projects are on offer.**
+**Contact Us**<br>
+Should you have queries, do email Mdm Tan Pei Yun at&nbsp;[tan\_pei\_yun@schools.gov.sg](mailto:tan_pei_yun@schools.gov.sg)&nbsp;or to NTU at&nbsp;[TalentOutreach@ntu.edu.sg](mailto:TalentOutreach@ntu.edu.sg). Please cc Mdm Tan in all emails to NTU.&nbsp;**Please refrain from writing directly to the various NRP Supervisors whose projects are on offer.**
