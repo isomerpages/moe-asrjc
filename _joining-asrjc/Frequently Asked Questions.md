@@ -58,19 +58,23 @@ ASRJC is slated to be rejuvenated under the programme. To facilitate constructio
     <input type="checkbox" id="accordion5">
     <label for="accordion5">2.1 How do I qualify for a 2-year JC course?</label>
     <div>
-      <p>The aggregate of the First Language (L1) and 5 relevant subjects (R5) is computed automatically by the Ministry of Education to determine if you qualify for a 2-year JC course.</p>
-			<p>First language (L1) refers to English/Higher Mother Tongue.</p>
-			<p>The relevant 5 subjects (R5) must include:</p>
-			<div>
-      <ul>
-        <li>Subject 1 - Humanities/Higher Art/Higher Music</li>
-        <li>Subject 2 - Mathematics/Science</li>
-        <li>Subject 3 - Humanities/Higher Art/Higher Music/Mathematics/Science</li>
-				<li>Subject 4 - Any O-level subject (excluding Religious Knowledge and CCA)</li>
-        <li>Subject 5 - Any O-level subject (excluding Religious Knowledge and CCA)</li>
-      </ul>
-    </div>
-		<p>For admission to a junior college, a student must obtain an L1R5 aggregate not exceeding 20 points. The English grade must be at least a C6; Mother Tongue at least a D7 and Mathematics at least a D7.</p>
+      <p>The aggregate of the First Language (L1) and 5 relevant subjects (R5) is computed automatically by the Ministry of Education to determine if you qualify for a 2-year JC course.
+
+First language (L1) refers to English/Higher Mother Tongue
+
+The relevant 5 subjects (R5) must include:
+
+Subject 1 - Humanities/Higher Art/Higher Music
+
+Subject 2 - Mathematics/Science
+
+Subject 3 - Humanities/Higher Art/Higher Music/Mathematics/Science
+
+Subject 4 - Any O-level subject (excluding Religious Knowledge and CCA)
+
+Subject 5 - Any O-level subject (excluding Religious Knowledge and CCA)
+
+For admission to a junior college, a student must obtain an L1R5 aggregate not exceeding 20 points. The English grade must be at least a C6; Mother Tongue at least a D7 and Mathematics at least a D7.</p>
     </div>
 	</li>
 <li>
@@ -84,9 +88,9 @@ ASRJC is slated to be rejuvenated under the programme. To facilitate constructio
     <input type="checkbox" id="accordion7">
     <label for="accordion7">2.3 What are the cut-off L1R5 points for admission to the various streams in ASRJC?</label>
     <div>
-      <p>Individual JCs do not determine the cut-off points. Admission is mostly based on the number of vacancies available as well as the results of students who apply to the JC. Here are the L1R5 cut-off points (after deduction of bonus points) to gain admission to Anderson Serangoon Junior College in 2021:</p>
+      <p>Individual JCs do not determine the cut-off points. Admission is mostly based on the number of vacancies available as well as the results of students who apply to the JC. Here are the L1R5 cut-off points (after deduction of bonus points) to gain admission to Anderson Serangoon Junior College in 2023:</p>
 			<p>
-			<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Science</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">11</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Art</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">11</td></tr></tbody></table>
+			<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Science</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">10</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Art</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">11</td></tr></tbody></table>
 			</p>	
   </div>
 	</li>
@@ -124,16 +128,15 @@ ASRJC is slated to be rejuvenated under the programme. To facilitate constructio
     <input type="checkbox" id="accordion10">
     <label for="accordion10">3.1 I would like to make an appeal to enrol in ASRJC. How do I make an appeal?</label>
     <div>
-      <p>It is probable that you did not meet the specific subject requirements (i.e. the grades) to enter a junior college. Please check Section 6a of the JAE Information Booklet for the exact requirements.</p>
-			<p> You are required to submit the following documents: </p>
-			<div>
-      <ol>
-        <li>Application form: The applicant must submit the appeal online. Alternatively, the hard copy of this form would be made available at our General Office, after the release of the posting results.</li>
-        <li>A duplicate copy of your Joint Admission Exercise Form A, latest GCE O-Level results slip, CCA records and Secondary 4E/5N Mid-Year Examination and Preliminary Examination results.</li>
-        <li>Other supporting documents that may aid in your appeal.</li>
-      </ol>
-    </div>
-		<p> Please note that the original documents must be produced during the submission for the purpose of verification. </p>
+      <p>The appeal exercise starts upon the release of posting results. Only students with net L1R5 equal or less than ASRJC cut-off points for the respective Science and Arts streams can be considered for appeal.
+
+You are required to submit the following documents:
+
+a.  Application form: The applicant must submit the appeal online.<br>
+b.  A duplicate copy of your Joint Admission Exercise Form A, latest GCE O-Level results slip, CCA records and Secondary 4E/5N Mid-Year Examination and Preliminary Examination results.<br>
+c.  Other supporting documents that may aid in your appeal.
+
+Please note that the original documents must be produced during the submission for the purpose of verification.</p>
   </div>
 	</li>
 </ul>
@@ -153,13 +156,21 @@ ASRJC is slated to be rejuvenated under the programme. To facilitate constructio
     <input type="checkbox" id="accordion12">
     <label for="accordion12">4.2 What are the subjects offered in ASRJC?</label>
     <div>
-      <p>Subjects offered in ASRJC are as follows:</p>
-			<p>H1 Subjects</p>
-			<p>Biology, Chinese Language, Chemistry, Economics, General Paper, Geography, History, Literature in English, Malay Language, Mathematics, Physics, Project Work, Tamil Language</p>
-			<p>H2 Subjects</p>
-		  <p>Art, Biology, Chemistry, Chinese Language &amp; Literature, Economics, Further Mathematics, Geography, History, Literature in English, Mathematics, Physics, Tamil Language &amp; Literature</p>
-			<p>H3 Subjects</p>
-			<p>Biology, Chemistry, Mathematics, Physics, Tamil Language &amp; Literature</p>
+      <p>What are the subjects offered in ASRJC?
+
+Subjects offered in ASRJC are as follows:
+
+<u>H1 Subjects</u>
+
+Biology, Chinese Language, Chemistry, Economics, General Paper, Geography, History, Literature in English, Malay Language, Mathematics, Physics, Project Work, Tamil Language
+
+<u>H2 Subjects</u>
+
+Art, Biology, Chemistry, Chinese Language &amp; Literature, Computing, Economics, Further Mathematics, Geography, History, Literature in English, Mathematics, Physics, Tamil Language &amp; Literature
+
+<u>H3 Subjects</u>
+
+Biology, Chemistry, Mathematics, Physics, Tamil Language &amp; Literature</p>
     </div>
 	</li>
 </ul>
