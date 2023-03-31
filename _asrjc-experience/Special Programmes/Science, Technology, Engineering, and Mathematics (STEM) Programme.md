@@ -35,7 +35,7 @@ Click to find out more about the following ASRJC STEM opportunities:
 **Competitions**
 
 *   Singapore Science and Engineering Fair (SSEF)
-*   [Singapore Junior Water Prize](https://www.np.edu.sg/sjwp/Pages/default.aspx) 
+*   [Singapore Junior Water Prize](https://www.np.edu.sg/sjwp/Pages/default.aspx) LINK DOES NOT WORK
 *   [Spellman HV Clean Tech Competition](https://www.cstl.org/cleantech/)
 *   [Samsung Solve For Tomorrow](https://www.samsung.com/sg/solvefortomorrow/) 
 
