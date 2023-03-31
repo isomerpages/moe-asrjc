@@ -3,7 +3,6 @@ title: Frequently Asked Questions
 permalink: /joining-asrjc/frequently-asked-questions/
 description: ""
 ---
-
 #### 1\. ADMISSIONS
 
 <ul class="jekyllcodex_accordion">
@@ -11,36 +10,44 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">1.1 JOINT ADMISSIONS EXERCISE (JAE) </label>
     <div>
-      <p>The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE O-Level certificate holders to apply for admission to post-secondary institutions.</p>
-			<p>The Joint Admissions Exercise 2022 is scheduled to be conducted in January 2022.</p>
-			<p>More information on JAE can be found on MOE's website here (insert valid link here).</p>
+      <p>The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow 
+				
+Singapore-Cambridge GCE O-Level certificate holders to apply for admission to post-secondary institutions.
+
+The Joint Admissions Exercise 2023 is scheduled to be conducted in January 2023.
+
+More information on JAE can be found on MOE's website&nbsp;_[here](https://www.moe.gov.sg/post-secondary/admissions/jae)_.</p>
     </div>
 	</li>
    <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">1.2 RETURNING SINGAPOREANS </label>
     <div>
-      <p>Returning Singaporeans seeking admission to ASRJC are required to participate in the School Placement Exercise for Returning Singaporeans - Junior Colleges and Millennia Institute (SPERS-JC/MI). It is a centralised placement exercise conducted in November each year for Returning Singaporeans who wish to join the Pre-University 1 level at the beginning of the next academic year.</p>
-			<p>Registration for SPERS - JC/MI opens in July each year and more information about SPERS-JC/MI is available here (insert a valid link).</p>
-			<p>Click <a href="/files/ASRJC-Application-Form-for-Admission-of-Returning-Singaporeans_30-Dec-2019.pdf">here</a> to download the ASRJC Application Form for Returning Singaporeans.</p>
+      <p>Returning Singaporeans&nbsp;seeking admission to ASRJC are required to participate in the School Placement Exercise for Returning Singaporeans - Junior Colleges and Millennia Institute (SPERS-JC/MI). It is a centralised placement exercise conducted in November each year for Returning Singaporeans who wish to join the Pre-University 1 level at the beginning of the next academic year.
+
+Registration for SPERS - JC/MI opens in July each year and more information about SPERS-JC/MI is available&nbsp;[here](https://www.moe.gov.sg/returning-singaporeans/post-secondary/spers).
+
+Click&nbsp;[here](https://staging.d2l6tfmz18j0q.amplifyapp.com/joining-asrjc/returning-singaporean-international-students/)&nbsp;to access more information on the application process to our College.</p>
     </div>
 	</li>
 	    <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">1.3 INTERNATIONAL STUDENTS </label>
     <div>
-			<p>International students seeking admission into ASRJC should visit MOE International Students Admissions for more information about the admission and registration procedure. International students are advised to sit for a centralised assessment - Junior College Principals Academy Certification Test (J-PACT) before applying to ASRJC. Information about the J-PACT test is available <a href="https://www.pact.sg/index.php?option=com_content&amp;view=article&amp;id=59:what-is-jpact&amp;catid=47:what-is-jpact&amp;Itemid=95">here</a>.
-		
-</p>
-<p>Click <a href="/files/ASRJC-Application-Form-for-Admission-of-International-Students_30-Dec-2019.pdf">here</a> to download the ASRJC Application Form for International Student.</p>
+			<p>International students seeking admission into ASRJC should visit the&nbsp;“[Admissions for international students](https://www.moe.gov.sg/international-students)”&nbsp;page for more information about the admission and registration procedure.
+
+International students are advised to sit for a centralised assessment - Junior College Principals Academy Certification Test (J-PACT) before applying to ASRJC. Information about the J-PACT test is available&nbsp;[here](http://www.pact.sg/index.php?option=com_content&amp;view=article&amp;id=59:what-is-jpact&amp;catid=47:what-is-jpact&amp;Itemid=95).
+
+Click&nbsp;[here](https://staging.d2l6tfmz18j0q.amplifyapp.com/joining-asrjc/returning-singaporean-international-students/)&nbsp;to access more information on the application process to our College.</p>
     </div>
 	</li>
 		    <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">1.4 JC REJUVENATION PROGRAMME</label>
     <div>
-      <p>Q: How will the JC Rejuvenation Programme affect ASRJC?</p>
-			<p>ASRJC is slated to be rejuvenated under the programme. To facilitate construction work, the college will temporarily move to and operate from the former site of SRJC along Upper Serangoon Road from 2024 to 2027. The college is expected to operate from its rejuvenated campus in Ang Mo Kio from 2028 onwards.</p>
+      <p>Q: How will the JC Rejuvenation Programme affect ASRJC?
+
+ASRJC is slated to be rejuvenated under the programme. To facilitate construction work, the college will temporarily move to and operate from the former site of SRJC along Upper Serangoon Road from 2024 to 2027. The college is expected to operate from its rejuvenated campus in Ang Mo Kio from 2028 onwards.</p>
     </div>
 	</li>
 </ul>	
@@ -150,9 +157,9 @@ description: ""
 			<p>H1 Subjects</p>
 			<p>Biology, Chinese Language, Chemistry, Economics, General Paper, Geography, History, Literature in English, Malay Language, Mathematics, Physics, Project Work, Tamil Language</p>
 			<p>H2 Subjects</p>
-		  <p>Art, Biology, Chemistry, Chinese Language & Literature, Economics, Further Mathematics, Geography, History, Literature in English, Mathematics, Physics, Tamil Language & Literature</p>
+		  <p>Art, Biology, Chemistry, Chinese Language &amp; Literature, Economics, Further Mathematics, Geography, History, Literature in English, Mathematics, Physics, Tamil Language &amp; Literature</p>
 			<p>H3 Subjects</p>
-			<p>Biology, Chemistry, Mathematics, Physics, Tamil Language & Literature</p>
+			<p>Biology, Chemistry, Mathematics, Physics, Tamil Language &amp; Literature</p>
     </div>
 	</li>
 </ul>
