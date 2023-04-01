@@ -69,13 +69,14 @@ Application opens in Semester 1 and students will be invited to apply for the sc
 Students who need counselling or advice in career guidance can approach their Class Mentors or the following personnel for an appointment:
 
 **Mrs Sophia Ng (School Counsellor)**  
-Email:&nbsp;[chiang\_yik\_huey\_sophia@schools.gov.sg](mailto:chiang_yik_huey_sophia@schools.gov.sg)  
+Email: <a href="mailto:chiang_yik_huey_sophia@schools.gov.sg">chiang_yik_huey_sophia@schools.gov.sg</a><br>
 Venue: Room 1326  
 Hours: Mondays – Fridays, 8.30 am - 5.30pm
 
-**Ms Loretta Foo (Education &amp; Career Guidance Counsellor)**  
-Email:&nbsp;[loretta\_foo\_xue\_ling@schools.gov.sg](mailto:loretta_foo_xue_ling@schools.gov.sg)  
-Venue: Library Level 2 (Thursdays only)
+**Mr Tony (Education &amp; Career Guidance Counsellor)**  
+Email: <a href="mailto:Gui_Choon_Hock_Tony@schools.gov.sg">Gui_Choon_Hock_Tony@schools.gov.sg</a><br>
+Venue: Room 1328  
+Hours: Mondays – Fridays, 9 am - 5 pm
 
 #### **Crisis Hotlines**&nbsp;(after office hours)
 
