@@ -119,7 +119,7 @@ description: ""
     <input type="checkbox" id="accordion6">
     <label for="accordion6">Mathematics Department</label>
     <div>
-      <p style="margin-bottom:0;"><b>HOD Mathematics and School Staff Developer</b></p>
+      <p style="margin-bottom:0;"><b>HOD Mathematics</b></p>
       <p style="margin : 0; padding-top:0;">Mr Kan Kok Leong</p>
       <p style="margin-bottom:0;"><b>JC2 Deputy Dean</b></p>
       <p style="margin : 0; padding-top:0;">Mr Lee Han Meng Desmond</p>
@@ -131,7 +131,7 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Tay Guo Yong</p>
 			<p style="margin-bottom:0;"><b>SH Information and Communication Technology</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Koh Wenting</p>
-			<p style="margin-bottom:0;"><b>SH IME &amp; EdTech (Covering)</b></p>
+			<p style="margin-bottom:0;"><b>SH IME &amp; EdTech </b></p>
 			<p style="margin : 0; padding-top:0;">Mr Lam Meng Hwee</p>
       <p style="margin-bottom:0;"><b>Teachers</b></p>
       <p style="margin : 0; padding-top:0;">Ms Foo Yong Jeh</p>
