@@ -9,11 +9,24 @@ ASRJC firmly believes in the strategic partnership between parents and the Colle
 
 ### ASRJC Portal
 
-The ASRJC Portal provides an online platform for parents to keep up-to-date with the progress of their children. Various student information can be found on the Portal, such as class, results, and attendance. Parents can access the ASRJC Portal **[here.](https://portal.asrjc.edu.sg/)**
+The ASRJC Portal provides an online platform for parents to keep up-to-date with the progress of their children. Various student information can be found on the Portal, such as class, results, and attendance.
 
-### Parent Kit for Home-Based Learning
+A guide on accessing the ASRJC Portal can be found [**here**](/files/additional-info-instructions-for-accessing-parents-portal.pdf).
 
-A Parent Kit for HBL has been compiled by MOE to explain how home-based learning will work, and how parents can support their children's learning during this period. This has also been sent to parents through the Parents Gateway. Click on the following links to download **part 1** (insert valid link), **[part 4](/files/Parent-Kit-Part-4.pdf)** and **[part 6](/files/Parent-Kit-Part-6.pdf)** of the Kit, relevant to JCs. Other parts of the Parent Kit can be found [here](https://www.moe.gov.sg/parentkit).
+Parents can access the ASRJC Portal **[here.](https://portal.asrjc.edu.sg/)**
+
+### Information & Tips on Supporting Your Child on SDL Days
+
+Our College is committed to nurturing our students to be self-directed learners.
+
+To facilitate this, your child’s timetable in 2023 will reflect a two-week cycle, with one day per fortnight set aside as SDL Day. SDL Days are meant for students to follow up on their learning goals and to hone their habits of monitoring, consolidating and reflecting on their learning.
+
+Students are not expected to report back to college except for co-curricular activities or special programmes on SDL Days. The campus will remain open for students who wish to do their SDL in the college.
+
+![](/images/sdl%20pic%201.png)
+![](/images/sdl%20pic%202.png)
+![](/images/sdl%20pic%203.png)
+
 
 ### Parent Support Group (PSG)
 
