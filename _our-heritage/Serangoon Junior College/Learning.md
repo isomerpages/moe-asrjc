@@ -39,7 +39,7 @@ Back in 1988, SRJC only had a pioneering staff strength of 45 teachers and yet, 
 
 <figure>
 <img src="/images/Ms-Rosalind-Gurupatham-Jeyamoney.jpg" style="width:20%">
-	<figcaption> <strong> Ms Rosalind Gurupatham Jeyamoney, English Department (Literature) </strong> 
+	<figcaption> <strong> Ms Rosalind Gurupatham Jeyamoney, English Department (Literature) </strong> </figcaption></figure>
 		 
 
 
@@ -265,4 +265,4 @@ S\*Star’s winning Amazing Science Challenge project, “The Secret Painting”
 	
 <figure>
 <img src="/images/The-SR-Choir-pictured-with-Principal-Ms-Jenny-Yong-19981-300x227.jpg" style="width:40%">
-<figcaption> <strong>The SR Choir, pictured with Principal Ms Jenny Yong (1998)</strong></figcaption></figure></figcaption></figure>
+<figcaption> <strong>The SR Choir, pictured with Principal Ms Jenny Yong (1998)</strong></figcaption></figure>
