@@ -26,14 +26,14 @@ More information on JAE can be found on MOE's website
 
 Registration for SPERS - JC/MI opens in July each year and more information about SPERS-JC/MI is available <a href="https://www.moe.gov.sg/returning-singaporeans/post-secondary/spers">here</a><br><br>
 
-Click [here](https://staging.d2l6tfmz18j0q.amplifyapp.com/joining-asrjc/returning-singaporean-international-students/) to access more information on the application process to our College.</p>
+Click <a href="https://staging.d2l6tfmz18j0q.amplifyapp.com/joining-asrjc/returning-singaporean-international-students/">here</a> to access more information on the application process to our College.</p>
     </div>
 	</li>
 	    <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">1.3 INTERNATIONAL STUDENTS </label>
     <div>
-			<p>International students seeking admission into ASRJC should visit the&nbsp;“[Admissions for international students](https://www.moe.gov.sg/international-students)”&nbsp;page for more information about the admission and registration procedure.<br><br>
+			<p>International students seeking admission into ASRJC should visit the “<a href="https://www.moe.gov.sg/international-students">Admissions for international students</a>” page for more information about the admission and registration procedure.<br><br>
 
 International students are advised to sit for a centralised assessment - Junior College Principals Academy Certification Test (J-PACT) before applying to ASRJC. Information about the J-PACT test is available <a href="http://www.pact.sg/index.php?option=com_content&amp;view=article&amp;id=59:what-is-jpact&amp;catid=47:what-is-jpact&amp;Itemid=95">here</a> <br><br>
 
