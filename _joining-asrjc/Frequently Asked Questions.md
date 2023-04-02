@@ -10,12 +10,13 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">1.1 JOINT ADMISSIONS EXERCISE (JAE) </label>
     <div>
-      <p>The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE O-Level certificate holders to apply for admission to post-secondary institutions.<br>
+      <p>The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE O-Level certificate holders to apply for admission to post-secondary institutions.<br><br>
 
-The Joint Admissions Exercise 2023 is scheduled to be conducted in January 2023.<br>
+The Joint Admissions Exercise 2023 is scheduled to be conducted in January 2023.<br><br>
 
-More information on JAE can be found on MOE's website [here](https://www.moe.gov.sg/post-secondary/admissions/jae)</p>
-    </div>
+More information on JAE can be found on MOE's website 
+<a href="https://www.moe.gov.sg/post-secondary/admissions/jae">here</a>				
+    </p></div>
 	</li>
    <li>
     <input type="checkbox" id="accordion2">
