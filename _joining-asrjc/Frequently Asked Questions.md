@@ -43,7 +43,7 @@ Click [here](https://staging.d2l6tfmz18j0q.amplifyapp.com/joining-asrjc/returnin
     <input type="checkbox" id="accordion4">
     <label for="accordion4">1.4 JC REJUVENATION PROGRAMME</label>
     <div>
-      <p>Q: How will the JC Rejuvenation Programme affect ASRJC?
+      <p>Q: How will the JC Rejuvenation Programme affect ASRJC?<br>
 
 ASRJC is slated to be rejuvenated under the programme. To facilitate construction work, the college will temporarily move to and operate from the former site of SRJC along Upper Serangoon Road from 2024 to 2027. The college is expected to operate from its rejuvenated campus in Ang Mo Kio from 2028 onwards.</p>
     </div>
@@ -56,21 +56,21 @@ ASRJC is slated to be rejuvenated under the programme. To facilitate constructio
     <input type="checkbox" id="accordion5">
     <label for="accordion5">2.1 How do I qualify for a 2-year JC course?</label>
     <div>
-      <p>The aggregate of the First Language (L1) and 5 relevant subjects (R5) is computed automatically by the Ministry of Education to determine if you qualify for a 2-year JC course.
+      <p>The aggregate of the First Language (L1) and 5 relevant subjects (R5) is computed automatically by the Ministry of Education to determine if you qualify for a 2-year JC course.<br><br>
 
-First language (L1) refers to English/Higher Mother Tongue
+First language (L1) refers to English/Higher Mother Tongue<br><br>
 
-The relevant 5 subjects (R5) must include:
+The relevant 5 subjects (R5) must include:<br><br>
 
-Subject 1 - Humanities/Higher Art/Higher Music
+Subject 1 - Humanities/Higher Art/Higher Music<br><br>
 
-Subject 2 - Mathematics/Science
+Subject 2 - Mathematics/Science<br><br>
 
-Subject 3 - Humanities/Higher Art/Higher Music/Mathematics/Science
+Subject 3 - Humanities/Higher Art/Higher Music/Mathematics/Science<br><br>
 
-Subject 4 - Any O-level subject (excluding Religious Knowledge and CCA)
+Subject 4 - Any O-level subject (excluding Religious Knowledge and CCA)<br><br>
 
-Subject 5 - Any O-level subject (excluding Religious Knowledge and CCA)
+Subject 5 - Any O-level subject (excluding Religious Knowledge and CCA)<br><br>
 
 For admission to a junior college, a student must obtain an L1R5 aggregate not exceeding 20 points. The English grade must be at least a C6; Mother Tongue at least a D7 and Mathematics at least a D7.</p>
     </div>
@@ -126,13 +126,13 @@ For admission to a junior college, a student must obtain an L1R5 aggregate not e
     <input type="checkbox" id="accordion10">
     <label for="accordion10">3.1 I would like to make an appeal to enrol in ASRJC. How do I make an appeal?</label>
     <div>
-      <p>The appeal exercise starts upon the release of posting results. Only students with net L1R5 equal or less than ASRJC cut-off points for the respective Science and Arts streams can be considered for appeal.
+      <p>The appeal exercise starts upon the release of posting results. Only students with net L1R5 equal or less than ASRJC cut-off points for the respective Science and Arts streams can be considered for appeal.<br><br>
 
-You are required to submit the following documents:
+You are required to submit the following documents:<br><br>
 
 a.  Application form: The applicant must submit the appeal online.<br>
 b.  A duplicate copy of your Joint Admission Exercise Form A, latest GCE O-Level results slip, CCA records and Secondary 4E/5N Mid-Year Examination and Preliminary Examination results.<br>
-c.  Other supporting documents that may aid in your appeal.
+c.  Other supporting documents that may aid in your appeal.<br><br>
 
 Please note that the original documents must be produced during the submission for the purpose of verification.</p>
   </div>
