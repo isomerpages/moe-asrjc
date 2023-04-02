@@ -3,9 +3,7 @@ title: Returning Singaporeans or International students
 permalink: /joining-asrjc/returning-singaporean-international-students/
 description: ""
 ---
-#### Returning Singaporeans
-
-#### Returning Singaporeans
+### Returning Singaporeans
 
 Returning Singaporeans (RS) who wish to seek admission to JC1 in the next academic year are **required** to participate in the School Placement Exercise for Returning Singaporeans (SPERS-JC/MI) jointly conducted by the Ministry of Education and the Principal’s Academy. Click **[here](https://www.moe.gov.sg/returning-singaporeans/post-secondary/spers)** for more information.
 
@@ -13,7 +11,7 @@ Applicants may choose to apply for ASRJC if he/ she is eligible, based on the SP
 
 The application is now closed.
 
-#### **Application for International Students**
+### **Application for International Students**
 
 Anderson-Serangoon Junior College offers the Singapore-Cambridge GCE A-Level Examination, conducted by the Singapore Ministry of Education, the University of Cambridge Local Examinations Syndicate and the Singapore Examinations and Assessment Board.
 
