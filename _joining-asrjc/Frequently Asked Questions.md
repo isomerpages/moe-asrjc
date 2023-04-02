@@ -154,19 +154,19 @@ Please note that the original documents must be produced during the submission f
     <input type="checkbox" id="accordion12">
     <label for="accordion12">4.2 What are the subjects offered in ASRJC?</label>
     <div>
-      <p>What are the subjects offered in ASRJC?
+      <p>What are the subjects offered in ASRJC?<br><br>
 
-Subjects offered in ASRJC are as follows:
+Subjects offered in ASRJC are as follows:<br><br>
 
-<u>H1 Subjects</u>
+<u>H1 Subjects</u><br><br>
 
-Biology, Chinese Language, Chemistry, Economics, General Paper, Geography, History, Literature in English, Malay Language, Mathematics, Physics, Project Work, Tamil Language
+Biology, Chinese Language, Chemistry, Economics, General Paper, Geography, History, Literature in English, Malay Language, Mathematics, Physics, Project Work, Tamil Language<br><br>
 
-<u>H2 Subjects</u>
+<u>H2 Subjects</u><br><br>
 
-Art, Biology, Chemistry, Chinese Language &amp; Literature, Computing, Economics, Further Mathematics, Geography, History, Literature in English, Mathematics, Physics, Tamil Language &amp; Literature
+Art, Biology, Chemistry, Chinese Language &amp; Literature, Computing, Economics, Further Mathematics, Geography, History, Literature in English, Mathematics, Physics, Tamil Language &amp; Literature<br><br>
 
-<u>H3 Subjects</u>
+<u>H3 Subjects</u><br><br>
 
 Biology, Chemistry, Mathematics, Physics, Tamil Language &amp; Literature</p>
     </div>
