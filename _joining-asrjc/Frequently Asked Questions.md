@@ -22,9 +22,9 @@ More information on JAE can be found on MOE's website
     <input type="checkbox" id="accordion2">
     <label for="accordion2">1.2 RETURNING SINGAPOREANS </label>
     <div>
-      <p>Returning Singaporeans&nbsp;seeking admission to ASRJC are required to participate in the School Placement Exercise for Returning Singaporeans - Junior Colleges and Millennia Institute (SPERS-JC/MI). It is a centralised placement exercise conducted in November each year for Returning Singaporeans who wish to join the Pre-University 1 level at the beginning of the next academic year.<br>
+      <p>Returning Singaporeans&nbsp;seeking admission to ASRJC are required to participate in the School Placement Exercise for Returning Singaporeans - Junior Colleges and Millennia Institute (SPERS-JC/MI). It is a centralised placement exercise conducted in November each year for Returning Singaporeans who wish to join the Pre-University 1 level at the beginning of the next academic year.<br><br>
 
-Registration for SPERS - JC/MI opens in July each year and more information about SPERS-JC/MI is available [here](https://www.moe.gov.sg/returning-singaporeans/post-secondary/spers).
+Registration for SPERS - JC/MI opens in July each year and more information about SPERS-JC/MI is available <a href="https://www.moe.gov.sg/returning-singaporeans/post-secondary/spers">here</a><br><br>
 
 Click [here](https://staging.d2l6tfmz18j0q.amplifyapp.com/joining-asrjc/returning-singaporean-international-students/) to access more information on the application process to our College.</p>
     </div>
