@@ -16,7 +16,7 @@ Singapore-Cambridge GCE O-Level certificate holders to apply for admission to po
 
 The Joint Admissions Exercise 2023 is scheduled to be conducted in January 2023.
 
-More information on JAE can be found on MOE's website&nbsp;_[here](https://www.moe.gov.sg/post-secondary/admissions/jae)_.</p>
+More information on JAE can be found on MOE's website [here](https://www.moe.gov.sg/post-secondary/admissions/jae)</p>
     </div>
 	</li>
    <li>
