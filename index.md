@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Anderson Serangoon Junior College
-      background: /images/ASRJC.gif
+      background: /images/asrjcbanner.jpeg
       key_highlights:
         - title: Highlights
           description: ""
