@@ -3,9 +3,6 @@ title: Release of 2022 A Level Results
 permalink: /asrjc-experience/release-of-2022-a-level-results/
 description: ""
 ---
-Release of 2022 A-Level Results
-===============================
-
 **Release of 2022 A-Level Results**
 
 On 17 February, 664 ASRJCians returned to college to receive the results from the 2022 GCE A-Level Examinations with 95% of them being eligible for local autonomous universities. We are very proud of what our class of 2022 has achieved and how they have found ways to lead, serve and learn during their time in ASR.
