@@ -31,16 +31,12 @@ sections:
       url: /
       image: /images/2022-a-level-results-infobar.png
       alt: Image alt text
-  - infobar:
+  - infopic:
       title: DSA-JC 2023
       subtitle: HIGHLIGHTS
-      description: Infobar description
-      button: View Here
-      url: /
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
       description: Infopic description
-      button: Button Text
+      button: View Here
       alt: Image alt text
+      url: /joining-asrjc/direct-school-admission/
+      image: /images/dsajc2023infobar.jpeg
 ---
