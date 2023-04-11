@@ -28,7 +28,7 @@ sections:
       title: Release of 2022 A-level Results
       subtitle: HIGHLIGHTS
       button: View here
-      url: /
+      url: /asrjc-experience/release-of-2022-a-level-results/
       image: /images/2022-a-level-results-infobar.png
       alt: Image alt text
   - infopic:
