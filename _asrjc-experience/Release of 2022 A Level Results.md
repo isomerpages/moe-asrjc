@@ -14,3 +14,5 @@ We thank our parents for being supportive partners and our teachers and non-teac
 As the JC chapter closes for our newly minted alumni, we believe that it is only the beginning of the many exciting adventures ahead for them. We hope that they take their experiences from ASR with them into this next phase of life and continue to hold our college motto close to their hearts. Discere Servire – Non Mihi Solum.
 
 Congratulations to our class of 2022! It’s time to chase your dreams.
+
+![](/images/A%20Levels%20Results%202022.jpg)
