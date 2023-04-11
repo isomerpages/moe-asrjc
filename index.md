@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Anderson Serangoon Junior College
       background: /images/asrjcbanner.jpeg
       key_highlights:
         - title: Highlights
