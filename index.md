@@ -25,10 +25,10 @@ sections:
         encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen></iframe>
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Release of 2022 A-level Results
+      subtitle: HIGHLIGHTS
+      button: viEW HERE
+      url: /
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
