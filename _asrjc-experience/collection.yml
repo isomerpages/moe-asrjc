@@ -2,10 +2,10 @@ collections:
   asrjc-experience:
     output: true
     order:
-      - Release of 2022 A Level Results.md
       - Academic Curriculum/.keep
       - Academic Curriculum/Academic Curriculum.md
       - Academic Curriculum/Rank Points.md
+      - Release of 2022 A Level Results.md
       - Student Developmental Pathway.md
       - CCE/.keep
       - CCE/Leadership Development.md
