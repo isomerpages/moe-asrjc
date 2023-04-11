@@ -30,8 +30,9 @@ sections:
       button: viEW HERE
       url: /
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
+      title: DSA-JC 2023
+      subtitle: HIGHLIGHTS
       description: Infobar description
-      button: Button Text
+      button: View Here
+      url: /
 ---
