@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Anderson Serangoon Junior College
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -19,11 +19,9 @@ sections:
       title: "ASRJC: Leading, Learning and Serving"
       button: Click here
       url: https://www.youtube.com/watch?v=lQhjavlrNGw
-      description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/lQhjavlrNGw" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen></iframe>
+      description: <iframe width="560" height="315" src="https://www.youtube.com/embed/lQhjavlrNGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" allowfullscreen=""></iframe>
   - infopic:
       title: Release of 2022 A-level Results
       subtitle: HIGHLIGHTS
