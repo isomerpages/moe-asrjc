@@ -1,13 +1,19 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Master-Horizontal-Logo-reduced-380x99 (1).png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About ASRJC
+    url: /about-asrjc/principals-message/
+    sublinks:
+      - title: Principal Message
+        url: /about-asrjc/principals-message/
+      - title: Our Identity
+        url: /about-asrjc/our-identity/
+      - title: Our Heritage
+        url: /about-asrjc/heritage/
+      - title: Our People
+        url: /about-asrjc/our-people/
+  - title: Joining ASRJC
+    collection: joining-asrjc
+  - title: ASRJC Experience
+    collection: asrjc-experience
+  - title: Achievements
+    collection: achievements

@@ -1,32 +1,41 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Anderson Serangoon Junior College
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/asrjcbanner.jpeg
+      key_highlights:
+        - title: Highlights
+          description: ""
+          url: /highlights/
+        - title: DSA 2023
+          description: ""
+          url: /joining-asrjc/direct-school-admission/
+  - infopic:
+      title: Release of 2022 A-level Results
+      subtitle: HIGHLIGHTS
+      button: View here
+      url: /asrjc-experience/release-of-2022-a-level-results/
+      image: /images/2022-a-level-results-infobar.png
+      alt: Image alt text
+  - infopic:
+      title: DSA-JC 2023
+      subtitle: HIGHLIGHTS
+      button: View Here
+      alt: Image alt text
+      url: /joining-asrjc/direct-school-admission/
+      image: /images/dsajc2023infobar.jpeg
+  - infobar:
+      title: "ASRJC: Leading, Learning and Serving"
+      button: Click here
+      url: https://www.youtube.com/watch?v=lQhjavlrNGw
+      description: <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/lQhjavlrNGw" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen=""></iframe>
 ---
-
