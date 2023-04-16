@@ -2,6 +2,6 @@ collections:
   about-asrjc:
     output: true
     order:
-      - Our People.md
-      - Our Identity.md
       - Principal's Message.md
+      - Our Identity.md
+      - Our People.md
