@@ -87,7 +87,7 @@ Enoch hopes to realise his dream of studying medicine in a local university so t
 
 **Aninda Metta Citta**
 ![](/images/2022%20A%20Level%20Good%20Stories/aninda.jpg)
-ooking at the schedule for Aninda’s typical day as an ASR student, one might wonder how she juggles all her responsibilities.  
+Looking at the schedule for Aninda’s typical day as an ASR student, one might wonder how she juggles all her responsibilities.  
   
 Aninda was President of the Guitar Ensemble, a hefty leadership role. She was also an international scholar, taking up 4 H2 subjects and a H3 in Molecular Biology with Nanyang Technological University, and on top of all that, she also represented the college in the Singapore Mathematical Olympiad and the MOE Economics Student Symposium.  
   
