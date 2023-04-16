@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: "Homecoming 2023: The Reunion"
       subtitle: Highlights
-      description: "Welcoming our alumni for this special edition of Homecoming "
+      description: "Welcoming all alumni for this special edition of Homecoming "
       button: view here
       url: /highlights/homecoming2023rsvp/
       image: /images/homecoming 2023 thumbnail.png
