@@ -2,4 +2,5 @@ collections:
   about-asrjc:
     output: true
     order:
+      - Our Identity.md
       - Principal's Message.md
