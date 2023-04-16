@@ -9,14 +9,14 @@ sections:
   - hero:
       background: /images/banner for isomer site 1.jpg
       key_highlights:
-        - title: Instagram
-          description: Follow us
+        - title: Social media
+          description: Follow us on Instagram!
           url: https://www.instagram.com/asr.jc/
         - title: Highlights
-          description: Check out our highlights
+          description: Check out our highlights!
           url: /highlights/
         - title: DSA 2023
-          description: Find our more
+          description: Find out more!
           url: /joining-asrjc/direct-school-admission/
   - infopic:
       title: Release of 2022 A-level Results
