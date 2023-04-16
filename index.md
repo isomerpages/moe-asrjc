@@ -23,7 +23,7 @@ sections:
       subtitle: Highlights
       description: "Join for this special edition of Homecoming "
       button: view here
-      url: /highlights/
+      url: /highlights/homecoming2023rsvp/
       image: /images/homecoming 2023 thumbnail.png
       alt: Image alt text
   - infopic:
