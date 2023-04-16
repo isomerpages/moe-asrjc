@@ -14,7 +14,7 @@ sections:
           url: https://www.instagram.com/asr.jc/
         - title: Highlights
           description: Check out our highlights!
-          url: /folder/highlights/
+          url: /highlights/storiesclassof2022/
         - title: DSA-JC 2023
           description: Find out more!
           url: /joining-asrjc/direct-school-admission/
