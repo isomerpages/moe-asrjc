@@ -14,7 +14,7 @@ sections:
           url: https://www.instagram.com/asr.jc/
         - title: Highlights
           description: Check out our highlights!
-          url: /highlights/storiesclassof2022/
+          url: /highlights/
         - title: DSA-JC 2023
           description: Find out more!
           url: /joining-asrjc/direct-school-admission/
@@ -30,7 +30,7 @@ sections:
       title: Release of 2022 A-level Results
       subtitle: HIGHLIGHTS
       button: View here
-      url: /asrjc-experience/release-of-2022-a-level-results/
+      url: /highlights/2022resultsrelease/
       image: /images/2022-a-level-results-infobar.png
       alt: Image alt text
       description: Congratulations to the class of 2022 for their good performance at
