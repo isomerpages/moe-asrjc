@@ -3,7 +3,7 @@ url: https://www.asrjc.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#065c6a"
-  secondary-color: "#ff6c2f"
+  secondary-color: "#ff8a2f"
   media-colors:
     - title: media-color-one
       color: "#49759a"
