@@ -2,5 +2,6 @@ collections:
   highlights:
     output: true
     order:
+      - Farewell Assembly 2022.md
       - Release of 2022 A Level Results.md
       - Highlights.md
