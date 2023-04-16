@@ -19,6 +19,14 @@ sections:
           description: Find out more!
           url: /joining-asrjc/direct-school-admission/
   - infopic:
+      title: "Homecoming 2023: The Reunion"
+      subtitle: Highlights
+      description: "Join for this special edition of Homecoming "
+      button: view here
+      url: /highlights/
+      image: /images/homecoming 2023 thumbnail.png
+      alt: Image alt text
+  - infopic:
       title: Direct School Admission-JC 2023
       subtitle: HIGHLIGHTS
       button: View Here
