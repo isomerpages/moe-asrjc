@@ -25,6 +25,8 @@ sections:
       url: /asrjc-experience/release-of-2022-a-level-results/
       image: /images/2022-a-level-results-infobar.png
       alt: Image alt text
+      description: Congratulations to the class of 2022 for their good performance at
+        the 2022 GCE A-Level Examaminations
   - infopic:
       title: DSA-JC 2023
       subtitle: HIGHLIGHTS
