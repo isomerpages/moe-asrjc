@@ -28,12 +28,13 @@ sections:
       description: Congratulations to the class of 2022 for their good performance at
         the 2022 GCE A-Level Examaminations
   - infopic:
-      title: DSA-JC 2023
+      title: Direct School Admission-JC 2023
       subtitle: HIGHLIGHTS
       button: View Here
       alt: Image alt text
       url: /joining-asrjc/direct-school-admission/
       image: /images/dsajc2023infobar.jpeg
+      description: Find the list of our 2023 DSA talent areas here
   - infobar:
       title: "ASRJC: Leading, Learning and Serving"
       button: Click here
