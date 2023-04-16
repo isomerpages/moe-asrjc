@@ -15,7 +15,7 @@ sections:
         - title: Highlights
           description: Check out our highlights!
           url: /highlights/
-        - title: DSA 2023
+        - title: DSA-JC 2023
           description: Find out more!
           url: /joining-asrjc/direct-school-admission/
   - infopic:
