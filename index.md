@@ -21,7 +21,8 @@ sections:
   - infopic:
       title: "Homecoming 2023: The Reunion"
       subtitle: Highlights
-      description: "Welcoming all alumni for this special edition of Homecoming "
+      description: "Welcoming all alumni and former staff for this special edition of
+        Homecoming "
       button: view here
       url: /highlights/homecoming2023rsvp/
       image: /images/homecoming 2023 thumbnail.png
@@ -33,7 +34,7 @@ sections:
       alt: Image alt text
       url: /joining-asrjc/direct-school-admission/
       image: /images/dsajc2023infobar.jpeg
-      description: Find the list of our 2023 DSA talent areas here
+      description: Join us via our DSA talent areas
   - infopic:
       title: Release of 2022 A-level Results
       subtitle: HIGHLIGHTS
@@ -41,8 +42,8 @@ sections:
       url: /highlights/2022resultsrelease/
       image: /images/2022-a-level-results-infobar.png
       alt: Image alt text
-      description: Congratulations to the class of 2022 for their good performance at
-        the 2022 GCE A-Level Examaminations
+      description: Congratulations to the class of 2022 for their strong performance
+        at the 2022 GCE A-Level Examinations
   - infobar:
       title: "ASRJC: Leading, Learning and Serving"
       button: Click here
