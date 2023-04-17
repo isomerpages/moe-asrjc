@@ -53,38 +53,38 @@ We are looking for students with talent in the following areas:
 </table>
 
 
+#### **2)**&nbsp;**Application Process (To be announced)**
 
 
-#### **2)**&nbsp;**Selection Process**
+#### **3)**&nbsp;**Selection Process**
 
 ##### **Trials / Auditions**
 
-Applicants will be shortlisted for trials/auditions based on evidence of the following aspects:
+Applicants for Sports and Performing Arts talent areas will be shortlisted for trials/auditions based on evidence of the following aspects:
 
 *   Track record, experience and commitment to the talent area.
 *   Achievements, qualifications and certifications in the talent areas.
 
 ##### **Interviews**
 
-Applicants will be shortlisted for interviews based on their performance at trials / auditions.
+Applicants for Sports and Performing Arts talent areas will be further shortlisted for interviews based on their performance at trials / auditions.
 
-(Note: For students applying for DSA in the Science &amp; Technology and Tamil Language Elective Programme, they will only be required to attend an interview.)
+Students applying for DSA in Science &amp; Technology and in the Tamil Language Elective Programme will be shortlisted for interviews based on their application submissions.
 
-Shortlisted applicants from the trials will be required to attend an in-person interview to enable the College to better understand the:
-
+Shortlisted applicants will be required to attend an in-person interview to enable the College to better understand the:
 *   Applicant’s interest/ passion for the specific talent area;
 *   Applicant’s experiences (if any) in nurturing the specific talent area (e.g through school CCA, sport academies/ clubs or private coaching);
 *   Applicant’s motivation for joining ASRJC;
 *   Applicant’s ability to cope with JC curriculum.
 
-**3) Enquiry**
+**4) Enquiry**
 
 For general enquiries regarding DSA, you may contact the following personnel:
 
 *   HOD/PE &amp; CCA, Ms Tay Li May -&nbsp;[tay\_li\_may@schools.gov.sg](mailto:tay_li_may@schools.gov.sg)
 *   Dean, Mr Chew Tse Yong -&nbsp;[chew\_tse\_yong@schools.gov.sg](mailto:chew_tse_yong@schools.gov.sg)
 
-**4) Other Information**
+**5) Other Information**
 
 *   **Subject Combinations offered at ASRJC**
 
