@@ -3,17 +3,19 @@ links:
   - title: About ASRJC
     url: /about-asrjc/principals-message/
     sublinks:
-      - title: Principal Message
+      - title: Principal's Message
         url: /about-asrjc/principals-message/
       - title: Our Identity
         url: /about-asrjc/our-identity/
-      - title: Our Heritage
-        url: /about-asrjc/heritage/
       - title: Our People
         url: /about-asrjc/our-people/
+      - title: Our Heritage
+        url: /about-asrjc/heritage/
   - title: Joining ASRJC
     collection: joining-asrjc
   - title: ASRJC Experience
     collection: asrjc-experience
   - title: Achievements
     collection: achievements
+  - title: Contact Us
+    url: /contact-us

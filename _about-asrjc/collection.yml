@@ -1,0 +1,7 @@
+collections:
+  about-asrjc:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Identity.md
+      - Our People.md

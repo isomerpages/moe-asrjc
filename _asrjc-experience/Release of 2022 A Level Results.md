@@ -1,6 +1,6 @@
 ---
 title: Release of 2022 A Level Results
-permalink: /asrjc-experience/release-of-2022-a-level-results/
+permalink: /highlights/release-of-2022-a-level-results/
 description: ""
 ---
 **Release of 2022 A-Level Results**
