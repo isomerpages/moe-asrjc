@@ -48,7 +48,7 @@ sections:
       title: "ASRJC: Leading, Learning and Serving"
       button: Click here
       url: https://www.youtube.com/watch?v=lQhjavlrNGw
-      description: <iframe width="346" height="194"
+      description: <iframe width="343" height="192"
         src="https://www.youtube.com/embed/lQhjavlrNGw" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture; web-share"
