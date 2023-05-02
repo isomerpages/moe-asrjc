@@ -24,11 +24,11 @@ We are looking for students with talent in the following areas:
 
 ##### **Step 1: Application**
 
-* Submit online application form through this **link (4 May onwards)**
+* Submit online application form through this **[link](https://portal.asrjc.edu.sg/0/dsa.html) (4 May onwards)**
 * The deadline for the submission of online application forms is **Fri 14 July 2023**.
-* Applicants are strongly encouraged to submit their application well in advance of the deadline to be considered for Phase 1.
+* Applicants are **strongly encouraged** to submit their application well in advance of the deadline to be considered for Phase 1.
 * Applicants are required to attach scanned copies of the following along with their application:
-  * Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Mid-Year (if available), Sec 3 Year-end and Sec 4 Weighted Assessment (or equivalent) results, including copies of latest school academic results if available. 
+  * Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Mid-Year (if available), Sec 3 Year-end and Sec 4 Weighted Assessment (or equivalent) results, including copies of latest school academic results **if available**. 
   * School CCA records
   * Relevant certifications and/or records of achievement related to the area of talent
 * Applicants may go ahead to submit the application form first if the official documents are unavailable.
@@ -70,17 +70,17 @@ Shortlisted applicants will be required to attend an in-person interview to enab
 *   Applicant’s ability to cope with JC curriculum.
 
 
-#### **3) Details of Selection Trials/Audtions**
+#### **4) Details of Selection Trials/Audtions**
 
 
-#### **4) Enquiry**
+#### **5) Enquiry**
 
 For general enquiries regarding DSA, you may contact the following personnel:
 
 *   HOD/PE &amp; CCA, Ms Tay Li May -&nbsp;[tay\_li\_may@schools.gov.sg](mailto:tay_li_may@schools.gov.sg)
 *   Dean, Mr Chew Tse Yong -&nbsp;[chew\_tse\_yong@schools.gov.sg](mailto:chew_tse_yong@schools.gov.sg)
 
-#### **5) Other Information**
+#### **6) Other Information**
 
 *   **Subject Combinations offered at ASRJC**
 
