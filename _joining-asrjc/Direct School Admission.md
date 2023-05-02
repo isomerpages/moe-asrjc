@@ -74,7 +74,7 @@ Shortlisted applicants will be required to attend an in-person interview to enab
 
 ![](/images/Images%20for%20DSA%20Talent%20Areas/dsa%20sports%20schedule.png)
 ![](/images/Images%20for%20DSA%20Talent%20Areas/dsa%20perf%20arts%20schedule.png)
-![](/images/Images%20for%20DSA%20Talent%20Areas/dsa%20stem%20schedule.png)
+![](/images/Images%20for%20DSA%20Talent%20Areas/dsa%20stem%20schedule%20new.png)
 ![](/images/Images%20for%20DSA%20Talent%20Areas/dsa%20tlep%20schedule.png)
 
 #### **5) Enquiry**
