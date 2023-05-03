@@ -78,12 +78,14 @@ Shortlisted applicants will be required to attend an in-person interview to enab
 ![](/images/Images%20for%20DSA%20Talent%20Areas/dsa%20stem%20schedule%20new.png)
 ![](/images/Images%20for%20DSA%20Talent%20Areas/dsa%20tlep%20schedule.png)
 
+
 #### **5) Enquiry**
 
 For general enquiries regarding DSA, you may contact the following personnel:
 
 *   HOD/PE &amp; CCA, Ms Tay Li May -&nbsp;[tay\_li\_may@schools.gov.sg](mailto:tay_li_may@schools.gov.sg)
 *   Dean, Mr Chew Tse Yong -&nbsp;[chew\_tse\_yong@schools.gov.sg](mailto:chew_tse_yong@schools.gov.sg)
+
 
 #### **6) Other Information**
 
