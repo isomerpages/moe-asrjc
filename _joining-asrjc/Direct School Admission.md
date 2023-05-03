@@ -3,7 +3,7 @@ title: Direct School Admission
 permalink: /joining-asrjc/direct-school-admission/
 description: ""
 ---
-**Direct School Admission (DSA-JC) Exercise 2023** (Applications will open shortly)
+**Direct School Admission (DSA-JC) Exercise 2023** 
 
 Anderson Serangoon Junior College (ASRJC) welcomes students with talent in various fields to apply for entry to the college through Direct School Admission (DSA). For more information on DSA, please refer to&nbsp;**[MOE DSA-JC website](https://www.moe.gov.sg/post-secondary/admissions/dsa).**
 
@@ -18,7 +18,7 @@ We are looking for students with talent in the following areas:
 #### **2)**&nbsp;**Application Process**
 
 ##### **STEP 1: Application**
-* Submit online application form through this **[link](https://portal.asrjc.edu.sg/0/dsa.html)** (4th May onwards).
+* Submit online application form through this **[link](https://portal.asrjc.edu.sg/0/dsa.html)** (4 May onwards).
 * The deadline for the submission of online application forms is Fri 14 July 2023. 
 * Applicants are strongly encouraged to submit their application well in advance of the deadline to be considered for Phase 1.
 * Applicants are required to attach scanned copies of the following along with their application:
@@ -43,7 +43,7 @@ We are looking for students with talent in the following areas:
 
 ##### **Trials / Auditions**
 
-Applicants for Sports and Performing Arts talent areas will be shortlisted for trials/auditions based on evidence of the following aspects:
+Applicants for Sports* and Performing Arts talent areas will be shortlisted for trials/auditions based on evidence of the following aspects:
 
 *   Track record, experience and commitment to the talent area.
 *   Achievements, qualifications and certifications in the talent areas.
@@ -52,7 +52,7 @@ Applicants for Sports and Performing Arts talent areas will be shortlisted for t
 
 Applicants for Sports and Performing Arts talent areas will be further shortlisted for interviews based on their performance at trials / auditions.
 
-Students applying for DSA in Science &amp; Technology and in the Tamil Language Elective Programme will be shortlisted for interviews based on their application submissions.
+Students applying for DSA in Shooting, Science & Technology, and in the Tamil Language Elective Programme will be shortlisted for interviews based on their application submissions.
 
 Shortlisted applicants will be required to attend an in-person interview to enable the College to better understand the:
 *   Applicant’s interest/ passion for the specific talent area;
