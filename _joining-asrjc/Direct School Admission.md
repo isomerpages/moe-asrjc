@@ -59,7 +59,7 @@ The list of subject combinations offered in 2023 is downloadable&nbsp;**[here](/
 
 *   **Change of college campus in 2024**
 
-The College will be moving to a holding site from January 2024 at the following address:
+The College will be operating at a holding site from January 2024 at the following address:
 
 1033 Upper Serangoon Road  
 Singapore 534768  
