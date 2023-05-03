@@ -69,6 +69,7 @@ Shortlisted applicants will be required to attend an in-person interview to enab
 *   Applicant’s motivation for joining ASRJC;
 *   Applicant’s ability to cope with JC curriculum.
 
+**Except for Shooting*
 
 #### **4) Details of Selection Trials/Audtions**
 
