@@ -3,8 +3,6 @@ title: Direct School Admission
 permalink: /joining-asrjc/direct-school-admission/
 description: ""
 ---
-![](/images/DSA.jpg)
-		 
 **Direct School Admission (DSA-JC) Exercise 2023** (Applications will open shortly)
 
 Anderson Serangoon Junior College (ASRJC) welcomes students with talent in various fields to apply for entry to the college through Direct School Admission (DSA). For more information on DSA, please refer to&nbsp;**[MOE DSA-JC website](https://www.moe.gov.sg/post-secondary/admissions/dsa).**
@@ -12,11 +10,8 @@ Anderson Serangoon Junior College (ASRJC) welcomes students with talent in vario
 #### **1) DSA Talent Areas**
 
 We are looking for students with talent in the following areas:
-
-![](/images/Images%20for%20DSA%20Talent%20Areas/sportsdsa.png)
-![](/images/Images%20for%20DSA%20Talent%20Areas/padsa1.png)
-![](/images/Images%20for%20DSA%20Talent%20Areas/stemdsanew.png)
-![](/images/Images%20for%20DSA%20Talent%20Areas/tlepdsa.png)
+![](/images/Images%20for%20DSA%20Talent%20Areas/dsa%20sports.png)![](/images/Images%20for%20DSA%20Talent%20Areas/dsa%20performing%20arts1.png)
+![](/images/Images%20for%20DSA%20Talent%20Areas/dsa%20stem.png)![](/images/Images%20for%20DSA%20Talent%20Areas/tlepdsa.png)
 
 
 
