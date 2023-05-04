@@ -2,6 +2,7 @@ collections:
   career-and-industry-symposium:
     output: true
     order:
+      - Law and Legal Services.md
       - Information Technology.md
       - Hospitality.md
       - Healthcare.md
