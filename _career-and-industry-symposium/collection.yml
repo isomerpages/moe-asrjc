@@ -1,4 +1,5 @@
 collections:
   career-and-industry-symposium:
     output: true
-    order: []
+    order:
+      - Architecture and Environment.md
