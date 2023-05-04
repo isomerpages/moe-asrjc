@@ -2,6 +2,7 @@ collections:
   career-and-industry-symposium:
     output: true
     order:
+      - Social and Community Services.md
       - Scholarships Information.md
       - National Security.md
       - Media and Communications.md
