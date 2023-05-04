@@ -2,6 +2,7 @@ collections:
   career-and-industry-symposium:
     output: true
     order:
+      - Finance.md
       - Entrepreneurship.md
       - Engineering.md
       - Education.md
