@@ -2,4 +2,5 @@ collections:
   career-and-industry-symposium:
     output: true
     order:
+      - Arts and Creative.md
       - Architecture and Environment.md
