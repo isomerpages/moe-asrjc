@@ -2,7 +2,7 @@ collections:
   career-and-industry-symposium:
     output: true
     order:
-      - Infomation Technology.md
+      - Information Technology.md
       - Hospitality.md
       - Healthcare.md
       - Finance.md
