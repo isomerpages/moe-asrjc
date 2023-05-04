@@ -2,6 +2,7 @@ collections:
   career-and-industry-symposium:
     output: true
     order:
+      - Career and Industry Symposium 2023.md
       - Social and Community Services.md
       - Scholarships Information.md
       - National Security.md
