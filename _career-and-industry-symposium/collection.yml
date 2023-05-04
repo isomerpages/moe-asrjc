@@ -2,6 +2,7 @@ collections:
   career-and-industry-symposium:
     output: true
     order:
+      - Scholarships Information.md
       - National Security.md
       - Media and Communications.md
       - Law and Legal Services.md
