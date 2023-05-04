@@ -2,5 +2,6 @@ collections:
   career-and-industry-symposium:
     output: true
     order:
+      - Data Science and Research.md
       - Arts and Creative.md
       - Architecture and Environment.md
