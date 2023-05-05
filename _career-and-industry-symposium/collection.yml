@@ -1,0 +1,20 @@
+collections:
+  career-and-industry-symposium:
+    output: true
+    order:
+      - Career and Industry Symposium 2023.md
+      - Architecture and Environment.md
+      - Arts and Creative.md
+      - Data Science and Research.md
+      - Design.md
+      - Education.md
+      - Engineering.md
+      - Entrepreneurship.md
+      - Finance.md
+      - Healthcare.md
+      - Hospitality.md
+      - Information Technology.md
+      - Law and Legal Services.md
+      - Media and Communications.md
+      - Social and Community Services.md
+      - Scholarships Information.md
