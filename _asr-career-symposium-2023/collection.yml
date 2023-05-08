@@ -1,8 +1,8 @@
 collections:
-  career-and-industry-symposium:
+  asr-career-symposium-2023:
     output: true
     order:
-      - Career and Industry Symposium 2023.md
+      - ASR Career Symposium 2023 Homepage.md
       - Architecture and Environment.md
       - Arts and Creative.md
       - Data Science and Research.md

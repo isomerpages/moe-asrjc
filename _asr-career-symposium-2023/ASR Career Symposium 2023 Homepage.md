@@ -1,6 +1,6 @@
 ---
-title: Career and Industry Symposium 2023
-permalink: /career-and-industry-symposium/careerandindustrysymposium2023/
+title: ASR Career Symposium 2023 Homepage
+permalink: /career-and-industry-symposium/home/
 description: ""
 ---
 Welcome to this site created for our ASRJCians.
