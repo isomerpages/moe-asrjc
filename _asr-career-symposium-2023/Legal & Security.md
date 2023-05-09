@@ -3,7 +3,7 @@ title: Legal & Security
 permalink: /career-and-industry-symposium/legalandsecurity/
 description: ""
 ---
-### **Director** (Papitto Gelato)
+### **Senior Prosecutor** (Invictus Law Corporation)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Invitus Law Corporation  Mr Joisah Zee  Edited" src="https://www.youtube.com/embed/Aw40e5GwZcM" height="399" width="900"></iframe>
 
