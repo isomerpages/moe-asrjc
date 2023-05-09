@@ -10,6 +10,7 @@ description: ""
 
 Mr Low Hao Jie is current working at LTA and studied civil engineering at NUS. In the videos, Mr Low shares his personal story of how he ended up in civil engineering and shares about his personal work experience, such as the projects he worked on. Most importantly, he provides insightful advice for students taking the A levels.
 
+
 ### **Civil Engineer** (The Lighthouse Club)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="ASRJC Career Symposium 2021 Lighthouse Club of Civil Engineers" src="https://www.youtube.com/embed/ML7_h3AQbEI" height="399" width="900"></iframe>
