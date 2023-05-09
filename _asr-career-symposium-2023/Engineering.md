@@ -6,7 +6,7 @@ description: ""
 ### **Electrical/Mechanical Engineer** (Land Transport Authority)
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="ASRJC Career Symposium 2021 Engineering Mr Low Hao Jie Part 1 LTA" src="https://www.youtube.com/embed/Ks_X6PRzx9s" height="399" width="900"></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="ASRJC Career Symposium 2021 Engineering Mr Low Hao Jie Part 2 LTA" src="https://www.youtube.com/embed/ZQQM01EeMmU" height="1128" width="2543"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="ASRJC Career Symposium 2021 Engineering Mr Low Hao Jie Part 2 LTA" src="https://www.youtube.com/embed/ZQQM01EeMmU" height="399" width="900"></iframe>
 
 Mr Low Hao Jie is current working at LTA and studied civil engineering at NUS. In the videos, Mr Low shares his personal story of how he ended up in civil engineering and shares about his personal work experience, such as the projects he worked on. Most importantly, he provides insightful advice for students taking the A levels.
 
