@@ -12,7 +12,7 @@ Mr Tan Kah Kong graduated from Anderson Junior college before undertaking his st
 
 ### **Director of Programme** (Singapore Chinese Orchestra)
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="ASRJC Career Symposium 2021 Arts Chin Woon Ying LR SCO" src="https://www.youtube.com/embed/f_-xU-p33B8" height="1128" width="2543"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="ASRJC Career Symposium 2021 Arts Chin Woon Ying LR SCO" src="https://www.youtube.com/embed/f_-xU-p33B8" height="399" width="900"></iframe>
 
 Ms Choon Woon Ying has been working in the arts industry for more than 19 years and is currently the director of programmes for the Singapore China Orchestra. She shares the various jobs that the arts induestry has to offer, such as a Broadcast Presenter, Screenwriter, Choreographer, Conductor, Composer, Sound Engineer, Company Manager, and so much more. She also provides more insight as to how a career in the arts industry is like, in which she mentions that the nature of the workings involves a lot of freelancing, such as working for different employers for different projects rther than a permanent job. her advice to students who are interested in pursuing a career in the arts is to research on work experience placements and getting involved in as many shows as possible to build up a good reputation.
 
@@ -34,4 +34,4 @@ Before working as an Education Manager for the National Gallery, Mr Shaun Soh be
 ### **Creative &amp; Image Director** (C+C&amp;Co)
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="ASRJC Career Symposium 2021 Design Mr Charles Rezandi LASALLE" src="https://www.youtube.com/embed/saKiSwgWENE" height="399" width="900"></iframe>
 
-Mr Charles shares about his career in the arts industry and the role he has to carry out, which lies further than just arts alone, and requires even teaching skills. What is crucial in this industry is to be creative and open minded to accepting various forms of arts and create new fashion trends. 
+Mr Charles shares about his career in the arts industry and the role he has to carry out, which lies further than just arts alone, and requires even teaching skills. What is crucial in this industry is to be creative and open minded to accepting various forms of arts and create new fashion trends.
