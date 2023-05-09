@@ -31,14 +31,14 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Chung Ka Wing Kevin</p>
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
-			<p>Mr Gan Teck Ming, Alvin</p>
-			<p>Mr Jowell Yong Kaijie</p>
-			<p>Ms Koh Boey Kwee</p>
-			<p>Ms Lai Peck Chai</p>
-			<p>Ms Nurdiyanah Bte Mohd Daud</p>
-			<p>Ms Tan Sok Mun Ruth</p>
-			<p>Ms Ten Cai Tian</p>
-			<p>Ms Wang Shuhui Mabel</p>
+			<p style="margin : 0; padding-top:0;">Mr Gan Teck Ming, Alvin</p>
+			<p style="margin : 0; padding-top:0;">Mr Jowell Yong Kaijie</p>
+			<p style="margin : 0; padding-top:0;">Ms Koh Boey Kwee</p>
+			<p style="margin : 0; padding-top:0;">Ms Lai Peck Chai</p>
+			<p style="margin : 0; padding-top:0;">Ms Nurdiyanah Bte Mohd Daud</p>
+			<p style="margin : 0; padding-top:0;">Ms Tan Sok Mun Ruth</p>
+			<p style="margin : 0; padding-top:0;">Ms Ten Cai Tian</p>
+			<p style="margin : 0; padding-top:0;">Ms Wang Shuhui Mabel</p>
     </div>
 	</li>
    <li>
@@ -60,21 +60,21 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Ms Choo Li Min Bernadette Teresa</p>			
       <p style="margin-bottom:0;"><b>Teachers</b></p>
       <p style="margin : 0; padding-top:0;">Ms Alviedo Dionne Rochelle Menez</p>
-			<p>Ms Ang Soey Leng Lynn</p>  
-			<p>Ms Aw Yuan Ling Cheryl</p>
-			<p>Ms Chai Xue Fang Beatrice</p>  
-			<p>Mdm Eng Seok Hoon Rose</p>  
-			<p>Ms Goh Mei-Yi, Eunice</p>
-			<p>Ms Hemma Balakrishnan</p>  
-			<p>Ms Ho Ying Xin, Berakah</p>  
-			<p>Ms Lim Wenjia, Claresta</p>
-			<p>Ms Loh Yee Wei Clare</p>
-			<p>Ms Sim Shan Lin</p>
-			<p>Mr Tan Deng Zheng</p>
-			<p>Mr Tay Xiang Wei</p>
-			<p>Mr Tsui Hui Ee Samuel</p>
-			<p>Ms Xu Xiuwen</p>
-			<p>Ms Usha d/o Pillai</p> 
+			<p style="margin : 0; padding-top:0;">Ms Ang Soey Leng Lynn</p>  
+			<p style="margin : 0; padding-top:0;">Ms Aw Yuan Ling Cheryl</p>
+			<p style="margin : 0; padding-top:0;">Ms Chai Xue Fang Beatrice</p>  
+			<p style="margin : 0; padding-top:0;">Mdm Eng Seok Hoon Rose</p>  
+			<p style="margin : 0; padding-top:0;">Ms Goh Mei-Yi, Eunice</p>
+			<p style="margin : 0; padding-top:0;">Ms Hemma Balakrishnan</p>  
+			<p style="margin : 0; padding-top:0;">Ms Ho Ying Xin, Berakah</p>  
+			<p style="margin : 0; padding-top:0;">Ms Lim Wenjia, Claresta</p>
+			<p style="margin : 0; padding-top:0;">Ms Loh Yee Wei Clare</p>
+			<p style="margin : 0; padding-top:0;">Ms Sim Shan Lin</p>
+			<p style="margin : 0; padding-top:0;">Mr Tan Deng Zheng</p>
+			<p style="margin : 0; padding-top:0;">Mr Tay Xiang Wei</p>
+			<p style="margin : 0; padding-top:0;">Mr Tsui Hui Ee Samuel</p>
+			<p style="margin : 0; padding-top:0;">Ms Xu Xiuwen</p>
+			<p style="margin : 0; padding-top:0;">Ms Usha d/o Pillai</p> 
     </div>
   </li>
 	 <li>
@@ -89,11 +89,11 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Goh Ying Shi Darwin</p>
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Kuan Jie Hui Eugene</p>
-			<p>Ms Lim Mei Fu Gayne</p>
-			<p>Ms Neo Zhi Wei</p>
-			<p>Mr Ng Kim Teck</p>
-			<p>Mr Ng Mong Rong Justin</p>
-			<p>Mr Peh Yang Beng Kenneth</p>
+			<p style="margin : 0; padding-top:0;">Ms Lim Mei Fu Gayne</p>
+			<p style="margin : 0; padding-top:0;">Ms Neo Zhi Wei</p>
+			<p style="margin : 0; padding-top:0;">Mr Ng Kim Teck</p>
+			<p style="margin : 0; padding-top:0;">Mr Ng Mong Rong Justin</p>
+			<p style="margin : 0; padding-top:0;">Mr Peh Yang Beng Kenneth</p>
     </div>
 	</li>
 	 <li>
@@ -110,9 +110,9 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Ms Ang Feng Ling</p>
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Kamalavani d/o Palaiyan</p>
-			<p>Ms Ma Junhui</p>
-			<p>Ms Siti Nur Khairiah Binte Zakaria</p>
-			<p>Mdm Yao Heping</p>
+			<p style="margin : 0; padding-top:0;">Ms Ma Junhui</p>
+			<p style="margin : 0; padding-top:0;">Ms Siti Nur Khairiah Binte Zakaria</p>
+			<p style="margin : 0; padding-top:0;">Mdm Yao Heping</p>
     </div>
 	</li>
    <li>
@@ -135,15 +135,15 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Lam Meng Hwee</p>
       <p style="margin-bottom:0;"><b>Teachers</b></p>
       <p style="margin : 0; padding-top:0;">Ms Foo Yong Jeh</p>
-			<p>Mr Gi Soong Chee</p>
-			<p>Ms Koh Seok Xian</p>
-			<p>Mdm Koh Suh Miin</p>
-			<p>Mr Lau Haw Ping</p>
-			<p>Mr Lee Dong Liang</p>
-			<p>Ms Ng Cheng Yee</p>
-			<p>Mdm Sundraes Teckwani</p>
-			<p>Mr Tan Chin Kah</p>
-			<p>Ms Tan Li Rong</p>
+			<p style="margin : 0; padding-top:0;">Mr Gi Soong Chee</p>
+			<p style="margin : 0; padding-top:0;">Ms Koh Seok Xian</p>
+			<p style="margin : 0; padding-top:0;">Mdm Koh Suh Miin</p>
+			<p style="margin : 0; padding-top:0;">Mr Lau Haw Ping</p>
+			<p style="margin : 0; padding-top:0;">Mr Lee Dong Liang</p>
+			<p style="margin : 0; padding-top:0;">Ms Ng Cheng Yee</p>
+			<p style="margin : 0; padding-top:0;">Mdm Sundraes Teckwani</p>
+			<p style="margin : 0; padding-top:0;">Mr Tan Chin Kah</p>
+			<p style="margin : 0; padding-top:0;">Ms Tan Li Rong</p>
     </div>
   </li>
 <li>
@@ -158,9 +158,9 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Chang Shu Yuet</p>
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Chong Song Cheng</p>
-			<p>Mr Ho Kuan Peng</p>
-			<p>Mr Lee Kok Weng</p>
-			<p>Mr Tan Ser Yang</p>
+			<p style="margin : 0; padding-top:0;">Mr Ho Kuan Peng</p>
+			<p style="margin : 0; padding-top:0;">Mr Lee Kok Weng</p>
+			<p style="margin : 0; padding-top:0;">Mr Tan Ser Yang</p>
     </div>
 	</li>
    <li>
@@ -174,9 +174,9 @@ description: ""
       <p style="margin : 0; padding-top:0;">Ms Lim Li Wen Evon</p>
       <p style="margin-bottom:0;"><b>Teachers</b></p>
       <p style="margin : 0; padding-top:0;">Mr Ng Song En, John</p>
-			<p>Ms Khaw Maylee</p>  
-			<p>Ms Koh Yi Ting Cristee</p>
-			<p>Mrs Malarvizhi Haugen</p>
+			<p style="margin : 0; padding-top:0;">Ms Khaw Maylee</p>  
+			<p style="margin : 0; padding-top:0;">Ms Koh Yi Ting Cristee</p>
+			<p style="margin : 0; padding-top:0;">Mrs Malarvizhi Haugen</p>
     </div>
   </li>
  <li>
@@ -222,23 +222,23 @@ description: ""
       <p style="margin : 0; padding-top:0;">Mr Yang Weizheng, Adrian</p>
       <p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Agnes Chia Yi Fang</p>
-			<p>Ms Aw Meng Yuan</p>
-			<p>Mr Chia Zhao Shan Elsen</p>  		
-			<p>Ms Chua Charlotte</p>  					
-			<p>Ms Eng Chai Hoon Jaslyn</p>					
-			<p>Mdm Goh Sok Leng</p>  		
-			<p>Mr Goh Wing Hoe, Vincent</p>  					
-			<p>Ms Hu Meijiao</p>						
-			<p>Mrs Lian-Lim Chew Ling</p>	
-			<p>Ms Lee Gui Wei</p>  		
-			<p>Ms Leow Shu Ting</p>  					
-			<p>Mdm Leung Sau Wai</p>					
-			<p>Mdm Sim Yong Hui</p>  		
-			<p>Ms Seah Suei Hua Jocelyn</p>  					
-			<p>Ms Tan Ee Yong</p>		
-			<p>Mr Tan Heng Huat, Jason</p>	
-			<p>Ms Tok Kah En</p>	
-			<p>Mr Yeong Chong Yiing</p>  		
+			<p style="margin : 0; padding-top:0;">Ms Aw Meng Yuan</p>
+			<p style="margin : 0; padding-top:0;">Mr Chia Zhao Shan Elsen</p>  		
+			<p style="margin : 0; padding-top:0;">Ms Chua Charlotte</p>  					
+			<p style="margin : 0; padding-top:0;">Ms Eng Chai Hoon Jaslyn</p>					
+			<p style="margin : 0; padding-top:0;">Mdm Goh Sok Leng</p>  		
+			<p style="margin : 0; padding-top:0;">Mr Goh Wing Hoe, Vincent</p>  					
+			<p style="margin : 0; padding-top:0;">Ms Hu Meijiao</p>						
+			<p style="margin : 0; padding-top:0;">Mrs Lian-Lim Chew Ling</p>	
+			<p style="margin : 0; padding-top:0;">Ms Lee Gui Wei</p>  		
+			<p style="margin : 0; padding-top:0;">Ms Leow Shu Ting</p>  					
+			<p style="margin : 0; padding-top:0;">Mdm Leung Sau Wai</p>					
+			<p style="margin : 0; padding-top:0;">Mdm Sim Yong Hui</p>  		
+			<p style="margin : 0; padding-top:0;">Ms Seah Suei Hua Jocelyn</p>  					
+			<p style="margin : 0; padding-top:0;">Ms Tan Ee Yong</p>		
+			<p style="margin : 0; padding-top:0;">Mr Tan Heng Huat, Jason</p>	
+			<p style="margin : 0; padding-top:0;">Ms Tok Kah En</p>	
+			<p style="margin : 0; padding-top:0;">Mr Yeong Chong Yiing</p>  		
     </div>
   </li>
 	 <li>						
