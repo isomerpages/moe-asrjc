@@ -9,6 +9,7 @@ description: ""
 
 After completing her degree in Early Childhood Education, Ms Gabriele Leong embarked on her journey through the career of a preschool teacher. She gives insight into the wide range of roles and responsibilities of an early childhood education teacher and shares about the challenges faced by the industry when the pandemic first begun. Ms Leong also expounds on the deeper meaning and importance of working well with colleagues, children and parents.
 
+
 ### **Early Intervention Teacher** (AWWA)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="[ASR Career Symposium 2023] Education - Melody Mak, AWWA School" src="https://www.youtube.com/embed/6_d9_3UtzfY" height="399" width="900"></iframe>
