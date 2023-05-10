@@ -6,18 +6,15 @@ description: ""
 #### School Canteen Advertisement
 
 | **Type of Stall** | **Closing Date** | **Requirements** |
-
 | -------- | -------- | -------- |
-
 | Vegetarian Stall     | 31 May 2023     | Mixed rice is acceptable.    |
+| Malay Food Stall | 31 May 2023 | Rice or noodle stalls are acceptable.|
 
-| Malay Food Stall | 30 Jun 2023 | Rice or noodle stalls are acceptable.|
-
-\*\*Application Procedure\*\*
+**Application Procedure**
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-\* \[Application Form\][\[AK(2\]](#_msocom_2) 
+[Application Form](/files/application%20form%20for%20canteen%20stall.pdf)
 
 2\. Attached the following documents together with the application form:
 
@@ -29,7 +26,7 @@ description: ""
 
 3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-\* Address: xxxx S737777
+\* Address: 4500 Ang Mo Kio Ave 6 Singapore 569843
 
 \* Contact No: 6666 4444
 
