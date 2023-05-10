@@ -3,6 +3,8 @@ title: Canteen Vendor
 permalink: /joining-asrjc/canteenvendor/
 description: ""
 ---
+#### School Canteen Advertisement
+
 | **Type of Stall** | **Closing Date** | **Requirements** |
 
 | -------- | -------- | -------- |
