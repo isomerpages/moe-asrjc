@@ -3,9 +3,9 @@ title: Canteen Vendor
 permalink: /joining-asrjc/canteenvendor/
 description: ""
 ---
-| Type of Stall | Closing Date | Requirements |
+| **Type of Stall** | **Closing Date** | **Requirements** |
 
-|---|---|---|
+| -------- | -------- | -------- |
 
 | Vegetarian Stall     | 31 May 2023     | Mixed rice is acceptable.    |
 
