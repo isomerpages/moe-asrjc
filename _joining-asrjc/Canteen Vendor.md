@@ -60,4 +60,4 @@ description: ""
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
 
-*College will be relocated to 1033 Upper Serangoon Road Singapore (534768) wef December 2023*
+*College will be relocated to 1033 Upper Serangoon Road Singapore (534768) wef December 2023.*
