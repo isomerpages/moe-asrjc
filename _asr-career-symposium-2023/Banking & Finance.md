@@ -5,6 +5,7 @@ description: ""
 ---
 ### **Senior Business Analyst, Trading Techonology (Asia-Pacific)** (Pacific Investment Management Company)
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="[ASR Career Symposium 2023] Finance - Mr Max Ng, PIMCO" src="https://www.youtube.com/embed/fubow6pYPd4" height="399" width="900"></iframe>
 
 Mr Max Ng entered the workforce in the midst of the 2008 financial crisis. He now works for PIMCO, one of the top financial asset management firms globally. As a business analyst, he is responsible for helping firms integrate IT solutions into their production processes. Mr Ng gives deep insight into the dynamic finance industry as well as addressing common misconceptions about the industry
 
