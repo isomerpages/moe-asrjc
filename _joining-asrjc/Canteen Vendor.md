@@ -7,8 +7,8 @@ description: ""
 
 | **Type of Stall** | **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Vegetarian Stall     | 31 May 2023     | Mixed rice is acceptable.    |
-| Malay Food Stall | 31 May 2023 | Rice or noodle stalls are acceptable.|
+| Vegetarian Stall | 31 May 2023 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
+| Malay Food Stall | 31 May 2023 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
 
 **Application Procedure**
 
@@ -28,17 +28,15 @@ description: ""
 
 \* Address: 4500 Ang Mo Kio Ave 6 Singapore 569843
 
-\* Contact No: 6666 4444
+\* Contact No: 64596822 (ext 201)
 
-\* Email: abc\_ps@moe.edu.sg
+\* Email: asrjc@moe.edu.sg
 
-\* Contact Person: Mdm Sally Tan [\[AK(3\]](#_msocom_3) 
+\* Contact Person: Mdm Yeo
 
 \*\*How to get there?\*\*
 
-\* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-
-\* Bus number: 900 - 3 minutes walking distance
+\* Nearest MRT: NS15 Yio Chu Kang – 5 minutes walking distance
 
 \*\*Interest applicants must meet the following criteria:\*\*
 
@@ -46,7 +44,7 @@ description: ""
 
 \* Able to provide good service and quality food with prices determined in consultation with the school.
 
-\* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see \[link\](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+\* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 
 \* Able to maintain high standard of food safety and personal hygiene.
 
@@ -58,6 +56,8 @@ description: ""
 
 \* Possess catering experience or experience operating in a school environment.
 
-\* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).[\[AK(4\]](#_msocom_4) 
+\* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
-\*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
+
+*College will be relocated to 1033 Upper Serangoon Road Singapore (534768) wef December 2023*
