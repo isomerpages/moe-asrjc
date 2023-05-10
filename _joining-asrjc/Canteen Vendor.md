@@ -30,7 +30,7 @@ description: ""
 
 * Contact No: 64596822 (ext 201)
 
-* Email: [asrjc@moe.edu.sg](asrjc@moe.edu.sg)
+* Email: asrjc@moe.edu.sg
 
 * Contact Person: Mdm Yeo
 
