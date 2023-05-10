@@ -12,7 +12,7 @@ Mr Jay Chow, who graduated from the University of Michigan, shares about his car
 
 ### **Regional Account Manager** (Google)
 
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="[ASR Career Symposium 2023] Information Technology - Nica Policarpio, Google" src="https://www.youtube.com/embed/MG3xFXgH8ZU" height="399" width="900"></iframe>
 
 Ms Nica is an alumni of AJC, who graduated from NUS BBA and joined google in 2017. In this video, she shares about how google dwells deeper than others think, innovating and designing new applications that help improve human lives. She further goes on in explaining her responsibility as the regional account manager for google ads and her job scope which lies further than simply working with clients to develop effective ads. Last but not least, she shares about the hiring criteria of google, ranging from experience to personal qualities.
 
