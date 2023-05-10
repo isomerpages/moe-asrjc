@@ -21,4 +21,4 @@ Ms. Melody Mak has been working as an Early Intervention Teacher and she gives i
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="MOE Teaching Scholar Sharing Matthew Ooi" src="https://www.youtube.com/embed/ttagndRZyQU" height="399" width="900"></iframe>
 
-Mr Matthew Ooi shares about his journey as a Teaching Scholar and his experience teacher Mathematics and Music in a secondary school.
+Mr Matthew Ooi shares about his journey as a Teaching Scholar and his experience teaching Mathematics and Music in a secondary school.
