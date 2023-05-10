@@ -5,6 +5,7 @@ description: ""
 ---
 ### **Manager, Airside Development** (Changi Airport Group)
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="[ASR Career Symposium 2023] Built Environment - Mr Hamon Shen, Changi Airport Group" src="https://www.youtube.com/embed/P3C3y1llv5k" height="399" width="900"></iframe>
 
 Mr Hamon Shen shares about his journey in the aviation industry. He shares about his wide range of responsibilities and projects that the Changi airport group embarks on. Mr Shen vividly describes his dynamic work environment that changes on a day-to-day basis. He also points out important ethics and values that he has picked up from his enriching career, as well as the challenges of maintaining one of the world's best airports.
 
