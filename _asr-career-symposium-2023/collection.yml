@@ -3,18 +3,16 @@ collections:
     output: true
     order:
       - ASR Career Symposium 2023 Homepage.md
-      - Architecture and Environment.md
+      - Architecture and Built Environment.md
       - Arts and Creative.md
+      - Banking & Finance.md
       - Data Science and Research.md
-      - Design.md
       - Education.md
       - Engineering.md
       - Entrepreneurship.md
-      - Finance.md
       - Healthcare.md
       - Hospitality.md
       - Information Technology.md
-      - Law and Legal Services.md
+      - Legal & Security.md
       - Media and Communications.md
       - Social and Community Services.md
-      - Scholarships Information.md
