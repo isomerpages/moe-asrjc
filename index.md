@@ -2,7 +2,7 @@
 layout: homepage
 title: Anderson Serangoon Junior College
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/asrjcbanner.jpeg
 permalink: /
 notification: ""
 sections:
@@ -21,8 +21,8 @@ sections:
   - infopic:
       title: "Homecoming 2023: The Reunion"
       subtitle: Highlights
-      description: "We welcome all alumni and former staff for this special edition of
-        Homecoming "
+      description: We welcome all alumni and former staff for this special edition of
+        Homecoming
       button: view here
       url: /highlights/homecoming2023rsvp/
       image: /images/homecoming 2023 thumbnail.png
