@@ -30,7 +30,8 @@ After having worked as an Assistant Editor, Ms Renee Chua felt that this career 
 Before working as an Education Manager for the National Gallery, Mr Shaun Soh began as a polytechnic lecturer who taught modules in design, art, and storytelling. In his current role as an education Manager, Mr Soh promotes programs offered by the National Gallery and promotes the museum as a comfortable place for people to appreciate art and ask questions regarding art. His education vision is to nurture generations of art lovers, creative, and critical thinkers.
 
 
-### **Lecture in Fashion Design** (Lasalle) + ### **Creative &amp; Image Director** (C+C&amp;Co)
+### **Lecturer in Fashion Design** (Lasalle) +
+### **Creative &amp; Image Director** (C+C&amp;Co)
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="ASRJC Career Symposium 2021 Design Mr Charles Rezandi LASALLE" src="https://www.youtube.com/embed/saKiSwgWENE" height="399" width="900"></iframe>
 
 Mr Charles shares about his career in the arts industry and the role he has to carry out, which lies further than just arts alone, and requires even teaching skills. What is crucial in this industry is to be creative and open minded to accepting various forms of arts and create new fashion trends.

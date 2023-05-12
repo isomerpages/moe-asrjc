@@ -3,7 +3,7 @@ title: Education
 permalink: /career-and-industry-symposium/education/
 description: ""
 ---
-### **Early Childhood Education (P)** (Agape Little Uni)
+### **Early Childhood Educator** (Agape Little Uni)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="[ASR Career Symposium 2023] Education - Ms Gabriele Leong, Agape Little Uni Pte Ltd" src="https://www.youtube.com/embed/9lddM6BM0q8" height="399" width="900"></iframe>
 

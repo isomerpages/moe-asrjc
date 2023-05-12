@@ -36,11 +36,9 @@ Dr Ryan Marshall talks about the journey and career of a podiatrist -from the jo
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Live Sharing Session by Dr Jasvin Lee" src="https://www.youtube.com/embed/7j-mJeF9z4g" height="399" width="900"></iframe>
 
-Watch Dr Jasvin Lee's sharing during the live session on 4 May.
+
 
 
 ### **Medical Social Worker** (Tan Tock Seng Hospital)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Live Sharing Session by Ms Janice Yeo" src="https://www.youtube.com/embed/n61h8gkUGC8" height="399" width="900"></iframe>
-
-Watch Ms Janice Yeo's sharing during the live session on 4 May.

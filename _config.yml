@@ -1,6 +1,6 @@
 title: Anderson Serangoon Junior College
 url: https://www.asrjc.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon ico file.ico
 colors:
   primary-color: "#065c6a"
   secondary-color: "#ff8a2f"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2l6tfmz18j0q.amplifyapp.com/
 prod: https://master.d2l6tfmz18j0q.amplifyapp.com/
 resources_name: news
-shareicon: /images/isomer-logo.svg
+shareicon: /images/asrjcbanner.jpeg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
