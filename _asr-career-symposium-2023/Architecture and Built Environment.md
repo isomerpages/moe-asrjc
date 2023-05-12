@@ -23,4 +23,4 @@ The speaker shares about the vision, aims and the sectors and its respective dis
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="MS Konnie Kao" src="https://www.youtube.com/embed/2-FHJylEmj8" height="399" width="900"></iframe>
 
-Ms Kao comprehensively shares about the myraid of things that an architect will be tasked to handle with and  the possible challenges that one may face being an architect. On top of that ms kao also cleared some misconceptions about  being an architect, generously shared  some tips and advice  and elaborated on the the qualities and traits that  an architect should posses.
+Ms Kao comprehensively shares about the myraid of things that an architect will be tasked to handle with and  the possible challenges that one may face being an architect. On top of that Ms Kao also cleared some misconceptions about  being an architect, generously shared  some tips and advice  and elaborated on the the qualities and traits that  an architect should posses.
