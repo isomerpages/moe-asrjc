@@ -15,7 +15,7 @@ Mr Hamon Shen shares about his journey in the aviation industry. He shares about
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="HDB Video Presentation" src="https://www.youtube.com/embed/XNBzmkMStek" height="399" width="900"></iframe>
 
-The speaker shares abotu the vision, aims and the sectors and its respective disciplines in the hosuing development board. The speaker also shared about her experience as an intern with HDB and also her  rewarding and interesting work experience at HDB.Finally she shares about the benefits and values about the HDB undergraduate scholarship.
+The speaker shares about the vision, aims and the sectors and its respective disciplines in the housing development board. The speaker also shared about her experience as an intern with HDB and also her  rewarding and interesting work experience at HDB. Finally she shares about the benefits and values about the HDB undergraduate scholarship.
 
 
 
