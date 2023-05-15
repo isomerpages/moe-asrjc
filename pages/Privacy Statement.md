@@ -3,9 +3,9 @@ title: Privacy Statement
 permalink: /privacy/
 description: ""
 ---
-### Privacy Statement
+### Anderson Serangoon Junior College Privacy Statement
 
-1. This is a Government of Singapore website. Thank you for examining our privacy statement.
+1. This is a Anderson Serangoon Junior College website. Thank you for examining our privacy statement.
 
 2. If you are only browsing this website, we do not capture data that allows us to identify you individually.
 
