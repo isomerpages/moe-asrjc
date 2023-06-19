@@ -7,8 +7,7 @@ description: ""
 
 | **Type of Stall** | **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Vegetarian Stall | 31 May 2023 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
-| Malay Food Stall | 31 May 2023 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
+| Malay Food Stall | 31 July 2023 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
 
 **Application Procedure**
 
