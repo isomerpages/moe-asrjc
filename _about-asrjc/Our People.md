@@ -33,13 +33,13 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
 			<p style="margin : 0; padding-top:0;">Mr Gan Teck Ming, Alvin</p>
 			<p style="margin : 0; padding-top:0;">Mr Jowell Yong Kaijie</p>
-			<p style="margin : 0; padding-top:0;">Ms Koh Boey Kwee</p>
 			<p style="margin : 0; padding-top:0;">Ms Lai Peck Chai</p>
 			<p style="margin : 0; padding-top:0;">Ms Nurdiyanah Bte Mohd Daud</p>
+			<p style="margin : 0; padding-top:0;">Ms Pauline Yeong Pao Lian</p>
 			<p style="margin : 0; padding-top:0;">Ms Tan Sok Mun Ruth</p>
 			<p style="margin : 0; padding-top:0;">Ms Ten Cai Tian</p>
 			<p style="margin : 0; padding-top:0;">Ms Wang Shuhui Mabel</p>
-    </div>
+			</div>
 	</li>
    <li>
     <input type="checkbox" id="accordion3">
@@ -56,7 +56,7 @@ description: ""
       <p style="margin : 0; padding-top:0;">Ms Sharifah Nadzirah Bte Syed Zulkifli</p>			
 			<p style="margin-bottom:0;"><b>SH English Literature</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Lim Sok Peng</p>
-			<p style="margin-bottom:0;"><b>SH Civic Education (Covering)</b></p>
+			<p style="margin-bottom:0;"><b>SH Civic Education</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Choo Li Min Bernadette Teresa</p>			
       <p style="margin-bottom:0;"><b>Teachers</b></p>
       <p style="margin : 0; padding-top:0;">Ms Alviedo Dionne Rochelle Menez</p>
@@ -73,7 +73,6 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Tan Deng Zheng</p>
 			<p style="margin : 0; padding-top:0;">Mr Tay Xiang Wei</p>
 			<p style="margin : 0; padding-top:0;">Mr Tsui Hui Ee Samuel</p>
-			<p style="margin : 0; padding-top:0;">Ms Xu Xiuwen</p>
 			<p style="margin : 0; padding-top:0;">Ms Usha d/o Pillai</p> 
     </div>
   </li>
@@ -87,11 +86,12 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Ms Zhu Youyan, Corrine</p>
 			<p style="margin-bottom:0;"><b>SH Engagement &amp; Partnerships</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Goh Ying Shi Darwin</p>
+			<p style="margin-bottom:0;"><b>SH Geography (Covering)</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Neo Zhi Wei</p>
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Kuan Jie Hui Eugene</p>
 			<p style="margin : 0; padding-top:0;">Ms Lim Mei Fu Gayne</p>
-			<p style="margin : 0; padding-top:0;">Ms Neo Zhi Wei</p>
-			<p style="margin : 0; padding-top:0;">Mr Ng Kim Teck</p>
+						<p style="margin : 0; padding-top:0;">Mr Ng Kim Teck</p>
 			<p style="margin : 0; padding-top:0;">Mr Ng Mong Rong Justin</p>
 			<p style="margin : 0; padding-top:0;">Mr Peh Yang Beng Kenneth</p>
     </div>
@@ -106,9 +106,7 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Veeramuthu Ganesan</p>
 			<p style="margin-bottom:0;"><b>SH Chinese Language</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Esther Tan Pin Yong</p>
-			<p style="margin-bottom:0;"><b>SH Education and Career Guidance</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Ang Feng Ling</p>
-			<p style="margin-bottom:0;"><b>Teachers</b></p>
+					<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Kamalavani d/o Palaiyan</p>
 			<p style="margin : 0; padding-top:0;">Ms Ma Junhui</p>
 			<p style="margin : 0; padding-top:0;">Ms Siti Nur Khairiah Binte Zakaria</p>
@@ -185,7 +183,7 @@ description: ""
     <div>
       <p style="margin-bottom:0;"><b>HOD Science (Biology and Physics)</b></p>
       <p style="margin : 0; padding-top:0;">Mr Ong Jun Kok</p>
-      <p style="margin-bottom:0;"><b>HOD Science (Chemistry &amp; Science Research) (Covering)</b></p>
+      <p style="margin-bottom:0;"><b>HOD Science (Chemistry &amp; Science Research)</b></p>
       <p style="margin : 0; padding-top:0;">Ms Wong Kai Ning</p>
       <p style="margin-bottom:0;"><b>HOD Character and Citizenship Education</b></p>
       <p style="margin : 0; padding-top:0;">Mr Yeo Wee Leng, Joshua</p>
@@ -207,14 +205,12 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mrs Chai Chung Mun</p>
       <p style="margin-bottom:0;"><b>Senior Teachers (Physics)</b></p>
       <p style="margin : 0; padding-top:0;">Mdm Tay Sai Ghor</p>
-			<p style="margin : 0; padding-top:0;">Mr Yip Kim Wah</p>
-      <p style="margin-bottom:0;"><b>SH Biology</b></p>
+		      <p style="margin-bottom:0;"><b>SH Biology</b></p>
       <p style="margin : 0; padding-top:0;">Mdm Resma Bte Gulzar Mohd</p>
 			      <p style="margin-bottom:0;"><b>SH Chemistry</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Yang Wee Chin, Kenneth</p>
-						<p style="margin-bottom:0;"><b>SH Chemistry (Covering)</b></p>
       <p style="margin : 0; padding-top:0;">Mr Peh Kar Liang</p>
-			<p style="margin-bottom:0;"><b>SH Physics (Covering)</b></p>
+			<p style="margin : 0; padding-top:0;">Mr Yang Wee Chin, Kenneth</p>
+			<p style="margin-bottom:0;"><b>SH Physics</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Tan Pei Yun</p>
 			<p style="margin-bottom:0;"><b>SH STEM</b></p>
       <p style="margin : 0; padding-top:0;">Mr Soo Kah Wai Kelvin</p>
@@ -261,7 +257,7 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Gui Choon Hock Tony</p>						
 			<p style="margin-bottom:0;"><b>Corporate Support Officers</b></p>			
 			<p style="margin : 0; padding-top:0;">Ms Dorothy Yeng Siew Yin</p>
-			<p style="margin : 0; padding-top:0;">Mdm Norliah Bte Jais</p>			
+			<p style="margin : 0; padding-top:0;">Mdm Ngiam Min Lin Linda</p>			
 			<p style="margin : 0; padding-top:0;">Mdm Rohaya Bte Taib</p>						
 			<p style="margin-bottom:0;"><b>AVA Technician</b></p>			
       <p style="margin : 0; padding-top:0;">Mr Lim Wenjun</p>						
@@ -287,7 +283,5 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Koh Rui Teng</p>	
 			<p style="margin-bottom:0;"><b>Librarian</b></p>			
 			<p style="margin : 0; padding-top:0;">Ms Jenny Heng</p>
-			<p style="margin-bottom:0;"><b>Admin Assistant</b></p>			
-			<p style="margin : 0; padding-top:0;">Ngiam Min Lin Linda</p>						
-  </div></li>						
-</ul>
+			<p style="margin-bottom:0;"><b>
+</b></p></div></li></ul>
