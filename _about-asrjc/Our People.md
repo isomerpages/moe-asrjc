@@ -73,7 +73,6 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Tan Deng Zheng</p>
 			<p style="margin : 0; padding-top:0;">Mr Tay Xiang Wei</p>
 			<p style="margin : 0; padding-top:0;">Mr Tsui Hui Ee Samuel</p>
-			<p style="margin : 0; padding-top:0;">Ms Xu Xiuwen</p>
 			<p style="margin : 0; padding-top:0;">Ms Usha d/o Pillai</p> 
     </div>
   </li>
@@ -87,11 +86,12 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Ms Zhu Youyan, Corrine</p>
 			<p style="margin-bottom:0;"><b>SH Engagement &amp; Partnerships</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Goh Ying Shi Darwin</p>
+			<p style="margin-bottom:0;"><b>SH General Paper (Covering)</b></p>
+			<p style="margin : 0; padding-top:0;">Ms Neo Zhi Wei</p>
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Kuan Jie Hui Eugene</p>
 			<p style="margin : 0; padding-top:0;">Ms Lim Mei Fu Gayne</p>
-			<p style="margin : 0; padding-top:0;">Ms Neo Zhi Wei</p>
-			<p style="margin : 0; padding-top:0;">Mr Ng Kim Teck</p>
+						<p style="margin : 0; padding-top:0;">Mr Ng Kim Teck</p>
 			<p style="margin : 0; padding-top:0;">Mr Ng Mong Rong Justin</p>
 			<p style="margin : 0; padding-top:0;">Mr Peh Yang Beng Kenneth</p>
     </div>
@@ -261,7 +261,7 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Gui Choon Hock Tony</p>						
 			<p style="margin-bottom:0;"><b>Corporate Support Officers</b></p>			
 			<p style="margin : 0; padding-top:0;">Ms Dorothy Yeng Siew Yin</p>
-			<p style="margin : 0; padding-top:0;">Mdm Norliah Bte Jais</p>			
+			<p style="margin : 0; padding-top:0;">Mdm Ngiam Min Lin Linda</p>			
 			<p style="margin : 0; padding-top:0;">Mdm Rohaya Bte Taib</p>						
 			<p style="margin-bottom:0;"><b>AVA Technician</b></p>			
       <p style="margin : 0; padding-top:0;">Mr Lim Wenjun</p>						
@@ -287,7 +287,5 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Koh Rui Teng</p>	
 			<p style="margin-bottom:0;"><b>Librarian</b></p>			
 			<p style="margin : 0; padding-top:0;">Ms Jenny Heng</p>
-			<p style="margin-bottom:0;"><b>Admin Assistant</b></p>			
-			<p style="margin : 0; padding-top:0;">Ngiam Min Lin Linda</p>						
-  </div></li>						
-</ul>
+			<p style="margin-bottom:0;"><b>
+</b></p></div></li></ul>
