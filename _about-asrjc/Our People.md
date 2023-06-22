@@ -33,12 +33,13 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
 			<p style="margin : 0; padding-top:0;">Mr Gan Teck Ming, Alvin</p>
 			<p style="margin : 0; padding-top:0;">Mr Jowell Yong Kaijie</p>
-					<p style="margin : 0; padding-top:0;">Ms Lai Peck Chai</p>
+			<p style="margin : 0; padding-top:0;">Ms Lai Peck Chai</p>
 			<p style="margin : 0; padding-top:0;">Ms Nurdiyanah Bte Mohd Daud</p>
+			<p style="margin : 0; padding-top:0;">Ms Pauline Yeong Pao Lian</p>
 			<p style="margin : 0; padding-top:0;">Ms Tan Sok Mun Ruth</p>
 			<p style="margin : 0; padding-top:0;">Ms Ten Cai Tian</p>
 			<p style="margin : 0; padding-top:0;">Ms Wang Shuhui Mabel</p>
-    </div>
+			</div>
 	</li>
    <li>
     <input type="checkbox" id="accordion3">
