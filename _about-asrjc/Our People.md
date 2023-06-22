@@ -183,7 +183,7 @@ description: ""
     <div>
       <p style="margin-bottom:0;"><b>HOD Science (Biology and Physics)</b></p>
       <p style="margin : 0; padding-top:0;">Mr Ong Jun Kok</p>
-      <p style="margin-bottom:0;"><b>HOD Science (Chemistry &amp; Science Research) (Covering)</b></p>
+      <p style="margin-bottom:0;"><b>HOD Science (Chemistry &amp; Science Research)</b></p>
       <p style="margin : 0; padding-top:0;">Ms Wong Kai Ning</p>
       <p style="margin-bottom:0;"><b>HOD Character and Citizenship Education</b></p>
       <p style="margin : 0; padding-top:0;">Mr Yeo Wee Leng, Joshua</p>
