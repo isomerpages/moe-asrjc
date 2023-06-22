@@ -33,8 +33,7 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
 			<p style="margin : 0; padding-top:0;">Mr Gan Teck Ming, Alvin</p>
 			<p style="margin : 0; padding-top:0;">Mr Jowell Yong Kaijie</p>
-			<p style="margin : 0; padding-top:0;">Ms Koh Boey Kwee</p>
-			<p style="margin : 0; padding-top:0;">Ms Lai Peck Chai</p>
+					<p style="margin : 0; padding-top:0;">Ms Lai Peck Chai</p>
 			<p style="margin : 0; padding-top:0;">Ms Nurdiyanah Bte Mohd Daud</p>
 			<p style="margin : 0; padding-top:0;">Ms Tan Sok Mun Ruth</p>
 			<p style="margin : 0; padding-top:0;">Ms Ten Cai Tian</p>
@@ -210,9 +209,9 @@ description: ""
       <p style="margin : 0; padding-top:0;">Mdm Resma Bte Gulzar Mohd</p>
 			      <p style="margin-bottom:0;"><b>SH Chemistry</b></p>
       <p style="margin : 0; padding-top:0;">Mr Yang Wee Chin, Kenneth</p>
-						<p style="margin-bottom:0;"><b>SH Chemistry (Covering)</b></p>
+						<p style="margin-bottom:0;"><b>SH Chemistry</b></p>
       <p style="margin : 0; padding-top:0;">Mr Peh Kar Liang</p>
-			<p style="margin-bottom:0;"><b>SH Physics (Covering)</b></p>
+			<p style="margin-bottom:0;"><b>SH Physics</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Tan Pei Yun</p>
 			<p style="margin-bottom:0;"><b>SH STEM</b></p>
       <p style="margin : 0; padding-top:0;">Mr Soo Kah Wai Kelvin</p>
