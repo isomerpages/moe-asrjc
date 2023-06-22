@@ -204,13 +204,11 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mrs Chai Chung Mun</p>
       <p style="margin-bottom:0;"><b>Senior Teachers (Physics)</b></p>
       <p style="margin : 0; padding-top:0;">Mdm Tay Sai Ghor</p>
-			<p style="margin : 0; padding-top:0;">Mr Yip Kim Wah</p>
-      <p style="margin-bottom:0;"><b>SH Biology</b></p>
+		      <p style="margin-bottom:0;"><b>SH Biology</b></p>
       <p style="margin : 0; padding-top:0;">Mdm Resma Bte Gulzar Mohd</p>
 			      <p style="margin-bottom:0;"><b>SH Chemistry</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Yang Wee Chin, Kenneth</p>
-						<p style="margin-bottom:0;"><b>SH Chemistry</b></p>
       <p style="margin : 0; padding-top:0;">Mr Peh Kar Liang</p>
+			<p style="margin : 0; padding-top:0;">Mr Yang Wee Chin, Kenneth</p>
 			<p style="margin-bottom:0;"><b>SH Physics</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Tan Pei Yun</p>
 			<p style="margin-bottom:0;"><b>SH STEM</b></p>
