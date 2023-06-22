@@ -56,7 +56,7 @@ description: ""
       <p style="margin : 0; padding-top:0;">Ms Sharifah Nadzirah Bte Syed Zulkifli</p>			
 			<p style="margin-bottom:0;"><b>SH English Literature</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Lim Sok Peng</p>
-			<p style="margin-bottom:0;"><b>SH Civic Education (Covering)</b></p>
+			<p style="margin-bottom:0;"><b>SH Civic Education</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Choo Li Min Bernadette Teresa</p>			
       <p style="margin-bottom:0;"><b>Teachers</b></p>
       <p style="margin : 0; padding-top:0;">Ms Alviedo Dionne Rochelle Menez</p>
@@ -106,9 +106,7 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Veeramuthu Ganesan</p>
 			<p style="margin-bottom:0;"><b>SH Chinese Language</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Esther Tan Pin Yong</p>
-			<p style="margin-bottom:0;"><b>SH Education and Career Guidance</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Ang Feng Ling</p>
-			<p style="margin-bottom:0;"><b>Teachers</b></p>
+					<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Kamalavani d/o Palaiyan</p>
 			<p style="margin : 0; padding-top:0;">Ms Ma Junhui</p>
 			<p style="margin : 0; padding-top:0;">Ms Siti Nur Khairiah Binte Zakaria</p>
