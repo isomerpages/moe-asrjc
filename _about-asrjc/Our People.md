@@ -86,7 +86,7 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Ms Zhu Youyan, Corrine</p>
 			<p style="margin-bottom:0;"><b>SH Engagement &amp; Partnerships</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Goh Ying Shi Darwin</p>
-			<p style="margin-bottom:0;"><b>SH General Paper (Covering)</b></p>
+			<p style="margin-bottom:0;"><b>SH Geography (Covering)</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Neo Zhi Wei</p>
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Kuan Jie Hui Eugene</p>
