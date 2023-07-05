@@ -59,4 +59,4 @@ description: ""
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
 
-*Successful applicant will commence their operations at 1033 Upper Serangoon Road Singapore (534768) January 2024.*
+*Successful applicant will commence their operations at 1033 Upper Serangoon Road Singapore (534768) wef January 2024.*
