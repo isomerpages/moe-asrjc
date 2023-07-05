@@ -7,7 +7,7 @@ description: ""
 
 | **Type of Stall** | **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Malay Food Stall | 31 July 2023 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
+| Malay Food Stall | 31 October 2023 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
 
 **Application Procedure**
 
@@ -59,4 +59,4 @@ description: ""
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
 
-*College will be relocated to 1033 Upper Serangoon Road Singapore (534768) wef December 2023.*
+*Successful applicant will commence their operations at 1033 Upper Serangoon Road Singapore (534768) January 2024.*
