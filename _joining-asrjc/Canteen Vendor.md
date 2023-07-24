@@ -8,6 +8,7 @@ description: ""
 | **Type of Stall** | **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
 | Malay Food Stall | 31 October 2023 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
+| Halal Western Food Stall | 31 October 2023 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
 
 **Application Procedure**
 
@@ -59,4 +60,7 @@ description: ""
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
 
-*Successful applicant will commence their operations at 1033 Upper Serangoon Road Singapore (534768) wef January 2024.*
+*Successful applicant for Malay Food Stall will commence their operations at 1033 Upper Serangoon Road Singapore (534768) wef January 2024.*
+
+*Successful applicant for Halal Western Food Stall will commence their operation at current address 4500 Ang Mo Kio Ave 6 Singapore (569843) 
+from August 2023 to December 2023 and new address 1033 Upper Serangoon Road Singapore (534768)  wef January 2024*
