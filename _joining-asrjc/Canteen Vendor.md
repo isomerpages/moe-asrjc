@@ -10,7 +10,6 @@ description: ""
 | Halal Western Food Stall | 31 August 2023 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
 | Malay Food Stall | 31 October 2023 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
 
-
 **Application Procedure**
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
