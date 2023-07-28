@@ -5,11 +5,11 @@ description: ""
 ---
 ### Returning Singaporeans
 
-Returning Singaporeans (RS) who wish to seek admission to JC1 in the next academic year are **required** to participate in the School Placement Exercise for Returning Singaporeans (SPERS-JC/MI) jointly conducted by the Ministry of Education and the Principal’s Academy. Click **[here](https://www.moe.gov.sg/returning-singaporeans/post-secondary/spers)** for more information.
+Returning Singaporeans (RS) who wish to seek admission to JC1 in the next academic year should participate in the School Placement Exercise for Returning Singaporeans (SPERS-JC/MI) jointly conducted by the Ministry of Education and the Principal’s Academy. Click **[here](https://www.moe.gov.sg/returning-singaporeans/post-secondary/spers)** for more information.
 
 Applicants may choose to apply for ASRJC if he/ she is eligible, based on the SPERS results.
 
-The application is now closed.
+Application will open on **26 Dec 2023**, and is to be submitted by **12 Jan 2024**.
 
 ### **Application for International Students**
 
