@@ -18,9 +18,8 @@ We are looking for students with talent in the following areas:
 #### **2)**&nbsp;**Application Process**
 
 ##### **STEP 1: Application**
-* Submit online application form through this **[link](https://portal.asrjc.edu.sg/0/dsa.html)** (4 May onwards).
-* The deadline for the submission of online application forms is Fri 14 July 2023. 
-* Applicants are strongly encouraged to submit their application well in advance of the deadline to be considered for Phase 1.
+* **New!** Phase 2 applications are now open for Basketball and Shooting. Submit your online application through this **[link](https://portal.asrjc.edu.sg/0/dsa.html)** by Friday 25 August 2023.
+* Candidates who had submitted their applications in Phase 1 do not need to resubmit.
 * Applicants are required to attach scanned copies of the following along with their application:
   * Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Mid-Year (if available), Sec 3 Year-end and Sec 4 Weighted Assessment (or equivalent) results, including copies of latest school academic results if available. 
   * School CCA records
