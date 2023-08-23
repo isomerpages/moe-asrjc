@@ -20,11 +20,11 @@ sections:
           url: /joining-asrjc/direct-school-admission/
   - infobar:
       title: Homecoming 2023
-      description: <iframe width="343" height="192"
-        src="https://www.youtube.com/embed/lQhjavlrNGw" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen=""></iframe>
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/5D9VYnK8NMk?si=yStOwlykpodfrKKL"
+        height="315" width="560"></iframe>
       button: Click Here
       url: https://www.youtube.com/watch?v=5D9VYnK8NMk
       subtitle: reunited with the class of '22
