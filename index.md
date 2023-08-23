@@ -18,23 +18,13 @@ sections:
         - title: DSA-JC 2023
           description: Find out more!
           url: /joining-asrjc/direct-school-admission/
-  - infobar:
-      title: Homecoming 2023
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/5D9VYnK8NMk" height="315"
-        width="560"></iframe>
-      button: Click Here
-      url: https://www.asrjc.moe.edu.sg/highlights/homecoming2023thereunion/
-      subtitle: reunited with the class of '22
   - infopic:
       title: "Homecoming 2023: The Reunion"
       subtitle: Highlights
-      description: We welcome all alumni and former staff for this special edition of
-        Homecoming
+      description: We welcomed back the class of 2022 to reminisce their time in ASRJC
+        and celebrate their achievements.
       button: view here
-      url: /highlights/homecoming2023rsvp/
+      url: /highlights/homecoming2023thereunion//
       image: /images/homecoming 2023 thumbnail.png
       alt: Image alt text
   - infopic:
