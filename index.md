@@ -27,6 +27,7 @@ sections:
         allowfullscreen=""></iframe>
       button: Click Here
       url: https://www.youtube.com/watch?v=5D9VYnK8NMk
+      subtitle: reunited with the class of '22
   - infopic:
       title: "Homecoming 2023: The Reunion"
       subtitle: Highlights
