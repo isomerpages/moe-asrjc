@@ -26,7 +26,7 @@ sections:
         src="https://www.youtube.com/embed/5D9VYnK8NMk" height="315"
         width="560"></iframe>
       button: Click Here
-      url: https://www.youtube.com/watch?v=5D9VYnK8NMk
+      url: https://www.asrjc.moe.edu.sg/highlights/homecoming2023thereunion/
       subtitle: reunited with the class of '22
   - infopic:
       title: "Homecoming 2023: The Reunion"
