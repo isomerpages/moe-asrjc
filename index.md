@@ -18,6 +18,15 @@ sections:
         - title: DSA-JC 2023
           description: Find out more!
           url: /joining-asrjc/direct-school-admission/
+  - infobar:
+      title: Homecoming 2023
+      description: <iframe width="343" height="192"
+        src="https://drive.google.com/file/d/1OSsZGwK4k-bjt9NmeOYRqNxvcmgAz2wN/view?usp=drive_link"
+        title="YouTube video player" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture; web-share" allowfullscreen=""></iframe>
+      button: Click Here
+      url: https://drive.google.com/file/d/1OSsZGwK4k-bjt9NmeOYRqNxvcmgAz2wN/view?usp=sharing
   - infopic:
       title: "Homecoming 2023: The Reunion"
       subtitle: Highlights
