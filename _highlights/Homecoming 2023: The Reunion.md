@@ -5,7 +5,7 @@ description: ""
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5D9VYnK8NMk?si=IkZboKldSTdKvdie" height="275" width="488"></iframe>
 
-The Class of 2022 went through a rollercoaster ride as they saw the transition to a post-Covid college environment. ASRJC’s inaugural Homecoming 2023: The Reunion was a hugely welcomed and highly anticipated event not just for the class of 2022, but also for the previous batches who were severely affected by the Covid restrictions. During the event on 06 May, participants reminisced their past experiences in ASRJC and celebrated their achievements as proud alumni of ASRJC.
+The Class of 2022 went through a rollercoaster ride as they saw the transition to a post-Covid college environment. ASRJC’s annual Homecoming 2023: The Reunion was a hugely welcomed and highly anticipated event not just for the class of 2022, but also for the previous batches who were severely affected by the Covid restrictions. During the event on 06 May, participants reminisced their past experiences in ASRJC and celebrated their achievements as proud alumni of ASRJC.
 
 
 
