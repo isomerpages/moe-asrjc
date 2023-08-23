@@ -24,7 +24,7 @@ sections:
       description: We welcomed back the class of 2022 to reminisce their time in ASRJC
         and celebrate their achievements.
       button: view here
-      url: /highlights/homecoming2023thereunion//
+      url: /highlights/homecoming2023thereunion/
       image: /images/homecoming 2023 thumbnail.png
       alt: Image alt text
   - infopic:
