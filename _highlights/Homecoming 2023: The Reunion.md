@@ -14,7 +14,7 @@ The Class of 2022 went through a rollercoaster ride as they saw the transition t
 | ![](/images/img_0192.JPG)     | ![](/images/img_0249.JPG)  |
 | ![](/images/img_0232.JPG)   | ![](/images/img_0224.JPG)  |
 
-The campus buzzed with nostalgia and excitement as our alumni from across graduating classes engaged in a myriad of activities. The stage came alive with captivating performances by current students. Through the sticker collection tour, they also had the opportunity to revisit and keep a memorabilia of their favorite spots that would soon be rebuilt as the campus enters reconstruction in 2024. At the various game stations, alumni and staff took part in friendly competitions. The joyous reunions where immortalized in the photo booths. It was truly a day where past and present converged, etching another chapter in the history of ASRJC.
+The campus buzzed with nostalgia and excitement as our alumni from across graduating classes engaged in a myriad of activities. The stage came alive with captivating performances by current students. Through the sticker collection tour, they also had the opportunity to revisit and keep a memorabilia of their favorite spots that would soon be rebuilt as the campus enters reconstruction in 2024. At the various game stations, alumni and staff took part in friendly competitions. At the photo booths, the joyous reunions were captured and immortalised. It was truly a day where past and present converged, etching another chapter in the history of ASRJC.
 
 
 | ![](/images/20230506%20anderson%20serangoon%20jc-395.jpg) |![](/images/20230506%20anderson%20serangoon%20jc-297.jpg) |
