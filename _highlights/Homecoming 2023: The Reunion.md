@@ -26,4 +26,4 @@ The campus buzzed with nostalgia and excitement as our alumni from across gradua
 | ![](/images/20230506%20anderson%20serangoon%20jc-168.jpg)|![](/images/20230506%20anderson%20serangoon%20jc-167.jpg) |
 
 
-Once again, we wish the Class of 2022 and all our alumni all the best in their future endeavours!
+Once again, we wish the Class of 2022 and all our alumni the very best in their future endeavours!
