@@ -21,10 +21,10 @@ sections:
   - infopic:
       title: "Homecoming 2023: The Reunion"
       subtitle: Highlights
-      description: We welcome all alumni and former staff for this special edition of
-        Homecoming
+      description: We welcomed back the class of 2022 to reminisce their time in ASRJC
+        and celebrate their achievements.
       button: view here
-      url: /highlights/homecoming2023rsvp/
+      url: /highlights/homecoming2023thereunion/
       image: /images/homecoming 2023 thumbnail.png
       alt: Image alt text
   - infopic:
