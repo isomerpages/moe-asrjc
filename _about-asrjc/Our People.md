@@ -244,12 +244,12 @@ description: ""
 			<p style="margin-bottom:0;"><b>Administrative Manager</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Yeo Lern Hun</p>
 			<p style="margin-bottom:0;"><b>Operations Manager</b></p>	
-			<p style="margin : 0; padding-top:0;">Mr Kwok Sian Khee Sam</p>
+			<p style="margin : 0; padding-top:0;">Mr Lee Minghan</p>
 			<p style="margin-bottom:0;"><b>ICT Manager</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Tan Wee Dat</p>	
 			<p style="margin-bottom:0;"><b>Administrative Executives</b></p>				
 			<p style="margin : 0; padding-top:0;">Mdm Rohdiya Bte Aman</p>						
-			<p style="margin : 0; padding-top:0;">Ms Ang Ee Lin Irene</p>
+			<p style="margin : 0; padding-top:0;">Ms Wong Miao Ling</p>
 			<p style="margin-bottom:0;"><b>Senior School Counsellor</b></p>					
 			<p style="margin : 0; padding-top:0;">Ms Chiang Yik Huey, Sophia</p>				
 			<p style="margin-bottom:0;"><b>ECG Counsellor
