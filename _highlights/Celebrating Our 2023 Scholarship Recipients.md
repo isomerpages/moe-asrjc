@@ -28,8 +28,6 @@ Timothy’s chosen discipline is Physiotherapy, while Jin Yuan and Jun Guan are 
 
 We are always happy to see our alumni doing well and continuing to choose to serve the community in their future professions.
 
-Our heartiest congratulations to Timothy, Jin Yuan, Jun Guan and Chloe!
-
 **2. The Singapore-Industry Scholarship (SgIS)**
 
 ![](/images/sg%20industry%20scholarship_3.jpeg)
