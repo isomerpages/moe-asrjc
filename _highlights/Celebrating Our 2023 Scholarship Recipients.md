@@ -8,11 +8,13 @@ description: ""
 It's scholarship season and we are delighted to announce that many of our alumni have been awarded various scholarships to support their next steps in their higher education journey.
 
 
-1. The Healthcare Merit Award [Ministry of Health]
+1. The Healthcare Merit Award, Ministry of Health
 
 | ![](/images/ho%20jun%20siang%20timothy.jpg) | ![](/images/oh%20jin%20yuan.jpg) |
 | -------- | -------- |
-| ![](/images/phua%20jun%20guan.jpg)   | ![](/images/tan%20chloe.jpg)  |
+| ![](/images/phua%20jun%20guan.jpg)   | ![](/images/tan%20chloe.jpg) |
+| -------- | -------- |
+| ![](/images/phua%20jun%20guan.jpg)   | ![](/images/tan%20chloe.jpg) |
 
 Four of our alumni have been awarded the Ministry of Health’s Healthcare Merit Award at this year’s Healthcare Scholarships Award Ceremony.
 
@@ -30,7 +32,7 @@ We are always happy to see our alumni doing well and continuing to choose to ser
 
 Our heartiest congratulations to Timothy, Jin Yuan, Jun Guan and Chloe!
 
-2. The Singapore-Industry Scholarship (SgIS) [Multi-Industry]
+2. The Singapore-Industry Scholarship (SgIS)
 
 ![](/images/sg%20industry%20scholarship_3.jpeg)
 
@@ -45,14 +47,29 @@ The seven alumni are:
 * Reuel Teo Lu Wei, Class of 2017
 * Ryan Tan Ron Zee, Class of 2017
 
-Our seven alumni received their awards at the ceremony which was graced by the Guest-of-Honour, Dr Mohamad Maliki Bin Osman, Minister in the Prime Minister’s Office and Second Minister for Education and Foreign Affairs.
+They received their awards at the ceremony which was graced by the Guest-of-Honour, Dr Mohamad Maliki Bin Osman, Minister in the Prime Minister’s Office and Second Minister for Education and Foreign Affairs.
 
 Set up in partnership with the Singapore Government, the SgIS is Singapore’s only multi-industry scholarship. This year’s recipients were able to choose from 119 organisations from Singapore’s strategic sectors and will have the opportunity to participate in internships, mentorships, and network with fellow scholars and with leaders from the public and private sectors.
 
-3. The Teaching Award and Teaching Scholarship [Ministry of Education]
+3. The Teaching Award and Teaching Scholarship, Ministry of Education
 
-| ![](/images/ho%20jun%20siang%20timothy.jpg) | ![](/images/oh%20jin%20yuan.jpg) |
+| ![](/images/erin%20original.jpg) | ![](/images/amy%202023%20teaching%20award.jpg) |
 | -------- | -------- |
-| ![](/images/phua%20jun%20guan.jpg)   | ![](/images/tan%20chloe.jpg)  |
+| ![](/images/inez%202023%20teaching%20award.jpg)   | ![](/images/nandini.jpg) |
 
-Seven of our alumni have been awarded the Singapore-Industry Scholarship (SgIS) at this year’s SgIS Award Ceremony.
+Nine of our alumni have been awarded the Teaching Award and Teaching Scholarship at this year’s Teaching Scholarship Presentation Ceremony.
+
+The nine alumni are:
+* Erin Ashley Wan, Class of 2022
+* Lee Wei Qing Amy, Class of 2022
+* Soh Shi Ying Inez, Class of 2022
+* Nandini Sivakumar, Class of 2021
+* Sivashanmuga Priya, Class of 2021
+* Ching Rong, Class of 2020
+* Preston Pereira S/O Raimond Pereira, Class of 2020
+* Tan Wilbyn, Class of 2020
+* Norine Liew Xue En, Class of 2019
+
+They received their awards at the ceremony which was graced by the Guest-of-Honour, Minister Chan Chun Sing.
+
+As Minister Chan said in his speech at the ceremony, teaching is a challenging and demanding career but we are heartened that so many of our alumni have opted to take up this challenge and give back to the community, truly fulfilling our college motto.
