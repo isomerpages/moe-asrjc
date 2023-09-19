@@ -13,8 +13,6 @@ It's scholarship season and we are delighted to announce that many of our alumni
 | ![](/images/ho%20jun%20siang%20timothy.jpg) | ![](/images/oh%20jin%20yuan.jpg) |
 | -------- | -------- |
 | ![](/images/phua%20jun%20guan.jpg)   | ![](/images/tan%20chloe.jpg) |
-| -------- | -------- |
-| ![](/images/phua%20jun%20guan.jpg)   | ![](/images/tan%20chloe.jpg) |
 
 Four of our alumni have been awarded the Ministry of Health’s Healthcare Merit Award at this year’s Healthcare Scholarships Award Ceremony.
 
@@ -56,6 +54,7 @@ Set up in partnership with the Singapore Government, the SgIS is Singapore’s o
 | ![](/images/erin%20original.jpg) | ![](/images/amy%202023%20teaching%20award.jpg) |
 | -------- | -------- |
 | ![](/images/inez%202023%20teaching%20award.jpg)   | ![](/images/nandini.jpg) |
+|  | ![](/images/tan%20chloe.jpg) |
 
 Nine of our alumni have been awarded the Teaching Award and Teaching Scholarship at this year’s Teaching Scholarship Presentation Ceremony.
 
