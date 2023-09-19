@@ -48,3 +48,11 @@ The seven alumni are:
 Our seven alumni received their awards at the ceremony which was graced by the Guest-of-Honour, Dr Mohamad Maliki Bin Osman, Minister in the Prime Minister’s Office and Second Minister for Education and Foreign Affairs.
 
 Set up in partnership with the Singapore Government, the SgIS is Singapore’s only multi-industry scholarship. This year’s recipients were able to choose from 119 organisations from Singapore’s strategic sectors and will have the opportunity to participate in internships, mentorships, and network with fellow scholars and with leaders from the public and private sectors.
+
+3. The Teaching Award and Teaching Scholarship [Ministry of Education]
+
+| ![](/images/ho%20jun%20siang%20timothy.jpg) | ![](/images/oh%20jin%20yuan.jpg) |
+| -------- | -------- |
+| ![](/images/phua%20jun%20guan.jpg)   | ![](/images/tan%20chloe.jpg)  |
+
+Seven of our alumni have been awarded the Singapore-Industry Scholarship (SgIS) at this year’s SgIS Award Ceremony.
