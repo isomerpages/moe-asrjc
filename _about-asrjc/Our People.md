@@ -270,12 +270,12 @@ description: ""
 			</p>			
 			<p style="margin : 0; padding-top:0;">Ms Tan Lay Kwee Joanne</p>						
       <p style="margin-bottom:0;"><b>Operations Support Officers</b></p>				
-			<p style="margin : 0; padding-top:0;">Mdm Choo Ah Sai Lina</p>		
+			<p style="margin : 0; padding-top:0;">Mdm Choo Ah Sai Lina</p>	
+			<p style="margin : 0; padding-top:0;">Mdm Lee Lay Kim Doris</p>
       <p style="margin : 0; padding-top:0;">Mr Neo Say Kiong</p>	
 			<p style="margin : 0; padding-top:0;">Mr Ng Tuck Sing Andy</p>
 			<p style="margin : 0; padding-top:0;">Mdm Oh Siew Eng</p>		
-			<p style="margin : 0; padding-top:0;">Ms Soh Imm Gim</p>				
-      <p style="margin : 0; padding-top:0;">Ms Tan Yuen Peng</p>	
+			<p style="margin : 0; padding-top:0;">Ms Soh Imm Gim</p>					
 			<p style="margin : 0; padding-top:0;">Mdm Tan Seah Gek Jessica</p>					
 			<p style="margin : 0; padding-top:0;">Mdm Toh Swee Ai Judy</p>
 			<p style="margin : 0; padding-top:0;">Mdm Usharani Uthaya Kumaran</p>					<p style="margin-bottom:0;"><b>Desktop Engineers</b></p>			
