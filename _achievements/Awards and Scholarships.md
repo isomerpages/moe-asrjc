@@ -27,6 +27,46 @@ description: ""
 </thead>
 <tbody>
   <tr>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Engineering and Tech Programme Scholarship</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Akhilesh Karthikeyan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Engineering and Tech Programme Scholarship</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Ryan Lam Yu Hang</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Engineering and Tech Programme Scholarship</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Pang Shibo</span></td>
+  </tr>
+	<tr>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Engineering and Tech Programme Scholarship</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Jerome Palayoor</span></td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-h3x7{background-color:#D4D4D4;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Name of award</span></th>
+    <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Organisation offering the award</span></th>
+    <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Name of recipient</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
     <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Healthcare Merit Award (Full-Term)</span></td>
     <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">MOHH</span></td>
     <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Ho Jun Siang, Timothy</span></td>
