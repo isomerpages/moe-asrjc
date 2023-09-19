@@ -34,4 +34,17 @@ Our heartiest congratulations to Timothy, Jin Yuan, Jun Guan and Chloe!
 
 ![](/images/sg%20industry%20scholarship_3.jpeg)
 
-Seven of our alumni have been awarded the 
+Seven of our alumni have been awarded the Singapore-Industry Scholarship (SgIS) at this year’s SgIS Award Ceremony.
+
+The seven alumni are:
+* Leong Yi Quan, Class of 2022
+* Wong Jun Jie, Class of 2019
+* Lau Keye Yong, Class of 2018
+* Teo Zhi Sen, Class of 2018
+* Khaw Relph, Class of 2017
+* Reuel Teo Lu Wei, Class of 2017
+* Ryan Tan Ron Zee, Class of 2017
+
+Our seven alumni received their awards at the ceremony which was graced by the Guest-of-Honour, Dr Mohamad Maliki Bin Osman, Minister in the Prime Minister’s Office and Second Minister for Education and Foreign Affairs.
+
+Set up in partnership with the Singapore Government, the SgIS is Singapore’s only multi-industry scholarship. This year’s recipients were able to choose from 119 organisations from Singapore’s strategic sectors and will have the opportunity to participate in internships, mentorships, and network with fellow scholars and with leaders from the public and private sectors.
