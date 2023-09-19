@@ -8,7 +8,7 @@ description: ""
 It's scholarship season and we are delighted to announce that many of our alumni have been awarded various scholarships to support their next steps in their higher education journey.
 
 
-1. The Healthcare Merit Award, Ministry of Health
+**1. The Healthcare Merit Award, Ministry of Health**
 
 | ![](/images/ho%20jun%20siang%20timothy.jpg) | ![](/images/oh%20jin%20yuan.jpg) |
 | -------- | -------- | 
@@ -30,7 +30,7 @@ We are always happy to see our alumni doing well and continuing to choose to ser
 
 Our heartiest congratulations to Timothy, Jin Yuan, Jun Guan and Chloe!
 
-2. The Singapore-Industry Scholarship (SgIS)
+**2. The Singapore-Industry Scholarship (SgIS)**
 
 ![](/images/sg%20industry%20scholarship_3.jpeg)
 
@@ -49,7 +49,7 @@ They received their awards at the ceremony which was graced by the Guest-of-Hono
 
 Set up in partnership with the Singapore Government, the SgIS is Singapore’s only multi-industry scholarship. This year’s recipients were able to choose from 119 organisations from Singapore’s strategic sectors and will have the opportunity to participate in internships, mentorships, and network with fellow scholars and with leaders from the public and private sectors.
 
-3. The Teaching Award and Teaching Scholarship, Ministry of Education
+**3. The Teaching Award and Teaching Scholarship, Ministry of Education**
 
 | ![](/images/erin%20original.jpg) | ![](/images/amy%202023%20teaching%20award.jpg) |  ![](/images/inez%202023%20teaching%20award.jpg) | 
 | -------- | -------- | -------- |
@@ -73,7 +73,7 @@ They received their awards at the ceremony which was graced by the Guest-of-Hono
 
 As Minister Chan said in his speech at the ceremony, teaching is a challenging and demanding career but we are heartened that so many of our alumni have opted to take up this challenge and give back to the community, truly living up to our college motto.
 
-4. The Engineering and Tech Programme Scholarship (ETPS)
+**4. The Engineering and Tech Programme Scholarship (ETPS), Ministry of Education**
 
 ![](/images/etps%202023_compressed.jpg)
 
