@@ -11,7 +11,7 @@ It's scholarship season and we are delighted to announce that many of our alumni
 1. The Healthcare Merit Award, Ministry of Health
 
 | ![](/images/ho%20jun%20siang%20timothy.jpg) | ![](/images/oh%20jin%20yuan.jpg) |
-| -------- | -------- |
+| -------- | -------- | 
 | ![](/images/phua%20jun%20guan.jpg)   | ![](/images/tan%20chloe.jpg) |
 
 Four of our alumni have been awarded the Ministry of Health’s Healthcare Merit Award at this year’s Healthcare Scholarships Award Ceremony.
@@ -51,10 +51,10 @@ Set up in partnership with the Singapore Government, the SgIS is Singapore’s o
 
 3. The Teaching Award and Teaching Scholarship, Ministry of Education
 
-| ![](/images/erin%20original.jpg) | ![](/images/amy%202023%20teaching%20award.jpg) |
-| -------- | -------- |
-| ![](/images/inez%202023%20teaching%20award.jpg)   | ![](/images/nandini.jpg) |
-|  | ![](/images/tan%20chloe.jpg) |
+| ![](/images/erin%20original.jpg) | ![](/images/amy%202023%20teaching%20award.jpg) |  ![](/images/inez%202023%20teaching%20award.jpg) | 
+| -------- | -------- | -------- |
+| ![](/images/nandini.jpg) | ![](/images/priya%202023%20teaching%20award.jpg) | ![](/images/ching%20rong%202023%20teaching%20award.jpg)
+| ![](/images/preston%20pereira%202023%20teaching%20award.jpg) | ![](/images/wilbyn%202023%20teaching%20scholarship.jpg) | ![](/images/norine%202023%20teaching%20award.jpg) |
 
 Nine of our alumni have been awarded the Teaching Award and Teaching Scholarship at this year’s Teaching Scholarship Presentation Ceremony.
 
@@ -71,4 +71,20 @@ The nine alumni are:
 
 They received their awards at the ceremony which was graced by the Guest-of-Honour, Minister Chan Chun Sing.
 
-As Minister Chan said in his speech at the ceremony, teaching is a challenging and demanding career but we are heartened that so many of our alumni have opted to take up this challenge and give back to the community, truly fulfilling our college motto.
+As Minister Chan said in his speech at the ceremony, teaching is a challenging and demanding career but we are heartened that so many of our alumni have opted to take up this challenge and give back to the community, truly living up to our college motto.
+
+4. The Engineering and Tech Programme Scholarship (ETPS)
+
+![](/images/etps%202023_compressed.jpg)
+
+Four of our current JC1 students have been awarded the Ministry of Education’s Engineering and Tech Programme Scholarship (ETPS). The ETPS is a new scholarship for Pre-University students with an interest in and passion for STEM to go deeper into the engineering and tech fields.
+
+Our heartiest congratulations to:
+* Akhilesh Karthikeyan, Class 24/04
+* Ryan Lam Yu Hang, Class 24/11
+* Pang Shibo, Class 24/13
+* Jerome Palayoor, Class 24/14
+
+Akhilesh, Ryan, Shibo and Jerome were selected out of a pool of more than 500 applicants and are part of the inaugural batch of ETPS recipients. With this scholarship, they will have the opportunities to acquire deeper knowledge and skills in STEM such as embarking on work attachments and internships with public sector agencies and private sector companies, to better understand the pathways to pursue a STEM career. MOE will also partner the Economic Development Board to provide work attachments and internship opportunities with both local and international companies, such as ST Engineering, Abbott Laboratories and GlaxoSmithKline.
+
+The two-year scholarship will also cover school fees, capped annually at $2,400, and provide a yearly allowance of $1,000.
