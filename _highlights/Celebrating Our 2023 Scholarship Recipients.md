@@ -69,7 +69,7 @@ The nine alumni are:
 
 They received their awards at the ceremony which was graced by the Guest-of-Honour, Minister Chan Chun Sing.
 
-As Minister Chan said in his speech at the ceremony, teaching is a challenging and demanding career but we are heartened that so many of our alumni have opted to take up this challenge and give back to the community, truly living up to our college motto.
+As Minister Chan said in his speech at the ceremony, teaching is a challenging and demanding career but we are heartened that so many of our alumni have opted to take up this challenge to lead, care for and inspire the next generation.
 
 **4. The Engineering and Tech Programme Scholarship (ETPS), Ministry of Education**
 
