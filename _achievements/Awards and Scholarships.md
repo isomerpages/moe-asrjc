@@ -5,6 +5,211 @@ description: ""
 ---
 ### Awards and Scholarships
 
+### **2023**<br>
+### **Scholarship Recipients**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-h3x7{background-color:#D4D4D4;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Name of award</span></th>
+    <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Organisation offering the award</span></th>
+    <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Name of recipient</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Engineering and Tech Programme Scholarship</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Akhilesh Karthikeyan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Engineering and Tech Programme Scholarship</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Ryan Lam Yu Hang</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Engineering and Tech Programme Scholarship</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Pang Shibo</span></td>
+  </tr>
+	<tr>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Engineering and Tech Programme Scholarship</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Jerome Palayoor</span></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-h3x7{background-color:#D4D4D4;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Name of award</span></th>
+    <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Organisation offering the award</span></th>
+    <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Name of recipient</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Healthcare Merit Award (Full-Term)</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">MOHH</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Ho Jun Siang, Timothy</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Healthcare Merit Award (Mid-Term)</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">MOHH</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Phua Jun Guan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Healthcare Merit Award (Mid-Term)</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">MOHH</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Oh Jin Yuan</span></td>
+  </tr>
+	<tr>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Healthcare Merit Award (Mid-Term)</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">MOHH</span></td>
+    <td class="tg-baqh"><span style="font-weight:inherit;font-style:inherit">Tan Chloe</span></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q7nb{background-color:#D4D4D4;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of Scholarship</span></th>
+    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organisation offering the scholarship</span></th>
+    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of recipient</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Singapore-Industry Scholarship (SgIS) Full-Term</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Multi-Industry</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Leong Yi Quan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Singapore-Industry Scholarship (SgIS) Mid-Term</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Multi-Industry</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Lau Keye Young</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Singapore-Industry Scholarship (SgIS) Mid-Term</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Multi-Industry</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Khaw Relph</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Singapore-Industry Scholarship (SgIS) Mid-Term</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Multi-Industry</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Wong Jun Jie</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Singapore-Industry Scholarship (SgIS) Mid-Term</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Multi-Industry</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Teo Zhi Sen</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Singapore-Industry Scholarship (SgIS) Mid-Term</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Multi-Industry</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Reuel Teo Lu Wei</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Singapore-Industry Scholarship (SgIS) Mid-Term</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Multi-Industry</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Ryan Tan Ron Zee</span></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q7nb{background-color:#D4D4D4;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of Scholarship</span></th>
+    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organisation offering the scholarship</span></th>
+    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of recipient</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE Teaching Scholarship (Local)</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Tan Wilbyn</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE Teaching Award</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Erin Ashley Wan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE Teaching Award</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Lee Wei Qing Amy</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE Teaching Award</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Nandini Sivakumar</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE Teaching Award</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Norine Liew Xue En</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE Teaching Award</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Sivashanmuga Priya</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE Teaching Award</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Soh Shi Ying Inez</span></td>
+		</tr><tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE Teaching Award</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Ching Rong</span></td>
+  </tr>
+	<tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE Teaching Award</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">MOE</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Preston Pereira S/O Raimond Pereira </span></td>
+</tr></tbody>
+</table>
+
 ### **2022**<br>
 ### **Scholarship Recipients**
 
@@ -22,7 +227,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of Scholarship</span></th>
-    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organization offering the scholarship</span></th>
+    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organisation offering the scholarship</span></th>
     <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of recipient</span></th>
   </tr>
 </thead>
@@ -53,7 +258,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Name of Scholarship</span></th>
-    <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Organization offering the scholarship</span></th>
+    <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Organisation offering the scholarship</span></th>
     <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Name of recipient</span></th>
   </tr>
 </thead>
@@ -80,7 +285,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of Scholarship</span></th>
-    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organization offering the scholarship</span></th>
+    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organisation offering the scholarship</span></th>
     <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of recipient</span></th>
   </tr>
 </thead>
@@ -148,7 +353,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Name of award</span></th>
-    <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Organization offering the award</span></th>
+    <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Organisation offering the award</span></th>
     <th class="tg-h3x7"><span style="font-weight:bold;font-style:inherit">Name of recipient</span></th>
   </tr>
 </thead>
@@ -190,7 +395,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of Scholarship</span></th>
-    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organization offering the scholarship</span></th>
+    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organisation offering the scholarship</span></th>
     <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of recipient</span></th>
   </tr>
 </thead>
@@ -221,7 +426,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of Scholarship</span></th>
-    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organization offering the scholarship</span></th>
+    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organisation offering the scholarship</span></th>
     <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of recipient</span></th>
   </tr>
 </thead>
@@ -253,7 +458,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of Scholarship</span></th>
-    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organization offering the scholarship</span></th>
+    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organisation offering the scholarship</span></th>
     <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of recipient</span></th>
   </tr>
 </thead>
@@ -305,7 +510,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of Scholarship</span></th>
-    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organization offering the scholarship</span></th>
+    <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Organisation offering the scholarship</span></th>
     <th class="tg-q7nb"><span style="font-weight:bold;font-style:inherit">Name of recipient</span></th>
   </tr>
 </thead>

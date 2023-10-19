@@ -2,9 +2,8 @@
 title: AJC Achievements 2017
 permalink: /achievements/ajc-acheivements/2017/
 description: ""
-third_nav_title: AJC Acheivements
+third_nav_title: AJC Achievements
 ---
-
 ##### **Academic Achievements**
 
 | **Dept** | **Title** | **Achievement** |

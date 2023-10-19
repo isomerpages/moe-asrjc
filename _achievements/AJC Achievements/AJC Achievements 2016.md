@@ -2,7 +2,7 @@
 title: AJC Achievements 2016
 permalink: /achievements/ajc-acheivements/2016/
 description: ""
-third_nav_title: AJC Acheivements
+third_nav_title: AJC Achievements
 ---
 ##### **Academic Achievements**
 
@@ -36,7 +36,7 @@ third_nav_title: AJC Acheivements
 | ASEAN Undergraduate Scholarship | Nanyang Technological University | Kaung Sett Moe Myint | 06/14 |
 | ASEAN Undergraduate Scholarship | National University of Singapore |  Liew Jin Hua | 25/14 |
 | ASEAN Undergraduate Scholarship |  National University of Singapore |  Yeap Seong Kee | 25/14 |
-| AVA Undergraduate Scholarship | Agri-Food & Veterinary Authority of Singapore |  Kelvin Chen Yizhan | 30/12 |
+| AVA Undergraduate Scholarship | Agri-Food &amp; Veterinary Authority of Singapore |  Kelvin Chen Yizhan | 30/12 |
 |  College Scholarship | Nanyang Technological University |  Izza Haziqah Binte Abdul Rahman | 30/14 |
 | College Scholarship | Nanyang Technological University |  Tan Jia Le | 04/14 |
 | College Scholarship | Nanyang Technological University |  Lyndon Lim Zheng Jie |  05/14 |

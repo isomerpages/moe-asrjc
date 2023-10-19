@@ -19,6 +19,13 @@ sections:
           description: Find out more!
           url: /joining-asrjc/direct-school-admission/
   - infopic:
+      title: Celebrating our 2023 Scholarship Recipients
+      subtitle: HIGHLIGHTS
+      button: View here
+      url: /highlights/2023scholars/
+      image: /images/etps 2023_compressed infopic.jpg
+      alt: Image alt text
+  - infopic:
       title: "Homecoming 2023: The Reunion"
       subtitle: Highlights
       description: We welcomed back the class of 2022 to reminisce their time in ASRJC
@@ -35,15 +42,6 @@ sections:
       url: /joining-asrjc/direct-school-admission/
       image: /images/dsajc2023infobar.jpeg
       description: Join us via our DSA talent areas
-  - infopic:
-      title: Release of 2022 A-level Results
-      subtitle: HIGHLIGHTS
-      button: View here
-      url: /highlights/2022resultsrelease/
-      image: /images/2022-a-level-results-infobar.png
-      alt: Image alt text
-      description: Congratulations to the class of 2022 for their strong performance
-        at the 2022 GCE A-Level Examinations
   - infobar:
       title: "ASRJC: Leading, Learning and Serving"
       button: Click here

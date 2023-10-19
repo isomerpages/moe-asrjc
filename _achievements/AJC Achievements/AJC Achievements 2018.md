@@ -2,15 +2,14 @@
 title: AJC Achievements 2018
 permalink: /achievements/ajc-acheivements/2018/
 description: ""
-third_nav_title: AJC Acheivements
+third_nav_title: AJC Achievements
 ---
-
 ##### **Academic Achievements**
 
 | **Dept** | **Title** | **Achievement** |
 |---|---|---|
 | Languages | 2018 National Chinese Poetry Writing Competition | 2nd Prize : Sun Jiaxin (08/18)<br><br>3rd Prize : Liu Yize (35/18)<br><br>Merit Award: Tan Ke Jie Ryan (28/17) , Zhang Jingyi (35/18), Cui Qiang (07/17) |
-| Languages |  9th Global Village Children & Youths Bilingual Speech Competition | 3rd Prize: Erika Widya Chandra (28/17) |
+| Languages |  9th Global Village Children &amp; Youths Bilingual Speech Competition | 3rd Prize: Erika Widya Chandra (28/17) |
 |  Science |  Singapore Science and Engineering Fair | Bronze / Team Award: Zhang Qi (17/17), Xu Yongwen (02/17), Tan Zhicheng (13/17)<br><br>Finalists:<br>Zacc Koh Dewei (09/17), Quah Jing Jie Brenna (17/17), Tan Jean Ann, Beryl (15/17), Lim Shannen (15/17), Wong Kin Mun (18/17), Lua Jie Long, Jaron (12/17), Ong Qi Xuan Samson (18/17), Liu Zhuohao (21/17), Goh Kang Yang Eric (20/17), Wang Zhuowen (21/17), Koh Mingyang (10/17), Goh Jun How (20/17), Per Wong Kiat (20/17), Mong Juin Hwaye (20/17) |
 |  Science |  29th Singapore Chemistry Olympiad | Bronze: Loh Zhi Shen (10/17)<br><br>Merit: Phey Zheng Yang Donovan (08/17) |
 |  Science | 19th Elementz Conference | Gold / Team Award: Zhang Qi, Tan Zhi Cheng, Xu Yongren<br><br>Bronze / Team Award:<br>Ong Qi Xuan Samson, Jaron Lua Jie Long, Wong Kin Mun<br>Koh Mingyang<br>Mong Juin Hwaye |
@@ -85,9 +84,9 @@ third_nav_title: AJC Acheivements
 |  NUS Merit Scholarship |  NUS |  Ng Ming Sheng | 27/14 |
 |  NUS Merit Scholarship |  NUS | Wong Pin Rui, Ivan |  02/16 |
 |  NUS Merit Scholarship |  NUS |  Jeremiah Ong Ray | 20/16 |
-| NUS Science & Technology Undergraduate Merit Scholarship | NUS | Yao Ruitong | 08/16 |
-|  NUS Science & Technology Undergraduate Merit Scholarship | NUS | Hu Xuelian | 08/16 |
-| NUS Science & Technology Undergraduate Merit Scholarship |  NUS | Tian Mu | 11/16 |
+| NUS Science &amp; Technology Undergraduate Merit Scholarship | NUS | Yao Ruitong | 08/16 |
+|  NUS Science &amp; Technology Undergraduate Merit Scholarship | NUS | Hu Xuelian | 08/16 |
+| NUS Science &amp; Technology Undergraduate Merit Scholarship |  NUS | Tian Mu | 11/16 |
 |  SAF Medicine Scholarship |  MINDEF | Ang Ding Neng | 18/16 |
 |  School of Information Systems (SIS) Aspirations Scholarship | SMU | Jeffrey Gwee Xiang-en | 06/15 |
 |  School of Information Systems (SIS) Aspirations Scholarship |  SMU |  Lok Wei Jie | 18/16 |
@@ -133,7 +132,7 @@ third_nav_title: AJC Acheivements
 | **Performing Arts** |  |
 | StAJeWorks | SYF (Drama) - Certificate of Accomplishment |
 |  CLDDS | SYF (Drama) - Certificate of Distinction |
-| **Clubs & Societies** |  |
+| **Clubs &amp; Societies** |  |
 | TLDDS | Inter JC Tamil Debates Competition -  Champion, Overall Best Speaker (Maria Immaculate) |
 |  Red Cross Youth | Red Cross Youth First Aid Competition 2018 - Silver Award |
 
