@@ -39,7 +39,7 @@ Click to find out more about the following ASRJC STEM opportunities:
 *   [Spellman HV Clean Tech Competition](https://www.cstl.org/cleantech/)
 *   [Samsung Solve For Tomorrow](https://www.samsung.com/sg/solvefortomorrow/) 
 
-[**23rd International Elementz Fair**](https://staging.d2l6tfmz18j0q.amplifyapp.com/special-programmes/elementz-international-science-research-conference-and-exhibition/)
+[**International Elementz Fair**](https://staging.d2l6tfmz18j0q.amplifyapp.com/special-programmes/elementz-international-science-research-conference-and-exhibition/)
 
 STEAM education in ASRJC offers an interdisciplinary, collaborative approach to learning, so as to prepare our students for real-world issues and life-long learning. This year, the college will host its inaugural STEAM Conference that showcases the fusion of Arts and Sciences, and the convening of diverse perspectives to create new ways to visualise the world around us.
 
