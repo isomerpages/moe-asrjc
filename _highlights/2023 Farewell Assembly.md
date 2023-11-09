@@ -15,8 +15,10 @@ As we bid a heartfelt farewell to our JC2 students, the atmosphere was a mix of 
 Amidst the sentimental moments, the event also embraced a touch of sweetness and fun. A popcorn and ice cream booth added a delightful treat to the Assembly, allowing everyone to savor the moment and indulge in some tasty snacks. Laughter and joy echoed as students and teachers alike gathered at the lively photo booth, capturing candid and posed snapshots that would serve as tangible mementos of the shared experiences and friendships formed during their time at the college. It was a bittersweet celebration, marking the end of one chapter and the beginning of new adventures for our cherished seniors.
 
 
-
-||  |
-| -------- | -------- | 
-| ![](/images/copy%20of%20copy%20of%20img_0091a.jpg)| ![](/images/img_0116aa.JPG)| 
-|![](/images/copy%20of%20img_0140.jpg)  |  |
+ ![](/images/copy%20of%20copy%20of%20img_0091a.jpg)
+ 
+ ![](/images/img_0116aa.JPG)
+ 
+ ![](/images/copy%20of%20img_0140.jpg) 
+ 
+ 
