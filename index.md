@@ -23,7 +23,7 @@ sections:
       subtitle: HIGHLIGHTS
       button: View Here
       alt: Image alt text
-      url: /joining-asrjc/farewell-assembly-2023
+      url: /highlights/permalink/farewell-assembly-2023/
       image: /images/copy of dsc01271.jpg
       description: We celebrated the exceptional contributions of our seniors,
         cheering them as they embark on the beginning of exciting new
