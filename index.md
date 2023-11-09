@@ -19,6 +19,16 @@ sections:
           description: Find out more!
           url: /joining-asrjc/direct-school-admission/
   - infopic:
+      title: Farewell, Class of 2023!
+      subtitle: HIGHLIGHTS
+      button: View Here
+      alt: Image alt text
+      url: /joining-asrjc/farewell-assembly-2023
+      image: /images/copy of dsc01271.jpg
+      description: We celebrated the exceptional contributions of our seniors,
+        cheering them as they embark on the beginning of exciting new
+        adventures.
+  - infopic:
       title: Celebrating our 2023 Scholarship Recipients
       subtitle: HIGHLIGHTS
       button: View here
@@ -34,14 +44,6 @@ sections:
       url: /highlights/homecoming2023thereunion/
       image: /images/homecoming 2023 thumbnail.png
       alt: Image alt text
-  - infopic:
-      title: Direct School Admission-JC 2023
-      subtitle: HIGHLIGHTS
-      button: View Here
-      alt: Image alt text
-      url: /joining-asrjc/direct-school-admission/
-      image: /images/dsajc2023infobar.jpeg
-      description: Join us via our DSA talent areas
   - infobar:
       title: "ASRJC: Leading, Learning and Serving"
       button: Click here
