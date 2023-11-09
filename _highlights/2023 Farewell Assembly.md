@@ -15,5 +15,4 @@ Amidst the sentimental moments, the event also embraced a touch of sweetness and
 ||  |
 | -------- | -------- | 
 | Text     | Text     | 
-| -------- | -------- | 
-
+| -------- | -------- |
