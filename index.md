@@ -21,11 +21,11 @@ sections:
   - infopic:
       title: Project Graffiti
       subtitle: Highlights
-      description: Classes of 2023 and 2024 at ASRJC students marked their memories
-        with a dynamic Project Graffiti event
+      description: JC1 and JC2 students at ASRJC created lasting memories with a
+        spirited Project Graffiti on campus walls.
       button: view here
       url: /highlights/projectgraffiti23
-      image: /images/homecoming 2023 thumbnail.png
+      image: /images/Images for DSA Talent Areas/tlepdsa.png
       alt: Image alt text
   - infopic:
       title: Farewell, Class of 2023!
