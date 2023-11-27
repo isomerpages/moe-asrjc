@@ -21,8 +21,8 @@ sections:
   - infopic:
       title: Project Graffiti
       subtitle: Highlights
-      description: We welcomed back the class of 2022 to reminisce their time in ASRJC
-        and celebrate their achievements.
+      description: Classes of 2023 and 2024 at ASRJC students marked their memories
+        with a dynamic Project Graffiti event
       button: view here
       url: /highlights/projectgraffiti23
       image: /images/homecoming 2023 thumbnail.png
