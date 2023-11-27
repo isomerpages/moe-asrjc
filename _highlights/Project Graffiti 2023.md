@@ -4,6 +4,8 @@ permalink: /highlights/projectgraffiti23/
 variant: markdown
 description: ""
 ---
+**
+
 Our campus walls have seen a lot. They are not just walls, but a big picture of our life at school. Every bit of paint tells a piece of our story; the nooks and crannies show all the fun and hard work countless batches have put in.
 
 Last month,  the JC1 and JC2 cohorts, came together to bid a fond farewell to these walls. With Project Graffiti,  each class received a wall that they could make their own. The campus became a creative space for students and staff to bond as they decorated the walls with our stories, memories of, and well-wishes for ASR. It allowed us all to leave our mark on our Ang Mo Kio campus and create new memories that will remain with us.
