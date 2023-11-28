@@ -2,7 +2,7 @@
 layout: homepage
 title: Anderson Serangoon Junior College
 description: An Isomer site of the Singapore Government
-image: /images/asrjcbanner.jpeg
+image: /images/10.jpg
 permalink: /
 notification: ""
 sections:
