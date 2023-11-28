@@ -21,10 +21,10 @@ sections:
   - infopic:
       title: Project Graffiti
       subtitle: Highlights
-      description: JC1 and JC2 students at ASRJC created lasting memories with a
-        spirited Project Graffiti on campus walls.
+      description: Our last project at our Ang Mo Kio Campus before we make our big
+        move to Upper Serangoon next year.
       button: view here
-      url: /highlights/projectgraffiti23
+      url: highlights/permalink/projectgraffiti23
       image: /images/10.jpg
       alt: Image alt text
   - infopic:
