@@ -25,7 +25,7 @@ sections:
         spirited Project Graffiti on campus walls.
       button: view here
       url: /highlights/projectgraffiti23
-      image: /images/Images for DSA Talent Areas/tlepdsa.png
+      image: /images/10.jpg
       alt: Image alt text
   - infopic:
       title: Farewell, Class of 2023!
