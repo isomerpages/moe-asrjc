@@ -4,7 +4,7 @@ permalink: /highlights/projectgraffiti23/
 variant: markdown
 description: ""
 ---
-![](/images/2309.png)Our campus walls have seen a lot. They are not just walls, but a big picture of our life at school. Every bit of paint tells a piece of our story; the nooks and crannies show all the fun and hard work countless batches have put in.
+Our campus walls have seen a lot. They are not just walls, but a big picture of our life at school. Every bit of paint tells a piece of our story; the nooks and crannies show all the fun and hard work countless batches have put in.
 
 ![](/images/2.jpg)
 
@@ -26,5 +26,7 @@ As we prepare to move forward, we reflect on the murals — they have become a v
 ![](/images/8.jpg)
 
 ![](/images/9.jpg)
+
+![](/images/2309.png)
 
 ![](/images/1.jpg)
