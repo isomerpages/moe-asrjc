@@ -24,7 +24,7 @@ sections:
       description: Our last project at our Ang Mo Kio Campus before we make our big
         move to Upper Serangoon next year.
       button: view here
-      url: highlights/permalink/projectgraffiti23
+      url: /highlights/projectgraffiti23/
       image: /images/10.jpg
       alt: Image alt text
   - infopic:
