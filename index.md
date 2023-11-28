@@ -2,7 +2,7 @@
 layout: homepage
 title: Anderson Serangoon Junior College
 description: An Isomer site of the Singapore Government
-image: /images/asrjcbanner.jpeg
+image: /images/10.jpg
 permalink: /
 notification: ""
 sections:
@@ -19,6 +19,15 @@ sections:
           description: Find out more!
           url: /joining-asrjc/direct-school-admission/
   - infopic:
+      title: Project Graffiti
+      subtitle: Highlights
+      description: Our last project at our Ang Mo Kio Campus before we make our big
+        move to Upper Serangoon next year.
+      button: view here
+      url: /highlights/projectgraffiti23/
+      image: /images/10.jpg
+      alt: Image alt text
+  - infopic:
       title: Farewell, Class of 2023!
       subtitle: HIGHLIGHTS
       button: View Here
@@ -34,15 +43,6 @@ sections:
       button: View here
       url: /highlights/2023scholars/
       image: /images/etps 2023_compressed infopic.jpg
-      alt: Image alt text
-  - infopic:
-      title: "Homecoming 2023: The Reunion"
-      subtitle: Highlights
-      description: We welcomed back the class of 2022 to reminisce their time in ASRJC
-        and celebrate their achievements.
-      button: view here
-      url: /highlights/homecoming2023thereunion/
-      image: /images/homecoming 2023 thumbnail.png
       alt: Image alt text
   - infobar:
       title: "ASRJC: Leading, Learning and Serving"
