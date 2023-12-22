@@ -5,11 +5,11 @@ permalink: /contact-us/
 agency_name: Anderson Serangoon Junior College
 locations:
   - address:
-      - "4500"
-      - Ang Mo Kio Ave 6
-      - Singapore 569843
+      - "1033"
+      - Upper Serangoon Road
+      - Singapore 534768
     operating_hours: []
-    maps_link: https://goo.gl/maps/krbdMtiJdCt8GbEA9
+    maps_link: https://maps.app.goo.gl/4oA7peuCfn1Pobv67
     title: Location
 contacts:
   - content:
@@ -22,4 +22,5 @@ contacts:
       - email: asrjc@moe.edu.sg
       - other: ""
     title: Email
+feedback: ""
 ---
