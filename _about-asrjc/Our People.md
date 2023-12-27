@@ -249,9 +249,9 @@ variant: markdown
     <div>
 			<p style="margin-bottom:0;"><b>Administrative Manager</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Yeo Lern Hun</p>
-			<p style="margin-bottom:0;"><b>Operations Manager</b></p>	
-			<p style="margin : 0; padding-top:0;">Mr Kong Koon Fock</p>
+			<p style="margin-bottom:0;"><b>Operations Manager</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Eric Yeo Eng Koon</p>
+			<p style="margin : 0; padding-top:0;">Mr Kong Koon Fock</p>
 			<p style="margin-bottom:0;"><b>ICT Manager</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Tan Wee Dat</p>	
 			<p style="margin-bottom:0;"><b>Administrative Executives</b></p>				
