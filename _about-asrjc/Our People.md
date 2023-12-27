@@ -2,6 +2,7 @@
 title: Our People
 permalink: /about-asrjc/our-people/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
   <li>
@@ -13,6 +14,7 @@ description: ""
 			<p style="margin-bottom:0;"><b>Vice Principals</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Chan Zheng Ming</p>
 			<p style="margin : 0; padding-top:0;">Mr Gurusharan Singh S/O Major Singh</p>
+			<p style="margin : 0; padding-top:0;">Mrs Cheng Li Shun</p>
 			<p style="margin : 0; padding-top:0;">Mdm Sharon Lim (Administration)</p>
     </div>
 	</li>
@@ -21,6 +23,8 @@ description: ""
     <label for="accordion2">Economics Department</label>
     <div>
       <p style="margin-bottom:0;"><b>HOD Economics</b></p>
+			<p style="margin : 0; padding-top:0;">Mr Arumugam Meganathan</p>
+			<p style="margin-bottom:0;"><b>JC1 Dean</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Tan Su Chin</p>
 			<p style="margin-bottom:0;"><b>Senior Teacher</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Kat Kar Hwee</p>
@@ -31,6 +35,7 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Chung Ka Wing Kevin</p>
 			<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
+			<p style="margin : 0; padding-top:0;">Ms Eunice Tan Chen Xin</p>
 			<p style="margin : 0; padding-top:0;">Mr Gan Teck Ming, Alvin</p>
 			<p style="margin : 0; padding-top:0;">Mr Jowell Yong Kaijie</p>
 			<p style="margin : 0; padding-top:0;">Ms Lai Peck Chai</p>
@@ -82,7 +87,7 @@ description: ""
     <div>
       <p style="margin-bottom:0;"><b>HOD Humanities &amp; Engagement &amp; Partnerships</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Ong Shu Hui</p>
-			<p style="margin-bottom:0;"><b>JC1 Dean</b></p>
+			<p style="margin-bottom:0;"><b>JC2 Dean</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Zhu Youyan, Corrine</p>
 			<p style="margin-bottom:0;"><b>SH Engagement &amp; Partnerships</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Goh Ying Shi Darwin</p>
@@ -101,14 +106,15 @@ description: ""
     <label for="accordion5">Languages Department</label>
     <div>
       <p style="margin-bottom:0;"><b>HOD Languages</b></p>
-			<p style="margin : 0; padding-top:0;">Mdm Ong Kwee Hoon</p>
+			<p style="margin : 0; padding-top:0;">Ms Esther Tan Pin Yong</p>
 			<p style="margin-bottom:0;"><b>Lead Teacher (Tamil Language)</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Veeramuthu Ganesan</p>
 			<p style="margin-bottom:0;"><b>SH Chinese Language</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Esther Tan Pin Yong</p>
+			<p style="margin : 0; padding-top:0;">Ms Ong Si Min</p>
 					<p style="margin-bottom:0;"><b>Teachers</b></p>
 			<p style="margin : 0; padding-top:0;">Mdm Kamalavani d/o Palaiyan</p>
 			<p style="margin : 0; padding-top:0;">Ms Ma Junhui</p>
+			<p style="margin : 0; padding-top:0;">Mdm Ong Kwee Hoon</p>
 			<p style="margin : 0; padding-top:0;">Ms Siti Nur Khairiah Binte Zakaria</p>
 			<p style="margin : 0; padding-top:0;">Mdm Yao Heping</p>
     </div>
@@ -119,7 +125,7 @@ description: ""
     <div>
       <p style="margin-bottom:0;"><b>HOD Mathematics</b></p>
       <p style="margin : 0; padding-top:0;">Mr Kan Kok Leong</p>
-      <p style="margin-bottom:0;"><b>JC2 Deputy Dean</b></p>
+      <p style="margin-bottom:0;"><b>JC1 Deputy Dean</b></p>
       <p style="margin : 0; padding-top:0;">Mr Lee Han Meng Desmond</p>
       <p style="margin-bottom:0;"><b>Senior Teachers</b></p>
       <p style="margin : 0; padding-top:0;">Mr Anuar Bin Kassim</p>
@@ -127,8 +133,6 @@ description: ""
       <p style="margin-bottom:0;"><b>SH Mathematics</b></p>
       <p style="margin : 0; padding-top:0;">Mr Lim Ting</p>
 			<p style="margin : 0; padding-top:0;">Mr Tay Guo Yong</p>
-			<p style="margin-bottom:0;"><b>SH Information and Communication Technology</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Koh Wenting</p>
 			<p style="margin-bottom:0;"><b>SH IME &amp; EdTech </b></p>
 			<p style="margin : 0; padding-top:0;">Mr Lam Meng Hwee</p>
       <p style="margin-bottom:0;"><b>Teachers</b></p>
@@ -136,6 +140,7 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mr Gi Soong Chee</p>
 			<p style="margin : 0; padding-top:0;">Ms Koh Seok Xian</p>
 			<p style="margin : 0; padding-top:0;">Mdm Koh Suh Miin</p>
+			<p style="margin : 0; padding-top:0;">Mr Kenneth Khoo Jin Yee</p>
 			<p style="margin : 0; padding-top:0;">Mr Lau Haw Ping</p>
 			<p style="margin : 0; padding-top:0;">Mr Lee Dong Liang</p>
 			<p style="margin : 0; padding-top:0;">Ms Ng Cheng Yee</p>
@@ -170,9 +175,12 @@ description: ""
 			<p style="margin-bottom:0;"><b>SH Project Work  
 </b></p>
       <p style="margin : 0; padding-top:0;">Ms Lim Li Wen Evon</p>
-      <p style="margin-bottom:0;"><b>Teachers</b></p>
+			<p style="margin-bottom:0;"><b>SH Information and Communication Technology</b>
+			</p><p style="margin : 0; padding-top:0;">Ms Koh Wenting</p>
+<p></p>
+ <p style="margin-bottom:0;"><b>Teachers</b></p>
       <p style="margin : 0; padding-top:0;">Mr Ng Song En, John</p>
-			<p style="margin : 0; padding-top:0;">Ms Khaw Maylee</p>  
+			<p style="margin : 0; padding-top:0;">Ms Khaw Maylee</p> 
 			<p style="margin : 0; padding-top:0;">Ms Koh Yi Ting Cristee</p>
 			<p style="margin : 0; padding-top:0;">Mrs Malarvizhi Haugen</p>
     </div>
@@ -192,9 +200,7 @@ description: ""
 			      <p style="margin-bottom:0;"><b>School Staff Developer
 </b></p>
       <p style="margin : 0; padding-top:0;">Mr Ng Yung Hui Eugene</p>
-						<p style="margin-bottom:0;"><b>JC2 Dean</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Chew Tse Yong</p>
-			<p style="margin-bottom:0;"><b>JC1 Deputy Dean</b></p>
+			<p style="margin-bottom:0;"><b>JC2 Deputy Dean</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Khiew Shi Hui</p>
 			<p style="margin-bottom:0;"><b>Lead Teacher (Physics)</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Sng Peng Poo</p>
@@ -245,6 +251,7 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mdm Yeo Lern Hun</p>
 			<p style="margin-bottom:0;"><b>Operations Manager</b></p>	
 			<p style="margin : 0; padding-top:0;">Mr Kong Koon Fock</p>
+			<p style="margin : 0; padding-top:0;">Mr Eric Yeo Eng Koon</p>
 			<p style="margin-bottom:0;"><b>ICT Manager</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Tan Wee Dat</p>	
 			<p style="margin-bottom:0;"><b>Administrative Executives</b></p>				
@@ -258,7 +265,7 @@ description: ""
 			<p style="margin-bottom:0;"><b>Corporate Support Officers</b></p>			
 			<p style="margin : 0; padding-top:0;">Ms Dorothy Yeng Siew Yin</p>
 			<p style="margin : 0; padding-top:0;">Mdm Ngiam Min Lin Linda</p>			
-			<p style="margin : 0; padding-top:0;">Mdm Rohaya Bte Taib</p>						
+			<p style="margin : 0; padding-top:0;">Mr Yu Yeong Jian Albert</p>						
 			<p style="margin-bottom:0;"><b>AVA Technician</b></p>			
       <p style="margin : 0; padding-top:0;">Mr Lim Wenjun</p>						
       <p style="margin-bottom:0;"><b>Technical Support Officers</b></p>	
@@ -272,8 +279,8 @@ description: ""
       <p style="margin-bottom:0;"><b>Operations Support Officers</b></p>				
 			<p style="margin : 0; padding-top:0;">Mdm Choo Ah Sai Lina</p>	
 			<p style="margin : 0; padding-top:0;">Mdm Lee Lay Kim Doris</p>
+			<p style="margin : 0; padding-top:0;">Mr Lim Cheng Keong</p>
       <p style="margin : 0; padding-top:0;">Mr Neo Say Kiong</p>	
-			<p style="margin : 0; padding-top:0;">Mr Ng Tuck Sing Andy</p>
 			<p style="margin : 0; padding-top:0;">Mdm Oh Siew Eng</p>		
 			<p style="margin : 0; padding-top:0;">Ms Soh Imm Gim</p>					
 			<p style="margin : 0; padding-top:0;">Mdm Tan Seah Gek Jessica</p>					
@@ -281,7 +288,9 @@ description: ""
 			<p style="margin : 0; padding-top:0;">Mdm Usharani Uthaya Kumaran</p>					<p style="margin-bottom:0;"><b>Desktop Engineers</b></p>			
 			<p style="margin : 0; padding-top:0;">Mr Wong Ee Kiong</p>			
 			<p style="margin : 0; padding-top:0;">Mr Koh Rui Teng</p>	
-			<p style="margin-bottom:0;"><b>Librarian</b></p>			
+						<p style="margin-bottom:0;"><b>Librarian</b></p>			
 			<p style="margin : 0; padding-top:0;">Ms Jenny Heng</p>
+			<p style="margin-bottom:0;"><b>School Administrative Support Officer</b></p>			
+			<p style="margin : 0; padding-top:0;">Ms Khairunnisa Sulaiman</p>
 			<p style="margin-bottom:0;"><b>
 </b></p></div></li></ul>
