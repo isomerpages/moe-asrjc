@@ -14,7 +14,7 @@ variant: markdown
 			<p style="margin-bottom:0;"><b>Vice Principals</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Chan Zheng Ming</p>
 			<p style="margin : 0; padding-top:0;">Mr Gurusharan Singh S/O Major Singh</p>
-			<p style="margin : 0; padding-top:0;">Mrs Cheng Li Shun</p>
+			<p style="margin : 0; padding-top:0;">Mrs Cheng-Tey Li Shun</p>
 			<p style="margin : 0; padding-top:0;">Mdm Sharon Lim (Administration)</p>
     </div>
 	</li>
