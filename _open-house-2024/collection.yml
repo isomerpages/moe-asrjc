@@ -2,5 +2,5 @@ collections:
   open-house-2024:
     output: true
     order:
-      - Academic Curriculum.md
       - Welcome to Open House 2024.md
+      - Academic Curriculum.md
