@@ -19,6 +19,14 @@ sections:
           description: Find out more!
           url: /open-house-2024/welcome/
   - infopic:
+      title: OPEN HOUSE 2024
+      subtitle: EVENTS
+      button: Details here
+      url: /open-house-2024/welcome/
+      image: /images/ASRJC_MOTD_2024.png
+      alt: Image alt text
+      description: Come join us for our Open House on 12 January (Friday), 10am to 5pm!
+  - infopic:
       title: Project Graffiti
       subtitle: Highlights
       description: Our last project at our Ang Mo Kio Campus before we make our big
@@ -37,13 +45,6 @@ sections:
       description: We celebrated the exceptional contributions of our seniors,
         cheering them as they embark on the beginning of exciting new
         adventures.
-  - infopic:
-      title: Celebrating our 2023 Scholarship Recipients
-      subtitle: HIGHLIGHTS
-      button: View here
-      url: /highlights/2023scholars/
-      image: /images/etps 2023_compressed infopic.jpg
-      alt: Image alt text
   - infobar:
       title: "ASRJC: Leading, Learning and Serving"
       button: Click here
