@@ -17,7 +17,7 @@ sections:
           url: /highlights/storiesclassof2022/
         - title: Open House 2024
           description: Find out more!
-          url: /joining-asrjc/direct-school-admission/
+          url: /open-house-2024/welcome/
   - infopic:
       title: Project Graffiti
       subtitle: Highlights
