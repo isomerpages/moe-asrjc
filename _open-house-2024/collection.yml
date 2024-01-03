@@ -2,10 +2,10 @@ collections:
   open-house-2024:
     output: true
     order:
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Clubs & Societies.md
       - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Sports.md
-      - Co Curricular Activities/Clubs & Societies.md
-      - Co Curricular Activities/.keep
       - Welcome to Open House 2024.md
       - Academic Curriculum.md
       - Special Programmes.md
