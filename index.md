@@ -15,7 +15,7 @@ sections:
         - title: Highlights
           description: Check out our highlights!
           url: /highlights/storiesclassof2022/
-        - title: DSA-JC 2023
+        - title: Open House 2024
           description: Find out more!
           url: /joining-asrjc/direct-school-admission/
   - infopic:
