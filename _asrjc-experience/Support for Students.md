@@ -55,12 +55,10 @@ Students who need counselling or advice in career guidance can approach their Cl
 
 **Mrs Sophia Ng (School Counsellor)**  
 Email: <a href="mailto:chiang_yik_huey_sophia@schools.gov.sg">chiang_yik_huey_sophia@schools.gov.sg</a><br>
-Venue: Room 1326  
 Hours: Mondays – Fridays, 8.30 am - 5.30pm
 
 **Mr Tony (Education &amp; Career Guidance Counsellor)**  
 Email: <a href="mailto:Gui_Choon_Hock_Tony@schools.gov.sg">Gui_Choon_Hock_Tony@schools.gov.sg</a><br>
-Venue: Room 1328  
 Hours: Mondays – Fridays, 9 am - 5 pm
 
 #### **Crisis Hotlines**&nbsp;(after office hours)
