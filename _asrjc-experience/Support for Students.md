@@ -2,6 +2,7 @@
 title: Support for Students
 permalink: /asrjc-experience/support-for-students/
 description: ""
+variant: markdown
 ---
 #### **Bursaries and Scholarships**
 
@@ -10,16 +11,17 @@ description: ""
 Students who meet the following criteria may apply for the MOE Financial Assistance Scheme (MOE FAS):
 
 *   Student must be a Singapore Citizen
-*   Student from family in receipt of public assistance such as PAS or RUAS will qualify automatically
-*   Family’s Gross Household Income (GHI) not exceeding $2,750.00 monthly  
+*   Family’s Gross Household Income (GHI) not exceeding $3,000.00 monthly
+*   MOE FAS is automatically granted to students, whose family is under ComCare. They do not need to submit the application for MOE FAS.
+
     **_OR_**
-*   Family’s Gross Household Income (GHI) exceeds $2,750.00 but the Per Capita Income (PCI) is $690.00 or less per month. PCI = monthly GHI/ no. of member in the household
+*   Family’s Gross Household Income (GHI) exceeds $3,000.00 but the Per Capita Income (PCI) is $750.00 or less per month. PCI = monthly GHI/ no. of member in the household
+ 
+Successful applicants will be granted full <u>waiver of school fees</u>, full <u>waiver of standard miscellaneous fees, $17 transport credit per month up to total of $204 transport credits per annum and a bursary of $1,200</u>.
 
-Successful applicants will be granted full <u>waiver of school fees</u>, full <u>waiver of standard miscellaneous fees</u>, <u>$10 transport credit per month up to total of $120 transport credits per annum and a bursary of $900</u>. Payment of 2nd&nbsp;tier miscellaneous fees and enrichment expenses from student’s Edusave account.
+Students with siblings studying in different government and/ or government-aided schools need to submit only <u>**1**</u> application form. The school receiving the application form will process the application and all siblings indicated in the form will be granted the MOE FAS.
 
-Students with siblings studying in different government and/ or government-aided schools need to <u>submit only 1 application form</u>. The school receiving the application form will process the application and all siblings indicated in the form will be granted the MOE FAS.
-
-Application for the MOE FAS is available in Term 1. However, applications may also be considered anytime in the year under special circumstances.
+Application for the **MOE FAS** is available in Term 1. However, applications may also be considered anytime in the year under special circumstances.
 
 **2\. Opportunity Fund (OF)**
 
