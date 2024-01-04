@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 image: /images/ASRJC_MOTD_2024.png
 ---
-<p></p><p></p><p></p>
+<h4><strong><em>Stay tuned for more information about the Open House Programme!</em></strong></h4><h4></h4><h4></h4><p></p>
