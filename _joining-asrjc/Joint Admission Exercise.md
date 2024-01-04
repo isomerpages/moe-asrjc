@@ -2,6 +2,7 @@
 title: Joint Admission Exercise
 permalink: /joining-asrjc/joint-admission-exercise/
 description: ""
+variant: markdown
 ---
 Joint Admissions Exercise
 =========================
@@ -119,7 +120,7 @@ All shortlisted candidates will be notified before the end of the Appeal period.
 
 ### **Subject&nbsp;Combinations&nbsp;in ASRJC**
 
-The list of subject combinations offered in 2022 is downloadable [here](/files/asrjc-subject-combination-list-2023.pdf).
+The list of subject combinations offered in 2023 is downloadable [here](/files/Subject_Combination_List_2024.pdf).
 
 ### **Selection Tests**
 

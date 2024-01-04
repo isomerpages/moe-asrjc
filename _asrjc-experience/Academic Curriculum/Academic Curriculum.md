@@ -3,15 +3,11 @@ title: Academic Curriculum
 permalink: /academic-curriculum/
 description: ""
 third_nav_title: Academic Curriculum
+variant: markdown
 ---
 #### PROSPECTUS
 
-<p><a href="/files/asrjc-prospectus-2023-web.pdf">
-<img style="width:35%" src="/images/oh2023-logo-circle-300x292.png">
-</a></p>
-
-
-[Click to view ASRJC's E-Prospectus](/files/asrjc-prospectus-2023-web.pdf)
+[Click to view ASRJC's E-Prospectus](/files/ASRJC_Prospectus_2024_Final_Web.pdf)
 
 #### JC CURRICULUM
 

@@ -2,6 +2,7 @@
 title: Support for Students
 permalink: /asrjc-experience/support-for-students/
 description: ""
+variant: markdown
 ---
 #### **Bursaries and Scholarships**
 
@@ -10,16 +11,17 @@ description: ""
 Students who meet the following criteria may apply for the MOE Financial Assistance Scheme (MOE FAS):
 
 *   Student must be a Singapore Citizen
-*   Student from family in receipt of public assistance such as PAS or RUAS will qualify automatically
-*   Family’s Gross Household Income (GHI) not exceeding $2,750.00 monthly  
+*   Family’s Gross Household Income (GHI) not exceeding $3,000.00 monthly
+*   MOE FAS is automatically granted to students, whose family is under ComCare. They do not need to submit the application for MOE FAS.
+
     **_OR_**
-*   Family’s Gross Household Income (GHI) exceeds $2,750.00 but the Per Capita Income (PCI) is $690.00 or less per month. PCI = monthly GHI/ no. of member in the household
+*   Family’s Gross Household Income (GHI) exceeds $3,000.00 but the Per Capita Income (PCI) is $750.00 or less per month. PCI = monthly GHI/ no. of member in the household
+ 
+Successful applicants will be granted full <u>waiver of school fees</u>, full <u>waiver of standard miscellaneous fees, $17 transport credit per month up to total of $204 transport credits per annum and a bursary of $1,200</u>.
 
-Successful applicants will be granted full <u>waiver of school fees</u>, full <u>waiver of standard miscellaneous fees</u>, <u>$10 transport credit per month up to total of $120 transport credits per annum and a bursary of $900</u>. Payment of 2nd&nbsp;tier miscellaneous fees and enrichment expenses from student’s Edusave account.
+Students with siblings studying in different government and/ or government-aided schools need to submit only <u>**1**</u> application form. The school receiving the application form will process the application and all siblings indicated in the form will be granted the MOE FAS.
 
-Students with siblings studying in different government and/ or government-aided schools need to <u>submit only 1 application form</u>. The school receiving the application form will process the application and all siblings indicated in the form will be granted the MOE FAS.
-
-Application for the MOE FAS is available in Term 1. However, applications may also be considered anytime in the year under special circumstances.
+Application for the **MOE FAS** is available in Term 1. However, applications may also be considered anytime in the year under special circumstances.
 
 **2\. Opportunity Fund (OF)**
 
@@ -29,38 +31,21 @@ Students who require financial assistance for any enrichment programme, computer
 
 The ASRJC CAC Bursary provides financial assistance to needy students who do not meet the income criteria for the MOE FAS. Application for the CAC Bursary is available in Term 1, and the amount to be awarded ranges from $800 to $1000 per annum. Applicants should not be receiving any other scholarship or bursary awards (except the Edusave Merit Scholarship or Edusave Merit Bursary awarded by MOE).
 
+Criteria:
+
+
+*   Gross household income must not exceed $4500 or per capita income &lt; $1125 whichever is lower
+   
 | **Gross Household Income** | **Gross Per Capita Income** | **Amount Awarded (per year)** |
 | -------- | -------- | -------- |
-| $2751 - $3500     | $691 - $875     | $1000     |
-| $3501 - $4000     | $876 - $1000     | $800     |
+| $3001 - $3500     | $751 - $875     | $1000     |
+| $3501 - $4500     | $876 - $1125     | $800     |
 
 
-Criteria:
 
-*   Student with good conduct
-*   Gross household income must not exceed $4000 or per capita income &lt; $1000 whichever is lower
+**4.**&nbsp;**ASRJC College Advisory Committee Scholarship**
 
-**4\. ASRJC College Advisory Committee Financial Assistance Scheme (CAC-FAS)**
-
-ASRJC students who need financial assistance on an adhoc basis (subjected to availability of funds) may apply for the CAC-FAS.&nbsp; Students may use the grant for the following purposes:
-
-*   Learning Programmes in college
-*   Transport or food allowance
-*   College Uniform
-
-Criteria:
-
-*   Student must be a Singapore Citizen
-*   Gross household income not exceeding $4000.00
-*   Recipients of MOE FAS or CAC Bursary who are still in need of financial support may apply for the CAC-FAS as an additional grant
-
-Quantum:
-
-*   $200/ $300/ $400&nbsp;
-
-**5.**&nbsp;**ASRJC College Advisory Committee Scholarship**
-
-ASRJC CAC offers scholarships to outstanding JC1 students. The scholarship, which is tenable for two years, is valued at $1000 per year.
+ASRJC CAC offers scholarships to outstanding JC1 students. The scholarship, which is tenable for two years, is valued at $1000 per year. Information on the application process will be shared with JC1 students during Orientation.
 
 Application opens in Semester 1 and students will be invited to apply for the scholarship.
 
@@ -70,12 +55,10 @@ Students who need counselling or advice in career guidance can approach their Cl
 
 **Mrs Sophia Ng (School Counsellor)**  
 Email: <a href="mailto:chiang_yik_huey_sophia@schools.gov.sg">chiang_yik_huey_sophia@schools.gov.sg</a><br>
-Venue: Room 1326  
 Hours: Mondays – Fridays, 8.30 am - 5.30pm
 
 **Mr Tony (Education &amp; Career Guidance Counsellor)**  
 Email: <a href="mailto:Gui_Choon_Hock_Tony@schools.gov.sg">Gui_Choon_Hock_Tony@schools.gov.sg</a><br>
-Venue: Room 1328  
 Hours: Mondays – Fridays, 9 am - 5 pm
 
 #### **Crisis Hotlines**&nbsp;(after office hours)
