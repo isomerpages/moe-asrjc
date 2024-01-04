@@ -33,9 +33,9 @@ The ASRJC CAC Bursary provides financial assistance to needy students who do not
 
 Criteria:
 
-*   Student with good conduct
+
 *   Gross household income must not exceed $4500 or per capita income &lt; $1125 whichever is lower
-*   
+   
 | **Gross Household Income** | **Gross Per Capita Income** | **Amount Awarded (per year)** |
 | -------- | -------- | -------- |
 | $3001 - $3500     | $751 - $875     | $1000     |
