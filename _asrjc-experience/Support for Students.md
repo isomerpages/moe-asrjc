@@ -31,38 +31,21 @@ Students who require financial assistance for any enrichment programme, computer
 
 The ASRJC CAC Bursary provides financial assistance to needy students who do not meet the income criteria for the MOE FAS. Application for the CAC Bursary is available in Term 1, and the amount to be awarded ranges from $800 to $1000 per annum. Applicants should not be receiving any other scholarship or bursary awards (except the Edusave Merit Scholarship or Edusave Merit Bursary awarded by MOE).
 
-| **Gross Household Income** | **Gross Per Capita Income** | **Amount Awarded (per year)** |
-| -------- | -------- | -------- |
-| $2751 - $3500     | $691 - $875     | $1000     |
-| $3501 - $4000     | $876 - $1000     | $800     |
-
-
 Criteria:
 
 *   Student with good conduct
-*   Gross household income must not exceed $4000 or per capita income &lt; $1000 whichever is lower
+*   Gross household income must not exceed $4500 or per capita income &lt; $1125 whichever is lower
+*   
+| **Gross Household Income** | **Gross Per Capita Income** | **Amount Awarded (per year)** |
+| -------- | -------- | -------- |
+| $3001 - $3500     | $751 - $875     | $1000     |
+| $3501 - $4500     | $876 - $1125     | $800     |
 
-**4\. ASRJC College Advisory Committee Financial Assistance Scheme (CAC-FAS)**
 
-ASRJC students who need financial assistance on an adhoc basis (subjected to availability of funds) may apply for the CAC-FAS.&nbsp; Students may use the grant for the following purposes:
 
-*   Learning Programmes in college
-*   Transport or food allowance
-*   College Uniform
+**4.**&nbsp;**ASRJC College Advisory Committee Scholarship**
 
-Criteria:
-
-*   Student must be a Singapore Citizen
-*   Gross household income not exceeding $4000.00
-*   Recipients of MOE FAS or CAC Bursary who are still in need of financial support may apply for the CAC-FAS as an additional grant
-
-Quantum:
-
-*   $200/ $300/ $400&nbsp;
-
-**5.**&nbsp;**ASRJC College Advisory Committee Scholarship**
-
-ASRJC CAC offers scholarships to outstanding JC1 students. The scholarship, which is tenable for two years, is valued at $1000 per year.
+ASRJC CAC offers scholarships to outstanding JC1 students. The scholarship, which is tenable for two years, is valued at $1000 per year. Information on the application process will be shared with JC1 students during Orientation.
 
 Application opens in Semester 1 and students will be invited to apply for the scholarship.
 
