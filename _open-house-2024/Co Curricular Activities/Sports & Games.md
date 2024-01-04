@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<p></p>
+<p><strong><em>Stay tuned for more information on our CCAs!</em></strong></p>
