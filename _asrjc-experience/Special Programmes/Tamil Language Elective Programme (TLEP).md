@@ -3,8 +3,9 @@ title: Tamil Language Elective Programme (TLEP)
 permalink: /asrjc-experience/special-programmes/tlep/
 description: ""
 third_nav_title: Special Programmes
+variant: markdown
 ---
-TLEP-JC is an initiative of Ministry of Education which will be implemented in ASRJC from 2020. It aims to encourage students to attain a high level of proficiency and competency in using the Tamil Language, enhance students’ knowledge and understanding of Tamil Literature and Culture, and develop effectively bilingual students.
+The Tamil Language Elective Programme at the Pre-University Level (TLEP-JC) has been offered at ASRJC since 2020.. It aims to encourage students to attain a high level of proficiency and competency in using the Tamil Language, enhance students’ knowledge and understanding of Tamil Literature and Culture, and develop effectively bilingual students.
 
 <img src="/images/TLEP1-300x229.jpg" style="width:40%">
 
