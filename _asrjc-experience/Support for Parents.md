@@ -24,7 +24,8 @@ To facilitate this, your child’s timetable will reflect a two-week cycle, with
 
 Students are not expected to report back to college except for co-curricular activities or special programmes on SDL Days. The campus will remain open for students who wish to do their SDL in the college.
 
-![](/images/2024_SDL_Days.png)
+
+![](/images/2024_SDL_Days_updated.jpeg)
 ![](/images/sdl%20pic%202.png)
 ![](/images/sdl%20pic%203.png)
 
