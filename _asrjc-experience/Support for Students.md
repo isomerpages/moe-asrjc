@@ -19,7 +19,7 @@ Students who meet the following criteria may apply for the MOE Financial Assista
  
 Successful applicants will be granted full <u>waiver of school fees</u>, full <u>waiver of standard miscellaneous fees, $17 transport credit per month up to total of $204 transport credits per annum and a bursary of $1,200</u>.
 
-Students with siblings studying in different government and/ or government-aided schools need to submit only <u>**1**</u> application form. The school receiving the application form will process the application and all siblings indicated in the form will be granted the MOE FAS.
+Students with siblings studying in different government and/ or government-aided schools need to submit only <u>1</u> application form. The school receiving the application form will process the application and all siblings indicated in the form will be granted the MOE FAS.
 
 Application for the **MOE FAS** is available in Term 1. However, applications may also be considered anytime in the year under special circumstances.
 
