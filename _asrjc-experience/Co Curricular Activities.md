@@ -37,7 +37,7 @@ Symphonic Band
 ![](/images/Chinese-Orchestra-1024x683.jpg)
 
 ### **Clubs & Societies**  
-Audio Visual Aids Club  
+Audio Visual Aid Club  
 Chinese LDDS  
 Debate and Creative Communications  
 Community Champions Council  
