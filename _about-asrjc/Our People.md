@@ -265,6 +265,7 @@ variant: markdown
 			<p style="margin-bottom:0;"><b>Corporate Support Officers</b></p>			
 			<p style="margin : 0; padding-top:0;">Ms Dorothy Yeng Siew Yin</p>
 			<p style="margin : 0; padding-top:0;">Mdm Ngiam Min Lin Linda</p>			
+			<p style="margin : 0; padding-top:0;">Mdm Rohaya Taib</p>			
 			<p style="margin : 0; padding-top:0;">Mr Yu Yeong Jian Albert</p>						
 			<p style="margin-bottom:0;"><b>AVA Technician</b></p>			
       <p style="margin : 0; padding-top:0;">Mr Lim Wenjun</p>						

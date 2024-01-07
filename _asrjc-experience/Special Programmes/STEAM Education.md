@@ -1,8 +1,9 @@
 ---
 title: STEAM Education
-permalink: /asrjc-experience/special-programmes/
+permalink: /asrjc-experience/special-programmes/steamedu/
 description: ""
 third_nav_title: Special Programmes
+variant: tiptap
 ---
 Special Programmes
 ==================
