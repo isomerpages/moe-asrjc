@@ -2,6 +2,7 @@
 title: Frequently Asked Questions
 permalink: /joining-asrjc/frequently-asked-questions/
 description: ""
+variant: markdown
 ---
 #### 1\. ADMISSIONS
 
@@ -46,7 +47,7 @@ Click <a href="https://staging.d2l6tfmz18j0q.amplifyapp.com/joining-asrjc/return
     <div>
       <p>Q: How will the JC Rejuvenation Programme affect ASRJC?<br><br>
 
-ASRJC is slated to be rejuvenated under the programme. To facilitate construction work, the college will temporarily move to and operate from the former site of SRJC along Upper Serangoon Road from 2024 to 2027. The college is expected to operate from its rejuvenated campus in Ang Mo Kio from 2028 onwards.</p>
+ASRJC is slated to be rejuvenated under the programme. To facilitate construction work, the college will temporarily operate at the former site of SRJC along Upper Serangoon Road from 2024 to 2027. The college is expected to operate from its rejuvenated campus in Ang Mo Kio from 2028 onwards.</p>
     </div>
 	</li>
 </ul>	
