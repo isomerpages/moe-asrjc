@@ -53,11 +53,11 @@ Application opens in Semester 1 and students will be invited to apply for the sc
 
 Students who need counselling or advice in career guidance can approach their Class Mentors or the following personnel for an appointment:
 
-**Mrs Sophia Ng (School Counsellor)**  
+**Ms Sophia Chiang (School Counsellor)**  
 Email: <a href="mailto:chiang_yik_huey_sophia@schools.gov.sg">chiang_yik_huey_sophia@schools.gov.sg</a><br>
-Hours: Mondays – Fridays, 8.30 am - 5.30pm
+Hours: Mondays – Fridays, 9 am - 5 pm
 
-**Mr Tony (Education &amp; Career Guidance Counsellor)**  
+**Mr Tony Gui (Education &amp; Career Guidance Counsellor)**  
 Email: <a href="mailto:Gui_Choon_Hock_Tony@schools.gov.sg">Gui_Choon_Hock_Tony@schools.gov.sg</a><br>
 Hours: Mondays – Fridays, 9 am - 5 pm
 
