@@ -2,13 +2,13 @@
 title: Canteen Vendor
 permalink: /joining-asrjc/canteenvendor/
 description: ""
+variant: markdown
 ---
 #### School Canteen Advertisement
 
 | **Type of Stall** | **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Halal Western Food Stall | 31 October 2023 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
-| Malay Food Stall | 31 October 2023 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
+| Malay Food Stall | 31 January 2024 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
 
 **Application Procedure**
 
@@ -26,9 +26,9 @@ description: ""
 
 3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-* Address: 4500 Ang Mo Kio Ave 6 Singapore 569843
+* Address: 1033 Upper Serangoon Road Singapore 534768
 
-* Contact No: 64596822 (ext 201)
+* Contact No: 64596822 (ext 202)
 
 * Email: asrjc@moe.edu.sg
 
@@ -36,7 +36,7 @@ description: ""
 
 **How to get there?**
 
-* Nearest MRT: NS15 Yio Chu Kang – 5 minutes walking distance
+* Nearest MRT: NE13 Kovan
 
 **Interest applicants must meet the following criteria:**
 
@@ -59,8 +59,3 @@ description: ""
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-
-*Successful applicant for Malay Food Stall will commence their operations at 1033 Upper Serangoon Road Singapore (534768) wef January 2024.*
-
-*Successful applicant for Halal Western Food Stall will commence their operation at current address 4500 Ang Mo Kio Ave 6 Singapore (569843) 
-from August 2023 to December 2023 and new address 1033 Upper Serangoon Road Singapore (534768)  wef January 2024*
