@@ -8,7 +8,7 @@ variant: markdown
 
 | **Type of Stall** | **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Malay Food Stall | 31 January 2024 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
+| Halal Food Stall | 31 January 2024 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
 
 **Application Procedure**
 
