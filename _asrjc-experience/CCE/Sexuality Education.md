@@ -3,6 +3,7 @@ title: Sexuality Education
 permalink: /asrjc-experience/character-and-citizenship-education/sexuality-education/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 ### Sexuality Education
 
@@ -59,6 +60,6 @@ You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;fo
 **Information for Parents**
 
 8.  Parents may opt their children out of Sexuality Education and/or supplementary sexuality education programmes by MOE-approved external providers.
-9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[**here**](https://asrjc.moe.edu.sg/wp-content/uploads/2023/01/Annex-A.pdf). The completed form is to be submitted by&nbsp;**9 February 2023**&nbsp;for JC2 and&nbsp;**10&nbsp;April 2023**&nbsp;for JC1.
-10.  Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/annex-b.pdf)**. The completed form is to be submitted by&nbsp;**10 April&nbsp; 2023.**
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[**here**](https://asrjc.moe.edu.sg/wp-content/uploads/2023/01/Annex-A.pdf). The completed form is to be submitted by&nbsp;**22 January 2024**&nbsp;for JC2 and&nbsp;**1&nbsp;April 2024**&nbsp;for JC1.
+10.  Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/annex-b.pdf)**. The completed form is to be submitted by&nbsp;**1 April&nbsp; 2024.**
 11.  Parents can contact the school at 6459 6822 for discussion or to seek clarification about the school’s sexuality education programme.
