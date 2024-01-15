@@ -40,7 +40,7 @@ You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;fo
 
 **Pre-U Year 1**
 
-![](/images/SexEd_3B_2024.png)
+![](/images/SexEd_3Bnew_2024.png)
 
 
 **Pre-U Year 2**
@@ -52,7 +52,7 @@ You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;fo
 
 **<u>eTeens Programme:</u>**
 
-6. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. The desired outcomeof the eTeens programme is that students are empowered to make wise, informed, and sensible decisions.
+6. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. The desired outcome of the eTeens programme is that students are empowered to make wise, informed, and sensible decisions.
 7. Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
 **At Anderson Serangoon Junior College, the eTeens programme will be implemented as follows in 2024:**
