@@ -45,7 +45,7 @@ You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;fo
 
 **Pre-U Year 2**
 
-![](/images/SexEd_3C_2024.png)
+![](/images/SexEd_3Cnew_2024.png)
 
 
 
