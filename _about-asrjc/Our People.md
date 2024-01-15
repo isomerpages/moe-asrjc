@@ -254,9 +254,10 @@ variant: markdown
 			<p style="margin : 0; padding-top:0;">Mr Kong Koon Fock</p>
 			<p style="margin-bottom:0;"><b>ICT Manager</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Tan Wee Dat</p>	
-			<p style="margin-bottom:0;"><b>Administrative Executives</b></p>				
+			<p style="margin-bottom:0;"><b>Administrative Executives</b></p>								
 			<p style="margin : 0; padding-top:0;">Mdm Rohdiya Bte Aman</p>						
 			<p style="margin : 0; padding-top:0;">Ms Wong Miao Ling</p>
+			<p style="margin : 0; padding-top:0;">Mr Yu Yeong Jian Albert</p>					
 			<p style="margin-bottom:0;"><b>Senior School Counsellor</b></p>					
 			<p style="margin : 0; padding-top:0;">Ms Chiang Yik Huey, Sophia</p>				
 			<p style="margin-bottom:0;"><b>ECG Counsellor</b></p>					
@@ -264,8 +265,7 @@ variant: markdown
 			<p style="margin-bottom:0;"><b>Corporate Support Officers</b></p>			
 			<p style="margin : 0; padding-top:0;">Ms Dorothy Yeng Siew Yin</p>
 			<p style="margin : 0; padding-top:0;">Mdm Ngiam Min Lin Linda</p>			
-			<p style="margin : 0; padding-top:0;">Mdm Rohaya Taib</p>			
-			<p style="margin : 0; padding-top:0;">Mr Yu Yeong Jian Albert</p>						
+			<p style="margin : 0; padding-top:0;">Mdm Rohaya Taib</p>				
 			<p style="margin-bottom:0;"><b>AVA Technician</b></p>			
       <p style="margin : 0; padding-top:0;">Mr Lim Wenjun</p>						
       <p style="margin-bottom:0;"><b>Technical Support Officers</b></p>	
