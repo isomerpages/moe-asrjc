@@ -101,9 +101,9 @@ Students can enjoy up to a maximum of 4 bonus points. However, a minimum raw sco
 
 ### **Post-JAE Appeal Procedure**
 
-Appeals for admission to ASRJC will commence on Thursday, 2 February 2023 and end on Wednesday, 8 February 2023.
+Appeals for admission to ASRJC will commence on Thursday, 1 February 2024 and end on Wednesday, 7 February 2024.
 
-Only students with net L1R5 equal or less than ASRJC cut-off points can be considered for appeals.&nbsp;All appeals application must be completed online. The online application form can be accessed&nbsp;**[here](https://portal.asrjc.edu.sg/appeal)**.&nbsp;**All appeals must be submitted by Wednesday 8 February 2023, 9am.**
+Only students with net L1R5 equal or less than ASRJC cut-off points can be considered for appeals.&nbsp;All appeals application must be completed online. The online application form can be accessed&nbsp;**[here](https://portal.asrjc.edu.sg/appeal)**.&nbsp;**All appeals must be submitted by Wednesday 7 February 2024, 9am.**
 
 You can download the user guide for appeal&nbsp;**[here.](/files/2023-user-guide-for-appeal.pdf)**
 
@@ -120,14 +120,18 @@ All shortlisted candidates will be notified before the end of the Appeal period.
 
 ### **Subject&nbsp;Combinations&nbsp;in ASRJC**
 
-The list of subject combinations offered in 2023 is downloadable [here](/files/Subject_Combination_List_2024.pdf).
+The list of subject combinations offered in 2024 is downloadable [here](/files/Subject_Combination_List_2024.pdf).
 
 ### **Selection Tests**
 
+**H2 Computing**
+
+The test for H2 Computing is on Monday 5 February, 2.30p.m.
+
 **H2 Further Mathematics**
 
-H2 Further Mathematics is to be offered with H2 Mathematics as a double mathematics course. The test for H2 Further Mathematics is on Monday 6 February, 2.30pm.
+H2 Further Mathematics is to be offered with H2 Mathematics as a double mathematics course. The test for H2 Further Mathematics is on Monday 5 February, 2.30p.m.
 
 **H2 Art**
 
-The test for H2 Art is on Monday 6 February, 2.30pm. Students are advised to bring their own drawing and painting materials for the test, and submit their portfolio at the same time. The interview will be conducted on the same afternoon.
+The test for H2 Art is on Monday 5 February, 2.30p.m. Students are advised to bring their own drawing and painting materials for the test and submit their portfolio at the same time. The interview will be conducted on the same afternoon.
