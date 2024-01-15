@@ -11,7 +11,7 @@ variant: markdown
 
 **MOE Sexuality Education in Schools**
 
-1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+1. Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 2. The <b>goals</b> of Sexuality Education are to:
 
 * Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships
@@ -34,7 +34,7 @@ You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;fo
 
 **Sexuality Education**:
 
-5.  The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
+5.  The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/MI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
 
 **At Anderson Serangoon Junior College, the following Sexuality Education lessons will be taught in&nbsp;2024:**
 
@@ -52,7 +52,7 @@ You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;fo
 
 **<u>eTeens Programme:</u>**
 
-6. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.
+6. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. The desired outcomeof the eTeens programme is that students are empowered to make wise, informed, and sensible decisions.
 7. Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
 **At Anderson Serangoon Junior College, the eTeens programme will be implemented as follows in 2024:**
@@ -62,6 +62,6 @@ You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;fo
 **Information for Parents**
 
 8.  Parents may opt their children out of Sexuality Education and/or supplementary sexuality education programmes by MOE-approved external providers.
-9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[**here**](/files/Annex_A_2024.pdf). The completed form is to be submitted by&nbsp;**22 January 2024**&nbsp;for JC2 and&nbsp;**1&nbsp;April 2024**&nbsp;for JC1.
-10.  Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[**here**](/files/Annex_B_2024.pdf). The completed form is to be submitted by&nbsp;**1 April&nbsp; 2024.**
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;[**here**](/files/Annex_A_2024.pdf). The completed form is to be submitted by&nbsp;**22 January 2024**&nbsp;for JC2 and&nbsp;**1&nbsp;April 2024**&nbsp;for JC1.
+10.  Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;[**here**](/files/Annex_B_2024.pdf). The completed form is to be submitted by&nbsp;**1 April&nbsp; 2024.**
 11.  Parents can contact the school at 6459 6822 for discussion or to seek clarification about the school’s sexuality education programme.
