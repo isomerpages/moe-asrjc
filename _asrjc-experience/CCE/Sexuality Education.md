@@ -28,7 +28,7 @@ variant: markdown
 
 You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-**Overview of**&nbsp;**Anderson Serangoon Junior College**&nbsp;**Sexuality Education Programme for 2023**
+**Overview of**&nbsp;**Anderson Serangoon Junior College**&nbsp;**Sexuality Education Programme for 2024**
 
 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -36,26 +36,28 @@ You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;fo
 
 5.  The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
 
-**At Anderson Serangoon Junior College, the following Sexuality Education lessons will be taught in&nbsp;2023:**
+**At Anderson Serangoon Junior College, the following Sexuality Education lessons will be taught in&nbsp;2024:**
 
 **Pre-U Year 1**
 
-![](/images/sexed1.png)
+![](/images/SexEd_3B_2024.png)
+
 
 **Pre-U Year 2**
 
-![](/images/sexed2.jpg)
+![](/images/SexEd_3C_2024.png)
+
 
 
 
 **<u>eTeens Programme:</u>**
 
 6. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.
-7. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STI/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+7. Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
-**At Anderson Serangoon Junior College, the eTeens programme will be implemented as follows in 2023:**
+**At Anderson Serangoon Junior College, the eTeens programme will be implemented as follows in 2024:**
 
-![](/images/sexed3.jpg)
+![](/images/eteens_2024.png)
 
 **Information for Parents**
 
