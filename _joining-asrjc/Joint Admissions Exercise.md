@@ -90,7 +90,7 @@ Past cut-off points for L1R5 aggregate after deduction of bonus points for Joint
     <td>2 bonus points</td>
   </tr>
   <tr>
-    <td>Students who obtained an 'Good' in CCA</td>
+    <td>Students who obtained a 'Good' in CCA</td>
     <td>1 bonus point</td>
   </tr>
 </tbody></table>
