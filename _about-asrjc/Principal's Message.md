@@ -2,11 +2,16 @@
 title: Principal's Message
 permalink: /about-asrjc/principals-message/
 description: ""
+variant: markdown
 ---
 # Principal's Message
 
+![](/images/ASRJC_SLs_2024_5MB.jpg)
 
-<img src="/images/Principal's%20Message.jpg" style="width:60%">
+*From Left: Mr Gurusharan M Singh (Vice-Principal), Mrs Cheng-Tey Li Shun (Vice-Principal),
+Mr Heng Yew Seng (Principal), Mdm Lim Chwee Hong Sharon (Vice-Principal Administration),
+Mr Chan Zheng Ming (Vice-Principal)*
+
 
 
 **_Welcome to Anderson Serangoon Junior College_**
