@@ -1,0 +1,16 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Achievements.md
+      - Academic.md
+      - Co Curricular Activities.md
+      - Awards and Scholarships.md
+      - AJC Achievements/.keep
+      - AJC Achievements/AJC Achievements 2016.md
+      - AJC Achievements/AJC Achievements 2017.md
+      - AJC Achievements/AJC Achievements 2018.md
+      - SRJC Achievements/.keep
+      - SRJC Achievements/SRJC Achievements 2016.md
+      - SRJC Achievements/SRJC Achievements 2017.md
+      - SRJC Achievements/SRJC Achievements 2018.md

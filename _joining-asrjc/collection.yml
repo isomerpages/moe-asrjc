@@ -1,0 +1,9 @@
+collections:
+  joining-asrjc:
+    output: true
+    order:
+      - Joint Admissions Exercise.md
+      - Returning Singaporeans or International students.md
+      - Direct School Admission.md
+      - Canteen Vendor.md
+      - Frequently Asked Questions.md

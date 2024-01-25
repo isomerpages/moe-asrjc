@@ -1,0 +1,23 @@
+collections:
+  asrjc-experience:
+    output: true
+    order:
+      - Academic Curriculum/.keep
+      - Academic Curriculum/Academic Curriculum.md
+      - Academic Curriculum/Rank Points.md
+      - Release of 2022 A Level Results.md
+      - Student Developmental Pathway.md
+      - CCE/.keep
+      - CCE/Leadership Development.md
+      - CCE/Civic Education.md
+      - CCE/Education and Career Guidance.md
+      - CCE/Sexuality Education.md
+      - Co Curricular Activities.md
+      - Special Programmes/.keep
+      - Special Programmes/STEAM Education.md
+      - Special Programmes/Talent Development Programme (ASR Scholars
+        Programme).md
+      - Special Programmes/ASR eXplore.md
+      - Special Programmes/Tamil Language Elective Programme (TLEP).md
+      - Support for Students.md
+      - Support for Parents.md

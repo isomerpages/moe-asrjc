@@ -1,0 +1,18 @@
+collections:
+  asr-career-symposium-2023:
+    output: true
+    order:
+      - ASR Career Symposium 2023 Homepage.md
+      - Architecture and Built Environment.md
+      - Arts and Creative.md
+      - Banking & Finance.md
+      - Data Science and Research.md
+      - Education.md
+      - Engineering.md
+      - Entrepreneurship.md
+      - Healthcare.md
+      - Hospitality.md
+      - Information Technology.md
+      - Legal & Security.md
+      - Media and Communications.md
+      - Social and Community Services.md
