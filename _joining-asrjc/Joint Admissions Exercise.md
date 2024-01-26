@@ -126,11 +126,11 @@ The list of subject combinations offered in 2024 is downloadable [here](/files/S
 
 **H2 Computing**
 
-The test for H2 Computing is on Monday 5 February, 9a.m.
+The test for H2 Computing is on Monday 5 February, 10a.m.
 
 **H2 Further Mathematics**
 
-H2 Further Mathematics is to be offered with H2 Mathematics as a double mathematics course. The test for H2 Further Mathematics is on Monday 5 February, 10.30a.m.
+H2 Further Mathematics is to be offered with H2 Mathematics as a double mathematics course. The test for H2 Further Mathematics is on Monday 5 February, 11.30a.m.
 
 **H2 Art**
 
