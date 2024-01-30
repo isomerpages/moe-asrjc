@@ -105,7 +105,7 @@ Appeals for admission to ASRJC will commence on Thursday, 1 February 2024 and en
 
 Only students with net L1R5 equal or less than ASRJC cut-off points can be considered for appeals.&nbsp;All appeals application must be completed online. The online application form can be accessed&nbsp;**[here](https://portal.asrjc.edu.sg/appeal)**.&nbsp;**All appeals must be submitted by Wednesday 7 February 2024, 9am.**
 
-You can download the user guide for appeal&nbsp;**[here.](/files/2023-user-guide-for-appeal.pdf)**
+You can download the user guide for appeal&nbsp;**[here.](/files/2024-user-guide-for-appeal.pdf)**
 
 <b><u>Only shortlisted candidates will be called up for an interview.</u></b>
 
