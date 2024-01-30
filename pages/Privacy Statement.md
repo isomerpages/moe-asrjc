@@ -2,6 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 description: ""
+variant: markdown
 ---
 ### Anderson Serangoon Junior College Privacy Statement
 
@@ -19,4 +20,4 @@ description: ""
 
 ### Personal Data Protection Act
 
-Click [here](/files/PDPA-2019.pdf) to read about the PDPA and download the opt-out form.
+Click [here](/files/PDPA_2024__new_address_.pdf) to read about the PDPA and download the opt-out form.
