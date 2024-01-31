@@ -22,7 +22,7 @@ will be closed at 8.45 a.m. for students’ safety and security.</p>
 <p><strong>Map 1 – Drop-off via Vehicular Gate&nbsp;</strong>
 </p>
 <p></p>
-<p><strong><u>Public Transport</u></strong>
+<p><strong><u>Public Transport</u></strong> 
 <br>Students who take public transport to school may alight at the bus-stop
 along Upper Serangoon Road. Please refer to Map 2. The following bus services
 are available at the bus-stop:&nbsp; 80, 81, 82, 101, 107, 112, 113, 136
