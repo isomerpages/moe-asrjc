@@ -27,7 +27,7 @@ sections:
 
         Your exciting journey with ASRJC starts this Friday 2 February! Please report to college by 8a.m. in your secondary school uniform.
       button: DETAILS HERE
-      url: https://www.asrjc.moe.edu.sg/highlights/jc1welcome/
+      url: /highlights/jc1welcome/
       image: /images/Welcome_Pic2.jpg
       alt: Image alt text
   - infopic:
