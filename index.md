@@ -19,6 +19,18 @@ sections:
           description: Find out more!
           url: /open-house-2024/welcome/
   - infopic:
+      title: WELCOME JC1s!
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: >-
+        A warm welcome to our JC1s! 
+
+        Your exciting journey with ASRJC starts this Friday 2 February! Please report to college by 8a.m.
+      button: DETAILS HERE
+      url: https://www.asrjc.moe.edu.sg/highlights/jc1welcome/
+      image: /images/Welcome_Pic.jpg
+      alt: Image alt text
+  - infopic:
       title: OPEN HOUSE 2024
       subtitle: EVENTS
       button: Details here
