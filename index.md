@@ -25,7 +25,7 @@ sections:
       description: >-
         A warm welcome to our JC1s! 
 
-        Your exciting journey with ASRJC starts this Friday 2 February! Please report to college by 8a.m. in your secondary school uniform.
+        Your exciting journey with ASR starts this Friday, 2 February! Please report to college by 8 a.m. in your secondary school uniform.
       button: MORE DETAILS HERE
       url: /highlights/jc1welcome/
       image: /images/Welcome_Pic2.jpg
