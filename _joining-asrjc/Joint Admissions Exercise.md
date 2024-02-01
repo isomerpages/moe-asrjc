@@ -65,6 +65,11 @@ Past cut-off points for L1R5 aggregate after deduction of bonus points for Joint
     <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">11</span></td>
     <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">10</span></td>
   </tr>
+	  <tr>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">2024</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">11</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">10</span></td>
+  </tr>
 </tbody>
 </table>
 
