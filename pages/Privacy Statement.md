@@ -20,4 +20,4 @@ variant: markdown
 
 ### Personal Data Protection Act
 
-Click [here](/files/PDPA_2024__new_address_.pdf) to read about the PDPA and download the opt-out form.
+Click [**here**](/files/2024_ASRJC_PDPA_new.pdf) to read about the PDPA and download the opt-out form.
