@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2024 Open House.md
       - Open House.md
       - Welcome JC1s!.md
       - Project Graffiti 2023.md
