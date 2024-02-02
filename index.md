@@ -32,7 +32,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: OPEN HOUSE 2024
-      subtitle: EVENTS
+      subtitle: Highlights
       button: Details here
       url: https://staging-lite.duc175n7dtuih.amplifyapp.com/highlights/permalink/
       image: /images/DSCF7963.jpg
