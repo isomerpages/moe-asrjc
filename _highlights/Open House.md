@@ -39,7 +39,6 @@ the day was a continuous celebration of artistry. Images of these moments
 show the dedication behind the scenes and the joyous applause of an enraptured
 audience.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_2_small.JPG">
 </div>
