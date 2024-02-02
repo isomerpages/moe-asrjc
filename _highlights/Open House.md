@@ -87,10 +87,16 @@ exchanged, and the warm, inviting atmosphere that is quintessentially ASR.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_3.JPG">
 </div>
 <p></p>
-<p>We invite you to relive the highlights of "Let's Go ASR" through the curated
-selection of photographs uploaded in our gallery. Each image is a story,
-a memory, and a piece of the ASR legacy.</p>
-<p>Join us on this visual voyage and see how our doors are always open, ready
-to welcome you to the ASR family.</p>
+<p>As the curtains close on our "Let's Go ASR" open house, we are filled
+with gratitude for the memories we've created together. Each snapshot in
+our gallery reflects the vibrant life at ASR, where every student, teacher,
+and visitor contributes to our colorful tapestry.</p>
+<p>We hope that the stories told through these images inspire you to join
+our journey of discovery, learning, and growth. At ASR, every day is an
+open invitation to explore, to engage, and to excel.</p>
+<p>Thank you for being a part of our open house. We look forward to opening
+new chapters of learning with you. Until then, let's carry the spirit of
+ASR in our hearts and minds.</p>
+<p></p>
 <p></p>
 <p></p>
