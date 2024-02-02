@@ -17,6 +17,19 @@ and enthusiasm. From TLEP to STEM, and from ECG to CCAs, the booths were
 buzzing hubs where queries met clarity. Photographs captured the animated
 discussions between inquisitive minds and knowledgeable seniors, embodying
 the collaborative spirit of ASR.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_4_small.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_5_small.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_3.jpg">
+</div>
 <p><strong>Performances: The Aesthetic Delight of ASR</strong>
 </p>
 <p>Our performing arts CCAs took the center stage, weaving a tapestry of
@@ -25,6 +38,26 @@ echoing in the hall to the elegant dance moves unfurling in the foyer,
 the day was a continuous celebration of artistry. Images of these moments
 show the dedication behind the scenes and the joyous applause of an enraptured
 audience.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_2_small.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_1.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_5_small.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_4.JPG">
+</div>
 <p><strong>Illuminating Talks: The Intellectual Pulse of ASR</strong>
 </p>
 <p>The talks at LT5 brought forth the intellectual pulse of ASR, featuring
@@ -32,15 +65,33 @@ the Principal's insights and the guiding light of education and career
 guidance sessions. Photographs from these sessions reveal a crowd engaged
 in thought-provoking dialogue, with hands raised in curiosity and speakers
 in their element, sharing wisdom.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9049_small_duplicate.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_3.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9136.jpg">
+</div>
 <p><strong>Heart-to-Heart Interactions: The Essence of ASR Community</strong>
 </p>
 <p>Perhaps the most telling of our school's character were the continuous,
 informal interactions - the heart-to-heart sessions. These candid shots
 reflect the genuine connections being formed: laughter shared, experiences
 exchanged, and the warm, inviting atmosphere that is quintessentially ASR.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_3.JPG">
+</div>
+<p></p>
 <p>We invite you to relive the highlights of "Let's Go ASR" through the curated
 selection of photographs uploaded in our gallery. Each image is a story,
 a memory, and a piece of the ASR legacy.</p>
 <p>Join us on this visual voyage and see how our doors are always open, ready
 to welcome you to the ASR family.</p>
+<p></p>
 <p></p>
