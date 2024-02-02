@@ -35,10 +35,10 @@ sections:
       subtitle: EVENTS
       button: Details here
       url: /open-house-2024/welcome/
-      image: /images/ASRJC_MOTD_2024.png
+      image: /images/DSCF7963.jpg
       alt: Image alt text
-      description: A new adventure awaits. Come join us for our Open House on 12
-        January (Friday), 10am to 5pm. Let's go!
+      description: "See ASRJC's Open House highlights: engaging booths, performances,
+        and talks in one vibrant community."
   - infopic:
       title: Project Graffiti
       subtitle: Highlights
