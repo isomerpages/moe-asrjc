@@ -4,7 +4,7 @@ permalink: /highlights/permalink/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Let's Go ASR - A Journey Through Our New Campus Open House</strong></h3>
+<h3><strong>ASR Open House: Explore Our Campus Life and Learning Opportunities</strong></h3>
 <p>This year, ASRJC embarked on a thrilling expedition to showcase the vibrant
 new campus life through our "Let's Go ASR" open house event. With a plethora
 of activities lined up, we ensured that every visitor experienced the heartbeat
@@ -33,10 +33,10 @@ the collaborative spirit of ASR.</p>
 </p>
 <p>Our performing arts CCAs took the center stage, weaving a tapestry of
 cultural narratives through music and dance. From the sonorous melodies
-echoing in the hall to the elegant dance moves unfurling in the foyer,
-the day was a continuous celebration of artistry. Images of these moments
-show the dedication behind the scenes and the joyous applause of an enraptured
-audience.</p>
+captivating audiences in both the hall and foyer to the elegant dance moves
+enchanting onlookers within the hall, the day was a continuous celebration
+of artistry. Images of these moments show the dedication behind the scenes
+and the joyous applause of an enraptured audience.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_2_small.JPG">
@@ -59,9 +59,10 @@ audience.</p>
 </div>
 <p><strong>Illuminating Talks: The Intellectual Pulse of ASR</strong>
 </p>
-<p>The talks at LT5 brought forth the intellectual pulse of ASR, featuring
-the Principal's insights and the guiding light of education and career
-guidance sessions. Photographs from these sessions reveal a crowd engaged
+<p>ASR's event lineup was a vibrant tapestry, featuring the Principal's engaging
+talk, dynamic career guidance sessions, and interactive sample lessons
+in General Paper, Economics and Computing, reflecting the school's diverse
+academic environment. Photographs from these sessions reveal a crowd engaged
 in thought-provoking dialogue, with hands raised in curiosity and speakers
 in their element, sharing wisdom.</p>
 <p></p>
