@@ -34,7 +34,7 @@ sections:
       title: OPEN HOUSE 2024
       subtitle: Highlights
       button: Details here
-      url: https://staging-lite.duc175n7dtuih.amplifyapp.com/highlights/permalink/
+      url: /highlights/openhouse2024
       image: /images/DSCF7963.jpg
       alt: Image alt text
       description: "See ASRJC's Open House highlights: engaging booths, performances,
