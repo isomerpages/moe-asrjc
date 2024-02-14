@@ -34,10 +34,14 @@ the collaborative spirit of ASR.</p>
 cultural narratives through music and dance. From the sonorous melodies
 captivating audiences in both the hall and foyer to the elegant dance moves
 enchanting onlookers within the hall, the day was a continuous celebration
-of artistry. Images of these moments show the dedication behind the scenes
-and the joyous applause of an enraptured audience.</p>
+of artistry.</p>
+<p>Images of these moments show the dedication behind the scenes and the
+joyous applause of an enraptured audience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_1_edited_compressed.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_2_edited.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -70,7 +74,6 @@ sharing wisdom.</p>
 informal interactions - the heart-to-heart sessions. These candid shots
 reflect the genuine connections being formed: laughter shared, experiences
 exchanged, and the warm, inviting atmosphere that is quintessentially ASR.</p>
-<p></p>
 <p></p>
 <p>As the curtains close on our "Let's Go ASR" open house, we are filled
 with gratitude for the memories we've created together.Every picture in
