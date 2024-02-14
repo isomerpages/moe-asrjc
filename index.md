@@ -35,7 +35,7 @@ sections:
       subtitle: Highlights
       button: Details here
       url: /highlights/openhouse2024
-      image: /images/DSCF7963.jpg
+      image: /images/DSCF7963edited.jpg
       alt: Image alt text
       description: "See ASRJC's Open House highlights: engaging booths, performances,
         and talks in one vibrant community."
