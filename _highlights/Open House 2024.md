@@ -80,6 +80,9 @@ sharing wisdom.</p>
 informal interactions - the heart-to-heart sessions. These candid shots
 reflect the genuine connections being formed: laughter shared, experiences
 exchanged, and the warm, inviting atmosphere that is quintessentially ASR.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0034edited_resized.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9160edited_compressed.jpg">
