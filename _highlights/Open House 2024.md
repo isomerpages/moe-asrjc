@@ -87,11 +87,6 @@ exchanged, and the warm, inviting atmosphere that is quintessentially ASR.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9160edited_compressed.jpg">
 </div>
-<p></p>
-<p>As the curtains close on our "Let's Go ASR" open house, we are filled
-with gratitude for the memories we've created together.Every picture in
-our album shows the active days at ASR, where everyone who comes here adds
-something special to our big picture.</p>
 <p>We hope that the stories told through these images inspire you to join
 our journey of discovery, learning, and growth. At ASR, every day is an
 open invitation to explore, to engage, and to excel.</p>
