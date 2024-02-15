@@ -40,8 +40,13 @@ joyous applause of an enraptured audience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_1_edited_compressed.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_2_edited.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0097edited_compressed.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -51,6 +56,7 @@ joyous applause of an enraptured audience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_4_edited_compressed.jpg">
 </div>
+<p></p>
 <p><strong>Illuminating Talks: The Intellectual Pulse of ASR</strong>
 </p>
 <p>ASR's event schedule featured an inspiring talk from the Principal, insightful
@@ -74,6 +80,10 @@ sharing wisdom.</p>
 informal interactions - the heart-to-heart sessions. These candid shots
 reflect the genuine connections being formed: laughter shared, experiences
 exchanged, and the warm, inviting atmosphere that is quintessentially ASR.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9160edited_compressed.jpg">
+</div>
 <p></p>
 <p>As the curtains close on our "Let's Go ASR" open house, we are filled
 with gratitude for the memories we've created together.Every picture in
