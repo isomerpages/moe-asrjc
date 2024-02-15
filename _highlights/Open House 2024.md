@@ -59,12 +59,10 @@ joyous applause of an enraptured audience.</p>
 <p></p>
 <p><strong>Illuminating Talks: The Intellectual Pulse of ASR</strong>
 </p>
-<p>ASR's event schedule featured an inspiring talk from the Principal, insightful
-career guidance sessions, and interactive sample lessons in General Paper
-Economics and Computing, reflecting the school's diverse academic environment.
-Photographs from these sessions reveal a crowd engaged in thought-provoking
-dialogue, with hands raised in curiosity and speakers in their element,
-sharing wisdom.</p>
+<p>The event schedule at ASR also encompassed an engaging address by the
+Principal, valuable career guidance session, and practical demonstrations
+in subjects such as General Paper, Economics, and Computing, highlighting
+the extensive academic landscape of the school.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9049edited_compressed__1_.jpg">
