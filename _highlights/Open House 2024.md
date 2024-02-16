@@ -40,8 +40,13 @@ joyous applause of an enraptured audience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_1_edited_compressed.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_2_edited.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0097edited_compressed.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -51,14 +56,13 @@ joyous applause of an enraptured audience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_4_edited_compressed.jpg">
 </div>
+<p></p>
 <p><strong>Illuminating Talks: The Intellectual Pulse of ASR</strong>
 </p>
-<p>ASR's event schedule featured an inspiring talk from the Principal, insightful
-career guidance sessions, and interactive sample lessons in General Paper
-Economics and Computing, reflecting the school's diverse academic environment.
-Photographs from these sessions reveal a crowd engaged in thought-provoking
-dialogue, with hands raised in curiosity and speakers in their element,
-sharing wisdom.</p>
+<p>The event schedule at ASR also encompassed an engaging address by the
+Principal, valuable career guidance session, and practical demonstrations
+in subjects such as General Paper, Economics, and Computing, highlighting
+the extensive academic landscape of the school.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9049edited_compressed__1_.jpg">
@@ -74,11 +78,13 @@ sharing wisdom.</p>
 informal interactions - the heart-to-heart sessions. These candid shots
 reflect the genuine connections being formed: laughter shared, experiences
 exchanged, and the warm, inviting atmosphere that is quintessentially ASR.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0034edited_resized.jpg">
+</div>
 <p></p>
-<p>As the curtains close on our "Let's Go ASR" open house, we are filled
-with gratitude for the memories we've created together.Every picture in
-our album shows the active days at ASR, where everyone who comes here adds
-something special to our big picture.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9160edited_compressed.jpg">
+</div>
 <p>We hope that the stories told through these images inspire you to join
 our journey of discovery, learning, and growth. At ASR, every day is an
 open invitation to explore, to engage, and to excel.</p>
