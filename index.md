@@ -19,13 +19,13 @@ sections:
           description: Find out more!
           url: /open-house-2024/welcome/
   - infopic:
-      title: 2023 A-Level Results Release
+      title: RELEASE OF 2023 A-LEVEL RESULTS
       subtitle: HIGHLIGHTS
       id: infopic
       description: Our heartiest welcome and congratulations to the class of 2023 to
         receive your results on Friday, 23 February 2024, at our college hall.
       button: MORE DETAILS HERE
-      url: /HIGHLIGHTS/RESULTSRELEASE2023/
+      url: https://www.asrjc.moe.edu.sg/highlights/resultsrelease2023/
       image: /images/Results_Release_2023_Thumbnail.png
       alt: Image alt text
   - infopic:
