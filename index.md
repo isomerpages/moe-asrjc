@@ -58,16 +58,6 @@ sections:
       url: /highlights/projectgraffiti23/
       image: /images/10.jpg
       alt: Image alt text
-  - infopic:
-      title: Farewell, Class of 2023!
-      subtitle: HIGHLIGHTS
-      button: View Here
-      alt: Image alt text
-      url: /highlights/permalink/farewell-assembly-2023/
-      image: /images/copy of dsc01271.jpg
-      description: We celebrated the exceptional contributions of our seniors,
-        cheering them as they embark on the beginning of exciting new
-        adventures.
   - infobar:
       title: "ASRJC: Leading, Learning and Serving"
       button: Click here
