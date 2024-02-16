@@ -23,7 +23,7 @@ sections:
       subtitle: HIGHLIGHTS
       id: infopic
       description: Our heartiest welcome and congratulations to the class of 2023 to
-        receive your results on Friday, 23 February 2024 at our college hall.
+        receive your results on Friday, 23 February 2024, at our college hall.
       button: MORE DETAILS HERE
       url: /HIGHLIGHTS/RESULTSRELEASE2023/
       image: /images/Results_Release_2023_Thumbnail.png
