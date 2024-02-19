@@ -24,7 +24,7 @@ parking is not available in the college. Please refer to the directions
 for drop-offs. Parking lots may be available at the nearby HDB carparks.</p>
 <p>Students who are unwell should exercise social responsibility and may
 access your results online via Singapore Examinations and Assessment Board’s
-(SEAB) Candidates Portal at <em><a rel="noopener noreferrer nofollow" target="_blank">http://myexams.seab.gov.sg</a> </em>from
+(SEAB) Candidates Portal at <em><a href="http://myexams.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">http://myexams.seab.gov.sg</a> </em>from
 3.15pm on Friday, 23 February 2024 till 11pm on Thursday, 7 March 2024.
 You may use your Singpass account to access SEAB’s Candidates Portal. International
 Students will receive your system-generated username via email from Tuesday,
