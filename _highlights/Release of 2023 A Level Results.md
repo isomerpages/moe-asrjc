@@ -24,7 +24,7 @@ parking is not available in the college. Please refer to the directions
 for drop-offs. Parking lots may be available at the nearby HDB carparks.</p>
 <p>Students who are unwell should exercise social responsibility and may
 access your results online via Singapore Examinations and Assessment Board’s
-(SEAB) Candidates Portal at <a rel="noopener noreferrer nofollow" target="_blank">http://myexams.seab.gov.sg</a> from
+(SEAB) Candidates Portal at <em><a rel="noopener noreferrer nofollow" target="_blank">http://myexams.seab.gov.sg</a> </em>from
 3.15pm on Friday, 23 February 2024 till 11pm on Thursday, 7 March 2024.
 You may use your Singpass account to access SEAB’s Candidates Portal. International
 Students will receive your system-generated username via email from Tuesday,
@@ -33,7 +33,7 @@ Students will receive your system-generated username via email from Tuesday,
 appointed proxy may collect the results at the General Office <strong>from 3.45 pm</strong>  <strong>to 5 pm</strong> on
 23 February 2024, or during office hours (8.30 am to 5 pm) on weekdays
 after 23 February 2024. Students who intend to appoint a proxy are to send
-an email to inform us (<a rel="noopener noreferrer nofollow" target="_blank">asrjc@moe.edu.sg</a>),
+an email to inform us (<em><a rel="noopener noreferrer nofollow" target="_blank">asrjc@moe.edu.sg</a></em>),
 indicating the full name and ID number of the proxy. An authorisation letter
 is required for the proxy to collect the results. The <strong><em><a href="/files/Authorisation_letter_for_Proxies.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Authorisation Letter</u></a></em></strong> is
 attached for your use.</p>
