@@ -11,10 +11,9 @@ image: /images/Results_Release_2023_Thumbnail.png
 on <strong>Friday</strong>, <strong>23 February 2024</strong>, in our college
 Hall.</p>
 <p>ASRJC 2023 JC2 students may return to the college from <strong>1 pm onwards</strong> to
-receive your examination certificates, SGC and CCA records. You may visit
-the Universities’ Information Booths at the Foyer before heading to the
-Hall. Please be in the Hall by <strong>2.15 pm</strong> for our principal’s
-address.</p>
+visit the Universities’ Information Booths at the Foyer before heading
+to the Hall. Please be in the Hall by <strong>2.15 pm</strong> for our principal’s
+address and to receive your examination certificates, SGC and CCA records.</p>
 <p>Parents are welcomed to accompany their child – accompanying parents will
 need to register at the guard house when entering the college.</p>
 <p>Please refer to <strong><em><a href="/files/Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex A (Direction to ASRJC Campus)</u></a></em></strong> for
