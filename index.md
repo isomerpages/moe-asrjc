@@ -19,6 +19,16 @@ sections:
           description: Find out more!
           url: /open-house-2024/welcome/
   - infopic:
+      title: RELEASE OF 2023 A-LEVEL RESULTS
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Our heartiest welcome and congratulations to the class of 2023 to
+        receive your results on Friday, 23 February 2024, at our college hall.
+      button: MORE DETAILS HERE
+      url: /highlights/resultsrelease2023/
+      image: /images/Results_Release_2023_Thumbnail.png
+      alt: Image alt text
+  - infopic:
       title: WELCOME JC1s!
       subtitle: HIGHLIGHTS
       id: infopic
@@ -48,16 +58,6 @@ sections:
       url: /highlights/projectgraffiti23/
       image: /images/10.jpg
       alt: Image alt text
-  - infopic:
-      title: Farewell, Class of 2023!
-      subtitle: HIGHLIGHTS
-      button: View Here
-      alt: Image alt text
-      url: /highlights/permalink/farewell-assembly-2023/
-      image: /images/copy of dsc01271.jpg
-      description: We celebrated the exceptional contributions of our seniors,
-        cheering them as they embark on the beginning of exciting new
-        adventures.
   - infobar:
       title: "ASRJC: Leading, Learning and Serving"
       button: Click here
