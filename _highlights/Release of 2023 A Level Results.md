@@ -37,11 +37,9 @@ an email to inform us (<a rel="noopener noreferrer nofollow" target="_blank">asr
 indicating the full name and ID number of the proxy. An authorisation letter
 is required for the proxy to collect the results. The <strong><em><a href="/files/Authorisation_letter_for_Proxies.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Authorisation Letter</u></a></em></strong> is
 attached for your use.</p>
-<p>Last but not least, do refer to the attached guides for planning your
-next step in your education journey. The guides also suggest ways you can
-prepare yourself when receiving your results and be a supportive friend.</p>
+<p>Last but not least, do refer to the attached guides <strong><em><a href="/files/You_Got_This_Infographic.pdf" rel="noopener noreferrer nofollow" target="_blank">You Got This</a></em></strong> and <strong><em><a href="/files/Resources_For_Your_Next_Step.pdf" rel="noopener noreferrer nofollow" target="_blank">Resources for You Next Step</a></em></strong> for
+planning your next step in your education journey. The guides also suggest
+ways you can prepare yourself when receiving your results and be a supportive
+friend.</p>
 <p>All the best for your results!! 😊</p>
-<p></p>
-<p><strong><em><u>SEL and ECG guide</u></em></strong>
-</p>
 <p></p>
