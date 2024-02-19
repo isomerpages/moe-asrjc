@@ -33,9 +33,9 @@ Students will receive your system-generated username via email from Tuesday,
 appointed proxy may collect the results at the General Office <strong>from 3.45 pm</strong>  <strong>to 5 pm</strong> on
 23 February 2024, or during office hours (8.30 am to 5 pm) on weekdays
 after 23 February 2024. Students who intend to appoint a proxy are to send
-an email to inform us (<em><a href="asrjc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asrjc@moe.edu.sg</a></em>),
-indicating the full name and ID number of the proxy. An authorisation letter
-is required for the proxy to collect the results. The <strong><em><a href="/files/Authorisation_letter_for_Proxies.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Authorisation Letter</u></a></em></strong> is
+an email to inform us (<em><u>asrjc@moe.edu.sg</u></em>), indicating the
+full name and ID number of the proxy. An authorisation letter is required
+for the proxy to collect the results. The <strong><em><a href="/files/Authorisation_letter_for_Proxies.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Authorisation Letter</u></a></em></strong> is
 attached for your use.</p>
 <p>Last but not least, do refer to the attached guides <strong><em><a href="/files/You_Got_This_Infographic.pdf" rel="noopener noreferrer nofollow" target="_blank">You Got This</a></em></strong> and <strong><em><a href="/files/Resources_For_Your_Next_Step.pdf" rel="noopener noreferrer nofollow" target="_blank">Resources for You Next Step</a></em></strong> for
 planning your next step in your education journey. The guides also suggest
