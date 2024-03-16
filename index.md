@@ -19,6 +19,15 @@ sections:
           description: Find out more!
           url: /open-house-2024/welcome/
   - infopic:
+      title: 2024 MTL Fornight
+      subtitle: Highlights
+      description: "2024 Mother Tongue Fortnight: Dive into a vibrant celebration of
+        language and culture through immersive activities and performances."
+      button: view here
+      url: /highlights/projectgraffiti23/
+      image: /images/cali.jpg
+      alt: Image alt text
+  - infopic:
       title: RELEASE OF 2023 A-LEVEL RESULTS
       subtitle: HIGHLIGHTS
       id: infopic
@@ -49,22 +58,4 @@ sections:
       alt: Image alt text
       description: "See ASRJC's Open House highlights: engaging booths, performances,
         and talks in one vibrant community."
-  - infopic:
-      title: Project Graffiti
-      subtitle: Highlights
-      description: Our last project at our Ang Mo Kio Campus before we make our big
-        move to Upper Serangoon next year.
-      button: view here
-      url: /highlights/projectgraffiti23/
-      image: /images/10.jpg
-      alt: Image alt text
-  - infobar:
-      title: "ASRJC: Leading, Learning and Serving"
-      button: Click here
-      url: https://www.youtube.com/watch?v=lQhjavlrNGw
-      description: <iframe width="343" height="192"
-        src="https://www.youtube.com/embed/lQhjavlrNGw" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen=""></iframe>
 ---
