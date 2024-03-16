@@ -19,12 +19,12 @@ sections:
           description: Find out more!
           url: /open-house-2024/welcome/
   - infopic:
-      title: 2024 MTL Fornight
+      title: 2024 MTL Fortnight
       subtitle: Highlights
       description: "2024 Mother Tongue Fortnight: Dive into a vibrant celebration of
         language and culture through immersive activities and performances."
       button: view here
-      url: /highlights/projectgraffiti23/
+      url: /highlights/permalink/mtlfortnight
       image: /images/cali.jpg
       alt: Image alt text
   - infopic:
