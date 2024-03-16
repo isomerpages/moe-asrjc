@@ -6,33 +6,26 @@ description: ""
 ---
 <p><strong>Introduction to Mother Tongue Fortnight</strong>
 </p>
-<p>The Languages Department at our college sparked a celebration of linguistic
-diversity with the Mother Tongue Fortnight from February 14th to February
-23rd, themed "Experience, Immerse, Appreciate."</p>
+<p>The Languages Department at our college initiated the Mother Tongue Fortnight
+from February 14th to February 23rd, under the inspiring theme "Experience,
+Immerse, Appreciate," embarking on an exploration of the vibrant tapestry
+of linguistic and cultural diversity.</p>
 <p></p>
 <p><strong>Morning Broadcasts and Assembly Sharing</strong>
 </p>
 <p>[Insert Photo ]</p>
-<p>The daily "Good morning ASR" broadcasts and student sharings during assemblies
-highlighted the significance of our mother tongues in the fabric of everyday
-life.</p>
+<p>Our mornings were greeted with the melodic "Good morning ASR" broadcasts,
+featuring mother tongue songs, while the TLEP Immersion sharing during
+assemblies offered profound insights into the lived experiences of language.</p>
 <p></p>
 <p><strong>Lunchtime Cultural Extravaganza</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/lunch.jpg">
 </div>
-<p>At the heart of the event, the Lunchtime Cultural Extravaganza displayed
-an array of traditional arts, including street dances and vibrant performances,
-bringing the rhythm and spirit of our languages to life.</p>
-<p></p>
-<p><strong>Interactive Cultural and Game Booths</strong>
-</p>
-<p>[Insert Photo ]</p>
-<p>Students dove into the interactive world of traditional games and cultural
-booths, which showcased games like Congkak and traditional calligraphy,
-emphasizing the joy and educational value of hands-on experiences.</p>
-<p></p>
+<p>The Lunchtime Cultural Extravaganza was a spectacle of traditional performances,
+where street dances and allegro sessions captivated the hearts of students
+and teachers alike, illuminating the expressive power of our cultural arts.</p>
 <p><strong>Culinary Workshop: Embracing Traditions</strong>
 </p>
 <p>[Insert Photo]</p>
@@ -42,13 +35,24 @@ illustrating the importance of food in cultural bonding and celebration.</p>
 <p><strong>Traditional Arts and Crafts</strong>
 </p>
 <p>[Insert Photo ]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cali.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cali2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cali3.jpg">
+</div>
 <p>Students explored their artistic sides with traditional crafts, learning
 the symbolic and historical narratives behind each Henna design and calligraphy
 stroke.</p>
 <p></p>
 <p><strong>Music and Dance Performances</strong>
 </p>
-<p>[Insert Photo ]</p>
+<p></p>
 <p>Music and dance were central to the fortnight, with performances that
 celebrated the harmonic beauty of our mother tongues and the stories they
 tell.</p>
