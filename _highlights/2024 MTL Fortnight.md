@@ -24,8 +24,8 @@ assemblies offered profound insights into the lived experiences of language.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/lunch.jpg">
 </div>
 <p>The Lunchtime Cultural Extravaganza was a spectacle of traditional performances,
-where street dances and allegro sessions captivated the hearts of students
-and teachers alike, illuminating the expressive power of our cultural arts.</p>
+where street dances captivated the hearts of students and teachers alike,
+illuminating the expressive power of our cultural arts.</p>
 <p><strong>Culinary Workshop: Embracing Traditions</strong>
 </p>
 <p>[Insert Photo]</p>
@@ -34,7 +34,6 @@ illustrating the importance of food in cultural bonding and celebration.</p>
 <p></p>
 <p><strong>Traditional Arts and Crafts</strong>
 </p>
-<p>[Insert Photo ]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cali.jpg">
 </div>
@@ -52,7 +51,6 @@ stroke.</p>
 <p></p>
 <p><strong>Music and Dance Performances</strong>
 </p>
-<p></p>
 <p>Music and dance were central to the fortnight, with performances that
 celebrated the harmonic beauty of our mother tongues and the stories they
 tell.</p>
