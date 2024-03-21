@@ -254,8 +254,7 @@ variant: markdown
 			<p style="margin : 0; padding-top:0;">Mr Kong Koon Fock</p>
 			<p style="margin-bottom:0;"><b>ICT Manager</b></p>
 			<p style="margin : 0; padding-top:0;">Mr Tan Wee Dat</p>	
-			<p style="margin-bottom:0;"><b>Administrative Executives</b></p>								
-			<p style="margin : 0; padding-top:0;">Mdm Rohdiya Bte Aman</p>						
+			<p style="margin-bottom:0;"><b>Administrative Executives</b></p>													
 			<p style="margin : 0; padding-top:0;">Ms Wong Miao Ling</p>
 			<p style="margin : 0; padding-top:0;">Mr Yu Yeong Jian Albert</p>					
 			<p style="margin-bottom:0;"><b>Senior School Counsellor</b></p>					
@@ -279,15 +278,16 @@ variant: markdown
       <p style="margin-bottom:0;"><b>Operations Support Officers</b></p>				
 			<p style="margin : 0; padding-top:0;">Mdm Choo Ah Sai Lina</p>
 			<p style="margin : 0; padding-top:0;">Mr Lim Cheng Keong</p>
-      <p style="margin : 0; padding-top:0;">Mr Neo Say Kiong</p>	
+			<p style="margin : 0; padding-top:0;">Mr Lim Chey Keng Anne</p>
+      <p style="margin : 0; padding-top:0;">Mr Ng Seng Yong</p>	
 			<p style="margin : 0; padding-top:0;">Mdm Oh Siew Eng</p>		
 			<p style="margin : 0; padding-top:0;">Mdm Ong Bee Wah</p>
-			<p style="margin : 0; padding-top:0;">Ms Soh Imm Gim</p>					
-			<p style="margin : 0; padding-top:0;">Mdm Tan Seah Gek Jessica</p>					
+			<p style="margin : 0; padding-top:0;">Ms Soh Imm Gim</p>									
 			<p style="margin : 0; padding-top:0;">Mdm Toh Swee Ai Judy</p>
 			<p style="margin : 0; padding-top:0;">Mdm Usharani Uthaya Kumaran</p>					<p style="margin-bottom:0;"><b>Desktop Engineers</b></p>			
-			<p style="margin : 0; padding-top:0;">Mr Wong Ee Kiong</p>			
-						<p style="margin-bottom:0;"><b>Librarian</b></p>			
+			<p style="margin : 0; padding-top:0;">Mr Jonathan Tiong</p>
+			<p style="margin : 0; padding-top:0;">Mr Wong Ee Kiong</p>
+			<p style="margin-bottom:0;"><b>Librarian</b></p>			
 			<p style="margin : 0; padding-top:0;">Ms Jenny Heng</p>
 			<p style="margin-bottom:0;"><b>School Administrative Support Officer</b></p>			
 			<p style="margin : 0; padding-top:0;">Ms Khairunnisa Sulaiman</p>
