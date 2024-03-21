@@ -64,7 +64,8 @@ variant: markdown
 			<p style="margin-bottom:0;"><b>SH Civic Education</b></p>
 			<p style="margin : 0; padding-top:0;">Ms Choo Li Min Bernadette Teresa</p>			
       <p style="margin-bottom:0;"><b>Teachers</b></p>
-      <p style="margin : 0; padding-top:0;">Ms Alviedo Dionne Rochelle Menez</p>
+      <p style="margin : 0; padding-top:0;">Mr Acer Ng Yu Xuan</p>
+			<p style="margin : 0; padding-top:0;">Ms Alviedo Dionne Rochelle Menez</p>
 			<p style="margin : 0; padding-top:0;">Ms Ang Soey Leng Lynn</p>  
 			<p style="margin : 0; padding-top:0;">Ms Aw Yuan Ling Cheryl</p>
 			<p style="margin : 0; padding-top:0;">Ms Chai Xue Fang Beatrice</p>  
@@ -99,6 +100,7 @@ variant: markdown
 						<p style="margin : 0; padding-top:0;">Mr Ng Kim Teck</p>
 			<p style="margin : 0; padding-top:0;">Mr Ng Mong Rong Justin</p>
 			<p style="margin : 0; padding-top:0;">Mr Peh Yang Beng Kenneth</p>
+			<p style="margin : 0; padding-top:0;">Mr Sebastian Goh Wei Ying</p>
     </div>
 	</li>
 	 <li>
