@@ -6,7 +6,7 @@ description: ""
 ---
 <p><strong><u>Introduction to Mother Tongue Fortnight</u></strong>
 </p>
-<p>The Languages Department at our college hralded a celebration of cultural
+<p>The Languages Department at our college heralded a celebration of cultural
 richness with the Mother Tongue Fortnight, held from 14<sup>th</sup> of
 February&nbsp; to 23<sup>rd</sup> of February, under the inspiring theme
 "Experience• Immerse• Appreciate."</p>
