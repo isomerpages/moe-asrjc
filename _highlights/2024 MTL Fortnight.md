@@ -13,13 +13,12 @@ February&nbsp; to 23<sup>rd</sup> of February, under the inspiring theme
 <p><strong><u>Morning Broadcasts and Assembly Sharing</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1_edit.png">
 </div>
 <p>Our mornings began with the melodic "Good morning ASR" broadcasts, featuring
 mother tongue songs, while the Tamil Language Elective Programme (TLEP)
 Immersion sharing during assemblies offered profound insights into the
 lived experiences of language.</p>
-<p></p>
 <p><strong><u>Cultural Extravaganza</u></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -43,7 +42,6 @@ engaging with hands-on activities that brought our heritage to life.</p>
 <p>The Nasi Ambeng workshop was a sensory journey into the heart of our culinary
 heritage, underscoring the role of food in cultural expression and communal
 bonding.</p>
-<p></p>
 <p><strong><u>Creative Arts and Personal Expression</u></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -70,7 +68,7 @@ reflecting the deep-seated wisdom of our ancestors.</p>
 <p><strong><u>Language Challenges and Performances</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8_edit.png">
 </div>
 <p>The Allegro performance and language challenges such as tongue twisters
 and pantuns added an element of fun and creativity to the learning experience,
