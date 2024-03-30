@@ -25,7 +25,7 @@ sections:
         language and culture through immersive activities and performances."
       button: view here
       url: /highlights/permalink/mtlfortnight
-      image: /images/Picture1_edit.png
+      image: /images/Picture1_new.png
       alt: Image alt text
   - infopic:
       title: RELEASE OF 2023 A-LEVEL RESULTS
