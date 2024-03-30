@@ -13,7 +13,7 @@ February&nbsp; to 23<sup>rd</sup> of February, under the inspiring theme
 <p><strong><u>Morning Broadcasts and Assembly Sharing</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1_edit.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1_new.png">
 </div>
 <p>Our mornings began with the melodic "Good morning ASR" broadcasts, featuring
 mother tongue songs, while the Tamil Language Elective Programme (TLEP)
