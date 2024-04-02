@@ -33,7 +33,7 @@ mother tongues took center stage.</p>
 </div>
 <p>Students reveled in the joy of traditional games and cultural practices,
 engaging with hands-on activities that brought our heritage to life.</p>
-<p><strong><u>CulinaryWorkshop:EmbracingTraditions</u></strong>
+<p><strong><u>Culinary Workshop:EmbracingTraditions</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
