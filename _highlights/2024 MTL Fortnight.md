@@ -4,84 +4,83 @@ permalink: /highlights/permalink/mtlfortnight/
 variant: tiptap
 description: ""
 ---
-<p><strong>Introduction to Mother Tongue Fortnight</strong>
+<p><strong><u>Introduction to Mother Tongue Fortnight</u></strong>
 </p>
-<p>The Languages Department at our college initiated the Mother Tongue Fortnight
-from February 14th to February 23rd, under the inspiring theme "Experience,
-Immerse, Appreciate," embarking on an exploration of the vibrant tapestry
-of linguistic and cultural diversity.</p>
-<p></p>
-<p><strong>Morning Broadcasts and Assembly Sharing</strong>
-</p>
-<p>[Insert Photo ]</p>
-<p>Our mornings were greeted with the melodic "Good morning ASR" broadcasts,
-featuring mother tongue songs, while the TLEP Immersion sharing during
-assemblies offered profound insights into the lived experiences of language.</p>
-<p></p>
-<p><strong>Lunchtime Cultural Extravaganza</strong>
+<p>The Languages Department at our college heralded a celebration of cultural
+richness with the Mother Tongue Fortnight, held from 14 February&nbsp;to
+23 February, under the inspiring theme "Experience• Immerse• Appreciate."</p>
+<p><strong><u>Morning Broadcasts and Assembly Sharing</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lunch.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1_new.png">
 </div>
-<p>The Lunchtime Cultural Extravaganza was a spectacle of traditional performances,
-where street dances captivated the hearts of students and teachers alike,
-illuminating the expressive power of our cultural arts.</p>
-<p><strong>Culinary Workshop: Embracing Traditions</strong>
-</p>
-<p>[Insert Photo]</p>
-<p>The Nasi Ambeng workshop provided a delicious dive into our culinary heritage,
-illustrating the importance of food in cultural bonding and celebration.</p>
-<p></p>
-<p><strong>Traditional Arts and Crafts</strong>
+<p>Our mornings began with the melodic "Good morning ASR" broadcasts, featuring
+mother tongue songs, while the Tamil Language Elective Programme (TLEP)
+Immersion sharing during assemblies offered profound insights into the
+lived experiences of language.</p>
+<p><strong><u>Cultural Extravaganza</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cali.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cali2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cali3.jpg">
-</div>
-<p>Students explored their artistic sides with traditional crafts, learning
-the symbolic and historical narratives behind each Henna design and calligraphy
-stroke.</p>
-<p></p>
-<p><strong>Music and Dance Performances</strong>
-</p>
-<p>Music and dance were central to the fortnight, with performances that
-celebrated the harmonic beauty of our mother tongues and the stories they
-tell.</p>
-<p></p>
-<p><strong>Strategic Play and Cultural Wisdom</strong>
+<p>The extravaganza brought our community together through vibrant performances,
+enriching talks and street dances, where the rhythmic celebration of our
+mother tongues took center stage.</p>
+<p><strong><u>Interactive Cultural and Game Booths</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chess.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
 </div>
-<p>The traditional game of Chinese chess offered a strategic challenge that
-bridged cultural learning with critical thinking and problem-solving skills.</p>
-<p><strong>Language Challenges and Performances</strong>
+<p>Students reveled in the joy of traditional games and cultural practices,
+engaging with hands-on activities that brought our heritage to life.</p>
+<p><strong><u>CulinaryWorkshop:EmbracingTraditions</u></strong>
 </p>
-<p>[Insert Photo]</p>
-<p>The Allegro performance, tongue twister, and pantun challenges showcased
-the creative and playful aspects of language learning, engaging students
-in a fun and supportive atmosphere.</p>
-<p><strong>Creative Writing and Artistic Expression</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+</div>
+<p>The Nasi Ambeng workshop was a sensory journey into the heart of our culinary
+heritage, underscoring the role of food in cultural expression and communal
+bonding.</p>
+<p><strong><u>Creative Arts and Personal Expression</u></strong>
 </p>
-<p>[Insert Photo]</p>
-<p>The fortnight also included activities that encouraged creative expression,
-allowing students to pen their thoughts and illustrate their cultural reflections
-through writing and drawing.</p>
-<p><strong>Conclusion</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+</div>
+<p></p>
+<p>Students' creativity blossomed as they adorned their skin with Henna,
+embracing the artful expressions of our cultural stories.</p>
+<p><strong><u>Lunch Time Concert</u></strong>
 </p>
-<p>[Insert Photo]</p>
-<p>As we conclude our Mother Tongue Fortnight, we carry with us a tapestry
-of moments that celebrate our cultural and linguistic heritage. The vibrant
-activities and enthusiastic participation reflect our community's commitment
-to not just preserving but also vivifying our mother tongues. This event
-has left us with a collage of unforgettable memories and a renewed appreciation
-for the diverse cultures that enrich our college community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+</div>
+<p>Singing, dance performances by teachers from various college departments,
+along with the Chinese Orchestra, TLEP &amp; TLDDS, enlivened the fortnight,
+harmonizing the voices of our mother tongues in celebration.</p>
+<p><strong><u>Strategic Play and Cultural Wisdom</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+</div>
+<p>Strategic games such as Chinese chess engaged students in thoughtful play,
+reflecting the deep-seated wisdom of our ancestors.</p>
+<p><strong><u>Language Challenges and Performances</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8_edit.png">
+</div>
+<p>The Allegro performance and language challenges such as tongue twisters
+and pantuns added an element of fun and creativity to the learning experience,
+delighting participants.</p>
+<p>&nbsp;<strong><u>Conclusion</u></strong>
+</p>
+<p>As the Mother Tongue Fortnight comes to an end, we reflect on a series
+of moments that celebrate not only our diverse linguistic and cultural
+backgrounds but also reinforce our commitment to nurturing them. The array
+of activities, from musical performances to strategic games, has woven
+a rich tapestry that symbolizes the strength and vibrancy of our college
+community. With new memories created and a deeper appreciation for our
+heritage fostered, we look forward to continuing this tradition in the
+years to come.</p>
 <p></p>
 <p></p>
