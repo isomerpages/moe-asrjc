@@ -15,9 +15,6 @@ sections:
         - title: Highlights
           description: Check out our highlights!
           url: /highlights/storiesclassof2022/
-        - title: Open House 2024
-          description: Find out more!
-          url: /open-house-2024/welcome/
   - infopic:
       title: 2024 MTL Fortnight
       subtitle: Highlights
