@@ -8,8 +8,8 @@ variant: markdown
 
 | **Type of Stall** | **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Halal Food Stall | 31 March 2024 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
-| Snack Stall | 31 March 2024 | Wholegrain bread / Local and Seasonal cakes which commercially prepared must carry Healthier Choice Symbol (HCS).  |
+| Halal Food Stall | 30 May 2024 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
+| Economic Rice Stall | 30 May 2024 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
 
 **Application Procedure**
 
