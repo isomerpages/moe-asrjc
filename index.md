@@ -15,6 +15,9 @@ sections:
         - title: Highlights
           description: Check out our highlights!
           url: /highlights/storiesclassof2022/
+        - title: Direct School Admission (DSA)
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: 2024 MTL Fortnight
       subtitle: Highlights
