@@ -13,11 +13,13 @@ Anderson Serangoon Junior College (ASRJC) welcomes students with talent in vario
 
 We are looking for students with talent in the following areas:
 
-![](/images/new.png)
-![](/images/new2.png)
-*Applicants and parents who are interested in finding out more about DSA to ASRJC through Humanities Programme and/or Leadership are encouraged to attend a tea session at our College on X May, X am. Kindly indicate your interest in the form here.
+![](/images/newdsatalentarea1.png)
+![](/images/newdsatalentarea2.png)
+*Applicants and parents who are interested in finding out more about DSA to ASRJC through Humanities Programme and/or Leadership are encouraged to attend a tea session at our College on 15 May, 3.30pm. Kindly indicate your interest in the form **here**.
 	 
-Hear more about some of our DSA areas!
+	 
+	 
+**Hear more about some of our DSA areas!**
 
 ASR Basketball
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eqW6CyNXKtw?si=DxnOZIvqz5nE2Hsm" height="315" width="560"></iframe>
