@@ -25,6 +25,7 @@ We are looking for students with talent in the following areas:
 
 
 **Trials / Auditions**
+
 Applicants for Sports* & Performing Arts talent areas will be shortlisted for trials/auditions based on evidence of the following aspects:
 •	Track record, experience, and commitment to the talent area.
 •	Achievements, qualifications, and certifications in the talent area.
@@ -44,7 +45,7 @@ Students applying for the following DSA talent areas will be shortlisted for int
 Shortlisted applicants will be required to attend an in-person interview to enable the College to better understand the: 
 
 •	Applicant’s interest/ passion for the specific talent area;  
-•	Applicant’s experiences (if any) in nurturing the specific talent area (e.g. through school CCA, sport academies/ clubs or private coaching); 
+•	Applicant’s experiences (if any) in nurturing the specific talent area (e.g. through school CCA, sport academies/ clubs or private coaching)
 •	Applicant’s motivation for joining ASRJC;
 •	Applicant’s ability to cope with JC curriculum.
 
