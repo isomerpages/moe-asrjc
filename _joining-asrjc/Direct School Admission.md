@@ -78,16 +78,15 @@ Shortlisted applicants will be required to attend an in-person interview to enab
 
 4.  **Details of Selection Trials/Auditions (To be announced)**
     
-5.  Enquiry
+5.  **Enquiry**
     
-
 For general enquiries regarding DSA, you may contact the following personnel:
 
 *   SH/PE&amp;CCA, Mr Chang Shu Yuet – chang\_shu\_yuet@schools.gov.sg
 *   Dean, Ms Zhu Youyan Corrine - zhu\_youyan@schools.gov.sg
 
-6.  Other Information
+6.  **Other Information**
 
-*   Subject Combinations offered at ASRJC
+*   **Subject Combinations offered at ASRJC**
 
 The list of subject combinations offered in 2024 is downloadable here
