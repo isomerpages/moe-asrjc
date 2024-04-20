@@ -16,8 +16,8 @@ sections:
           description: Check out our highlights!
           url: /highlights/storiesclassof2022/
         - title: Direct School Admission (DSA)
-          description: Key Highlight description
-          url: ""
+          description: Apply to ASR DSA!
+          url: /joining-asrjc/direct-school-admission/
   - infopic:
       title: 2024 MTL Fortnight
       subtitle: Highlights
