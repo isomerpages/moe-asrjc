@@ -13,13 +13,12 @@ Anderson Serangoon Junior College (ASRJC) welcomes students with talent in vario
 
 We are looking for students with talent in the following areas:
 
-![](/images/d1.png)
-![](/images/d2.png)
-
+![](/images/new.png)
+![](/images/new2.png)
 *Applicants and parents who are interested in finding out more about DSA to ASRJC through Humanities Programme and/or Leadership are encouraged to attend a tea session at our College on X May, X am. Kindly indicate your interest in the form here.
 	 
-body{font-family:Arial,sans-serif;font-size:10pt;}.cf0{font-family:Segoe UI;font-size:9pt;}
-Hear more about some of our DSA areas
+Hear more about some of our DSA areas!
+
 ASR Basketball
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eqW6CyNXKtw?si=DxnOZIvqz5nE2Hsm" height="315" width="560"></iframe>
 ASR Chinese Orchestra
@@ -43,7 +42,7 @@ ASR STEM
 
 
 
-| **Step 2: Trials/Au** | Column 2 | 
+| **Step 2: Trials/Auditions** | Column 2 | 
 | -------- | -------- | 
 | Text     | Text     | 
 
@@ -92,7 +91,3 @@ For general enquiries regarding DSA, you may contact the following personnel:
 *   Subject Combinations offered at ASRJC
 
 The list of subject combinations offered in 2024 is downloadable here
-
-
-
-
