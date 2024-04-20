@@ -16,7 +16,7 @@ We are looking for students with talent in the following areas:
 ![](/images/d1.png)
 ![](/images/d2.png)
 
-   *Applicants and parents who are interested in finding out more about DSA to ASRJC through Humanities Programme and/or Leadership are encouraged to attend a tea session at our College on X May, X am. Kindly indicate your interest in the form here.
+*Applicants and parents who are interested in finding out more about DSA to ASRJC through Humanities Programme and/or Leadership are encouraged to attend a tea session at our College on X May, X am. Kindly indicate your interest in the form here.
 	 
 (Here, we’ll be adding 3 videos featuring students from 3 DSA talent areas; Basketball, Chinese Orchestra, STEM. In these videos, our current DSA students’ from these 3 areas will share about Why ASR? Why this CCA? How is life as a DSA student? How are they supported as DSA students in ASR? What have they gained as DSA students in ASR?)
 
@@ -25,7 +25,6 @@ We are looking for students with talent in the following areas:
 
 
 **Trials / Auditions**
-
 Applicants for Sports* & Performing Arts talent areas will be shortlisted for trials/auditions based on evidence of the following aspects:
 •	Track record, experience, and commitment to the talent area.
 •	Achievements, qualifications, and certifications in the talent area.
