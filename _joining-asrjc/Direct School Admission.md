@@ -15,7 +15,7 @@ We are looking for students with talent in the following areas:
 
 ![](/images/newdsatalentarea1.png)
 ![](/images/newdsatalentarea2.png)
-*Applicants and parents who are interested in finding out more about DSA to ASRJC through Humanities Programme and/or Leadership are encouraged to attend a tea session at our College on **15 May, 3.30pm**. Kindly indicate your interest in the form **here**.
+*Applicants and parents who are interested in finding out more about DSA to ASRJC through Humanities Programme and/or Leadership are encouraged to attend a tea session at our College on **15 May, 3.30pm**. Kindly indicate your interest in the form **[here](https://go.gov.sg/asrdsatea2024)**.
 	 
 	 
 	 
@@ -34,8 +34,8 @@ We are looking for students with talent in the following areas:
 #### 
 **Step 1: Application**
 
-*   Submit online application form through this link (from 7 May onwards). The deadline for the submission of online application forms is Fri 12 July 2024. Applicants are strongly encouraged to submit their application well in advance of the deadline to be considered for Phase 1. Applicants are required to attach scanned copies of the following along with their application:
-*   Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Year-end and Sec 4 Weighted Assessment (or equivalent) results, including copies of latest school academic results if available.
+*   Submit online application form through this link (from 7 May onwards). The deadline for the submission of online application forms is **Fri 12 July 2024**. Applicants are **strongly encouraged** to submit their application well in advance of the deadline to be considered for Phase 1. Applicants are required to attach scanned copies of the following along with their application:
+*   Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Year-end and Sec 4 Weighted Assessment (or equivalent) results, including copies of latest school academic results **if available**.
 *   School CCA records
 *   Relevant certifications and/or records of achievement related to the talent area
 *   Personal statement (in application form) Applicants may go ahead to submit the application form first if the official documents are unavailable.
@@ -44,7 +44,7 @@ We are looking for students with talent in the following areas:
 
 **Step 2: Trials/Auditions** 
 
-•	Attend the in-person selection trials/auditions if shortlisted. Only shortlisted applicants will be contacted to attend the trial. 
+•	Attend the in-person selection trials/auditions if shortlisted. **Only shortlisted applicants will be contacted to attend the trial**. 
 
 **Step 3: Trials/Auditions** 
 
@@ -54,7 +54,7 @@ Special Note:
 
 * *Applicants who are not offered a place in Phase 1 need not resubmit, as all applications will be considered for both Phase 1 and 2 (if there is vacancy).*
 
-* *Please note that successful DSA-JC candidates will NOT be allowed to participate in the Joint Admissions Exercise. They will also NOT be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.*
+* *Please note that successful DSA-JC candidates will **NOT** be allowed to participate in the Joint Admissions Exercise. They will also **NOT** be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.*
 
 
 #### 3. Selection Process
@@ -66,7 +66,7 @@ Applicants for Sports\* &amp; Performing Arts talent areas will be shortlisted f
 *   Track record, experience, and commitment to the talent area.
 *   Achievements, qualifications, and certifications in the talent area.
 
-*   No trials will be conducted for Shooting. Selection will be based on other relevant criteria.
+*No trials will be conducted for Shooting. Selection will be based on other relevant criteria*.
 
 **<u>Interviews</u>**
 
@@ -100,4 +100,4 @@ For general enquiries regarding DSA, you may contact the following personnel:
 
 *   **Subject Combinations offered at ASRJC**
 
-The list of subject combinations offered in 2024 is downloadable **[here](https://www.asrjc.moe.edu.sg/files/Subject_Combination_List_2024.pdf)**.
+The list of subject combinations offered in **2024** is downloadable **[here](https://www.asrjc.moe.edu.sg/files/Subject_Combination_List_2024.pdf)**.
