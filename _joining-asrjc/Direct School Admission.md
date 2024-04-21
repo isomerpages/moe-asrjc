@@ -66,7 +66,7 @@ Applicants for Sports\* &amp; Performing Arts talent areas will be shortlisted f
 *   Track record, experience, and commitment to the talent area.
 *   Achievements, qualifications, and certifications in the talent area.
 
-*No trials will be conducted for Shooting. Selection will be based on other relevant criteria*.
+*No trials will be conducted for Shooting. Selection will be based on other relevant criteria*.*
 
 **<u>Interviews</u>**
 
@@ -96,7 +96,7 @@ For general enquiries regarding DSA, you may contact the following personnel:
 *   SH/PE&amp;CCA, Mr Chang Shu Yuet – chang_shu_yuet@schools.gov.sg
 *   Dean, Ms Zhu Youyan Corrine - zhu_youyan@schools.gov.sg
 
-6.  Other Information
+#### 6.  Other Information
 
 *   **Subject Combinations offered at ASRJC**
 
