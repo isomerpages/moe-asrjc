@@ -11,6 +11,7 @@ Anderson Serangoon Junior College (ASRJC) welcomes students with talent in vario
 
 #### 1) DSA Talent Areas
 #### 
+
 We are looking for students with talent in the following areas:
 
 ![](/images/newdsatalentarea1.png)
