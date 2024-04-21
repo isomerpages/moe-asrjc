@@ -10,7 +10,7 @@ variant: markdown
 Anderson Serangoon Junior College (ASRJC) welcomes students with talent in various fields to apply for entry to the college through Direct School Admission (DSA). For more information on DSA, please refer to [MOE DSA-JC website](about:blank).
 
 #### 1) DSA Talent Areas
-#### 
+
 
 We are looking for students with talent in the following areas:
 
@@ -88,7 +88,7 @@ Shortlisted applicants will be required to attend an in-person interview to enab
 *   Applicant’s motivation for joining ASRJC;
 *   Applicant’s ability to cope with JC curriculum.
 
-#### 4.  Details of Selection Trials/Auditions (To be announced)####     
+#### 4.  Details of Selection Trials/Auditions (To be announced)
 
 
 #### 5.  Enquiry
