@@ -37,10 +37,10 @@ We are looking for students with talent in the following areas:
 **Step 1: Application**
 
 *   Submit online application form through this link (from 7 May onwards). The deadline for the submission of online application forms is **Fri 12 July 2024**. Applicants are **strongly encouraged** to submit their application well in advance of the deadline to be considered for Phase 1. Applicants are required to attach scanned copies of the following along with their application:
-*   Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Year-end and Sec 4 Weighted Assessment (or equivalent) results, including copies of latest school academic results **if available**.
-*   School CCA records
-*   Relevant certifications and/or records of achievement related to the talent area
-*   Personal statement (in application form) Applicants may go ahead to submit the application form first if the official documents are unavailable.
+	* Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Year-end and Sec 4 Weighted Assessment (or equivalent) results, including copies of latest school academic results **if available**.
+	* School CCA records
+	* Relevant certifications and/or records of achievement related to the talent area
+	* Personal statement (in application form) Applicants may go ahead to submit the application form first if the official documents are unavailable.
 
 
 
