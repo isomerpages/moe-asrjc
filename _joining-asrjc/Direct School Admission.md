@@ -14,7 +14,7 @@ Anderson Serangoon Junior College (ASRJC) welcomes students with talent in vario
 
 We are looking for students with talent in the following areas:
 
-![](/images/newdsatalentarea1.png)
+![](/images/newdsatalentarea1b.png)
 ![](/images/newdsatalentarea2b.png)
 *Applicants and parents who are interested in finding out more about DSA to ASRJC through Humanities Programme and/or Leadership are encouraged to attend a tea session at our College on **15 May, 3.30pm**. Kindly indicate your interest in the form **[here](https://go.gov.sg/asrdsatea2024)**.
 	 
@@ -36,7 +36,10 @@ We are looking for students with talent in the following areas:
 
 **Step 1: Application**
 
-*   Submit online application form through this link (from 7 May onwards). The deadline for the submission of online application forms is **Fri 12 July 2024**. Applicants are **strongly encouraged** to submit their application well in advance of the deadline to be considered for Phase 1. Applicants are required to attach scanned copies of the following along with their application:
+*   Submit online application form through this link (from 7 May onwards). 
+*   The deadline for the submission of online application forms is **Fri 12 July 2024**. 
+*   Applicants are **strongly encouraged** to submit their application well in advance of the deadline to be considered for Phase 1. 
+*   Applicants are required to attach scanned copies of the following along with their application:
 	* Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Year-end and Sec 4 Weighted Assessment (or equivalent) results, including copies of latest school academic results **if available**.
 	* School CCA records
 	* Relevant certifications and/or records of achievement related to the talent area
@@ -50,7 +53,7 @@ We are looking for students with talent in the following areas:
 
 **Step 3: Trials/Auditions** 
 
-•	Attend the in-person interview if further shortlisted. Only shortlisted applicants will be notified by email to attend the interview. 
+•	Attend the in-person interview if further shortlisted. **Only shortlisted applicants will be notified by email to attend the interview**. 
 
 Special Note:
 
