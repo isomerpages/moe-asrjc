@@ -19,6 +19,16 @@ sections:
           description: Apply to ASR DSA!
           url: /joining-asrjc/direct-school-admission/
   - infopic:
+      title: DSA-JC Exercise 2024
+      subtitle: New!
+      id: infopic
+      description: DSA-JC 2024 will be open for applications soon! Find out more about
+        our new talent areas  Humanities Programme and Leadership!
+      button: View here
+      url: /joining-asrjc/direct-school-admission/
+      image: /images/DSA_2024_Thumbnail.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 MTL Fortnight
       subtitle: Highlights
       description: "2024 Mother Tongue Fortnight: Dive into a vibrant celebration of
