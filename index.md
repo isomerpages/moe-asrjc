@@ -16,7 +16,7 @@ sections:
           description: Check out our highlights!
           url: /highlights/storiesclassof2022/
         - title: Direct School Admission (DSA)
-          description: Apply to ASR DSA!
+          description: See our new talent areas!
           url: /joining-asrjc/direct-school-admission/
   - infopic:
       title: DSA-JC Exercise 2024
