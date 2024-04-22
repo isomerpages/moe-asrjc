@@ -15,6 +15,19 @@ sections:
         - title: Highlights
           description: Check out our highlights!
           url: /highlights/storiesclassof2022/
+        - title: Direct School Admission (DSA)
+          description: See our new talent areas!
+          url: /joining-asrjc/direct-school-admission/
+  - infopic:
+      title: DSA-JC Exercise 2024
+      subtitle: New!
+      id: infopic
+      description: DSA-JC 2024 will be open for applications soon! Find out more about
+        our new talent areas  Humanities Programme and Leadership!
+      button: View here
+      url: /joining-asrjc/direct-school-admission/
+      image: /images/DSA_2024_Thumbnail.jpg
+      alt: Image alt text
   - infopic:
       title: 2024 MTL Fortnight
       subtitle: Highlights

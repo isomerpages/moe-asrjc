@@ -4,91 +4,106 @@ permalink: /joining-asrjc/direct-school-admission/
 description: ""
 variant: markdown
 ---
-**Direct School Admission (DSA-JC) Exercise 2023** 
+**Direct School Admission (DSA-JC) Exercise 2024  
+(Applications will open shortly)**
 
-Anderson Serangoon Junior College (ASRJC) welcomes students with talent in various fields to apply for entry to the college through Direct School Admission (DSA). For more information on DSA, please refer to&nbsp;**[MOE DSA-JC website](https://www.moe.gov.sg/post-secondary/admissions/dsa).**
+Anderson Serangoon Junior College (ASRJC) welcomes students with talent in various fields to apply for entry to the college through Direct School Admission (DSA). For more information on DSA, please refer to [MOE DSA-JC website](about:blank).
 
-#### **1) DSA Talent Areas**
+#### 1) DSA Talent Areas
+
 
 We are looking for students with talent in the following areas:
-![](/images/Images%20for%20DSA%20Talent%20Areas/dsa%20sports.png)![](/images/Images%20for%20DSA%20Talent%20Areas/dsa%20performing%20arts1.png)
-![](/images/Images%20for%20DSA%20Talent%20Areas/dsa%20stem.png)![](/images/Images%20for%20DSA%20Talent%20Areas/tlepdsa.png)
+
+![](/images/newdsatalentarea1b.png)
+![](/images/newdsatalentarea2b.png)
+*Applicants and parents who are interested in finding out more about DSA to ASRJC through Humanities Programme and/or Leadership are encouraged to attend a tea session at our College on **15 May, 3.30pm**. Kindly indicate your interest in the form **[here](https://go.gov.sg/asrdsatea2024)**.
+	 
+	 
+	 
+**Hear from some of our DSA students about their CCA journey and experience in ASRJC!**
+
+**ASR Basketbal**l
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eqW6CyNXKtw?si=DxnOZIvqz5nE2Hsm" height="315" width="560"></iframe>
+**ASR Chinese Orchestra**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RcIvI2Hq4LI?si=gip735TmRxldRwzM" height="315" width="560"></iframe>
+**ASR STEM**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1MkEvnvvVrM?si=NvSRfCpsZda8nSDO" height="315" width="560"></iframe>
 
 
 
-#### **2)**&nbsp;**Application Process**
+#### 2)	Application Process 
+#### 
 
-##### **STEP 1: Application**
-* **New!** Phase 2 applications are now open for Basketball and Shooting. Submit your online application through this **[link](https://portal.asrjc.edu.sg/0/dsa.html)** by Friday 25 August 2023.
-* Candidates who had submitted their applications in Phase 1 do not need to resubmit.
-* Applicants are required to attach scanned copies of the following along with their application:
-  * Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Mid-Year (if available), Sec 3 Year-end and Sec 4 Weighted Assessment (or equivalent) results, including copies of latest school academic results if available. 
-  * School CCA records
-  * Relevant certifications and/or records of achievement related to the area of talent
-* Applicants may go ahead to submit the application form first if the official documents are unavailable.
+**Step 1: Application**
 
-##### **STEP 2: Trials/Auditions**
-* Attend the in-person selection trials/auditions if shortlisted. **Only shortlisted applicants will be contacted to attend the trial.**
+*   Submit online application form through this link (from **7 May onwards**). 
+*   The deadline for the submission of online application forms is **Fri 12 July 2024**. 
+*   Applicants are **strongly encouraged** to submit their application well in advance of the deadline to be considered for Phase 1. 
+*   Applicants are required to attach scanned copies of the following along with their application:
+	* Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Year-end and Sec 4 Weighted Assessment (or equivalent) results, including copies of latest school academic results **if available**.
+	* School CCA records
+	* Relevant certifications and/or records of achievement related to the talent area
+	* Personal statement (in application form) 
+	* Applicants may go ahead to submit the application form first if the official documents are unavailable.
 
-##### **STEP 3: Interview**
-* Attend the in-person interview if shortlisted. **Only shortlisted applicants will be notified by email to attend the interview.**
 
-*Special Note*
+
+**Step 2: Trials/Auditions** 
+
+•	Attend the in-person selection trials/auditions if shortlisted. **Only shortlisted applicants will be contacted to attend the trial**. 
+
+**Step 3: Trials/Auditions** 
+
+•	Attend the in-person interview if further shortlisted. **Only shortlisted applicants will be notified by email to attend the interview**. 
+
+Special Note:
+
 * *Applicants who are not offered a place in Phase 1 need not resubmit, as all applications will be considered for both Phase 1 and 2 (if there is vacancy).*
+
 * *Please note that successful DSA-JC candidates will **NOT** be allowed to participate in the Joint Admissions Exercise. They will also **NOT** be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.*
-* *Applicants admitted to **TLEP** must offer H2 Tamil Language and Literature and take part in the activities related to TLEP.*
 
 
-#### **3)**&nbsp;**Selection Process**
+#### 3. Selection Process
 
-##### **Trials / Auditions**
+**<u>Trials / Auditions</u>**
 
-Applicants for Sports* and Performing Arts talent areas will be shortlisted for trials/auditions based on evidence of the following aspects:
+Applicants for Sports\* &amp; Performing Arts talent areas will be shortlisted for trials/auditions based on evidence of the following aspects:
 
-*   Track record, experience and commitment to the talent area.
-*   Achievements, qualifications and certifications in the talent areas.
+*   Track record, experience, and commitment to the talent area.
+*   Achievements, qualifications, and certifications in the talent area.
 
-##### **Interviews**
+*No trials will be conducted for Shooting. Selection will be based on other relevant criteria*.*
 
-Applicants for Sports and Performing Arts talent areas will be further shortlisted for interviews based on their performance at trials / auditions.
+**<u>Interviews</u>**
 
-Students applying for DSA in Shooting, Science & Technology, and in the Tamil Language Elective Programme will be shortlisted for interviews based on their application submissions.
+Applicants for Sports &amp; Performing Arts talent areas will be further shortlisted for interviews based on their performance at trials / auditions.
+
+Students applying for the following DSA talent areas will be shortlisted for interviews based on their application submissions:
+
+*   Science &amp; Technology
+*   Tamil Language Elective Programme
+*   Humanities Programme
+*   Leadership
 
 Shortlisted applicants will be required to attend an in-person interview to enable the College to better understand the:
-*   Applicant’s interest/ passion for the specific talent area;
-*   Applicant’s experiences (if any) in nurturing the specific talent area (e.g through school CCA, sport academies/ clubs or private coaching);
+
+*   Applicant’s interest/passion for the specific talent area;
+*   Applicant’s experiences (if any) in nurturing the specific talent area (e.g., through school CCA, sport academies/clubs or private coaching);
 *   Applicant’s motivation for joining ASRJC;
 *   Applicant’s ability to cope with JC curriculum.
 
-
-**Except for Shooting*
-
-#### **4) Details of Selection Trials/Audtions**
-
-![](/images/Images%20for%20DSA%20Talent%20Areas/dsasngschedule1.png)
-![](/images/Images%20for%20DSA%20Talent%20Areas/dsapaschedule.png)
-![](/images/Images%20for%20DSA%20Talent%20Areas/dsastemschedule.png)
-![](/images/Images%20for%20DSA%20Talent%20Areas/dsatlepscheudle.png)
+#### 4.  Details of Selection Trials/Auditions (To be announced)
 
 
-#### **5) Enquiry**
-
+#### 5.  Enquiry
+    
 For general enquiries regarding DSA, you may contact the following personnel:
 
-*   HOD/PE &amp; CCA, Ms Tay Li May -&nbsp;[tay\_li\_may@schools.gov.sg](mailto:tay_li_may@schools.gov.sg)
+*   SH/PE&amp;CCA, Mr Chang Shu Yuet – chang_shu_yuet@schools.gov.sg
+*   Dean, Ms Zhu Youyan Corrine - zhu_youyan@schools.gov.sg
 
-
-#### **6) Other Information**
-
+#### 6.  Other Information
 
 *   **Subject Combinations offered at ASRJC**
 
-The list of subject combinations offered in 2023 is downloadable&nbsp;**[here](/files/asrjc-subject-combination-list-2023.pdf)**.
-
-*   **Change of college campus in 2024**
-
-The College will be operating at a holding site from January 2024 at the following address:
-
-1033 Upper Serangoon Road  
-Singapore 534768  
-_(site of former Serangoon Junior College)_
+The list of subject combinations offered in **2024** is downloadable **[here](https://www.asrjc.moe.edu.sg/files/Subject_Combination_List_2024.pdf)**.
