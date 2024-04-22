@@ -16,7 +16,7 @@ We are looking for students with talent in the following areas:
 
 ![](/images/newdsatalentarea1b.png)
 ![](/images/newdsatalentarea2c.png)
-*Applicants and parents who are interested in finding out more about DSA to ASRJC through Humanities Programme and/or Leadership are encouraged to attend a tea session at our College on **15 May, 3.30pm**. Kindly indicate your interest in the form **[here](https://go.gov.sg/asrdsatea2024)**.
+*Applicants who are interested in finding out more about DSA to ASRJC through Humanities Programme and/or Leadership are encouraged to attend a tea session at our College on **15 May, 3.30pm**. Kindly indicate your interest in the form **[here](https://go.gov.sg/asrdsatea2024)**.
 	 
 	 
 	 
