@@ -44,7 +44,7 @@ We are looking for students with talent in the following areas:
 	* School CCA records
 	* Relevant certifications and/or records of achievement related to the talent area
 	* Personal statement (in application form) 
-	* Applicants may go ahead to submit the application form first if the official documents are unavailable.
+* Applicants may go ahead to submit the application form first if the official documents are unavailable.
 
 
 
