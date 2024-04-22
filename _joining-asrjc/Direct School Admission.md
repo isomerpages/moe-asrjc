@@ -52,7 +52,7 @@ We are looking for students with talent in the following areas:
 
 •	Attend the in-person selection trials/auditions if shortlisted. **Only shortlisted applicants will be contacted to attend the trial**. 
 
-**Step 3: Trials/Auditions** 
+**Step 3: Interview** 
 
 •	Attend the in-person interview if further shortlisted. **Only shortlisted applicants will be notified by email to attend the interview**. 
 
