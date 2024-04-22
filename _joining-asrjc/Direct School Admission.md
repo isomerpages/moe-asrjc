@@ -32,7 +32,7 @@ We are looking for students with talent in the following areas:
 
 
 #### 2)	Application Process 
-#### 
+
 
 **Step 1: Application**
 
