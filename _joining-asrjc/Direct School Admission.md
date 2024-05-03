@@ -43,6 +43,7 @@ The deadline for signing up is **8 May**.
 *   Applicants are **strongly encouraged** to submit their application well in advance of the deadline to be considered for Phase 1. 
 *   Applicants are required to attach scanned copies of the following along with their application:
 	* Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Year-end and Sec 4 Weighted Assessment (or equivalent) results, including copies of latest school academic results **if available**.
+	* For Secondary 5NA applicants: GCE (NA)-Level Examination results
 	* School CCA records
 	* Relevant certifications and/or records of achievement related to the talent area
 	* Personal statement (in application form) 
