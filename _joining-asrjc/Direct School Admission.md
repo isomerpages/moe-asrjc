@@ -97,7 +97,51 @@ Shortlisted applicants will be required to attend an in-person interview to enab
 
 #### 4.  Details of Selection Trials/Auditions (To be announced)
 
-Click here to find your more.
+
+Click here to find out more.
+
+
+
+
+<title>Sports Trials Schedule</title>
+
+<style>
+  body { font-family: Arial, sans-serif; }
+  .dropdown { position: relative; display: inline-block; }
+  .dropdown-content { display: none; position: absolute; background-color: #f9f9f9; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1; }
+  .dropdown-content a { color: black; padding: 12px 16px; text-decoration: none; display: block; }
+  .dropdown-content a:hover { background-color: #f1f1f1 }
+  .dropdown:hover .dropdown-content { display: block; }
+  .dropdown:hover .dropbtn { background-color: #3e8e41; }
+</style>
+
+
+
+<div class="dropdown">
+  <button class="dropbtn">Sports Schedules</button>
+  <div class="dropdown-content">
+    <a href="#">Badminton</a>
+    <a href="#">Basketball</a>
+    <a href="#">Football</a>
+    <a href="#">Hockey</a>
+    <a href="#">Netball</a>
+    <a href="#">Table Tennis</a>
+    <a href="#">Volleyball</a>
+    <a href="#">Outdoor Adventure</a>
+    <a href="#">Taekwondo</a>
+    <a href="#">Shooting</a>
+  </div>
+</div>
+
+<div style="margin-top:20px;" id="details">
+  
+</div>
+
+
+
+
+
+
 
 ![](/images/Images%20for%20DSA%20Talent%20Areas/sports_schedule.png)
 ![](/images/Images%20for%20DSA%20Talent%20Areas/PA_schedule.png)![](/images/Images%20for%20DSA%20Talent%20Areas/clubsocieties_schedule.png)
