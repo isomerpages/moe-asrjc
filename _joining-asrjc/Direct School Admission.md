@@ -105,37 +105,129 @@ Click here to find out more.
 
 <title>Sports Trials Schedule</title>
 
+
+
+
+
+
+
+<title>CCA Dropdown Menu</title>
 <style>
   body { font-family: Arial, sans-serif; }
-  .dropdown { position: relative; display: inline-block; }
-  .dropdown-content { display: none; position: absolute; background-color: #f9f9f9; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1; }
-  .dropdown-content a { color: black; padding: 12px 16px; text-decoration: none; display: block; }
-  .dropdown-content a:hover { background-color: #f1f1f1 }
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content a:hover {background-color: #f1f1f1}
   .dropdown:hover .dropdown-content { display: block; }
   .dropdown:hover .dropbtn { background-color: #3e8e41; }
+  .submenu {
+    position: relative;
+  }
+  .submenu-content {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: 0;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+  }
+  .submenu:hover .submenu-content { display: block; }
 </style>
 
 
 
 <div class="dropdown">
-  <button class="dropbtn">Sports Schedules</button>
+  <button class="dropbtn">Sports CCAs</button>
   <div class="dropdown-content">
-    <a href="#">Badminton</a>
-    <a href="#">Basketball</a>
-    <a href="#">Football</a>
-    <a href="#">Hockey</a>
-    <a href="#">Netball</a>
-    <a href="#">Table Tennis</a>
-    <a href="#">Volleyball</a>
-    <a href="#">Outdoor Adventure</a>
-    <a href="#">Taekwondo</a>
-    <a href="#">Shooting</a>
+    <div class="submenu">
+      <a href="#">Badminton</a>
+      <div class="submenu-content">
+        <a href="#">Team Info</a>
+        <a href="#">Schedule</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">Basketball</a>
+      <div class="submenu-content">
+        <a href="#">Team Info</a>
+        <a href="#">Schedule</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">Football</a>
+      <div class="submenu-content">
+        <a href="#">Team Info</a>
+        <a href="#">Schedule</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">Hockey</a>
+      <div class="submenu-content">
+        <a href="#">Team Info</a>
+        <a href="#">Schedule</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">Netball</a>
+      <div class="submenu-content">
+        <a href="#">Team Info</a>
+        <a href="#">Schedule</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">Table Tennis</a>
+      <div class="submenu-content">
+        <a href="#">Team Info</a>
+        <a href="#">Schedule</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">Volleyball</a>
+      <div class="submenu-content">
+        <a href="#">Team Info</a>
+        <a href="#">Schedule</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">Outdoor Adventure</a>
+      <div class="submenu-content">
+        <a href="#">Team Info</a>
+        <a href="#">Schedule</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">Taekwondo</a>
+      <div class="submenu-content">
+        <a href="#">Team Info</a>
+        <a href="#">Schedule</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">Shooting</a>
+      <div class="submenu-content">
+        <a href="#">Team Info</a>
+        <a href="#">Schedule</a>
+      </div>
+    </div>
   </div>
 </div>
 
-<div style="margin-top:20px;" id="details">
-  
-</div>
 
 
 
@@ -144,7 +236,193 @@ Click here to find out more.
 
 
 ![](/images/Images%20for%20DSA%20Talent%20Areas/sports_schedule.png)
+
+
+
+
+<title>Performing Arts Audition Schedule</title>
+<style>
+  body { font-family: Arial, sans-serif; }
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  .dropdown:hover .dropdown-content { display: block; }
+  .dropdown:hover .dropbtn { background-color: #3e8e41; }
+  .submenu {
+    position: relative;
+  }
+  .submenu-content {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: 0;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+  }
+  .submenu:hover .submenu-content { display: block; }
+</style>
+
+
+
+<div class="dropdown">
+  <button class="dropbtn">Performing Arts CCAs</button>
+  <div class="dropdown-content">
+    <div class="submenu">
+      <a href="#">Chinese Orchestra</a>
+      <div class="submenu-content">
+        <a href="#">Audition Info</a>
+        <a href="#">Contact Info</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">Choir</a>
+      <div class="submenu-content">
+        <a href="#">Audition Info</a>
+        <a href="#">Contact Info</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">Concert Band</a>
+      <div class="submenu-content">
+        <a href="#">Audition Info</a>
+        <a href="#">Contact Info</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">Contemporary Dance</a>
+      <div class="submenu-content">
+        <a href="#">Audition Info</a>
+        <a href="#">Contact Info</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">English Drama</a>
+      <div class="submenu-content">
+        <a href="#">Audition Info</a>
+        <a href="#">Contact Info</a>
+      </div>
+    </div>
+    <div class="submenu">
+      <a href="#">Indian Dance</a>
+      <div class="submenu-content">
+        <a href="#">Audition Info</a>
+        <a href="#">Contact Info</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
 ![](/images/Images%20for%20DSA%20Talent%20Areas/PA_schedule.png)![](/images/Images%20for%20DSA%20Talent%20Areas/clubsocieties_schedule.png)
+
+
+
+
+<title>Academic and Leadership Programs Information</title>
+<style>
+  body { font-family: Arial, sans-serif; }
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  .dropdown:hover .dropdown-content { display: block; }
+  .dropdown:hover .dropbtn { background-color: #3e8e41; }
+  .submenu {
+    position: relative;
+  }
+  .submenu-content {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: 0;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+  }
+  .submenu:hover .submenu-content { display: block; }
+</style>
+
+
+
+<div class="dropdown">
+  <button class="dropbtn">Academic and Leadership Programs</button>
+  <div class="dropdown-content">
+    
+    <div class="submenu">
+      <a href="#">Humanities Programme</a>
+      <div class="submenu-content">
+        <a href="#">Application Details</a>
+        <a href="#">Requirements</a>
+        <a href="#">Contact Ms Ong Shu Hui</a>
+      </div>
+    </div>
+    
+    <div class="submenu">
+      <a href="#">Leadership (Students' Council)</a>
+      <div class="submenu-content">
+        <a href="#">Interview Details</a>
+        <a href="#">Application Process</a>
+        <a href="#">Contact Mr Kevin Chung</a>
+      </div>
+    </div>
+    
+    <div class="submenu">
+      <a href="#">Community Youth Leadership</a>
+      <div class="submenu-content">
+        <a href="#">Question Responses</a>
+        <a href="#">Submission Details</a>
+        <a href="#">Contact Mr Adrian Yang</a>
+      </div>
+    </div>
+    
+    <div class="submenu">
+      <a href="#">Language Elective Programme - Tamil</a>
+      <div class="submenu-content">
+        <a href="#">Portfolio Requirements</a>
+        <a href="#">Competitions</a>
+        <a href="#">Contact Mdm Vani</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
 ![](/images/Images%20for%20DSA%20Talent%20Areas/Leadership_schedule.png)
 
 
