@@ -97,6 +97,8 @@ Shortlisted applicants will be required to attend an in-person interview to enab
 
 #### 4.  Details of Selection Trials/Auditions (To be announced)
 
+Click here to find your more.
+
 ![](/images/Images%20for%20DSA%20Talent%20Areas/sports_schedule.png)
 ![](/images/Images%20for%20DSA%20Talent%20Areas/PA_schedule.png)![](/images/Images%20for%20DSA%20Talent%20Areas/clubsocieties_schedule.png)
 ![](/images/Images%20for%20DSA%20Talent%20Areas/Leadership_schedule.png)
