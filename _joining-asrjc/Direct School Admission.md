@@ -38,7 +38,7 @@ The deadline for signing up is **10 May**.
 
 **Step 1: Application**
 
-*   Submit online application form through this link (**to be announced**). 
+*   Submit online application form through this [**link**](https://portal.asrjc.edu.sg/0/dsa.html).
 *   The deadline for the submission of online application forms will be announced in due time. 
 *   Applicants are **strongly encouraged** to submit their application well in advance of the deadline to be considered for Phase 1. 
 *   Applicants are required to attach scanned copies of the following along with their application:
