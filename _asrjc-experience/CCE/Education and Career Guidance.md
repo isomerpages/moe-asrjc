@@ -16,3 +16,5 @@ At the individual level, students chart their education and career goals, guided
 At JC2, students' exploration of possible education and career pathways are enhanced by two annual Symposia: The ASR Career Symposium sees more than 40 industry professionals and practitioners sharing their expertise and experiences. The ASR University Symposium allows students to explore the higher education landscape and the factors in choosing a programme of study at the university.
 
 At the end of JC1, students can choose to take up the ASR Industry Experience (work attachments) and/or the Industry Exposure (learning journeys) Programmes, which raise awareness in various industries such as sciences, engineering, law, healthcare, arts, hospitality and social services. ASRJC's list of partners include Singapore Academy of Law, Ho Wong Law Practice LLC, Ministry of Health Holdings, PwC, Microsoft, Building and Construction Authority, Land Transport Authority, Wildlife Reserve Singapore, National Gallery, Hilton Singapore, Bizlink, Codomo, ACRES, etc.
+
+For more resources and help, please visit our ECG microsite here: https://sites.google.com/view/asrecg/home
