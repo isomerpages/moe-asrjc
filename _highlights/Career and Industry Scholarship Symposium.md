@@ -29,11 +29,19 @@ on career paths and educational opportunities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3391.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9715.jpg">
+</div>
 <p>Beyond the sessions, students explored career and scholarship booths meticulously
 arranged at the foyer, providing further guidance and information.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9689.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9750.jpg">
 </div>
 <p>To round off the event, students were directed to our newly launched Education
 and Career Guidance (ECG) microsite, designed to serve as a comprehensive
