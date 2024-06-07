@@ -85,7 +85,12 @@ Students applying for the following DSA talent areas will be shortlisted for int
 *   Science &amp; Technology
 *   Tamil Language Elective Programme
 *   Humanities Programme
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zKy9Yuxrpbw?si=BddM8gcLsNIj1QGG" height="315" width="560"></iframe>
+
 *   Leadership
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oc7dab6mJy8?si=hTaL3FZhiGLrD8mq" height="315" width="560"></iframe>
 
 Shortlisted applicants will be required to attend an in-person interview to enable the College to better understand the:
 
