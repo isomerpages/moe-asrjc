@@ -2,295 +2,333 @@
 title: Our People
 permalink: /about-asrjc/our-people/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">School Leaders </label>
-    <div>
-      <p style="margin-bottom:0;"><b>Principal</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Heng Yew Seng</p>
-			<p style="margin-bottom:0;"><b>Vice Principals</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Gurusharan Singh S/O Major Singh</p>
-			<p style="margin : 0; padding-top:0;">Mrs Cheng-Tey Li Shun</p>
-			<p style="margin : 0; padding-top:0;">Mdm Sharon Lim (Administration)</p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Economics Department</label>
-    <div>
-      <p style="margin-bottom:0;"><b>HOD Economics</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Arumugam Meganathan</p>
-			<p style="margin-bottom:0;"><b>JC1 Dean</b></p>
-			<p style="margin : 0; padding-top:0;">Mrs Lim-Tan Su Chin</p>
-			<p style="margin-bottom:0;"><b>Senior Teacher</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Kat Kar Hwee</p>
-			<p style="margin-bottom:0;"><b>SH Economics</b></p>
-			<p style="margin : 0; padding-top:0;">Mrs Agnes Wong-Lim Min Fong</p>
-			<p style="margin : 0; padding-top:0;">Ms Teng Yuting</p>
-			<p style="margin-bottom:0;"><b>SH Student Leadership</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Chung Ka Wing Kevin</p>
-			<p style="margin-bottom:0;"><b>Teachers</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Cai Mingfang</p>
-			<p style="margin : 0; padding-top:0;">Ms Eunice Tan Chen Xin</p>
-			<p style="margin : 0; padding-top:0;">Mr Gan Teck Ming, Alvin</p>
-			<p style="margin : 0; padding-top:0;">Mr Jowell Yong Kaijie</p>
-			<p style="margin : 0; padding-top:0;">Ms Lai Peck Chai</p>
-			<p style="margin : 0; padding-top:0;">Ms Nurdiyanah Bte Mohd Daud</p>
-			<p style="margin : 0; padding-top:0;">Ms Pauline Yeong Pao Lian</p>
-			<p style="margin : 0; padding-top:0;">Ms Tan Sok Mun Ruth</p>
-			<p style="margin : 0; padding-top:0;">Ms Ten Cai Tian</p>
-			<p style="margin : 0; padding-top:0;">Ms Wang Shuhui Mabel</p>
-			</div>
-	</li>
-   <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">English Department</label>
-    <div>
-      <p style="margin-bottom:0;"><b>HOD English</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Koh Tze Khang Adrian</p>
-      <p style="margin-bottom:0;"><b>Senior Teacher (General Paper)</b></p>
-      <p style="margin : 0; padding-top:0;">Mdm Tang Ling Ling</p>
-      <p style="margin-bottom:0;"><b>Senior Teacher (Literature)</b></p>
-      <p style="margin : 0; padding-top:0;">Ms Chew Ai Ling Melissa</p>
-      <p style="margin-bottom:0;"><b>SH General Paper</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Ang Hui Ting</p>
-      <p style="margin : 0; padding-top:0;">Ms Sharifah Nadzirah Bte Syed Zulkifli</p>			
-			<p style="margin-bottom:0;"><b>SH English Literature</b></p>
-			<p style="margin : 0; padding-top:0;">Mdm Lim Sok Peng</p>
-			<p style="margin-bottom:0;"><b>SH Civic Education</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Choo Li Min Bernadette Teresa</p>			
-      <p style="margin-bottom:0;"><b>Teachers</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Acer Ng Yu Xuan</p>
-			<p style="margin : 0; padding-top:0;">Ms Alviedo Dionne Rochelle Menez</p>
-			<p style="margin : 0; padding-top:0;">Ms Ang Soey Leng Lynn</p>  
-			<p style="margin : 0; padding-top:0;">Ms Aw Yuan Ling Cheryl</p>
-			<p style="margin : 0; padding-top:0;">Ms Chai Xue Fang Beatrice</p>  
-			<p style="margin : 0; padding-top:0;">Mdm Eng Seok Hoon Rose</p>  
-			<p style="margin : 0; padding-top:0;">Ms Goh Mei-Yi, Eunice</p>
-			<p style="margin : 0; padding-top:0;">Ms Hemma Balakrishnan</p>  
-			<p style="margin : 0; padding-top:0;">Ms Ho Ying Xin, Berakah</p>  
-			<p style="margin : 0; padding-top:0;">Ms Lim Wenjia, Claresta</p>
-			<p style="margin : 0; padding-top:0;">Ms Loh Yee Wei Clare</p>
-			<p style="margin : 0; padding-top:0;">Ms Sim Shan Lin</p>
-			<p style="margin : 0; padding-top:0;">Mr Tan Deng Zheng</p>
-			<p style="margin : 0; padding-top:0;">Mr Tay Xiang Wei</p>
-			<p style="margin : 0; padding-top:0;">Mr Tsui Hui Ee Samuel</p>
-			<p style="margin : 0; padding-top:0;">Ms Usha d/o Pillai</p> 
-    </div>
-  </li>
-	 <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Humanities Department</label>
-    <div>
-      <p style="margin-bottom:0;"><b>HOD Humanities &amp; Engagement &amp; Partnerships</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Ong Shu Hui</p>
-			<p style="margin-bottom:0;"><b>JC2 Dean</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Zhu Youyan, Corrine</p>
-			<p style="margin-bottom:0;"><b>SH Engagement &amp; Partnerships</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Goh Ying Shi Darwin</p>
-			<p style="margin-bottom:0;"><b>SH Geography (Covering)</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Neo Zhi Wei</p>
-			<p style="margin-bottom:0;"><b>Teachers</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Kuan Jie Hui Eugene</p>
-			<p style="margin : 0; padding-top:0;">Ms Lim Mei Fu Gayne</p>
-						<p style="margin : 0; padding-top:0;">Mr Ng Kim Teck</p>
-			<p style="margin : 0; padding-top:0;">Mr Ng Mong Rong Justin</p>
-			<p style="margin : 0; padding-top:0;">Mr Peh Yang Beng Kenneth</p>
-			<p style="margin : 0; padding-top:0;">Mr Sebastian Goh Wei Ying</p>
-    </div>
-	</li>
-	 <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Languages Department</label>
-    <div>
-      <p style="margin-bottom:0;"><b>HOD Languages</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Esther Tan Pin Yong</p>
-			<p style="margin-bottom:0;"><b>Lead Teacher (Tamil Language)</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Veeramuthu Ganesan</p>
-			<p style="margin-bottom:0;"><b>SH Chinese Language</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Ong Si Min</p>
-					<p style="margin-bottom:0;"><b>Teachers</b></p>
-			<p style="margin : 0; padding-top:0;">Mdm Kamalavani d/o Palaiyan</p>
-			<p style="margin : 0; padding-top:0;">Ms Ma Junhui</p>
-			<p style="margin : 0; padding-top:0;">Mdm Ong Kwee Hoon</p>
-			<p style="margin : 0; padding-top:0;">Ms Siti Nur Khairiah Binte Zakaria</p>
-			<p style="margin : 0; padding-top:0;">Mdm Yao Heping</p>
-    </div>
-	</li>
-   <li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">Mathematics Department</label>
-    <div>
-      <p style="margin-bottom:0;"><b>HOD Mathematics</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Kan Kok Leong</p>
-      <p style="margin-bottom:0;"><b>JC1 Deputy Dean</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Lee Han Meng Desmond</p>
-      <p style="margin-bottom:0;"><b>Senior Teachers</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Anuar Bin Kassim</p>
-			<p style="margin : 0; padding-top:0;">Mr Cheu Ker Jim</p>
-      <p style="margin-bottom:0;"><b>SH Mathematics</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Lim Ting</p>
-			<p style="margin : 0; padding-top:0;">Mr Tay Guo Yong</p>
-			<p style="margin-bottom:0;"><b>SH IME &amp; EdTech </b></p>
-			<p style="margin : 0; padding-top:0;">Mr Lam Meng Hwee</p>
-      <p style="margin-bottom:0;"><b>Teachers</b></p>
-      <p style="margin : 0; padding-top:0;">Ms Foo Yong Jeh</p>
-			<p style="margin : 0; padding-top:0;">Mr Gi Soong Chee</p>
-			<p style="margin : 0; padding-top:0;">Ms Koh Seok Xian</p>
-			<p style="margin : 0; padding-top:0;">Mdm Koh Suh Miin</p>
-			<p style="margin : 0; padding-top:0;">Mr Kenneth Khoo Jin Yee</p>
-			<p style="margin : 0; padding-top:0;">Mr Lau Haw Ping</p>
-			<p style="margin : 0; padding-top:0;">Mr Lee Dong Liang</p>
-			<p style="margin : 0; padding-top:0;">Ms Ng Cheng Yee</p>
-			<p style="margin : 0; padding-top:0;">Mdm Sundraes Teckwani</p>
-			<p style="margin : 0; padding-top:0;">Mr Tan Chin Kah</p>
-			<p style="margin : 0; padding-top:0;">Ms Tan Li Rong</p>
-    </div>
-  </li>
+<ul>
 <li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">Physical Education Department</label>
-    <div>
-      <p style="margin-bottom:0;"><b>HOD Physical Education</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Tay Li May</p>
-			<p style="margin-bottom:0;"><b>Senior Teachers</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Chua Wee Lian William</p>
-			<p style="margin-bottom:0;"><b>SH PE &amp; CCA </b></p>
-			<p style="margin : 0; padding-top:0;">Mr Chang Shu Yuet</p>
-			<p style="margin-bottom:0;"><b>Teachers</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Chong Song Cheng</p>
-			<p style="margin : 0; padding-top:0;">Mr Ho Kuan Peng</p>
-			<p style="margin : 0; padding-top:0;">Mr Lee Kok Weng</p>
-			<p style="margin : 0; padding-top:0;">Mr Tan Ser Yang</p>
-    </div>
-	</li>
-   <li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8">Project Work Department</label>
-    <div>
-      <p style="margin-bottom:0;"><b>HOD Project Work</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Lim Che Pinn Andy</p>
-			<p style="margin-bottom:0;"><b>SH Project Work  
-</b></p>
-      <p style="margin : 0; padding-top:0;">Ms Lim Li Wen Evon</p>
-			<p style="margin-bottom:0;"><b>SH Information and Communication Technology</b>
-			</p><p style="margin : 0; padding-top:0;">Ms Koh Wenting</p>
+<p>School Leaders</p>
+<p><strong>Principal</strong>
+</p>
+<p>Mr Heng Yew Seng</p>
+<p><strong>Vice Principals</strong>
+</p>
+<p>Mr Gurusharan Singh S/O Major Singh</p>
+<p>Mrs Cheng-Tey Li Shun</p>
+<p>Mdm Sharon Lim (Administration)</p>
+</li>
+<li>
+<p>Economics Department</p>
+<p><strong>HOD Economics</strong>
+</p>
+<p>Mr Arumugam Meganathan</p>
+<p><strong>JC1 Dean</strong>
+</p>
+<p>Mrs Lim-Tan Su Chin</p>
+<p><strong>Senior Teacher</strong>
+</p>
+<p>Ms Kat Kar Hwee</p>
+<p><strong>SH Economics</strong>
+</p>
+<p>Mrs Agnes Wong-Lim Min Fong</p>
+<p>Ms Teng Yuting</p>
+<p><strong>SH Student Leadership</strong>
+</p>
+<p>Mr Chung Ka Wing Kevin</p>
+<p><strong>Teachers</strong>
+</p>
+<p>Ms Cai Mingfang</p>
+<p>Ms Eunice Tan Chen Xin</p>
+<p>Mr Gan Teck Ming, Alvin</p>
+<p>Mr Jowell Yong Kaijie</p>
+<p>Ms Lai Peck Chai</p>
+<p>Ms Nurdiyanah Bte Mohd Daud</p>
+<p>Ms Pauline Yeong Pao Lian</p>
+<p>Ms Tan Sok Mun Ruth</p>
+<p>Ms Ten Cai Tian</p>
+<p>Ms Wang Shuhui Mabel</p>
+</li>
+<li>
+<p>English Department</p>
+<p><strong>HOD English</strong>
+</p>
+<p>Mr Koh Tze Khang Adrian</p>
+<p><strong>Senior Teacher (General Paper)</strong>
+</p>
+<p>Mdm Tang Ling Ling</p>
+<p><strong>Senior Teacher (Literature)</strong>
+</p>
+<p>Ms Chew Ai Ling Melissa</p>
+<p><strong>SH General Paper</strong>
+</p>
+<p>Ms Ang Hui Ting</p>
+<p>Ms Sharifah Nadzirah Bte Syed Zulkifli</p>
+<p><strong>SH English Literature</strong>
+</p>
+<p>Mdm Lim Sok Peng</p>
+<p><strong>SH Civic Education</strong>
+</p>
+<p>Ms Choo Li Min Bernadette Teresa</p>
+<p><strong>Teachers</strong>
+</p>
+<p>Mr Acer Ng Yu Xuan</p>
+<p>Ms Ang Soey Leng Lynn</p>
+<p>Ms Aw Yuan Ling Cheryl</p>
+<p>Ms Chai Xue Fang Beatrice</p>
+<p>Mdm Eng Seok Hoon Rose</p>
+<p>Ms Goh Mei-Yi, Eunice</p>
+<p>Ms Hemma Balakrishnan</p>
+<p>Ms Ho Ying Xin, Berakah</p>
+<p>Ms Lim Wenjia, Claresta</p>
+<p>Ms Loh Yee Wei Clare</p>
+<p>Ms Sim Shan Lin</p>
+<p>Mr Tan Deng Zheng</p>
+<p>Mr Tay Xiang Wei</p>
+<p>Mr Tsui Hui Ee Samuel</p>
+<p>Ms Usha d/o Pillai</p>
+</li>
+<li>
+<p>Humanities Department</p>
+<p><strong>HOD Humanities &amp; Engagement &amp; Partnerships</strong>
+</p>
+<p>Ms Ong Shu Hui</p>
+<p><strong>JC2 Dean</strong>
+</p>
+<p>Ms Zhu Youyan, Corrine</p>
+<p><strong>SH Geography</strong>
+</p>
+<p>Ms Neo Zhi Wei</p>
+<p><strong>SH Engagement &amp; Partnerships</strong>
+</p>
+<p>Mr Goh Ying Shi Darwin</p>
+<p><strong>Teachers</strong>
+</p>
+<p>Mr Kuan Jie Hui Eugene</p>
+<p>Ms Lim Mei Fu Gayne</p>
+<p>Mr Ng Kim Teck</p>
+<p>Mr Sebastian Goh Wei Ying</p>
+</li>
+<li>
+<p>Languages Department</p>
+<p><strong>HOD Languages</strong>
+</p>
+<p>Ms Esther Tan Pin Yong</p>
+<p><strong>Lead Teacher (Tamil Language)</strong>
+</p>
+<p>Mr Veeramuthu Ganesan</p>
+<p><strong>SH Chinese Language</strong>
+</p>
+<p>Ms Ong Si Min</p>
+<p><strong>Teachers</strong>
+</p>
+<p>Mdm Kamalavani d/o Palaiyan</p>
+<p>Ms Kalaivani d/o Ilango</p>
+<p>Ms Ma Junhui</p>
+<p>Mdm Ong Kwee Hoon</p>
+<p>Ms Siti Nur Khairiah Binte Zakaria</p>
+<p>Mdm Yao Heping</p>
+</li>
+<li>
+<p>Mathematics Department</p>
+<p><strong>HOD Mathematics</strong>
+</p>
+<p>Mr Kan Kok Leong</p>
+<p><strong>JC1 Deputy Dean</strong>
+</p>
+<p>Mr Lee Han Meng Desmond</p>
+<p><strong>Senior Teachers</strong>
+</p>
+<p>Mr Anuar Bin Kassim</p>
+<p>Mr Cheu Ker Jim</p>
+<p><strong>SH Mathematics</strong>
+</p>
+<p>Mr Lim Ting</p>
+<p>Mr Tay Guo Yong</p>
+<p><strong>SH IME &amp; EdTech</strong>
+</p>
+<p>Mr Lam Meng Hwee</p>
+<p><strong>Teachers</strong>
+</p>
+<p>Ms Foo Yong Jeh</p>
+<p>Mr Gi Soong Chee</p>
+<p>Ms Koh Seok Xian</p>
+<p>Mdm Koh Suh Miin</p>
+<p>Mr Kenneth Khoo Jin Yee</p>
+<p>Mr Lau Haw Ping</p>
+<p>Mr Lee Dong Liang</p>
+<p>Ms Ng Cheng Yee</p>
+<p>Mdm Sundraes Teckwani</p>
+<p>Mr Tan Chin Kah</p>
+<p>Ms Tan Li Rong</p>
+</li>
+<li>
+<p>Physical Education Department</p>
+<p><strong>HOD Physical Education</strong>
+</p>
+<p>Ms Tay Li May</p>
+<p><strong>Senior Teachers</strong>
+</p>
+<p>Mr Chua Wee Lian William</p>
+<p><strong>SH PE &amp; CCA</strong>
+</p>
+<p>Mr Chang Shu Yuet</p>
+<p><strong>Teachers</strong>
+</p>
+<p>Mr Chong Song Cheng</p>
+<p>Mr Clunies Ross Sean James</p>
+<p>Mr Ho Kuan Peng</p>
+<p>Mr Lee Kok Weng</p>
+<p>Mr Tan Ser Yang</p>
+</li>
+<li>
+<p>Project Work Department</p>
+<p><strong>HOD Project Work</strong>
+</p>
+<p>Mr Lim Che Pinn Andy</p>
+<p><strong>SH Project Work</strong>
+</p>
+<p>Ms Lim Li Wen Evon</p>
+<p><strong>SH Information and Communication Technology</strong>
+</p>
+<p>Ms Koh Wenting</p>
 <p></p>
- <p style="margin-bottom:0;"><b>Teachers</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Ng Song En, John</p>
-			<p style="margin : 0; padding-top:0;">Ms Khaw Maylee</p> 
-			<p style="margin : 0; padding-top:0;">Ms Koh Yi Ting Cristee</p>
-			<p style="margin : 0; padding-top:0;">Mrs Malarvizhi Haugen</p>
-    </div>
-  </li>
- <li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9">Science Department</label>
-    <div>
-      <p style="margin-bottom:0;"><b>HOD Science (Biology and Physics)</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Ong Jun Kok</p>
-      <p style="margin-bottom:0;"><b>HOD Science (Chemistry &amp; Science Research)</b></p>
-      <p style="margin : 0; padding-top:0;">Ms Wong Kai Ning</p>
-      <p style="margin-bottom:0;"><b>HOD Character and Citizenship Education</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Yeo Wee Leng, Joshua</p>
-      <p style="margin-bottom:0;"><b>HOD Information &amp; Communication Technology &amp; Assessment</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Oh Chee Tiong</p>
-			      <p style="margin-bottom:0;"><b>School Staff Developer
-</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Ng Yung Hui Eugene</p>
-			<p style="margin-bottom:0;"><b>JC2 Deputy Dean</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Khiew Shi Hui</p>
-			<p style="margin-bottom:0;"><b>Lead Teacher (Physics)</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Sng Peng Poo</p>
-			<p style="margin-bottom:0;"><b>Lead Teacher (Biology)</b></p>
-      <p style="margin : 0; padding-top:0;">Mdm Leow Li Ting</p>
-      <p style="margin-bottom:0;"><b>Senior Teachers (Chemistry)</b></p>
-      <p style="margin : 0; padding-top:0;">Ms Cheng Chee Wei Esther</p>
-			<p style="margin : 0; padding-top:0;">Mrs Chai Chung Mun</p>
-      <p style="margin-bottom:0;"><b>Senior Teachers (Physics)</b></p>
-      <p style="margin : 0; padding-top:0;">Mdm Tay Sai Ghor</p>
-		      <p style="margin-bottom:0;"><b>SH Biology</b></p>
-      <p style="margin : 0; padding-top:0;">Mdm Resma Bte Gulzar Mohd</p>
-			      <p style="margin-bottom:0;"><b>SH Chemistry</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Peh Kar Liang</p>
-			<p style="margin : 0; padding-top:0;">Mr Yang Wee Chin, Kenneth</p>
-			<p style="margin-bottom:0;"><b>SH Physics</b></p>
-			<p style="margin : 0; padding-top:0;">Mdm Tan Pei Yun</p>
-			<p style="margin-bottom:0;"><b>SH STEM</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Soo Kah Wai Kelvin</p>
-      <p style="margin-bottom:0;"><b>SH Guidance</b></p>
-      <p style="margin : 0; padding-top:0;">Mr Yang Weizheng, Adrian</p>
-      <p style="margin-bottom:0;"><b>Teachers</b></p>
-			<p style="margin : 0; padding-top:0;">Ms Agnes Chia Yi Fang</p>
-			<p style="margin : 0; padding-top:0;">Ms Aw Meng Yuan</p>
-			<p style="margin : 0; padding-top:0;">Mr Chia Zhao Shan Elsen</p>  		
-			<p style="margin : 0; padding-top:0;">Ms Chua Charlotte</p>  					
-			<p style="margin : 0; padding-top:0;">Ms Eng Chai Hoon Jaslyn</p>					
-			<p style="margin : 0; padding-top:0;">Mdm Goh Sok Leng</p>  		
-			<p style="margin : 0; padding-top:0;">Mr Goh Wing Hoe, Vincent</p>  					
-			<p style="margin : 0; padding-top:0;">Ms Hu Meijiao</p>						
-			<p style="margin : 0; padding-top:0;">Mrs Lian-Lim Chew Ling</p>	
-			<p style="margin : 0; padding-top:0;">Ms Lee Gui Wei</p>  		
-			<p style="margin : 0; padding-top:0;">Ms Leow Shu Ting</p>  					
-			<p style="margin : 0; padding-top:0;">Mdm Leung Sau Wai</p>					
-			<p style="margin : 0; padding-top:0;">Mdm Sim Yong Hui</p>  		
-			<p style="margin : 0; padding-top:0;">Ms Seah Suei Hua Jocelyn</p>  					
-			<p style="margin : 0; padding-top:0;">Ms Tan Ee Yong</p>		
-			<p style="margin : 0; padding-top:0;">Mr Tan Heng Huat, Jason</p>	
-			<p style="margin : 0; padding-top:0;">Ms Tok Kah En</p>	
-			<p style="margin : 0; padding-top:0;">Mr Yeong Chong Yiing</p>  		
-    </div>
-  </li>
-	 <li>						
-    <input id="accordion10" type="checkbox">						
-    <label for="accordion10">Executive &amp; Administrative Staff</label>		
-    <div>
-			<p style="margin-bottom:0;"><b>Administrative Manager</b></p>
-			<p style="margin : 0; padding-top:0;">Mdm Yeo Lern Hun</p>
-			<p style="margin-bottom:0;"><b>Operations Manager</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Eric Yeo Eng Koon</p>
-			<p style="margin : 0; padding-top:0;">Mr Kong Koon Fock</p>
-			<p style="margin-bottom:0;"><b>ICT Manager</b></p>
-			<p style="margin : 0; padding-top:0;">Mr Tan Wee Dat</p>	
-			<p style="margin-bottom:0;"><b>Administrative Executives</b></p>													
-			<p style="margin : 0; padding-top:0;">Ms Wong Miao Ling</p>
-			<p style="margin : 0; padding-top:0;">Mr Yu Yeong Jian Albert</p>					
-			<p style="margin-bottom:0;"><b>Senior School Counsellor</b></p>					
-			<p style="margin : 0; padding-top:0;">Ms Chiang Yik Huey, Sophia</p>				
-			<p style="margin-bottom:0;"><b>ECG Counsellor</b></p>					
-			<p style="margin : 0; padding-top:0;">Mr Gui Choon Hock Tony</p>						
-			<p style="margin-bottom:0;"><b>Corporate Support Officers</b></p>			
-			<p style="margin : 0; padding-top:0;">Ms Dorothy Yeng Siew Yin</p>
-			<p style="margin : 0; padding-top:0;">Mdm Ngiam Min Lin Linda</p>			
-			<p style="margin : 0; padding-top:0;">Mdm Rohaya Taib</p>				
-			<p style="margin-bottom:0;"><b>AVA Technician</b></p>			
-      <p style="margin : 0; padding-top:0;">Mr Lim Wenjun</p>						
-      <p style="margin-bottom:0;"><b>Technical Support Officers</b></p>	
-			<p style="margin : 0; padding-top:0;">Mr Chua Chim Chuan Edmund</p>						
-			<p style="margin : 0; padding-top:0;">Mr Liew Chee Keong Calvin</p>			
-			<p style="margin : 0; padding-top:0;">Mr Lim Sim Seng Andrew</p>			
-			<p style="margin : 0; padding-top:0;">Ms Nurlela Binte Hamzah</p>			
-			<p style="margin : 0; padding-top:0;">Mr Oh Piow Kwang			
-			</p>			
-			<p style="margin : 0; padding-top:0;">Ms Tan Lay Kwee Joanne</p>						
-      <p style="margin-bottom:0;"><b>Operations Support Officers</b></p>				
-			<p style="margin : 0; padding-top:0;">Mdm Choo Ah Sai Lina</p>
-			<p style="margin : 0; padding-top:0;">Mr Lim Cheng Keong</p>
-			<p style="margin : 0; padding-top:0;">Mr Lim Chey Keng Anne</p>
-      <p style="margin : 0; padding-top:0;">Mr Ng Seng Yong</p>	
-			<p style="margin : 0; padding-top:0;">Mdm Oh Siew Eng</p>		
-			<p style="margin : 0; padding-top:0;">Mdm Ong Bee Wah</p>
-			<p style="margin : 0; padding-top:0;">Ms Soh Imm Gim</p>									
-			<p style="margin : 0; padding-top:0;">Mdm Toh Swee Ai Judy</p>
-			<p style="margin : 0; padding-top:0;">Mdm Usharani Uthaya Kumaran</p>					<p style="margin-bottom:0;"><b>Desktop Engineers</b></p>			
-			<p style="margin : 0; padding-top:0;">Mr Jonathan Tiong</p>
-			<p style="margin : 0; padding-top:0;">Mr Wong Ee Kiong</p>
-			<p style="margin-bottom:0;"><b>Librarian</b></p>			
-			<p style="margin : 0; padding-top:0;">Ms Jenny Heng</p>
-			<p style="margin-bottom:0;"><b>School Administrative Support Officer</b></p>			
-			<p style="margin : 0; padding-top:0;">Ms Khairunnisa Sulaiman</p>
-			<p style="margin-bottom:0;"><b>
-</b></p></div></li></ul>
+<p><strong>Teachers</strong>
+</p>
+<p>Mr Ng Song En, John</p>
+<p>Ms Khaw Maylee</p>
+<p>Ms Koh Yi Ting Cristee</p>
+<p>Mrs Malarvizhi Haugen</p>
+</li>
+<li>
+<p>Science Department</p>
+<p><strong>HOD Science (Biology and Physics)</strong>
+</p>
+<p>Mr Ong Jun Kok</p>
+<p><strong>HOD Science (Chemistry &amp; Science Research)</strong>
+</p>
+<p>Ms Wong Kai Ning</p>
+<p><strong>HOD Character and Citizenship Education</strong>
+</p>
+<p>Mr Yeo Wee Leng, Joshua</p>
+<p><strong>HOD Information &amp; Communication Technology &amp; Assessment</strong>
+</p>
+<p>Mr Oh Chee Tiong</p>
+<p><strong>School Staff Developer</strong>
+</p>
+<p>Mr Ng Yung Hui Eugene</p>
+<p><strong>JC2 Deputy Dean</strong>
+</p>
+<p>Ms Khiew Shi Hui</p>
+<p><strong>Lead Teacher (Physics)</strong>
+</p>
+<p>Mr Sng Peng Poo</p>
+<p><strong>Lead Teacher (Biology)</strong>
+</p>
+<p>Mdm Leow Li Ting</p>
+<p><strong>Senior Teachers (Chemistry)</strong>
+</p>
+<p>Ms Cheng Chee Wei Esther</p>
+<p>Mrs Chai Chung Mun</p>
+<p><strong>Senior Teachers (Physics)</strong>
+</p>
+<p>Mdm Tay Sai Ghor</p>
+<p><strong>SH Biology</strong>
+</p>
+<p>Mdm Resma Bte Gulzar Mohd</p>
+<p><strong>SH Chemistry</strong>
+</p>
+<p>Mr Peh Kar Liang</p>
+<p>Mr Yang Wee Chin, Kenneth</p>
+<p><strong>SH Physics</strong>
+</p>
+<p>Mdm Tan Pei Yun</p>
+<p><strong>SH STEM</strong>
+</p>
+<p>Mr Soo Kah Wai Kelvin</p>
+<p><strong>SH Guidance</strong>
+</p>
+<p>Mr Yang Weizheng, Adrian</p>
+<p><strong>Teachers</strong>
+</p>
+<p>Ms Agnes Chia Yi Fang</p>
+<p>Ms Aw Meng Yuan</p>
+<p>Mr Chia Zhao Shan Elsen</p>
+<p>Ms Chua Charlotte</p>
+<p>Ms Eng Chai Hoon Jaslyn</p>
+<p>Mdm Goh Sok Leng</p>
+<p>Mr Goh Wing Hoe, Vincent</p>
+<p>Ms Hu Meijiao</p>
+<p>Mrs Lian-Lim Chew Ling</p>
+<p>Ms Lee Gui Wei</p>
+<p>Ms Leow Shu Ting</p>
+<p>Mdm Leung Sau Wai</p>
+<p>Mdm Sim Yong Hui</p>
+<p>Ms Seah Suei Hua Jocelyn</p>
+<p>Ms Tan Ee Yong</p>
+<p>Mr Tan Heng Huat, Jason</p>
+<p>Ms Tok Kah En</p>
+<p>Mr Yeong Chong Yiing</p>
+</li>
+<li>
+<p>Executive &amp; Administrative Staff</p>
+<p><strong>Administrative Manager</strong>
+</p>
+<p>Mdm Yeo Lern Hun</p>
+<p><strong>Operations Manager</strong>
+</p>
+<p>Mr Eric Yeo Eng Koon</p>
+<p>Mr Kong Koon Fock</p>
+<p><strong>ICT Manager</strong>
+</p>
+<p>Mr Tan Wee Dat</p>
+<p><strong>Administrative Executives</strong>
+</p>
+<p>Ms Wong Miao Ling</p>
+<p>Mr Yu Yeong Jian Albert</p>
+<p><strong>Senior School Counsellor</strong>
+</p>
+<p>Ms Chiang Yik Huey, Sophia</p>
+<p><strong>ECG Counsellor</strong>
+</p>
+<p>Mr Gui Choon Hock Tony</p>
+<p><strong>Corporate Support Officers</strong>
+</p>
+<p>Ms Dorothy Yeng Siew Yin</p>
+<p>Mdm Janet Jay Lee Wee Na</p>
+<p>Mdm Ngiam Min Lin Linda</p>
+<p>Mdm Rohaya Taib</p>
+<p><strong>AVA Technician</strong>
+</p>
+<p>Mr Lim Wenjun</p>
+<p><strong>Technical Support Officers</strong>
+</p>
+<p>Mr Chua Chim Chuan Edmund</p>
+<p>Mr Liew Chee Keong Calvin</p>
+<p>Mr Lim Sim Seng Andrew</p>
+<p>Ms Nurlela Binte Hamzah</p>
+<p>Mr Oh Piow Kwang</p>
+<p>Ms Tan Lay Kwee Joanne</p>
+<p><strong>Operations Support Officers</strong>
+</p>
+<p>Mdm Choo Ah Sai Lina</p>
+<p>Mr Lim Cheng Keong</p>
+<p>Mr Lim Chey Keng Anne</p>
+<p>Mr Ng Seng Yong</p>
+<p>Mdm Oh Siew Eng</p>
+<p>Mdm Ong Bee Wah</p>
+<p>Ms Soh Imm Gim</p>
+<p>Mdm Toh Swee Ai Judy</p>
+<p>Mdm Usharani Uthaya Kumaran</p>
+<p><strong>Desktop Engineers</strong>
+</p>
+<p>Mr Jonathan Tiong</p>
+<p>Mr Wong Ee Kiong</p>
+<p><strong>Librarian</strong>
+</p>
+<p>Ms Jenny Heng</p>
+<p><strong>School Administrative Support Officer</strong>
+</p>
+<p>Ms Khairunnisa Sulaiman</p>
+<p></p>
+</li>
+</ul>
+<p></p>
