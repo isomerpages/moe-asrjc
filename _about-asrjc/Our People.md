@@ -2,7 +2,7 @@
 title: Our People
 permalink: /about-asrjc/our-people/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <ul>
 <li>
