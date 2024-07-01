@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>School Leaders</summary>
+<summary><strong>School Leaders</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Principal</strong>
 </p>
@@ -19,7 +20,8 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Economics Department</summary>
+<summary><strong>Economics Department</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Economics</strong>
 </p>
@@ -49,7 +51,8 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>English Department</summary>
+<summary><strong>English Department</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD English</strong>
 </p>
@@ -90,7 +93,8 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Humanities Department</summary>
+<summary><strong>Humanities Department</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Humanities &amp; Engagement &amp; Partnerships</strong>
 </p>
@@ -113,7 +117,8 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Languages Department</summary>
+<summary><strong>Languages Department</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Languages</strong>
 </p>
@@ -135,7 +140,8 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Mathematics Department</summary>
+<summary><strong>Mathematics Department</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Mathematics</strong>
 </p>
@@ -170,7 +176,8 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Physical Education Department</summary>
+<summary><strong>Physical Education Department</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Physical Education</strong>
 </p>
@@ -191,7 +198,8 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Project Work Department</summary>
+<summary><strong>Project Work Department</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Project Work</strong>
 </p>
@@ -210,7 +218,8 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Science Department</summary>
+<summary><strong>Science Department</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Science (Biology and Physics)</strong>
 </p>
@@ -282,7 +291,8 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Executive &amp; Administrative Staff</summary>
+<summary><strong>Executive &amp; Administrative Staff</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Administrative Manager</strong>
 </p>
@@ -345,9 +355,4 @@ variant: tiptap
 </div>
 </details>
 </div>
-<ul>
-<li>
-<p></p>
-</li>
-</ul>
 <p></p>
