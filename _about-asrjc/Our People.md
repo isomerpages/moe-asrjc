@@ -2,11 +2,12 @@
 title: Our People
 permalink: /about-asrjc/our-people/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<ul>
-<li>
-<p>School Leaders</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>School Leaders</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Principal</strong>
 </p>
 <p>Mr Heng Yew Seng</p>
@@ -15,18 +16,17 @@ variant: markdown
 <p>Mr Gurusharan Singh S/O Major Singh</p>
 <p>Mrs Cheng-Tey Li Shun</p>
 <p>Mdm Sharon Lim (Administration)</p>
-</li>
-<li>
-<p>Economics Department</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Economics Department</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Economics</strong>
 </p>
 <p>Mr Arumugam Meganathan</p>
 <p><strong>JC1 Dean</strong>
 </p>
 <p>Mrs Lim-Tan Su Chin</p>
-<p><strong>Senior Teacher</strong>
-</p>
-<p>Ms Kat Kar Hwee</p>
 <p><strong>SH Economics</strong>
 </p>
 <p>Mrs Agnes Wong-Lim Min Fong</p>
@@ -46,9 +46,11 @@ variant: markdown
 <p>Ms Tan Sok Mun Ruth</p>
 <p>Ms Ten Cai Tian</p>
 <p>Ms Wang Shuhui Mabel</p>
-</li>
-<li>
-<p>English Department</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>English Department</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD English</strong>
 </p>
 <p>Mr Koh Tze Khang Adrian</p>
@@ -85,9 +87,11 @@ variant: markdown
 <p>Mr Tay Xiang Wei</p>
 <p>Mr Tsui Hui Ee Samuel</p>
 <p>Ms Usha d/o Pillai</p>
-</li>
-<li>
-<p>Humanities Department</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Humanities Department</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Humanities &amp; Engagement &amp; Partnerships</strong>
 </p>
 <p>Ms Ong Shu Hui</p>
@@ -106,9 +110,11 @@ variant: markdown
 <p>Ms Lim Mei Fu Gayne</p>
 <p>Mr Ng Kim Teck</p>
 <p>Mr Sebastian Goh Wei Ying</p>
-</li>
-<li>
-<p>Languages Department</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Languages Department</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Languages</strong>
 </p>
 <p>Ms Esther Tan Pin Yong</p>
@@ -126,9 +132,11 @@ variant: markdown
 <p>Mdm Ong Kwee Hoon</p>
 <p>Ms Siti Nur Khairiah Binte Zakaria</p>
 <p>Mdm Yao Heping</p>
-</li>
-<li>
-<p>Mathematics Department</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Mathematics Department</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Mathematics</strong>
 </p>
 <p>Mr Kan Kok Leong</p>
@@ -159,9 +167,11 @@ variant: markdown
 <p>Mdm Sundraes Teckwani</p>
 <p>Mr Tan Chin Kah</p>
 <p>Ms Tan Li Rong</p>
-</li>
-<li>
-<p>Physical Education Department</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Physical Education Department</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Physical Education</strong>
 </p>
 <p>Ms Tay Li May</p>
@@ -178,9 +188,11 @@ variant: markdown
 <p>Mr Ho Kuan Peng</p>
 <p>Mr Lee Kok Weng</p>
 <p>Mr Tan Ser Yang</p>
-</li>
-<li>
-<p>Project Work Department</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Project Work Department</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Project Work</strong>
 </p>
 <p>Mr Lim Che Pinn Andy</p>
@@ -190,16 +202,16 @@ variant: markdown
 <p><strong>SH Information and Communication Technology</strong>
 </p>
 <p>Ms Koh Wenting</p>
-<p></p>
 <p><strong>Teachers</strong>
 </p>
-<p>Mr Ng Song En, John</p>
 <p>Ms Khaw Maylee</p>
 <p>Ms Koh Yi Ting Cristee</p>
 <p>Mrs Malarvizhi Haugen</p>
-</li>
-<li>
-<p>Science Department</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Science Department</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>HOD Science (Biology and Physics)</strong>
 </p>
 <p>Mr Ong Jun Kok</p>
@@ -267,9 +279,11 @@ variant: markdown
 <p>Mr Tan Heng Huat, Jason</p>
 <p>Ms Tok Kah En</p>
 <p>Mr Yeong Chong Yiing</p>
-</li>
-<li>
-<p>Executive &amp; Administrative Staff</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Executive &amp; Administrative Staff</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Administrative Manager</strong>
 </p>
 <p>Mdm Yeo Lern Hun</p>
@@ -328,6 +342,11 @@ variant: markdown
 <p><strong>School Administrative Support Officer</strong>
 </p>
 <p>Ms Khairunnisa Sulaiman</p>
+</div>
+</details>
+</div>
+<ul>
+<li>
 <p></p>
 </li>
 </ul>
