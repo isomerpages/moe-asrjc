@@ -123,9 +123,6 @@ variant: tiptap
 <p><strong>HOD Languages</strong>
 </p>
 <p>Ms Esther Tan Pin Yong</p>
-<p><strong>Lead Teacher (Tamil Language)</strong>
-</p>
-<p>Mr Veeramuthu Ganesan</p>
 <p><strong>SH Chinese Language</strong>
 </p>
 <p>Ms Ong Si Min</p>
@@ -318,7 +315,6 @@ variant: tiptap
 </p>
 <p>Ms Dorothy Yeng Siew Yin</p>
 <p>Mdm Janet Jay Lee Wee Na</p>
-<p>Mdm Ngiam Min Lin Linda</p>
 <p>Mdm Rohaya Taib</p>
 <p><strong>AVA Technician</strong>
 </p>
@@ -326,7 +322,6 @@ variant: tiptap
 <p><strong>Technical Support Officers</strong>
 </p>
 <p>Mr Chua Chim Chuan Edmund</p>
-<p>Mr Liew Chee Keong Calvin</p>
 <p>Mr Lim Sim Seng Andrew</p>
 <p>Ms Nurlela Binte Hamzah</p>
 <p>Mr Oh Piow Kwang</p>
