@@ -9,14 +9,14 @@ Joint Admissions Exercise
 
 Ready to write a completely new chapter of your academic life? Join us via the Joint Admissions Exercise.
 
-The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE O-Level certificate holders to apply for admission to courses offered by the JCs/CI/Polytechnics/ITE.
+The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE O-Level certificate holders to apply for admission to courses offered by the JCs/Millennia Institute/Polytechnics/ITE.
 
 The following groups of students (except those who accepted an offer via JC Direct School Admission or Poly Early Admissions Exercise) are eligible to apply:
 
 *   All Singapore Citizens (SC) or Permanent Residents (SPR) with valid Singapore-Cambridge GCE O-Level Examinations results from any year.
 *   International students studying in a Government School, Government-Aided School or Independent School in Singapore with valid Singapore-Cambridge GCE O- Level Examination results of the preceding year.
 
-Applicants may apply for the Joint Admissions Exercise (JAE) registration via the JAE Internet System (JAE-IS) within 5 calendar days after the release of the Singapore-Cambridge GCE O-Level Examination results.
+Applicants may apply for the Joint Admissions Exercise (JAE) registration via the JAE Internet System (JAE-IS) within 6 calendar days after the release of the Singapore-Cambridge GCE O-Level Examination results.
 
 #### Cut-off L1R5 Points for Admission into ASRJC
 
