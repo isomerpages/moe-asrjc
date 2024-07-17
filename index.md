@@ -2,7 +2,7 @@
 layout: homepage
 title: Anderson Serangoon Junior College
 description: An Isomer site of the Singapore Government
-image: /images/10.jpg
+image: /images/fieldpiceditedbyshuhui.jpg
 permalink: /
 notification: ""
 sections:
@@ -51,10 +51,9 @@ sections:
       title: WELCOME JC1s!
       subtitle: HIGHLIGHTS
       id: infopic
-      description: >-
-        A warm welcome to our JC1s! 
-
-        Your exciting journey with ASR starts this Friday, 2 February! Please report to college by 8 a.m. in your secondary school uniform.
+      description: A warm welcome to our JC1s!  Your exciting journey with ASR starts
+        this Friday, 2 February! Please report to college by 8 a.m. in your
+        secondary school uniform.
       button: MORE DETAILS HERE
       url: /highlights/jc1welcome/
       image: /images/Welcome_Pic2.jpg
