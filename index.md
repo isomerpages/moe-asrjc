@@ -14,10 +14,21 @@ sections:
           url: https://www.instagram.com/asr.jc/
         - title: Highlights
           description: Check out our highlights!
-          url: /highlights/storiesclassof2022/
+          url: https://www.asrjc.moe.edu.sg/career-and-industry-scholarship-symposium/
         - title: Direct School Admission (DSA)
           description: See our new talent areas!
           url: /joining-asrjc/direct-school-admission/
+  - infopic:
+      title: University and Scholarship Symposium 2024
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: The recently concluded symposium was a vibrant and enlightening
+        event designed to guide aspiring students toward their educational
+        goals.
+      button: VIEW HERE
+      url: https://www.asrjc.moe.edu.sg/university-and-scholarship-symposium-2024/
+      image: /images/unisym1.jpg
+      alt: Image alt text
   - infopic:
       title: DSA-JC Exercise 2024
       subtitle: New!
@@ -29,7 +40,7 @@ sections:
       image: /images/DSA_2024_Thumbnail.jpg
       alt: Image alt text
   - infopic:
-      title: 2024 MTL Fortnight
+      title: MTL Fortnight 2024
       subtitle: Highlights
       description: "2024 Mother Tongue Fortnight: Dive into a vibrant celebration of
         language and culture through immersive activities and performances."
