@@ -27,7 +27,7 @@ sections:
         goals.
       button: VIEW HERE
       url: https://www.asrjc.moe.edu.sg/university-and-scholarship-symposium-2024/
-      image: /images/3a29f707e18fc8475c32006a5e8034c.jpg
+      image: /images/unisym1.jpg
       alt: Image alt text
   - infopic:
       title: DSA-JC Exercise 2024
