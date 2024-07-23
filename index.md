@@ -14,7 +14,7 @@ sections:
           url: https://www.instagram.com/asr.jc/
         - title: Highlights
           description: Check out our highlights!
-          url: https://www.asrjc.moe.edu.sg/career-and-industry-scholarship-symposium/
+          url: https://www.asrjc.moe.edu.sg/https://www.asrjc.moe.edu.sg/university-and-scholarship-symposium-2024/
         - title: Direct School Admission (DSA)
           description: See our new talent areas!
           url: /joining-asrjc/direct-school-admission/
