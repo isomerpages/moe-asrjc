@@ -19,6 +19,17 @@ sections:
           description: See our new talent areas!
           url: /joining-asrjc/direct-school-admission/
   - infopic:
+      title: University and Scholarship Symposium 2024
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: The recently concluded symposium was a vibrant and enlightening
+        event designed to guide aspiring students toward their educational
+        goals.
+      button: VIEW HERE
+      url: https://www.asrjc.moe.edu.sg/university-and-scholarship-symposium-2024/
+      image: /images/01371f66a93ac4d2bdf65594f8e792d.jpg
+      alt: Image alt text
+  - infopic:
       title: DSA-JC Exercise 2024
       subtitle: New!
       id: infopic
