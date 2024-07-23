@@ -40,7 +40,7 @@ sections:
       image: /images/DSA_2024_Thumbnail.jpg
       alt: Image alt text
   - infopic:
-      title: 2024 MTL Fortnight
+      title: MTL Fortnight 2024
       subtitle: Highlights
       description: "2024 Mother Tongue Fortnight: Dive into a vibrant celebration of
         language and culture through immersive activities and performances."
