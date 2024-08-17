@@ -37,6 +37,7 @@ sections:
       button: View Here
       url: www
       alt: Image alt text
+      subtitle: HIGHLIGHTS
   - infopic:
       title: DSA-JC Exercise 2024
       subtitle: New!
