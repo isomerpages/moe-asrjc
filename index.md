@@ -30,6 +30,14 @@ sections:
       image: /images/unisym1.jpg
       alt: Image alt text
   - infopic:
+      title: Homecoming 2024
+      id: infopic
+      description: Join us as we reflect on the remarkable achievements of our alumni,
+        enjoy vibrant activities, and honor the enduring spirit of ASRJC.
+      button: View Here
+      url: www
+      alt: Image alt text
+  - infopic:
       title: DSA-JC Exercise 2024
       subtitle: New!
       id: infopic
@@ -78,12 +86,4 @@ sections:
       alt: Image alt text
       description: "See ASRJC's Open House highlights: engaging booths, performances,
         and talks in one vibrant community."
-  - infopic:
-      title: Homecoming 2024
-      id: infopic
-      description: Join us as we reflect on the remarkable achievements of our alumni,
-        enjoy vibrant activities, and honor the enduring spirit of ASRJC.
-      button: Discover More
-      url: www
-      alt: Image alt text
 ---
