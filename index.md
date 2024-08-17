@@ -54,7 +54,7 @@ sections:
       description: "2024 Mother Tongue Fortnight: Dive into a vibrant celebration of
         language and culture through immersive activities and performances."
       button: view here
-      url: /highlights/permalink/mtlfortnight
+      url: https://www.asrjc.moe.edu.sg/highlights/permalink/mtlfortnight-2024/
       image: /images/Picture1_new.png
       alt: Image alt text
   - infopic:
