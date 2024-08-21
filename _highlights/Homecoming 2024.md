@@ -24,12 +24,15 @@ and reminisced about their time at ASRJC.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ARSJC79_resized.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ARSJC107_resized.jpg">
+</div>
 <p>The pinnacle of the event was our annual awards ceremony, where we proudly
 honored the outstanding accomplishments of the Class of 2023. This special
 moment also provided an opportunity to express our deep appreciation for
 the invaluable contributions of our ASRJC Partners, whose unwavering support
 has played a pivotal role in our success.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Luo_Xiaoman_resized.jpg">
