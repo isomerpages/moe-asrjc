@@ -38,6 +38,7 @@ sections:
       url: www
       alt: Image alt text
       subtitle: HIGHLIGHTS
+      image: /images/ARSJC95_resized__1_.jpg
   - infopic:
       title: DSA-JC Exercise 2024
       subtitle: New!
