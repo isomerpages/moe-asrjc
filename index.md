@@ -14,10 +14,20 @@ sections:
           url: https://www.instagram.com/asr.jc/
         - title: Highlights
           description: Check out our highlights!
-          url: https://www.asrjc.moe.edu.sg/university-and-scholarship-symposium-2024/
+          url: https://www.asrjc.moe.edu.sg/homecoming-2024/
         - title: Direct School Admission (DSA)
           description: See our new talent areas!
           url: /joining-asrjc/direct-school-admission/
+  - infopic:
+      title: Homecoming 2024
+      id: infopic
+      description: Join us as we reflect on the remarkable achievements of our alumni,
+        enjoy vibrant activities, and honor the enduring spirit of ASRJC.
+      button: View Here
+      url: https://www.asrjc.moe.edu.sg/homecoming-2024/
+      alt: Image alt text
+      subtitle: HIGHLIGHTS
+      image: /images/ARSJC95_resized__1_.jpg
   - infopic:
       title: University and Scholarship Symposium 2024
       subtitle: HIGHLIGHTS
@@ -29,16 +39,6 @@ sections:
       url: https://www.asrjc.moe.edu.sg/university-and-scholarship-symposium-2024/
       image: /images/unisym1.jpg
       alt: Image alt text
-  - infopic:
-      title: Homecoming 2024
-      id: infopic
-      description: Join us as we reflect on the remarkable achievements of our alumni,
-        enjoy vibrant activities, and honor the enduring spirit of ASRJC.
-      button: View Here
-      url: www
-      alt: Image alt text
-      subtitle: HIGHLIGHTS
-      image: /images/ARSJC95_resized__1_.jpg
   - infopic:
       title: DSA-JC Exercise 2024
       subtitle: New!
