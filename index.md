@@ -30,6 +30,16 @@ sections:
       image: /images/unisym1.jpg
       alt: Image alt text
   - infopic:
+      title: Homecoming 2024
+      id: infopic
+      description: Join us as we reflect on the remarkable achievements of our alumni,
+        enjoy vibrant activities, and honor the enduring spirit of ASRJC.
+      button: View Here
+      url: www
+      alt: Image alt text
+      subtitle: HIGHLIGHTS
+      image: /images/ARSJC95_resized__1_.jpg
+  - infopic:
       title: DSA-JC Exercise 2024
       subtitle: New!
       id: infopic
@@ -45,7 +55,7 @@ sections:
       description: "2024 Mother Tongue Fortnight: Dive into a vibrant celebration of
         language and culture through immersive activities and performances."
       button: view here
-      url: /highlights/permalink/mtlfortnight
+      url: https://www.asrjc.moe.edu.sg/highlights/permalink/mtlfortnight-2024/
       image: /images/Picture1_new.png
       alt: Image alt text
   - infopic:
