@@ -33,17 +33,28 @@ honored the outstanding accomplishments of the Class of 2023. This special
 moment also provided an opportunity to express our deep appreciation for
 the invaluable contributions of our ASRJC Partners, whose unwavering support
 has played a pivotal role in our success.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Luo_Xiaoman_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ARSJC124.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DES08452_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ARSJC125.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DES08592_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ARSJC136.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ARSJC233.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ARSJC234.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ARSJC238.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -72,10 +83,6 @@ and current students alike immersed themselves in the lively celebrations.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ARSJC294_resized.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ARSJC293_resized.jpg">
-</div>
-<p></p>
 <p>Homecoming 2024 was more than just a reunion; it was a beautiful blend
 of the past and present. As alumni and current students came together,
 they not only celebrated another significant milestone in the history of
@@ -86,10 +93,7 @@ ASRJC but also embraced the bright future that lies ahead.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240629_113419_596_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240629_115442_675.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240629_115340_294_resized.jpg">
-</div>
 <p></p>
