@@ -35,7 +35,7 @@ sections:
       description: Join us as we reflect on the remarkable achievements of our alumni,
         enjoy vibrant activities, and honor the enduring spirit of ASRJC.
       button: View Here
-      url: www
+      url: https://www.asrjc.moe.edu.sg/homecoming-2024/
       alt: Image alt text
       subtitle: HIGHLIGHTS
       image: /images/ARSJC95_resized__1_.jpg
