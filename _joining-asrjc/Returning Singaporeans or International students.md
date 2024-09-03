@@ -18,8 +18,8 @@ Anderson Serangoon Junior College offers the Singapore-Cambridge GCE A-Level Exa
 
 Our international student population consists of students from a variety of countries such as America, Britain, China, Indonesia, Malaysia, South Korea, Taiwan, Thailand and Vietnam. This multi-cultural diversity adds a welcomed dimension to the learning environment at our College.
 
-The College will only be able to consider any application for admission of international students **after** the Joint Admissions Exercise in January 2024, and if there are still available vacancies.
+The College will only be able to consider any application for admission of international students **after** the Joint Admissions Exercise in January 2025, and if there are still available vacancies.
 
 International students who wish to apply for admission to ASRJC are **required** **to sit for** **and pass** the Junior College Principals Academy Certification Test (J-PACT) conducted by Principals Academy Inc (PAI). For details on the test format and examination schedule, please visit the **[J-PACT website.](https://pact.sg/index.php?option=com_content&view=section&id=7&Itemid=74)**
 
-Applications will be via this [**link**](https://apply.asrjc.edu.sg) which will open on **26 Dec 2023**. All Applications are to be submitted by **12 Jan 2024**.
+Applications will be via this [**link**](https://apply.asrjc.edu.sg) which will open on **23 Dec 2024**. All Applications are to be submitted by **10 Jan 2025**.
