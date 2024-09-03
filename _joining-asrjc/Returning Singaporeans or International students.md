@@ -10,7 +10,7 @@ Returning Singaporeans (RS) who wish to seek admission to JC1 in the next academ
 
 Applicants may choose to apply for ASRJC if he/ she is eligible, based on the SPERS results.
 
-Applications will be via this [**link**](https://apply.asrjc.edu.sg) which will open on **26 Dec 2023**. All Applications are to be submitted by **12 Jan 2024**.
+Applications will be via this [**link**](https://apply.asrjc.edu.sg) which will open on **23 Dec 2024**. All Applications are to be submitted by **10 Jan 2025**.
 
 ### **Application for International Students**
 
