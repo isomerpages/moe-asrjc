@@ -15,9 +15,9 @@ sections:
         - title: Highlights
           description: Check out our highlights!
           url: https://www.asrjc.moe.edu.sg/homecoming-2024/
-        - title: Direct School Admission (DSA)
-          description: See our new talent areas!
-          url: /joining-asrjc/direct-school-admission/
+        - title: Education & Career Guidance @ ASR
+          description: Your ECG One-Stop Microsite
+          url: https://sites.google.com/view/asrecg/home
   - infopic:
       title: Homecoming 2024
       id: infopic
