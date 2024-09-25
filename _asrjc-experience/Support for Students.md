@@ -23,11 +23,7 @@ Students with siblings studying in different government and/ or government-aided
 
 Application for the **MOE FAS** is available in Term 1. However, applications may also be considered anytime in the year under special circumstances.
 
-**2\. Opportunity Fund (OF)**
-
-Students who require financial assistance for any enrichment programme, computer purchase and overseas trip, may approach the teacher-in-charge or the Admin Manager to apply for the OF.
-
-**3\. ASRJC College Advisory Committee Bursary (CAC Bursary)**
+**2\. ASRJC College Advisory Committee Bursary (CAC Bursary)**
 
 The ASRJC CAC Bursary provides financial assistance to needy students who do not meet the income criteria for the MOE FAS. Application for the CAC Bursary is available in Term 1, and the amount to be awarded ranges from $800 to $1000 per annum. Applicants should not be receiving any other scholarship or bursary awards (except the Edusave Merit Scholarship or Edusave Merit Bursary awarded by MOE).
 
@@ -43,7 +39,7 @@ Criteria:
 
 
 
-**4.**&nbsp;**ASRJC College Advisory Committee Scholarship**
+**3.**&nbsp;**ASRJC College Advisory Committee Scholarship**
 
 ASRJC CAC offers scholarships to outstanding JC1 students. The scholarship, which is tenable for two years, is valued at $1000 per year. Information on the application process will be shared with JC1 students during Orientation.
 
