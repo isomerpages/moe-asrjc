@@ -25,7 +25,7 @@ Application for the **MOE FAS** is available in Term 1. However, applications ma
 
 **2\. ASRJC College Advisory Committee Bursary (CAC Bursary)**
 
-The ASRJC CAC Bursary provides financial assistance to needy students who do not meet the income criteria for the MOE FAS. Application for the CAC Bursary is available in Term 1, and the amount to be awarded ranges from $800 to $1000 per annum. Applicants should not be receiving any other scholarship or bursary awards (except the Edusave Merit Scholarship or Edusave Merit Bursary awarded by MOE).
+The ASRJC CAC Bursary provides financial assistance to needy students who do not meet the income criteria for the MOE FAS. Application for the CAC Bursary is available in Term 1, and the amount to be awarded ranges from $800 to $1000 per annum. 
 
 Criteria:
 
