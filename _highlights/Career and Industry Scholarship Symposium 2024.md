@@ -44,8 +44,9 @@ arranged at the foyer, providing further guidance and information.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9750.jpg">
 </div>
 <p>To round off the event, students were directed to our newly launched Education
-and Career Guidance (ECG) microsite, designed to serve as a comprehensive
-resource hub. Here, they can access additional ECG-related information
-and view enlightening interview videos featuring professionals from various
-fields. Through this symposium, we aim to empower students to explore,
-learn, and ultimately embark on purposeful and fulfilling career journeys.</p>
+and Career Guidance (ECG) <a href="https://sites.google.com/view/asrecg/home" rel="noopener nofollow" target="_blank">microsite</a>,
+designed to serve as a comprehensive resource hub. Here, they can access
+additional ECG-related information and view enlightening interview videos
+featuring professionals from various fields. Through this symposium, we
+aim to empower students to explore, learn, and ultimately embark on purposeful
+and fulfilling career journeys.</p>
