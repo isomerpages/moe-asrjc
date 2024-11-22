@@ -8,9 +8,8 @@ variant: markdown
 
 | **Type of Stall** | **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Halal Rice/ Noodle Food Stall | 31 December 2024 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
-| Economic Rice Stall | 31 December 2024 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
-| Halal Western Food Stall | 31 December 2024 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
+| - | - | - |
+
 
 **Application Procedure**
 
