@@ -19,6 +19,15 @@ sections:
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
   - infopic:
+      title: ASRJC Open House 2025
+      subtitle: New!
+      id: infopic
+      description: ASRJC Open House 2025 will take place on 14 January Tuesday, 10am
+        to 5pm. We look forward to welcoming all of you at our Upper Serangoon
+        Campus.
+      image: /images/finallogo_yellow_.png
+      alt: Image alt text
+  - infopic:
       title: Homecoming 2024
       id: infopic
       description: Join us as we reflect on the remarkable achievements of our alumni,
