@@ -2,8 +2,8 @@ collections:
   open-house-2025:
     output: true
     order:
-      - How to get to ASR.md
-      - Special Programmes.md
-      - Co Curricular Activities.md
       - Welcome to Open House 2025.md
       - Academic Curriculum.md
+      - Co Curricular Activities.md
+      - Special Programmes.md
+      - How to get to ASR.md
