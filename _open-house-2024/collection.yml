@@ -2,7 +2,6 @@ collections:
   open-house-2024:
     output: true
     order:
-      - Welcome to Open House 2025.md
       - Welcome to Open House 2024.md
       - Academic Curriculum.md
       - Co Curricular Activities/.keep
