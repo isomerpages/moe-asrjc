@@ -2,5 +2,6 @@ collections:
   open-house-2025:
     output: true
     order:
+      - Co Curricular Activities.md
       - Welcome to Open House 2025.md
       - Academic Curriculum.md
