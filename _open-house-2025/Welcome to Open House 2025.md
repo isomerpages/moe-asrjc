@@ -14,8 +14,8 @@ co-curricular activities from 10 AM to 5 PM!</p>
 </p>
 <p>Delve into our diverse academic programs and co-curricular activities,
 ranging from STEM to sports and arts. Meet our dedicated staff and students,
-and tour our state-of-the-art facilities. Don’t miss this opportunity to
-see what makes ASR special!</p>
+and tour our our well-equipped facilities. Don’t miss this opportunity
+to see what makes ASR special!</p>
 <p></p>
 <p><strong>Download the ASR 2025 Prospectus!</strong>
 </p>
