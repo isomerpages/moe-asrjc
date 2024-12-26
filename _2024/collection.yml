@@ -1,5 +1,5 @@
 collections:
-  202x:
+  "2024":
     output: true
     order:
       - 202X.md
