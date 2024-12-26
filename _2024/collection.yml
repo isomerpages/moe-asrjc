@@ -2,7 +2,7 @@ collections:
   "2024":
     output: true
     order:
-      - 202X.md
+      - 2024.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Clubs & Societies.md
       - Co Curricular Activities/Performing Arts.md
