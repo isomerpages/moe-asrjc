@@ -19,6 +19,6 @@ see what makes ASR special!</p>
 <p></p>
 <p><strong>Download the ASR 2025 Prospectus!</strong>
 </p>
-<p>Ready to learn more? Access our comprehensive guide to all things ASR
-before your visit. Click here to explore what ASR has to offer and learn
-more about our campus community.</p>
+<p>Interested in more information? Click here to download the prospectus
+and gain insights into our diverse academic programs, co-curricular activities,
+and the lively campus environment.</p>
