@@ -50,9 +50,8 @@ have attained at least:</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rdCzg38KCro?si=8j1cdVIckMdWIR53"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8dzHxBgQ6i8?si=1ftb60KvR1l3EOJw"></iframe>
 </div>
-<p></p>
 <h3><strong>Talent Development Programme (ASR Scholars Programme)</strong></h3>
 <p>Our students enter the college with diverse aspirations. The Talent Development
 Programme, a.k.a. ASR Scholars Programme, empowers our students to fulfil
