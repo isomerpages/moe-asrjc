@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 202X.md
-      - Academic Curriculum.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Clubs & Societies.md
       - Co Curricular Activities/Performing Arts.md
