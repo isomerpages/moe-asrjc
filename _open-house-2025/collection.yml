@@ -2,8 +2,8 @@ collections:
   open-house-2025:
     output: true
     order:
-      - Sports and Games/Sports and Games.md
-      - Sports and Games/.keep
+      - Co curricular Activities/Sports and Games.md
+      - Co curricular Activities/.keep
       - Welcome to Open House 2025.md
       - Academic Curriculum.md
       - Special Programmes.md
