@@ -10,7 +10,6 @@ description: ""
 at Anderson Serangoon Junior College. Discover our academic programs and
 co-curricular activities from 10 AM to 5 PM!</p>
 <p></p>
-<p></p>
 <p><strong>What’s Happening?</strong>
 </p>
 <p>Delve into our diverse academic programs and co-curricular activities,
@@ -21,6 +20,5 @@ see what makes ASR special!</p>
 <p><strong>Download the ASR 2025 Prospectus!</strong>
 </p>
 <p>Ready to learn more? Access our comprehensive guide to all things ASR
-before your visit. Click <a href="#" rel="noopener" target="_blank">here</a> to
-download the prospectus and explore detailed insights into our academic
-programs, co-curricular activities, and vibrant campus life.</p>
+before your visit. Click here to explore what ASR has to offer and learn
+more about our campus community.</p>
