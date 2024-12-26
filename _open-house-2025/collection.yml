@@ -2,6 +2,7 @@ collections:
   open-house-2025:
     output: true
     order:
+      - Sports and Games/.keep
       - Welcome to Open House 2025.md
       - Academic Curriculum.md
       - Co Curricular Activities.md
