@@ -8,7 +8,7 @@ description: ""
 </p>
 <p>Mark your calendar for January 14th and explore the vibrant campus life
 at Anderson Serangoon Junior College. Discover our academic programs and
-co-curricular activities from 10 AM to 5 PM!</p>
+Co-curricular activities from 10 AM to 5 PM!</p>
 <p></p>
 <p><strong>What’s Happening?</strong>
 </p>
