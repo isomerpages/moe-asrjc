@@ -20,5 +20,5 @@ just a 5-minute walk away.</p>
 at Opp Blk 370, and walk over in 5 minutes.</p>
 <p>🚇 <strong>From Eunos MRT</strong> Jump on bus 25, 55, or 854 at Exit C.
 Get off at Blk 708 and take a leisurely 8-minute walk to find us.</p>
-<p>📸 <strong>Follow Us on Instagram!</strong> Visit our Instagram @asr.jc
-for more tips on getting here and to see what’s new at ASR!</p>
+<p>📸 <strong>Follow Us on Instagram!</strong> Visit our Instagram <a href="https://www.instagram.com/asr.jc/" rel="noopener noreferrer nofollow" target="_blank">@asr.jc</a> for
+more tips on getting here and to see what’s new at ASR!</p>
