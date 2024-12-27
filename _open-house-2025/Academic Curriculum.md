@@ -32,9 +32,11 @@ labs. Click to learn more and see physics come alive!</p>
 </div>
 <p><strong>Biology</strong>
 </p>
-<p>Dive into experiments, uncover career paths in medicine, and engage in
-hands-on learning. Click on our video for tips from seniors to excel in
-your studies. Join us where curiosity meets innovation!</p>
+<p>Dive into a dynamic learning environment where you can think like a scientist
+through fascinating experiments, explore pathways to careers in medicine
+and beyond and enjoy hands-on opportunities to study the living world.</p>
+<p>But that’s not all! Click on the video to hear valuable study tips from
+our seniors and learn how to excel in Biology.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UG_5y5PiJro?si=uJx3NFk6RySAlTXO"></iframe>
 </div>
