@@ -23,6 +23,10 @@ description: ""
 </div>
 <p><strong>Physics</strong>
 </p>
+<p>Curious about the real-world workings of physics beyond the classroom?
+Join us at ASR as we explore everything from the basics to complex topics
+like gravitation and superposition through lectures, tutorials, and hands-on
+labs. Click to learn more and see physics come alive!</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qdIEVU3QzFQ?si=K6XklUB5Aq93IeiT"></iframe>
 </div>
@@ -81,6 +85,10 @@ description: ""
 </div>
 <p><strong>Project Work</strong>
 </p>
+<p>Engage in real-world problem solving through team collaboration. Develop
+research, analysis, and presentation skills in a structured program guided
+by expert tutors. Click to discover how we help you excel and inspire your
+best self!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fi3nAdsj-Rc?si=zzOjIlXBkvMKJJgY"></iframe>
 </div>
