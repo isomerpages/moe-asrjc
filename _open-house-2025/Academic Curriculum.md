@@ -24,7 +24,7 @@ academic and career goals. Click to dive deeper!</p>
 <p>Curious about the real-world workings of physics beyond the classroom?
 Join us at ASR as we explore everything from the basics to complex topics
 like gravitation and superposition through lectures, tutorials, and hands-on
-labs. Click to learn more and see physics come alive!</p>
+labs. Click the video to learn more and see physics come alive!</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qdIEVU3QzFQ?si=K6XklUB5Aq93IeiT"></iframe>
 </div>
