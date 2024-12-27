@@ -8,6 +8,9 @@ description: ""
 <h3><strong>Mathematics &amp; Sciences</strong></h3>
 <p><strong>Mathematics &amp; Further Mathematics</strong>
 </p>
+<p>Understand the differences between H1, H2, and Further Mathematics to
+choose the right path for you. Learn how each course aligns with future
+academic and career goals. Click to dive deeper!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5lBGR-ifvQc?si=lgrHOIJ5Cupq1stk"></iframe>
 </div>
