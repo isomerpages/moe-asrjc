@@ -49,7 +49,7 @@ our seniors and learn how to excel in Biology.</p>
 <p><strong>Geography</strong>
 </p>
 <p>Dive into the study of places, people, and their interconnected relationships.
-Ready to explore the world with us at ASR? Click the link for insights
+Ready to explore the world with us at ASR? Click the video for insights
 into Geography, answers to frequently asked questions, and our perspective
 on the crucial question: Why Geography?</p>
 <div class="iframe-wrapper">
@@ -96,8 +96,8 @@ on the crucial question: Why Geography?</p>
 </p>
 <p>Engage in real-world problem solving through team collaboration. Develop
 research, analysis, and presentation skills in a structured program guided
-by expert tutors. Click to discover how we help you excel and inspire your
-best self!</p>
+by expert tutors. Click the video to discover how we help you excel and
+inspire your best self!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fi3nAdsj-Rc?si=zzOjIlXBkvMKJJgY"></iframe>
 </div>
