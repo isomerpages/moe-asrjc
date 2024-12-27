@@ -4,4 +4,17 @@ permalink: /how-to-get-to-asr/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>📍 Find us at 1033 Upper Serangoon Road, Singapore 534768</p>
+<p><strong>How to Get Here by Bus or MRT</strong>
+</p>
+<p>🚇 <strong>From Ang Mo Kio MRT</strong> Hop on bus 25 or 132 at Exit A,
+get off at Opp Blk 709, and enjoy a short 8-minute stroll to our doorstep!</p>
+<p>🚇 <strong>From Serangoon MRT</strong> Catch bus 81 or 82 at Exit E, or
+grab bus 101, 107M, or 153 from Exit H. Alight at Opp Blk 370 and we're
+just a 5-minute walk away.</p>
+<p>🚇 <strong>From Kovan MRT</strong> Just take any bus from Exit B, hop off
+at Opp Blk 370, and walk over in 5 minutes.</p>
+<p>🚇 <strong>From Tunas MRT</strong> Jump on bus 25, 55, or 854 at Exit C.
+Get off at Blk 708 and take a leisurely 8-minute walk to find us.</p>
+<p>📸 <strong>Follow Us on Instagram!</strong> Visit our Instagram for more
+tips on getting here and to see what’s new at ASR!</p>
