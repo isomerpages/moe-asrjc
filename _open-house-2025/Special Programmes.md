@@ -61,7 +61,5 @@ offers scholarships to outstanding JC1 students who excel in their academic
 and non-academic domains. The scholarship is worth $1,000 per annum, tenable
 for 2 years, subject to satisfactory academic performance and conduct at
 JC1. The CAC Scholarship awardees will be enrolled into the Alpha Programme.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jmDpAOY7UTg?si=5m7CwcUWz0trjrU2"></iframe>
-</div>
+<h3>ASR eXplore<br></h3>
 <p></p>
