@@ -91,6 +91,11 @@ dynamic experience. Click the video here to learn more about ASR Lit!</p>
 </div>
 <p><strong>Malay Language and Malay Language &amp; Literature</strong>
 </p>
+<p>Looking to enhance your communication skills and cultural knowledge? Join
+us at ASR to discover the richness of the Malay Language; delving into
+grammar and writing through interactive lessons and engaging activities.
+Click the video to learn more and experience how language brings people
+together.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/X6ASDMRjwRE?si=VHcfF8sYRoSBeNQP"></iframe>
 </div>
