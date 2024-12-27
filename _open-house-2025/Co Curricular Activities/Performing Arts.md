@@ -11,7 +11,6 @@ third_nav_title: Co Curricular Activities
 it's music, dance, or drama, there’s a place for everyone to shine. Experience
 the thrill of performance, from the elegant orchestration of the Symphonic
 Band to the dynamic steps of the Dance Society. Ready to see our artists
-in action? Click on the video links below each CCA to watch our talents
-unfold.</p>
+in action? Click on the video below each CCA to watch our talents unfold.</p>
 <p><strong>Explore, engage, and excel—start your artistic journey with us today!</strong>
 </p>
