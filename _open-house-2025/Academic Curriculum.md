@@ -89,6 +89,12 @@ on the crucial question: Why Geography?</p>
 <h3><strong>Knowledge Skills</strong></h3>
 <p><strong>General Paper</strong>
 </p>
+<p>Explore how we cultivate critical thinking and effective communication
+skills. Discover engaging discussions, diverse perspectives, and a supportive
+learning environment that empowers you to analyze local and global issues
+and articulate your views confidently. Join us at our Open House to learn
+more! Click on this video for a closer look at what makes our General Paper
+program unique.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7Pif6cXCsRI?si=_EatOg23lKVkMAzu"></iframe>
 </div>
