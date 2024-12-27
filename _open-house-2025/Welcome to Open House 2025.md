@@ -20,5 +20,5 @@ to see what makes ASR special!</p>
 <p><strong>Download the ASR 2025 Prospectus!</strong>
 </p>
 <p>Interested in more information? Click here to download the prospectus
-and gain insights into our diverse academic programs, co-curricular activities,
+and gain insights into our diverse academic programs, co-curricular activities
 and the lively campus environment.</p>
