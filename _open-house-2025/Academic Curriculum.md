@@ -32,6 +32,9 @@ labs. Click to learn more and see physics come alive!</p>
 </div>
 <p><strong>Biology</strong>
 </p>
+<p>Dive into experiments, uncover career paths in medicine, and engage in
+hands-on learning. Click on our video for tips from seniors to excel in
+your studies. Join us where curiosity meets innovation!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UG_5y5PiJro?si=uJx3NFk6RySAlTXO"></iframe>
 </div>
@@ -43,6 +46,10 @@ labs. Click to learn more and see physics come alive!</p>
 </div>
 <p><strong>Geography</strong>
 </p>
+<p>Dive into the study of places, people, and their interconnected relationships.
+Ready to explore the world with us at ASR? Click the link for insights
+into Geography, answers to frequently asked questions, and our perspective
+on the crucial question: Why Geography?</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MzEdeaMcfOk?si=Kg9TwgjqVPXt1ZCE"></iframe>
 </div>
