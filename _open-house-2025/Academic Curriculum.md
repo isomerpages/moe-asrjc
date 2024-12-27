@@ -11,11 +11,6 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5lBGR-ifvQc?si=lgrHOIJ5Cupq1stk"></iframe>
 </div>
-<p><strong>Computing</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Wd3DWnGM3JU?si=_-uPasD8gQ1ArlzA"></iframe>
-</div>
 <p><strong>Chemistry</strong>
 </p>
 <div class="iframe-wrapper">
@@ -40,6 +35,12 @@ seniors and learn how to excel in Biology.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UG_5y5PiJro?si=uJx3NFk6RySAlTXO"></iframe>
 </div>
+<p><strong>Computing</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Wd3DWnGM3JU?si=_-uPasD8gQ1ArlzA"></iframe>
+</div>
+<p></p>
 <h3><strong>Humanities &amp; The Arts</strong></h3>
 <p><strong>Economics</strong>
 </p>
