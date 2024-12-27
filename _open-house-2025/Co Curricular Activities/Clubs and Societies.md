@@ -13,7 +13,7 @@ the Strategist Society, passionate about service with the Community Champions
 Council, or eager to express yourself in the Tamil or Chinese LDDS, there's
 a group for every interest. Engage in stimulating activities, develop leadership
 skills, and make meaningful contributions to both our school and the wider
-community. Curious to see our clubs in action? Click on the video links
-to discover how you can become part of these dynamic groups.</p>
+community. Curious to see our clubs in action? Click on the video to discover
+how you can become part of these dynamic groups.</p>
 <p><strong>Ignite your passion, join a club today, and shape the future with ASRJC!</strong>
 </p>
