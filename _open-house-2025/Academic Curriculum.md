@@ -70,6 +70,11 @@ have to offer!</p>
 </div>
 <p><strong>Literature in English</strong>
 </p>
+<p>Lit' up your college experience as a lit student at ASR. You get to explore
+the nuances of literary works and gain insights into how language shapes
+meaning. Learn the skills of communication, find your personal voice and
+discover the magic of words. Be a part of our Literature Night for an enriching,
+dynamic experience. Click the video here to learn more about ASR Lit!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5CaJsRKEjSM?si=8QJC4zB8COjs6uJx"></iframe>
 </div>
