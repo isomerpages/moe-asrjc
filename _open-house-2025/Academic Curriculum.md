@@ -63,8 +63,8 @@ on the crucial question: Why Geography?</p>
 </p>
 <p>Is history only about the story of victors or is it so much more? Join
 us at ASRJC History as we deepen our historical understanding of the past
-and to hone the historian’s craft. Click to find out more about what we
-have to offer!</p>
+and to hone the historian’s craft. Click the video to find out more about
+what we have to offer!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HATvXnUyPkU?si=517vK34_o1XbrRKV"></iframe>
 </div>
