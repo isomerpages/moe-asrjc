@@ -40,10 +40,12 @@ seniors and learn how to excel in Biology.</p>
 </div>
 <p><strong>Computing</strong>
 </p>
+<p>Passionate about tech? Eager to learn about Computing? Discover how H2
+Computing at ASR can unleash your potential and open doors to opportunities.
+Click the video and take your first step into the future!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Wd3DWnGM3JU?si=_-uPasD8gQ1ArlzA"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/otFyVnaBaTg?si=N0mOBe_bTHwxP66f"></iframe>
 </div>
-<p></p>
 <h3><strong>Humanities &amp; The Arts</strong></h3>
 <p><strong>Economics</strong>
 </p>
