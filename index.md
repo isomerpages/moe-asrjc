@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website Banner/Website_Banner_2025_IV.jpg
+      background: /images/Website Banner/Website_Banner_2025_VI.jpg
       key_highlights:
         - title: Social media
           description: Follow us on Instagram!
