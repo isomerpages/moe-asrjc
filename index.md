@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner for isomer site 1.jpg
+      background: /images/Website Banner/Website_Banner_2025_V.jpg
       key_highlights:
         - title: Social media
           description: Follow us on Instagram!
