@@ -7,18 +7,24 @@ description: ""
 <p><strong>Join Us at ASR Open House 2025!</strong>
 </p>
 <p>Mark your calendar for January 14th and explore the vibrant campus life
-at Anderson Serangoon Junior College. Discover our academic programs and
-Co-curricular activities from 10 AM to 5 PM!</p>
-<p></p>
+at Anderson Serangoon Junior College from 10 AM to 5 PM!</p>
 <p><strong>What’s Happening?</strong>
 </p>
-<p>Delve further into our diverse academic offerings and co-curricular activities
-ranging from STEM to sports and arts. Meet our dedicated staff and students,
-and tour our well-equipped facilities.</p>
-<p>See the Open House program schedule displayed below for a detailed list
-of events and activities. Don’t miss this opportunity to see what makes
-ASR special!</p>
+<p>Get a closer look at what we offer as you meet our dedicated staff and
+students, and tour our well-equipped facilities. From STEM to sports and
+arts, our range of activities is designed to showcase the dynamic environment
+at ASR.</p>
+<p><strong>See the Open House program schedule displayed below</strong> for
+a detailed list of events and activities. Don’t miss this opportunity to
+see what makes ASR special!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
 <p><strong>Download the ASR 2025 Prospectus!</strong>
 </p>
 <p>Interested in more information? Click <a href="https://drive.google.com/file/d/1OWTFcn-HvYkQmEtXix_1eFKCmktZFCob/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
