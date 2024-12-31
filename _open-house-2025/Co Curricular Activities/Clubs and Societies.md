@@ -17,8 +17,17 @@ community. Curious to see our clubs in action? Click on the video to discover
 how you can become part of these dynamic groups.</p>
 <p><strong>Ignite your passion, join a club today, and shape the future with ASRJC!</strong>
 </p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YifCVCbJkbY?si=CHwcwhGkkv1koWLx"></iframe>
+</div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GaySdknxUdA?si=VaNRaBdxTFcXTLY4"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/g04Dv3CwkC4?si=ky962TiROJ3J-Cbm"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
@@ -26,7 +35,19 @@ how you can become part of these dynamic groups.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/znquheleXRo?si=MPPO9UYWSkmGND1_"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bRVk35RyJj4?si=eONFBHtMhknhpNCB"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yuXTCLrJjZM?si=_ZPZbn0783n4aHMK"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T4MHozv6j8U?si=EJ7a_3qedl6uGepZ"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
