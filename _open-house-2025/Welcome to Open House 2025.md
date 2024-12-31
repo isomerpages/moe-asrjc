@@ -6,6 +6,10 @@ description: ""
 ---
 <p><strong>Join Us at ASR Open House 2025!</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_banner_at_bus_stop_final___6_x_1_5_cm_.png">
+</div>
 <p>Mark your calendar for January 14th and explore the vibrant campus life
 at Anderson Serangoon Junior College from 10 AM to 5 PM!</p>
 <p><strong>What’s Happening?</strong>
