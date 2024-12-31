@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scaled_facade_edit.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/compressed_and_resized_COLLEGE.png">
 </div>
 <p>📍 Find us at 1033 Upper Serangoon Road, Singapore 534768</p>
 <p><strong>How to Get Here by Bus or MRT</strong>
