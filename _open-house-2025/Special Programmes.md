@@ -50,7 +50,7 @@ have attained at least:</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8dzHxBgQ6i8?si=Af-d4YCdtoslTKiN"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8dzHxBgQ6i8?si=Af-d4YCdtoslTKiN"></iframe>
 </div>
 <h3><strong>Talent Development Programme (ASR Scholars Programme)</strong></h3>
 <p>Our students enter the college with diverse aspirations. The Talent Development
