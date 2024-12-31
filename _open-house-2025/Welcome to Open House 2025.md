@@ -21,8 +21,11 @@ to see what makes ASR special!</p>
 </p>
 <p>Interested in more information? Click <a href="https://drive.google.com/file/d/1OWTFcn-HvYkQmEtXix_1eFKCmktZFCob/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download the prospectus and gain insights into our diverse academic programs,
-co-curricular activities, and the lively campus environment.
-<br>
+co-curricular activities, and the lively campus environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prospectus.png">
+</div>
+<p>
 <br>
 </p>
 <p>
