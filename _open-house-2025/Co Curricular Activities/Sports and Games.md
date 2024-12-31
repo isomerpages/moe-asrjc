@@ -16,3 +16,44 @@ Ready to see what makes our teams stand out? Click on the videos for a
 glimpse into each sport and discover where you fit in our athletic community.</p>
 <p><strong>Join us, compete, and excel—ASRJC is where champions are made!</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o_U8aPtIYNU?si=Lic1yEjceY-W3T1Y"></iframe>
+</div>
+<p></p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uQJOBtZ5l2M?si=Ex_yz-pp38LjWGZg"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YFAEnpRgOHs?si=k1GeY-dvnYr8dg77"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PfuphBefj7M?si=W-mtAbVt1RZ1BACs"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/b1jb9oPBjgQ?si=_53Cw1mTzaXt8-o5"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ccTfKD79vfU?si=koM9iUA6En5F5nBt"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i6HeN0Mv2P8?si=bGGy_JUZqOOLbgR8"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dlY487UhNEI?si=RUrVhzC5kPhDk48V"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/p4Zxlzymb3I?si=B6Nn-VsPAidm9eoP"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BQ2h-6c2Tzw?si=kxyCbqZniXQtK7NF"></iframe>
+</div>
+<p></p>
