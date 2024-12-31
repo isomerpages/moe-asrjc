@@ -86,6 +86,12 @@ dynamic experience. Click the video here to learn more about ASR Lit!</p>
 </div>
 <p><strong>Art</strong>
 </p>
+<p>Ignite your passion for art at ASR! Whether you're new to art or seasoned
+in expression, ASR's A-Level Art program doesn't require O-Level experience.
+Dive into diverse tests like dry and wet medium, imagination, and writing
+to showcase your skills. Embrace freedom in your coursework and explore
+various art forms and critiques in our comprehensive curriculum. Join us
+and transform your artistic vision into reality!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1UOTwWq1DdA?si=LHWMofy0BEEZcbzu"></iframe>
 </div>
@@ -139,6 +145,12 @@ inspire your best self!</p>
 <h3><strong>Life Skills</strong></h3>
 <p><strong>Physical Education</strong>
 </p>
+<p>Physical Education is an essential part of our curriculum, engaging every
+student in a wide range of sports and activities. From the teamwork in
+netball and coordination in volleyball to insightful game reviews and group
+exercises on the fields, our program is designed to enhance fitness, skill,
+and camaraderie. Click the video to witness how every ASR student thrives
+in our dynamic PE environment.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Jh67kLq27rU?si=wGFO4IURjK6Iyd1s"></iframe>
 </div>
