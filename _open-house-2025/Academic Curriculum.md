@@ -16,6 +16,10 @@ academic and career goals. Click the video to dive deeper!</p>
 </div>
 <p><strong>Chemistry</strong>
 </p>
+<p>Dive into the intriguing world of chemistry! Discover why ice floats on
+water and unravel the mystery of colorful ions. Join us for an interactive
+Q&amp;A session where your burning questions take center stage. Let's spark
+your curiosity!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nSl0damdeys?si=tKAkwcP0GsSvjddO"></iframe>
 </div>
