@@ -30,7 +30,7 @@ Join us at ASR as we explore everything from the basics to complex topics
 like gravitation and superposition through lectures, tutorials, and hands-on
 labs. Click the video to learn more and see physics come alive!</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qdIEVU3QzFQ?si=K6XklUB5Aq93IeiT"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qdIEVU3QzFQ?si=K6XklUB5Aq93IeiT"></iframe>
 </div>
 <p><strong>Biology</strong>
 </p>
@@ -48,7 +48,7 @@ seniors and learn how to excel in Biology.</p>
 Computing at ASR can unleash your potential and open doors to opportunities.
 Click the video and take your first step into the future!</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/otFyVnaBaTg?si=N0mOBe_bTHwxP66f"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/otFyVnaBaTg?si=N0mOBe_bTHwxP66f"></iframe>
 </div>
 <h3><strong>Humanities &amp; The Arts</strong></h3>
 <p><strong>Economics</strong>
@@ -140,6 +140,6 @@ inspire your best self!</p>
 <p><strong>Physical Education</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Jh67kLq27rU?si=wGFO4IURjK6Iyd1s"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Jh67kLq27rU?si=wGFO4IURjK6Iyd1s"></iframe>
 </div>
 <p></p>
