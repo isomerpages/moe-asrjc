@@ -107,6 +107,11 @@ together.</p>
 </div>
 <p><strong>Tamil Language and Tamil Language &amp; Literature</strong>
 </p>
+<p>Discover the world of H1TL and H2TLL in this exciting video! Dive into
+syllabus highlights, student experiences, and the magic of Tamil at ASR.
+With cutting-edge tech and boundless enthusiasm, watch our students unleash
+their potential through dynamic presentations. A blend of learning and
+creativity that’ll leave you inspired and eager to explore Tamil further</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CY3EbhyjjM0?si=FUBWo9F8wfHQbZDt"></iframe>
 </div>
