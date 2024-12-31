@@ -27,6 +27,8 @@ sections:
         Campus.
       image: /images/finallogo_yellow_.png
       alt: Image alt text
+      url: https://www.asrjc.moe.edu.sg/joining-asrjc/welcome-to-open-house-2025/
+      button: VIEW HERE
   - infopic:
       title: Homecoming 2024
       id: infopic
