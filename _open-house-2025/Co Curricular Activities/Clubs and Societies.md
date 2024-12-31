@@ -17,3 +17,23 @@ community. Curious to see our clubs in action? Click on the video to discover
 how you can become part of these dynamic groups.</p>
 <p><strong>Ignite your passion, join a club today, and shape the future with ASRJC!</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GaySdknxUdA?si=VaNRaBdxTFcXTLY4"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7yVNLlvct3A?si=6NmIXdNqJFRcNIuR"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yuXTCLrJjZM?si=_ZPZbn0783n4aHMK"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WGr6xEIp21M?si=jxfmPh6SCrq2-1Vj"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SR1_Qvk1pjc?si=WTLBG_TC6p4HnEuc"></iframe>
+</div>
+<p></p>
