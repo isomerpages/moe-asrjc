@@ -98,6 +98,12 @@ and transform your artistic vision into reality!</p>
 <h3><strong>Mother Tongue Languages</strong></h3>
 <p><strong>Chinese Language and Chinese Language &amp; Literature</strong>
 </p>
+<p>Immerse yourself in the rich and colorful Chinese language, literature,
+and culture. Thoroughly explore how we promote the development of profound
+understanding and clear expression. Uncover the vibrant exchanges, diverse
+perspectives, and a supportive environment that inspire you to research
+local and global topics and convey your ideas with confidence. Click this
+video to further understand what makes our Chinese experience so remarkable.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Cm9QmhTmsBk?si=ciywx9KELOk_t1MY"></iframe>
 </div>
