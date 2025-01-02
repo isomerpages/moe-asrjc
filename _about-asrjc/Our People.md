@@ -99,7 +99,7 @@ variant: tiptap
 <p><strong>HOD Economics &amp; Partnerships</strong>
 </p>
 <p>Mr Arumugam Meganathan</p>
-<p><strong>HOD ICT &amp; Partnerships (Covering)</strong>
+<p><strong>HOD Information &amp; Communication Technology &amp; Partnerships (Covering)</strong>
 </p>
 <p>Mr Goh Ying Shi Darwin</p>
 <p><strong>JC1 Dean</strong>
@@ -226,13 +226,10 @@ variant: tiptap
 <p><strong>HOD Character and Citizenship Education</strong>
 </p>
 <p>Mr Yeo Wee Leng, Joshua</p>
-<p><strong>HOD Information &amp; Communication Technology &amp; Assessment</strong>
-</p>
-<p>Mr Oh Chee Tiong</p>
 <p><strong>School Staff Developer</strong>
 </p>
 <p>Mr Ng Yung Hui Eugene</p>
-<p><strong>JC2 Deputy Dean</strong>
+<p><strong>JC1 Deputy Dean</strong>
 </p>
 <p>Ms Khiew Shi Hui</p>
 <p><strong>Lead Teacher (Physics)</strong>
