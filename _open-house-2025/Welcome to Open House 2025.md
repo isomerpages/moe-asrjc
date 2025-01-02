@@ -21,8 +21,9 @@ at ASR.</p>
 <p><strong>See the Open House program schedule displayed below</strong> for
 a detailed list of events and activities. Don’t miss this opportunity to
 see what makes ASR special!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1st_slide.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PROGRAME_SCHEDULE__2_.png">
