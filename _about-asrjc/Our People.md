@@ -143,7 +143,7 @@ variant: tiptap
 <p><strong>HOD Mathematics</strong>
 </p>
 <p>Mr Kan Kok Leong</p>
-<p><strong>JC1 Deputy Dean</strong>
+<p><strong>JC2 Deputy Dean</strong>
 </p>
 <p>Mr Lee Han Meng Desmond</p>
 <p><strong>Senior Teachers</strong>
@@ -160,7 +160,6 @@ variant: tiptap
 <p><strong>Teachers</strong>
 </p>
 <p>Ms Foo Yong Jeh</p>
-<p>Mr Gi Soong Chee</p>
 <p>Ms Koh Seok Xian</p>
 <p>Mdm Koh Suh Miin</p>
 <p>Mr Kenneth Khoo Jin Yee</p>
