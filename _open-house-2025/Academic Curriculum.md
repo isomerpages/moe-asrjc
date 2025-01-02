@@ -53,6 +53,9 @@ Click the video and take your first step into the future!</p>
 <h3><strong>Humanities &amp; The Arts</strong></h3>
 <p><strong>Economics</strong>
 </p>
+<p>Curious about what economics is and how it can benefit you? Want to know
+what you'll learn and how it applies to the real world? Click here to discover
+answers to all your questions about studying economics @ASRJC!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zFbV50z5NQA?si=klJ9zihNam9rulhs"></iframe>
 </div>
