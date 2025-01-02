@@ -79,6 +79,7 @@ variant: tiptap
 <p>Ms Aw Yuan Ling Cheryl</p>
 <p>Ms Chai Xue Fang Beatrice</p>
 <p>Mr Clifton Tay Xiang Rui
+<br>Mdm Eng Seok Hoon Rose
 <br>Mr Foo Chuan Wang Derek</p>
 <p>Ms Goh Mei-Yi, Eunice</p>
 <p>Ms Hemma Balakrishnan</p>
@@ -125,9 +126,12 @@ variant: tiptap
 <p><strong>SH Chinese Language</strong>
 </p>
 <p>Ms Ong Si Min</p>
-<p><strong>Teachers</strong>
+<p><strong>ST Tamil Language</strong>
 </p>
 <p>Mdm Kamalavani d/o Palaiyan</p>
+<p><strong>Teachers</strong>
+</p>
+<p>Mr Heng Soong Phiau</p>
 <p>Ms Kalaivani d/o Ilango</p>
 <p>Ms Ma Junhui</p>
 <p>Mdm Ong Kwee Hoon</p>
