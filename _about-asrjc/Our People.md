@@ -236,6 +236,9 @@ variant: tiptap
 <p><strong>School Staff Developer</strong>
 </p>
 <p>Mr Ng Yung Hui Eugene</p>
+<p><strong>Master Teacher (Biology)</strong>
+</p>
+<p>Mr Muhamad Salahuddin Ibrahim</p>
 <p><strong>JC1 Deputy Dean</strong>
 </p>
 <p>Ms Khiew Shi Hui</p>
