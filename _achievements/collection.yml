@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Co Curricular Activities/2023.md
       - Co Curricular Activities/2024.md
       - Co Curricular Activities/2019 to 2023.md
       - Co Curricular Activities/.keep
