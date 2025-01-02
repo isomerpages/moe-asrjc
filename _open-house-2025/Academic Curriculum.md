@@ -95,9 +95,7 @@ Dive into diverse tests like dry and wet medium, imagination, and writing
 to showcase your skills. Embrace freedom in your coursework and explore
 various art forms and critiques in our comprehensive curriculum. Join us
 and transform your artistic vision into reality!</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1UOTwWq1DdA?si=LHWMofy0BEEZcbzu"></iframe>
-</div>
+<p>Video is to be updated soon.</p>
 <h3><strong>Mother Tongue Languages</strong></h3>
 <p><strong>Chinese Language and Chinese Language &amp; Literature</strong>
 </p>
