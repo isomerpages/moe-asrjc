@@ -96,18 +96,18 @@ variant: tiptap
 <summary><strong>Humanities Department</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>HOD Humanities &amp; Engagement &amp; Partnerships</strong>
+<p><strong>HOD Economics &amp; Partnerships</strong>
 </p>
-<p>Ms Ong Shu Hui</p>
-<p><strong>JC2 Dean</strong>
+<p>Mr Arumugam Meganathan</p>
+<p><strong>HOD ICT &amp; Partnerships (Covering)</strong>
+</p>
+<p>Mr Goh Ying Shi Darwin</p>
+<p><strong>JC1 Dean</strong>
 </p>
 <p>Ms Zhu Youyan, Corrine</p>
 <p><strong>SH Geography</strong>
 </p>
 <p>Ms Neo Zhi Wei</p>
-<p><strong>SH Engagement &amp; Partnerships</strong>
-</p>
-<p>Mr Goh Ying Shi Darwin</p>
 <p><strong>Teachers</strong>
 </p>
 <p>Mr Kuan Jie Hui Eugene</p>
