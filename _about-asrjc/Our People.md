@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 <p>Mr Gurusharan Singh S/O Major Singh</p>
 <p>Mrs Cheng-Tey Li Shun</p>
-<p>Mdm Sharon Lim (Administration)</p>
+<p>Mr Md Amran Shah Abdul Rahim (Administration)</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -26,7 +26,7 @@ variant: tiptap
 <p><strong>HOD Economics</strong>
 </p>
 <p>Mr Arumugam Meganathan</p>
-<p><strong>JC1 Dean</strong>
+<p><strong>JC2 Dean</strong>
 </p>
 <p>Mrs Lim-Tan Su Chin</p>
 <p><strong>SH Economics</strong>
