@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 <p>Mr Gurusharan Singh S/O Major Singh</p>
 <p>Mrs Cheng-Tey Li Shun</p>
-<p>Mdm Sharon Lim (Administration)</p>
+<p>Mr Md Amran Shah Abdul Rahim (Administration)</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -26,7 +26,7 @@ variant: tiptap
 <p><strong>HOD Economics</strong>
 </p>
 <p>Mr Arumugam Meganathan</p>
-<p><strong>JC1 Dean</strong>
+<p><strong>JC2 Dean</strong>
 </p>
 <p>Mrs Lim-Tan Su Chin</p>
 <p><strong>SH Economics</strong>
@@ -44,7 +44,8 @@ variant: tiptap
 <p>Mr Jowell Yong Kaijie</p>
 <p>Ms Lai Peck Chai</p>
 <p>Ms Nurdiyanah Bte Mohd Daud</p>
-<p>Ms Pauline Yeong Pao Lian</p>
+<p>Ms Pauline Yeong Pao Lian
+<br>Mdm Poh Poh Lian</p>
 <p>Ms Tan Sok Mun Ruth</p>
 <p>Ms Ten Cai Tian</p>
 <p>Ms Wang Shuhui Mabel</p>
@@ -75,11 +76,11 @@ variant: tiptap
 <p>Ms Choo Li Min Bernadette Teresa</p>
 <p><strong>Teachers</strong>
 </p>
-<p>Mr Acer Ng Yu Xuan</p>
-<p>Ms Ang Soey Leng Lynn</p>
 <p>Ms Aw Yuan Ling Cheryl</p>
 <p>Ms Chai Xue Fang Beatrice</p>
-<p>Mdm Eng Seok Hoon Rose</p>
+<p>Mr Clifton Tay Xiang Rui
+<br>Mdm Eng Seok Hoon Rose
+<br>Mr Foo Chuan Wang Derek</p>
 <p>Ms Goh Mei-Yi, Eunice</p>
 <p>Ms Hemma Balakrishnan</p>
 <p>Ms Ho Ying Xin, Berakah</p>
@@ -89,25 +90,24 @@ variant: tiptap
 <p>Mr Tan Deng Zheng</p>
 <p>Mr Tay Xiang Wei</p>
 <p>Mr Tsui Hui Ee Samuel</p>
-<p>Ms Usha d/o Pillai</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Humanities Department</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>HOD Humanities &amp; Engagement &amp; Partnerships</strong>
+<p><strong>HOD Economics &amp; Humanities</strong>
 </p>
-<p>Ms Ong Shu Hui</p>
-<p><strong>JC2 Dean</strong>
+<p>Mr Arumugam Meganathan</p>
+<p><strong>HOD Information &amp; Communication Technology &amp; Partnerships (Covering)</strong>
+</p>
+<p>Mr Goh Ying Shi Darwin</p>
+<p><strong>JC1 Dean</strong>
 </p>
 <p>Ms Zhu Youyan, Corrine</p>
 <p><strong>SH Geography</strong>
 </p>
 <p>Ms Neo Zhi Wei</p>
-<p><strong>SH Engagement &amp; Partnerships</strong>
-</p>
-<p>Mr Goh Ying Shi Darwin</p>
 <p><strong>Teachers</strong>
 </p>
 <p>Mr Kuan Jie Hui Eugene</p>
@@ -126,9 +126,12 @@ variant: tiptap
 <p><strong>SH Chinese Language</strong>
 </p>
 <p>Ms Ong Si Min</p>
-<p><strong>Teachers</strong>
+<p><strong>ST Tamil Language</strong>
 </p>
 <p>Mdm Kamalavani d/o Palaiyan</p>
+<p><strong>Teachers</strong>
+</p>
+<p>Mr Heng Soong Phiau</p>
 <p>Ms Kalaivani d/o Ilango</p>
 <p>Ms Ma Junhui</p>
 <p>Mdm Ong Kwee Hoon</p>
@@ -143,7 +146,7 @@ variant: tiptap
 <p><strong>HOD Mathematics</strong>
 </p>
 <p>Mr Kan Kok Leong</p>
-<p><strong>JC1 Deputy Dean</strong>
+<p><strong>JC2 Deputy Dean</strong>
 </p>
 <p>Mr Lee Han Meng Desmond</p>
 <p><strong>Senior Teachers</strong>
@@ -160,10 +163,9 @@ variant: tiptap
 <p><strong>Teachers</strong>
 </p>
 <p>Ms Foo Yong Jeh</p>
-<p>Mr Gi Soong Chee</p>
-<p>Ms Koh Seok Xian</p>
+<p>Mr Khoo Jin Yee Kenneth
+<br>Ms Koh Seok Xian</p>
 <p>Mdm Koh Suh Miin</p>
-<p>Mr Kenneth Khoo Jin Yee</p>
 <p>Mr Lau Haw Ping</p>
 <p>Mr Lee Dong Liang</p>
 <p>Ms Ng Cheng Yee</p>
@@ -190,7 +192,8 @@ variant: tiptap
 <p>Mr Chong Song Cheng</p>
 <p>Mr Clunies Ross Sean James</p>
 <p>Mr Ho Kuan Peng</p>
-<p>Mr Lee Kok Weng</p>
+<p>Mr Lee Kok Weng
+<br>Ms Pang Seng Hui</p>
 <p>Mr Tan Ser Yang</p>
 </div>
 </details>
@@ -206,12 +209,15 @@ variant: tiptap
 <p>Ms Lim Li Wen Evon</p>
 <p><strong>SH Information and Communication Technology</strong>
 </p>
-<p>Ms Koh Wenting</p>
-<p><strong>Teachers</strong>
+<p>Ms Koh Wenting
+<br><strong>ST Character and Citizenship Education</strong>
+<br>Koh Yi Ting Cristee
+<br><strong>Teachers</strong>
 </p>
 <p>Ms Khaw Maylee</p>
 <p>Ms Koh Yi Ting Cristee</p>
-<p>Mrs Malarvizhi Haugen</p>
+<p>Mrs Malarvizhi Haugen
+<br>Mr Soh Wai Hong Peter</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -227,18 +233,15 @@ variant: tiptap
 <p><strong>HOD Character and Citizenship Education</strong>
 </p>
 <p>Mr Yeo Wee Leng, Joshua</p>
-<p><strong>HOD Information &amp; Communication Technology &amp; Assessment</strong>
-</p>
-<p>Mr Oh Chee Tiong</p>
 <p><strong>School Staff Developer</strong>
 </p>
 <p>Mr Ng Yung Hui Eugene</p>
-<p><strong>JC2 Deputy Dean</strong>
+<p><strong>Master Teacher (Biology)</strong>
+</p>
+<p>Mr Muhamad Salahuddin Ibrahim</p>
+<p><strong>JC1 Deputy Dean</strong>
 </p>
 <p>Ms Khiew Shi Hui</p>
-<p><strong>Lead Teacher (Physics)</strong>
-</p>
-<p>Mr Sng Peng Poo</p>
 <p><strong>Lead Teacher (Biology)</strong>
 </p>
 <p>Mdm Leow Li Ting</p>
@@ -314,7 +317,7 @@ variant: tiptap
 <p><strong>Corporate Support Officers</strong>
 </p>
 <p>Ms Dorothy Yeng Siew Yin</p>
-<p>Mdm Janet Jay Lee Wee Na</p>
+<p>Mdm Ngiam Min Lin Linda</p>
 <p>Mdm Rohaya Taib</p>
 <p><strong>AVA Technician</strong>
 </p>

@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner for isomer site 1.jpg
+      background: /images/Website Banner/Website_Banner_2025_VII.jpg
       key_highlights:
         - title: Social media
           description: Follow us on Instagram!
@@ -27,6 +27,8 @@ sections:
         Campus.
       image: /images/finallogo_yellow_.png
       alt: Image alt text
+      url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
+      button: VIEW HERE
   - infopic:
       title: Homecoming 2024
       id: infopic

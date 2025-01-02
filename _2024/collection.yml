@@ -1,0 +1,10 @@
+collections:
+  "2024":
+    output: true
+    order:
+      - 2024.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Clubs & Societies.md
+      - Co Curricular Activities/Performing Arts.md
+      - Co Curricular Activities/Sports & Games.md
+      - How to get to ASR.md
