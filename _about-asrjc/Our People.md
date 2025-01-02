@@ -159,9 +159,9 @@ variant: tiptap
 <p><strong>Teachers</strong>
 </p>
 <p>Ms Foo Yong Jeh</p>
-<p>Ms Koh Seok Xian</p>
+<p>Mr Khoo Jin Yee Kenneth
+<br>Ms Koh Seok Xian</p>
 <p>Mdm Koh Suh Miin</p>
-<p>Mr Kenneth Khoo Jin Yee</p>
 <p>Mr Lau Haw Ping</p>
 <p>Mr Lee Dong Liang</p>
 <p>Ms Ng Cheng Yee</p>
@@ -188,7 +188,8 @@ variant: tiptap
 <p>Mr Chong Song Cheng</p>
 <p>Mr Clunies Ross Sean James</p>
 <p>Mr Ho Kuan Peng</p>
-<p>Mr Lee Kok Weng</p>
+<p>Mr Lee Kok Weng
+<br>Ms Pang Seng Hui</p>
 <p>Mr Tan Ser Yang</p>
 </div>
 </details>
