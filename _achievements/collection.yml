@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - 2024.md
       - Achievements.md
       - Academic.md
       - Co Curricular Activities.md
