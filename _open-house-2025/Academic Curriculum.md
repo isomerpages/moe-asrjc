@@ -151,12 +151,14 @@ inspire your best self!</p>
 <h3><strong>Life Skills</strong></h3>
 <p><strong>Physical Education</strong>
 </p>
-<p>Physical Education is an essential part of our curriculum, engaging every
-student in a wide range of sports and activities. From the teamwork in
-netball and coordination in volleyball to insightful game reviews and group
-exercises on the fields, our program is designed to enhance fitness, skill,
-and camaraderie. Click the video to witness how every ASR student thrives
-in our dynamic PE environment.</p>
+<p>Immerse yourself in a variety of sports and physical activities through
+ASRJC’s Physical Education programme. From Frisbee to Badminton to Gym
+to Nutrition, you will find yourself developing mastery across a range
+of motor skills, explore and become a fine sports tactician, as well enhance
+your physical fitness and heath. Beyond the physical, our programme empowers
+students to build collaboration skills, foster positive habits, and create
+lasting friendships and camaraderie. Click the video to witness how every
+ASR student thrive in our dynamic PE environment.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Jh67kLq27rU?si=wGFO4IURjK6Iyd1s"></iframe>
 </div>
