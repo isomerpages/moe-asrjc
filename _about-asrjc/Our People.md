@@ -44,7 +44,8 @@ variant: tiptap
 <p>Mr Jowell Yong Kaijie</p>
 <p>Ms Lai Peck Chai</p>
 <p>Ms Nurdiyanah Bte Mohd Daud</p>
-<p>Ms Pauline Yeong Pao Lian</p>
+<p>Ms Pauline Yeong Pao Lian
+<br>Mdm Poh Poh Lian</p>
 <p>Ms Tan Sok Mun Ruth</p>
 <p>Ms Ten Cai Tian</p>
 <p>Ms Wang Shuhui Mabel</p>
@@ -75,11 +76,10 @@ variant: tiptap
 <p>Ms Choo Li Min Bernadette Teresa</p>
 <p><strong>Teachers</strong>
 </p>
-<p>Mr Acer Ng Yu Xuan</p>
-<p>Ms Ang Soey Leng Lynn</p>
 <p>Ms Aw Yuan Ling Cheryl</p>
 <p>Ms Chai Xue Fang Beatrice</p>
-<p>Mdm Eng Seok Hoon Rose</p>
+<p>Mr Clifton Tay Xiang Rui
+<br>Mr Foo Chuan Wang Derek</p>
 <p>Ms Goh Mei-Yi, Eunice</p>
 <p>Ms Hemma Balakrishnan</p>
 <p>Ms Ho Ying Xin, Berakah</p>
@@ -89,14 +89,13 @@ variant: tiptap
 <p>Mr Tan Deng Zheng</p>
 <p>Mr Tay Xiang Wei</p>
 <p>Mr Tsui Hui Ee Samuel</p>
-<p>Ms Usha d/o Pillai</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Humanities Department</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>HOD Economics &amp; Partnerships</strong>
+<p><strong>HOD Economics &amp; Humanities</strong>
 </p>
 <p>Mr Arumugam Meganathan</p>
 <p><strong>HOD Information &amp; Communication Technology &amp; Partnerships (Covering)</strong>
