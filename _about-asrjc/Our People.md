@@ -204,12 +204,15 @@ variant: tiptap
 <p>Ms Lim Li Wen Evon</p>
 <p><strong>SH Information and Communication Technology</strong>
 </p>
-<p>Ms Koh Wenting</p>
-<p><strong>Teachers</strong>
+<p>Ms Koh Wenting
+<br><strong>ST Character and Citizenship Education</strong>
+<br>Koh Yi Ting Cristee
+<br><strong>Teachers</strong>
 </p>
 <p>Ms Khaw Maylee</p>
 <p>Ms Koh Yi Ting Cristee</p>
-<p>Mrs Malarvizhi Haugen</p>
+<p>Mrs Malarvizhi Haugen
+<br>Mr Soh Wai Hong Peter</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -231,9 +234,6 @@ variant: tiptap
 <p><strong>JC1 Deputy Dean</strong>
 </p>
 <p>Ms Khiew Shi Hui</p>
-<p><strong>Lead Teacher (Physics)</strong>
-</p>
-<p>Mr Sng Peng Poo</p>
 <p><strong>Lead Teacher (Biology)</strong>
 </p>
 <p>Mdm Leow Li Ting</p>
