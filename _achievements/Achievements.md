@@ -1,7 +1,8 @@
 ---
 title: Achievements
-permalink: /achievements/achievements/
+permalink: /achievements/achievements/home/
 description: ""
+variant: tiptap
 ---
 Achievements
 ============

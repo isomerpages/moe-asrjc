@@ -2,15 +2,28 @@ collections:
   achievements:
     output: true
     order:
+      - Co Curricular Activities/2025.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/2024.md
+      - Co Curricular Activities/2023.md
+      - Co Curricular Activities/2022.md
+      - Co Curricular Activities/2021.md
+      - Co Curricular Activities/2020.md
+      - Co Curricular Activities/2019.md
+      - Academic/.keep
+      - Academic/2024.md
+      - Academic/2023.md
+      - Academic/2022.md
+      - Academic/2021.md
+      - Academic/2020.md
+      - Academic/2019.md
       - Achievements.md
-      - Academic.md
-      - Co Curricular Activities.md
       - Awards and Scholarships.md
       - AJC Achievements/.keep
-      - AJC Achievements/AJC Achievements 2016.md
-      - AJC Achievements/AJC Achievements 2017.md
       - AJC Achievements/AJC Achievements 2018.md
+      - AJC Achievements/AJC Achievements 2017.md
+      - AJC Achievements/AJC Achievements 2016.md
       - SRJC Achievements/.keep
-      - SRJC Achievements/SRJC Achievements 2016.md
-      - SRJC Achievements/SRJC Achievements 2017.md
       - SRJC Achievements/SRJC Achievements 2018.md
+      - SRJC Achievements/SRJC Achievements 2017.md
+      - SRJC Achievements/SRJC Achievements 2016.md
