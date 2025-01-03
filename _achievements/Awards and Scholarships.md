@@ -143,6 +143,17 @@ variant: markdown
 ### **2022**  
 
 ### **Scholarship Recipients**
-	
-	
-	
+
+    
+
+<table style="border-collapse:
+ collapse;width:1006pt" width="1340" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:22747;width:467pt" width="622"> <col style="mso-width-source:userset;mso-width-alt:9691;width:199pt" width="265"> <col style="mso-width-source:userset;mso-width-alt:16566;width:340pt" width="453"></colgroup><tbody><tr style="mso-height-source:userset;height:33.0pt" height="44"><td style="height:33.0pt;width:467pt" width="622" class="xl65" height="44"><span style="box-sizing: inherit;font-style:inherit">Name of recipient</span></td><td style="width:199pt" width="265" class="xl65"><span style="box-sizing: inherit;
+  font-style:inherit">Organisation offering the scholarship</span></td><td style="width:340pt" width="453" class="xl65"><div style="box-sizing: inherit;font-variant-ligatures: normal;font-variant-caps: normal;
+  orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial"><span style="box-sizing: inherit;font-style:inherit">Name of Scholarship</span></div></td></tr><tr style="mso-height-source:userset;height:18.75pt" height="25"><td style="height:18.75pt;width:467pt;
+  box-sizing: inherit;border-image: initial" width="622" class="xl66" height="25"><span style="box-sizing: inherit;
+  font-style:inherit;font-weight:inherit">Lo Jingjie</span></td><td style="width:199pt;box-sizing: inherit;border-image: initial" width="265" class="xl66"><span style="box-sizing: inherit;font-style:inherit;font-weight:inherit">MINDEF</span></td><td style="width:340pt" width="453" class="xl66"><span style="box-sizing: inherit;
+  font-style:inherit;font-weight:inherit">Defence Science and Technology Agency (DSTA) Scholarship</span></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:467pt;
+  box-sizing: inherit" width="622" class="xl67" height="20"><span style="box-sizing: inherit;font-style:inherit;
+  font-weight:inherit">Anakin Seek</span></td><td style="width:199pt;box-sizing: inherit" width="265" class="xl67"><span style="box-sizing: inherit;font-style:inherit;font-weight:inherit">MINDEF</span></td><td style="width:340pt" width="453" class="xl67"><span style="box-sizing: inherit;
+  font-style:inherit;font-weight:inherit">SAF Merit Scholarship</span></td></tr></tbody></table>
