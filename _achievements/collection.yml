@@ -3,12 +3,6 @@ collections:
     output: true
     order:
       - Achievements.md
-      - Awards and scholarships/.keep
-      - Awards and scholarships/2024.md
-      - Awards and scholarships/2023.md
-      - Awards and scholarships/2022.md
-      - Awards and scholarships/2021.md
-      - Awards and scholarships/2020.md
       - Academic/.keep
       - Academic/2025.md
       - Academic/2024.md
@@ -25,6 +19,12 @@ collections:
       - Co Curricular Activities/2021.md
       - Co Curricular Activities/2020.md
       - Co Curricular Activities/2019.md
+      - Awards and scholarships/.keep
+      - Awards and scholarships/2024.md
+      - Awards and scholarships/2023.md
+      - Awards and scholarships/2022.md
+      - Awards and scholarships/2021.md
+      - Awards and scholarships/2020.md
       - AJC Achievements/.keep
       - AJC Achievements/AJC Achievements 2018.md
       - AJC Achievements/AJC Achievements 2017.md
