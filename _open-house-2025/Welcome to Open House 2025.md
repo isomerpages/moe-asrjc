@@ -41,10 +41,11 @@ This is your chance to experience what makes ASR special!</p>
 </div>
 <p><strong>Interested in More Details?</strong>
 </p>
-<p>For a complete overview of all the activities and refreshments, click
-<a href="https://drive.google.com/file/d/1UUCWNcLkigETN_U3Gp-nWw6ID9KupY3X/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>to access our comprehensive Open House program sheet. Discover
-everything we have planned, from engaging activities to delicious treats,
-and make the most of your visit by exploring what ASR has to offer!</p>
+<p>For a complete overview of all the activities and refreshments, please
+click <a href="https://drive.google.com/file/d/1UUCWNcLkigETN_U3Gp-nWw6ID9KupY3X/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> access
+our comprehensive Open House program sheet. Discover everything we have
+planned, from engaging activities to delicious treats, and make the most
+of your visit by exploring what ASR has to offer!</p>
 <p></p>
 <p></p>
 <p><strong>Download the ASR 2025 Prospectus!</strong>
