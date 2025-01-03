@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Achievements.md
-      - Award and scholarships/.keep
-      - Award and scholarships/2024.md
-      - Award and scholarships/2023.md
-      - Award and scholarships/2022.md
-      - Award and scholarships/2021.md
-      - Award and scholarships/2020.md
+      - Awards and scholarships/.keep
+      - Awards and scholarships/2024.md
+      - Awards and scholarships/2023.md
+      - Awards and scholarships/2022.md
+      - Awards and scholarships/2021.md
+      - Awards and scholarships/2020.md
       - Academic/.keep
       - Academic/2025.md
       - Academic/2024.md
