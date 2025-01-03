@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Award and scholarships/2023.md
       - Award and scholarships/2024.md
       - Award and scholarships/Awards and Scholarships.md
       - Award and scholarships/.keep
