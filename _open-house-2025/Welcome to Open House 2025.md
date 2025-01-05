@@ -18,11 +18,11 @@ at Anderson Serangoon Junior College from 10 AM to 5 PM!</p>
 students, and tour our well-equipped facilities. From STEM to sports and
 arts, our range of activities is designed to showcase the dynamic environment
 at ASR.</p>
-<p><strong>See the Open House program schedule displayed below</strong> for
-a detailed list of events and activities. Don’t miss this opportunity to
-see what makes ASR special!</p>
+<p>See the summary list of events and activities for our Open House below.
+This is your chance to experience what makes ASR special!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1st_slide.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PROGRAME_SCHEDULE__2_.png">
@@ -39,6 +39,14 @@ see what makes ASR special!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PROGRAME_SCHEDULE.png">
 </div>
+<p><strong>Interested in More Details?</strong>
+</p>
+<p>Click <a href="https://drive.google.com/file/d/1UUCWNcLkigETN_U3Gp-nWw6ID9KupY3X/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+access our comprehensive Open House program sheet. Explore everything ASR
+has planned, from exciting events to tasty refreshments, and make the most
+of your visit!</p>
+<p></p>
+<p></p>
 <p><strong>Download the ASR 2025 Prospectus!</strong>
 </p>
 <p>Interested in more information? Click <a href="https://drive.google.com/file/d/1OWTFcn-HvYkQmEtXix_1eFKCmktZFCob/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
