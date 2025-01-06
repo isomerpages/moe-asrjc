@@ -322,13 +322,15 @@ variant: tiptap
 <p><strong>AVA Technician</strong>
 </p>
 <p>Mr Lim Wenjun</p>
-<p><strong>Technical Support Officers</strong>
+<p><strong>STEM Instructors</strong>
 </p>
 <p>Mr Chua Chim Chuan Edmund</p>
 <p>Mr Lim Sim Seng Andrew</p>
 <p>Ms Nurlela Binte Hamzah</p>
 <p>Mr Oh Piow Kwang</p>
+<p>Ms Sufinasuha Binte Zainudin</p>
 <p>Ms Tan Lay Kwee Joanne</p>
+<p>Ms Teo Mei Ling Jacqueline</p>
 <p><strong>Operations Support Officers</strong>
 </p>
 <p>Mdm Choo Ah Sai Lina</p>
