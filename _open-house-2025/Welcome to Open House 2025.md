@@ -25,10 +25,10 @@ This is your chance to experience what makes ASR special!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1st_slide.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PROGRAME_SCHEDULE__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2nd_page.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PROGRAM_SCHEDULE.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
