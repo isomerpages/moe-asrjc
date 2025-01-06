@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 <p>Mr Gurusharan Singh S/O Major Singh</p>
 <p>Mrs Cheng-Tey Li Shun</p>
-<p>Mr Md Amran Shah Abdul Rahim (Administration)</p>
+<p>Mr Mohamad Amran Shah bin Abdul Rahim (Administration)</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -39,13 +39,12 @@ variant: tiptap
 <p><strong>Teachers</strong>
 </p>
 <p>Ms Cai Mingfang</p>
-<p>Ms Eunice Tan Chen Xin</p>
 <p>Mr Gan Teck Ming, Alvin</p>
 <p>Mr Jowell Yong Kaijie</p>
 <p>Ms Lai Peck Chai</p>
 <p>Ms Nurdiyanah Bte Mohd Daud</p>
-<p>Ms Pauline Yeong Pao Lian
-<br>Mdm Poh Poh Lian</p>
+<p>Ms Pauline Yeong Pao Lian</p>
+<p>Mdm Poh Poh Lian</p>
 <p>Ms Tan Sok Mun Ruth</p>
 <p>Ms Ten Cai Tian</p>
 <p>Ms Wang Shuhui Mabel</p>
@@ -322,13 +321,15 @@ variant: tiptap
 <p><strong>AVA Technician</strong>
 </p>
 <p>Mr Lim Wenjun</p>
-<p><strong>Technical Support Officers</strong>
+<p><strong>STEM Instructors</strong>
 </p>
 <p>Mr Chua Chim Chuan Edmund</p>
 <p>Mr Lim Sim Seng Andrew</p>
 <p>Ms Nurlela Binte Hamzah</p>
 <p>Mr Oh Piow Kwang</p>
+<p>Ms Sufinasuha Binte Zainudin</p>
 <p>Ms Tan Lay Kwee Joanne</p>
+<p>Ms Teo Mei Ling Jacqueline</p>
 <p><strong>Operations Support Officers</strong>
 </p>
 <p>Mdm Choo Ah Sai Lina</p>
