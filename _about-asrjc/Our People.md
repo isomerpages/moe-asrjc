@@ -214,7 +214,6 @@ variant: tiptap
 <br><strong>Teachers</strong>
 </p>
 <p>Ms Khaw Maylee</p>
-<p>Ms Koh Yi Ting Cristee</p>
 <p>Mrs Malarvizhi Haugen
 <br>Mr Soh Wai Hong Peter</p>
 </div>
