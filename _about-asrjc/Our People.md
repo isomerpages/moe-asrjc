@@ -235,9 +235,6 @@ variant: tiptap
 <p><strong>School Staff Developer</strong>
 </p>
 <p>Mr Ng Yung Hui Eugene</p>
-<p><strong>JC1 Deputy Dean</strong>
-</p>
-<p>Ms Khiew Shi Hui</p>
 <p><strong>Master Teacher (Biology)</strong>
 </p>
 <p>Mr Muhamad Salahuddin Ibrahim</p>
@@ -258,6 +255,9 @@ variant: tiptap
 <p><strong>SH Physics</strong>
 </p>
 <p>Mdm Tan Pei Yun</p>
+<p><strong>JC1 Deputy Dean</strong>
+</p>
+<p>Ms Khiew Shi Hui</p>
 <p><strong>SH STEM</strong>
 </p>
 <p>Mr Soo Kah Wai Kelvin</p>
