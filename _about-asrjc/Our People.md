@@ -77,9 +77,9 @@ variant: tiptap
 </p>
 <p>Ms Aw Yuan Ling Cheryl</p>
 <p>Ms Chai Xue Fang Beatrice</p>
-<p>Mr Clifton Tay Xiang Rui
-<br>Mdm Eng Seok Hoon Rose
-<br>Mr Foo Chuan Wang Derek</p>
+<p>Mr Clifton Tay Xiang Rui</p>
+<p>Mdm Eng Seok Hoon Rose</p>
+<p>Mr Foo Chuan Wang Derek</p>
 <p>Ms Goh Mei-Yi, Eunice</p>
 <p>Ms Hemma Balakrishnan</p>
 <p>Ms Ho Ying Xin, Berakah</p>
@@ -125,7 +125,7 @@ variant: tiptap
 <p><strong>SH Chinese Language</strong>
 </p>
 <p>Ms Ong Si Min</p>
-<p><strong>ST Tamil Language</strong>
+<p><strong>Senior Teacher (Tamil Language)</strong>
 </p>
 <p>Mdm Kamalavani d/o Palaiyan</p>
 <p><strong>Teachers</strong>
@@ -247,9 +247,6 @@ variant: tiptap
 </p>
 <p>Ms Cheng Chee Wei Esther</p>
 <p>Mrs Chai Chung Mun</p>
-<p><strong>Senior Teachers (Physics)</strong>
-</p>
-<p>Mdm Tay Sai Ghor</p>
 <p><strong>SH Biology</strong>
 </p>
 <p>Mdm Resma Bte Gulzar Mohd</p>
@@ -284,6 +281,7 @@ variant: tiptap
 <p>Ms Seah Suei Hua Jocelyn</p>
 <p>Ms Tan Ee Yong</p>
 <p>Mr Tan Heng Huat, Jason</p>
+<p>Mdm Tay Sai Ghor</p>
 <p>Ms Tok Kah En</p>
 <p>Mr Yeong Chong Yiing</p>
 </div>
