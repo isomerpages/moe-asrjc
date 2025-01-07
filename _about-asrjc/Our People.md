@@ -206,7 +206,7 @@ variant: tiptap
 <p><strong>SH Project Work</strong>
 </p>
 <p>Ms Lim Li Wen Evon</p>
-<p><strong>SH Information and Communication Technology</strong>
+<p><strong>SH Information &amp; Communication Technology</strong>
 </p>
 <p>Ms Koh Wenting</p>
 <p><strong>Senior Teacher (Character and Citizenship Education)</strong>
