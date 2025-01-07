@@ -210,8 +210,9 @@ variant: tiptap
 </p>
 <p>Ms Koh Wenting</p>
 <p><strong>Senior Teacher (Character and Citizenship Education)</strong>
-<br>Koh Yi Ting Cristee
-<br><strong>Teachers</strong>
+</p>
+<p>Koh Yi Ting Cristee</p>
+<p><strong>Teachers</strong>
 </p>
 <p>Ms Khaw Maylee</p>
 <p>Mrs Malarvizhi Haugen</p>
