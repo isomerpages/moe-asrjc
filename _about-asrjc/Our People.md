@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 <p>Mr Gurusharan Singh S/O Major Singh</p>
 <p>Mrs Cheng-Tey Li Shun</p>
-<p>Mr Mohamad Amran Shah bin Abdul Rahim (Administration)</p>
+<p>Mr Mohamad Amran Shah (Administration)</p>
 </div>
 </details>
 <details class="isomer-details">
