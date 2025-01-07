@@ -191,8 +191,8 @@ variant: tiptap
 <p>Mr Chong Song Cheng</p>
 <p>Mr Clunies Ross Sean James</p>
 <p>Mr Ho Kuan Peng</p>
-<p>Mr Lee Kok Weng
-<br>Ms Pang Seng Hui</p>
+<p>Mr Lee Kok Weng</p>
+<p>Ms Pang Seng Hui</p>
 <p>Mr Tan Ser Yang</p>
 </div>
 </details>
@@ -241,10 +241,6 @@ variant: tiptap
 <p><strong>Lead Teacher (Biology)</strong>
 </p>
 <p>Mdm Leow Li Ting</p>
-<p><strong>Senior Teachers (Chemistry)</strong>
-</p>
-<p>Ms Cheng Chee Wei Esther</p>
-<p>Mrs Chai Chung Mun</p>
 <p><strong>SH Biology</strong>
 </p>
 <p>Mdm Resma Bte Gulzar Mohd</p>
@@ -264,6 +260,10 @@ variant: tiptap
 <p><strong>SH Guidance</strong>
 </p>
 <p>Mr Yang Weizheng, Adrian</p>
+<p><strong>Senior Teachers (Chemistry)</strong>
+</p>
+<p>Ms Cheng Chee Wei Esther</p>
+<p>Mrs Chai Chung Mun</p>
 <p><strong>Teachers</strong>
 </p>
 <p>Ms Agnes Chia Yi Fang</p>
