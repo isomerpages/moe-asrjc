@@ -23,7 +23,7 @@ variant: tiptap
 <summary><strong>Economics Department</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>HOD Economics</strong>
+<p><strong>HOD Economics &amp; Humanities</strong>
 </p>
 <p>Mr Arumugam Meganathan</p>
 <p><strong>JC2 Dean</strong>
@@ -57,12 +57,6 @@ variant: tiptap
 <p><strong>HOD English</strong>
 </p>
 <p>Mr Koh Tze Khang Adrian</p>
-<p><strong>Senior Teacher (General Paper)</strong>
-</p>
-<p>Mdm Tang Ling Ling</p>
-<p><strong>Senior Teacher (Literature)</strong>
-</p>
-<p>Ms Chew Ai Ling Melissa</p>
 <p><strong>SH General Paper</strong>
 </p>
 <p>Ms Ang Hui Ting</p>
@@ -73,6 +67,12 @@ variant: tiptap
 <p><strong>SH Civic Education</strong>
 </p>
 <p>Ms Choo Li Min Bernadette Teresa</p>
+<p><strong>Senior Teacher (General Paper)</strong>
+</p>
+<p>Mdm Tang Ling Ling</p>
+<p><strong>Senior Teacher (Literature)</strong>
+</p>
+<p>Ms Chew Ai Ling Melissa</p>
 <p><strong>Teachers</strong>
 </p>
 <p>Ms Aw Yuan Ling Cheryl</p>
