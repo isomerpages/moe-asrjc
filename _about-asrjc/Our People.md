@@ -16,14 +16,14 @@ variant: tiptap
 </p>
 <p>Mr Gurusharan Singh S/O Major Singh</p>
 <p>Mrs Cheng-Tey Li Shun</p>
-<p>Mr Mohamad Amran Shah bin Abdul Rahim (Administration)</p>
+<p>Mr Mohamad Amran Shah (Administration)</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Economics Department</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>HOD Economics</strong>
+<p><strong>HOD Economics &amp; Humanities</strong>
 </p>
 <p>Mr Arumugam Meganathan</p>
 <p><strong>JC2 Dean</strong>
@@ -57,12 +57,6 @@ variant: tiptap
 <p><strong>HOD English</strong>
 </p>
 <p>Mr Koh Tze Khang Adrian</p>
-<p><strong>Senior Teacher (General Paper)</strong>
-</p>
-<p>Mdm Tang Ling Ling</p>
-<p><strong>Senior Teacher (Literature)</strong>
-</p>
-<p>Ms Chew Ai Ling Melissa</p>
 <p><strong>SH General Paper</strong>
 </p>
 <p>Ms Ang Hui Ting</p>
@@ -73,13 +67,19 @@ variant: tiptap
 <p><strong>SH Civic Education</strong>
 </p>
 <p>Ms Choo Li Min Bernadette Teresa</p>
+<p><strong>Senior Teacher (General Paper)</strong>
+</p>
+<p>Mdm Tang Ling Ling</p>
+<p><strong>Senior Teacher (Literature)</strong>
+</p>
+<p>Ms Chew Ai Ling Melissa</p>
 <p><strong>Teachers</strong>
 </p>
 <p>Ms Aw Yuan Ling Cheryl</p>
 <p>Ms Chai Xue Fang Beatrice</p>
-<p>Mr Clifton Tay Xiang Rui
-<br>Mdm Eng Seok Hoon Rose
-<br>Mr Foo Chuan Wang Derek</p>
+<p>Mr Clifton Tay Xiang Rui</p>
+<p>Mdm Eng Seok Hoon Rose</p>
+<p>Mr Foo Chuan Wang Derek</p>
 <p>Ms Goh Mei-Yi, Eunice</p>
 <p>Ms Hemma Balakrishnan</p>
 <p>Ms Ho Ying Xin, Berakah</p>
@@ -125,7 +125,7 @@ variant: tiptap
 <p><strong>SH Chinese Language</strong>
 </p>
 <p>Ms Ong Si Min</p>
-<p><strong>ST Tamil Language</strong>
+<p><strong>Senior Teacher (Tamil Language)</strong>
 </p>
 <p>Mdm Kamalavani d/o Palaiyan</p>
 <p><strong>Teachers</strong>
@@ -191,8 +191,8 @@ variant: tiptap
 <p>Mr Chong Song Cheng</p>
 <p>Mr Clunies Ross Sean James</p>
 <p>Mr Ho Kuan Peng</p>
-<p>Mr Lee Kok Weng
-<br>Ms Pang Seng Hui</p>
+<p>Mr Lee Kok Weng</p>
+<p>Ms Pang Seng Hui</p>
 <p>Mr Tan Ser Yang</p>
 </div>
 </details>
@@ -206,17 +206,17 @@ variant: tiptap
 <p><strong>SH Project Work</strong>
 </p>
 <p>Ms Lim Li Wen Evon</p>
-<p><strong>SH Information and Communication Technology</strong>
+<p><strong>SH Information &amp; Communication Technology</strong>
 </p>
-<p>Ms Koh Wenting
-<br><strong>ST Character and Citizenship Education</strong>
-<br>Koh Yi Ting Cristee
-<br><strong>Teachers</strong>
+<p>Ms Koh Wenting</p>
+<p><strong>Senior Teacher (Character and Citizenship Education)</strong>
+</p>
+<p>Koh Yi Ting Cristee</p>
+<p><strong>Teachers</strong>
 </p>
 <p>Ms Khaw Maylee</p>
-<p>Ms Koh Yi Ting Cristee</p>
-<p>Mrs Malarvizhi Haugen
-<br>Mr Soh Wai Hong Peter</p>
+<p>Mrs Malarvizhi Haugen</p>
+<p>Mr Soh Wai Hong Peter</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -238,19 +238,9 @@ variant: tiptap
 <p><strong>Master Teacher (Biology)</strong>
 </p>
 <p>Mr Muhamad Salahuddin Ibrahim</p>
-<p><strong>JC1 Deputy Dean</strong>
-</p>
-<p>Ms Khiew Shi Hui</p>
 <p><strong>Lead Teacher (Biology)</strong>
 </p>
 <p>Mdm Leow Li Ting</p>
-<p><strong>Senior Teachers (Chemistry)</strong>
-</p>
-<p>Ms Cheng Chee Wei Esther</p>
-<p>Mrs Chai Chung Mun</p>
-<p><strong>Senior Teachers (Physics)</strong>
-</p>
-<p>Mdm Tay Sai Ghor</p>
 <p><strong>SH Biology</strong>
 </p>
 <p>Mdm Resma Bte Gulzar Mohd</p>
@@ -261,12 +251,19 @@ variant: tiptap
 <p><strong>SH Physics</strong>
 </p>
 <p>Mdm Tan Pei Yun</p>
+<p><strong>JC1 Deputy Dean</strong>
+</p>
+<p>Ms Khiew Shi Hui</p>
 <p><strong>SH STEM</strong>
 </p>
 <p>Mr Soo Kah Wai Kelvin</p>
 <p><strong>SH Guidance</strong>
 </p>
 <p>Mr Yang Weizheng, Adrian</p>
+<p><strong>Senior Teachers (Chemistry)</strong>
+</p>
+<p>Ms Cheng Chee Wei Esther</p>
+<p>Mrs Chai Chung Mun</p>
 <p><strong>Teachers</strong>
 </p>
 <p>Ms Agnes Chia Yi Fang</p>
@@ -285,6 +282,7 @@ variant: tiptap
 <p>Ms Seah Suei Hua Jocelyn</p>
 <p>Ms Tan Ee Yong</p>
 <p>Mr Tan Heng Huat, Jason</p>
+<p>Mdm Tay Sai Ghor</p>
 <p>Ms Tok Kah En</p>
 <p>Mr Yeong Chong Yiing</p>
 </div>
