@@ -47,8 +47,7 @@ has planned, from exciting events to tasty refreshments, and make the most
 of your visit!</p>
 <p></p>
 <p></p>
-<p><strong>Download the ASR 2025 Prospectus!</strong>
-</p>
+<h3><strong><a href="/files/asrjc prospectus 2025 (web).pdf" rel="noopener noreferrer nofollow" target="_blank">Download the ASRJC Prospectus 2025!</a></strong></h3>
 <p>Interested in more information? Click <a href="https://drive.google.com/file/d/1OWTFcn-HvYkQmEtXix_1eFKCmktZFCob/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download the prospectus and gain insights into our diverse academic programs,
 co-curricular activities, and the lively campus environment.</p>
@@ -56,9 +55,6 @@ co-curricular activities, and the lively campus environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/updated_prospectus.jpg">
 </div>
-<p>
-<br>
-</p>
 <p>
 <br>
 </p>
