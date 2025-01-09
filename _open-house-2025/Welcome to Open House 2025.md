@@ -56,8 +56,7 @@ co-curricular activities, and the lively campus environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/updated_prospectus.jpg">
 </div>
-<p><a href="/files/asrjc prospectus 2025 (web).pdf" rel="noopener nofollow" target="_blank">ASRJC Prospectus 2025</a>
-</p>
+<h3><a href="/files/asrjc prospectus 2025 (web).pdf" rel="noopener nofollow" target="_blank">ASRJC Prospectus 2025</a></h3>
 <p>
 <br>
 </p>
