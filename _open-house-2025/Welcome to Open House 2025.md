@@ -48,7 +48,7 @@ of your visit!</p>
 <p></p>
 <p></p>
 <h3><strong><a href="/files/asrjc prospectus 2025 (web).pdf" rel="noopener noreferrer nofollow" target="_blank">Download the ASRJC Prospectus 2025!</a></strong></h3>
-<p>Interested in more information? Click <a href="https://drive.google.com/file/d/1OWTFcn-HvYkQmEtXix_1eFKCmktZFCob/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Interested in more information? Click <a href="https://drive.google.com/file/d/1OWTFcn-HvYkQmEtXix_1eFKCmktZFCob/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download the prospectus and gain insights into our diverse academic programs,
 co-curricular activities, and the lively campus environment.</p>
 <p></p>
