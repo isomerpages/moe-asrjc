@@ -1,6 +1,6 @@
 ---
-title: Academic Curriculum
-permalink: /academic-curriculum/
+title: Academic Subjects
+permalink: /academic-subjects/
 variant: tiptap
 description: ""
 ---
