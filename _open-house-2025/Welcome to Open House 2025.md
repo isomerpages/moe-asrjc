@@ -6,7 +6,6 @@ description: ""
 ---
 <p><strong>Join Us at ASR Open House 2025!</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_banner_at_bus_stop_final___6_x_1_5_cm_.png">
 </div>
@@ -20,12 +19,11 @@ arts, our range of activities is designed to showcase the dynamic environment
 at ASR.</p>
 <p>See the summary list of events and activities for our Open House below.
 This is your chance to experience what makes ASR special!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1st_slide.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2nd_page.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__new_.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PROGRAM_SCHEDULE.png">
@@ -41,7 +39,7 @@ This is your chance to experience what makes ASR special!</p>
 </div>
 <p><strong>Interested in More Details?</strong>
 </p>
-<p>Click <a href="https://drive.google.com/file/d/1UUCWNcLkigETN_U3Gp-nWw6ID9KupY3X/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://drive.google.com/file/d/1u4p9iR8dUWw15zBuvBwLTnYlRqGGdJzW/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 access our comprehensive Open House program sheet. Explore everything ASR
 has planned, from exciting events to tasty refreshments, and make the most
 of your visit!</p>
