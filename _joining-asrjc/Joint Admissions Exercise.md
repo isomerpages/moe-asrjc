@@ -125,7 +125,7 @@ All shortlisted candidates will be notified before the end of the Appeal period.
 
 ### **Subject&nbsp;Combinations&nbsp;in ASRJC**
 
-The list of subject combinations offered in 2024 is downloadable [here](/files/Subject_Combination_List_2024.pdf).
+The list of subject combinations offered in 2025 is downloadable [here](/files/Subject_Combination_List_2025.pdf)
 
 ### **Selection Tests**
 
