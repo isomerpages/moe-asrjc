@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### PROSPECTUS
 
-[Click to view ASRJC's E-Prospectus](/files/ASRJC_Prospectus_2024_Final_Web.pdf)
+[Click to view ASRJC's E-Prospectus](/files/asrjc%20prospectus%202025%20(web).pdf)
 
 #### JC CURRICULUM
 
