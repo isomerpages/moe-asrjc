@@ -43,7 +43,7 @@ This is your chance to experience what makes ASR special!</p>
 </div>
 <p><strong>Interested in More Details?</strong>
 </p>
-<p>Click <a href="https://drive.google.com/file/d/1u4p9iR8dUWw15zBuvBwLTnYlRqGGdJzW/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://drive.google.com/file/d/1lgaeULIZfpJaR07QHF21SLDzO0k4ZINn/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 access our comprehensive Open House program sheet. Explore everything ASR
 has planned, from exciting events to tasty refreshments, and make the most
 of your visit!</p>
