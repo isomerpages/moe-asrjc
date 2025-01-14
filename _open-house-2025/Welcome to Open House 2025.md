@@ -19,12 +19,16 @@ arts, our range of activities is designed to showcase the dynamic environment
 at ASR.</p>
 <p>See the summary list of events and activities for our Open House below.
 This is your chance to experience what makes ASR special!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1st_slide.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_new_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__new_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_new_.png">
 </div>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PROGRAM_SCHEDULE.png">
 </div>
