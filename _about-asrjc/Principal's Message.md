@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_Group_Pic_3a.jpg">
 </div>
-<p><em>Back Row rom Left: Mr Gurusharan M Singh (Vice-Principal), Mr Mohd Amran Shah (Vice-Principal Adminstration) <br>Front Row from Left: Mr Heng Yew Seng (Principal), Mrs Cheng-Tey Li Shun (Vice-Principal)</em>
+<p><em>Back Row rom Left: Mr Gurusharan M Singh (Vice-Principal), Mr Mohamad Amran Shah (Vice-Principal Adminstration) <br>Front Row from Left: Mr Heng Yew Seng (Principal), Mrs Cheng-Tey Li Shun (Vice-Principal)</em>
 </p>
 <p></p>
 <p><strong><em>Welcome to Anderson Serangoon Junior College</em></strong>
