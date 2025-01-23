@@ -1,5 +1,5 @@
 collections:
-  achievements:
+  accomplishments:
     output: true
     order:
       - Achievements.md
