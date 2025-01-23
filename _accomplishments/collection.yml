@@ -2,7 +2,7 @@ collections:
   accomplishments:
     output: true
     order:
-      - Accomplishments.md
+      - Achievements.md
       - Academic/.keep
       - Academic/2024.md
       - Academic/2023.md
