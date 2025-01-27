@@ -228,11 +228,11 @@ Mother Tongue)</p>
 <p>Students can enjoy up to a maximum of 4 bonus points. However, a minimum
 raw score of L1R5 20 points is necessary to qualify for bonus points.</p>
 <h3><strong>Post-JAE Appeal Procedure</strong></h3>
-<p>Appeals for admission to ASRJC will commence on Thursday, 4 February 2025
-and end on Wednesday, 10 February 2025.</p>
+<p>Appeals for admission to ASRJC will commence on Tuesday, 4 February 2025
+and end on Monday, 10 February 2025.</p>
 <p>Only students with net L1R5 equal or less than ASRJC cut-off points can
 be considered for appeals.&nbsp;All appeals application must be completed
-online. The online application form can be accessed&nbsp;<strong><a href="https://portal.asrjc.edu.sg/appeal" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.&nbsp;<strong>All appeals must be submitted by Wednesday 10 February 2025, 9am.</strong>
+online. The online application form can be accessed&nbsp;<strong><a href="https://portal.asrjc.edu.sg/appeal" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.&nbsp;<strong>All appeals must be submitted by Monday 10 February 2025, 9am.</strong>
 </p>
 <p>You can download the user guide for appeal&nbsp;<strong><a href="/files/2024_User_Guide_for_Appeal.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a></strong>
 </p>
