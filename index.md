@@ -19,6 +19,15 @@ sections:
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
   - infopic:
+      title: Welcome JC1s!
+      subtitle: NEW!
+      id: infopic
+      description: 2025 JC1 Orientation Programme
+      button: Click HERE
+      url: https://www.asrjc.moe.edu.sg/highlights/2025jc1welcome/
+      image: /images/O2025_Logo.png
+      alt: Image alt text
+  - infopic:
       title: ASRJC Open House 2025
       subtitle: New!
       id: infopic
