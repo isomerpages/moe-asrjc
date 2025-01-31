@@ -35,12 +35,19 @@ and 153.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 802.656px;" height="auto" width="100%" alt="" src="https://www.asrjc.moe.edu.sg/images/Public_Transport_Map.jpg">
 </div>
-<h4><strong>(D)&nbsp; <u>For Parents</u> – Webinar by our College Education &amp; Career Guidance (ECG) Counsellor</strong></h4>
-<p>The zoom webinar will be held on <strong>5 February 2025, Wednesday at 7pm</strong>.
+<h4><strong>(D) Subject Registration</strong></h4>
+<p></p>
+<p>The deadline for subject combination registration is <strong>6 February 2025, Thursday at 10 AM</strong>.
+You may take this opportunity to explore the available choices in advance
+to make a well-considered decision. The list of subject combinations offered
+in 2025 is downloadable <a href="https://www.asrjc.moe.edu.sg/files/Subject_Combination_List_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
+</p>
+<h4><strong>(E)&nbsp; <u>For Parents</u> – Webinar by our College Education &amp; Career Guidance (ECG) Counsellor</strong></h4>
+<p>The webinar will be held on <strong>5 February 2025, Wednesday at 7pm</strong>.
 During the session, our ECG counsellor will provide information to help
 you support your child/ward in choosing a subject combination that best
-fits their strengths, interests and aspirations. You may click the link
-<a href="https://go.gov.sg/2025-jc1parents-ecg" rel="noopener nofollow" target="_blank">here</a>or scan the QR Code to join the webinar.</p>
+fits their strengths, interests and aspirations. To join the webinar, you
+may scan the QR Code below or click the link <a href="https://go.gov.sg/2025-jc1parents-ecg" rel="noopener nofollow" target="_blank">here </a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/screenshot_webinar.png">
 </div>
