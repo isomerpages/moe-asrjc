@@ -24,7 +24,7 @@ sections:
       id: infopic
       description: 2025 JC1 Orientation Programme
       button: Click HERE
-      url: https://www.asrjc.moe.edu.sg/highlights/2025jc1welcome/
+      url: https://www.asrjc.moe.edu.sg/welcome-2025-jc1s/
       image: /images/O2025_Logo.png
       alt: Image alt text
   - infopic:
