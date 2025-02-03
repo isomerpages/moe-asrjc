@@ -2,7 +2,6 @@ collections:
   asrjc-experience:
     output: true
     order:
-      - CCA/Co Curricular Activities.md
       - CCA/.keep
       - Academic Curriculum/.keep
       - Academic Curriculum/Academic Curriculum.md
