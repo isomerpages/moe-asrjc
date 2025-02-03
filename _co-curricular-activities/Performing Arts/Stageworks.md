@@ -14,7 +14,6 @@ are immersed in all aspects of stagecraft, including acting, scriptwriting,
 set design, and production management. Through dynamic activities and hands-on
 experiences, students develop their artistic knowledge and skills while
 cultivating teamwork, resilience, and confidence.</p>
-<p>&nbsp;</p>
 <p>Stageworks has been a proud participant in the prestigious Singapore Youth
 Festival (SYF) Arts Presentation, consistently earning recognition for
 its performances. Additionally, the club stages bi-annual productions within
@@ -23,7 +22,6 @@ and talents to the school community. Central to the success of Stageworks
 is its longstanding partnership with its trainer, Mr. Dharan. His thoughtfully
 curated training programme and extensive expertise have enriched the members’
 learning journey, fostering a deep appreciation for the art of drama.</p>
-<p>&nbsp;</p>
 <p>Beyond the stage, Stageworks plays a significant role in enriching the
 cultural fabric of the College. By encouraging students to embrace creativity
 and collaboration, the club contributes to their holistic development and
