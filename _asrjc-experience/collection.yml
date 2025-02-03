@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - CCA/Sports.md
       - CCA/.keep
       - Academic Curriculum/.keep
       - Academic Curriculum/Academic Curriculum.md
