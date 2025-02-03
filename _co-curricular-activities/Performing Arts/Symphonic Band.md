@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Performing Arts
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z_q-gjLUhqw?si=2d9TNlDKhLCmO9R8"></iframe>
+</div>
+<p></p>
 <p>The Anderson Serangoon Junior College (ASRJC) Symphonic Band stands as
 a beacon of musical excellence, driven by its passion, dedication and outstanding
 musicianship. Under the guidance of their esteemed conductor, Mr Adrian
