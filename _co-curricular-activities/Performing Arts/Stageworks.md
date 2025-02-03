@@ -8,7 +8,6 @@ third_nav_title: Performing Arts
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9T8-eoGCwlc?si=MNMPSOWa2u-MMH-_"></iframe>
 </div>
-<p></p>
 <p>Stageworks serves as a vibrant platform for students to explore their
 creativity, discover their unique strengths, and express themselves through
 the performing arts. With a mission to provide a safe and enjoyable space,
