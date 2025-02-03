@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YifCVCbJkbY?si=CHwcwhGkkv1koWLx"></iframe>
+</div>
 <p>Welcome to the AVA Club, where our motto is <em>“Inspiring Creativity, Capturing Every Moment.”</em> At
 AVA, we bring events to life, transform ideas into reality, and preserve
 memories with passion and precision. From storytelling to advanced media
