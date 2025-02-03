@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Performing Arts/Stageworks.md
-      - Performing Arts/Symphonic Band.md
+      - Performing Arts/.keep
       - Performing Arts/Chinese Orchestra.md
       - Performing Arts/Choir.md
       - Performing Arts/Dance Society.md
       - Performing Arts/Guitar Ensemble.md
-      - Performing Arts/.keep
+      - Performing Arts/Stageworks.md
+      - Performing Arts/Symphonic Band.md
       - Sports and Games/.keep
       - Sports and Games/Badminton.md
       - Sports and Games/Basketball.md
