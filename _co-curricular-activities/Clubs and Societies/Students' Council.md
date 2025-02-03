@@ -21,13 +21,13 @@ memories together.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_Council_Photo_2_Artemis_Day__House_Days_.jpg">
 </div>
-<p><em>Artemis Day (House Days) </em>
+<p><em>Artemis Day (House Days)</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_Council_Photo_3.jpg">
 </div>
-<p><em>Making Props for House Days</em>
+<p><em>Making props for house days</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -39,4 +39,4 @@ memories together.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_Council_Photo_5_Slime_making_activity_for_Halloween_Movie_Night.jpg">
 </div>
-<p>Slime-making Activity for Halloween Movie Night</p>
+<p>Slime-making activity for Halloween Movie Night</p>
