@@ -2,7 +2,6 @@ collections:
   asrjc-experience:
     output: true
     order:
-      - Clubs and Societies/.keep
       - Academic Curriculum/.keep
       - Academic Curriculum/Academic Curriculum.md
       - Academic Curriculum/Rank Points.md
