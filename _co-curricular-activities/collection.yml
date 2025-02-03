@@ -1,0 +1,15 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Co Curricular Activities.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Dance Society.md
+      - Performing Arts/Guitar Ensemble.md
+      - Performing Arts/.keep
+      - Sports and Games/.keep
+      - Clubs and Societies/Tamil LDDS.md
+      - Clubs and Societies/Visual Arts.md
+      - Clubs and Societies/Debate and Creative Communications.md
+      - Clubs and Societies/.keep

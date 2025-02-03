@@ -243,9 +243,6 @@ period. Shortlisted candidates are to bring along the original and a duplicate
 copy of the:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>JAE Form A</p>
-</li>
-<li>
 <p>Latest O-Level results slip</p>
 </li>
 <li>
@@ -267,13 +264,16 @@ copy of the:</p>
 <h3><strong>Selection Tests</strong></h3>
 <p><strong>H2 Computing</strong>
 </p>
-<p>The test for H2 Computing is TBC.</p>
+<p>The test for H2 Computing is will take place on 6 Feb Thursday 8:30a.m.
+at LT4.</p>
 <p><strong>H2 Further Mathematics</strong>
 </p>
 <p>H2 Further Mathematics is to be offered with H2 Mathematics as a double
-mathematics course. The test for H2 Further Mathematics is TBC.</p>
+mathematics course. The test for H2 Further Mathematics 6 Feb Thursday
+10:30a.m. at LT4.</p>
 <p><strong>H2 Art</strong>
 </p>
-<p>The test for H2 Art is TBC. Students are advised to bring their own drawing
-and painting materials for the test and submit their portfolio at the same
-time. The interview will be conducted on the same afternoon.</p>
+<p>The test for H2 Art is 6 Feb Thursday 8:30a.m. at the Art Studio. Students
+are advised to bring their own drawing and painting materials for the test
+and submit their portfolio at the same time. The interview will be conducted
+on the same afternoon.</p>

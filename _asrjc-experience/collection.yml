@@ -2,6 +2,8 @@ collections:
   asrjc-experience:
     output: true
     order:
+      - Co Curricular Activities.md
+      - CCA/.keep
       - Academic Curriculum/.keep
       - Academic Curriculum/Academic Curriculum.md
       - Academic Curriculum/Rank Points.md
@@ -11,7 +13,6 @@ collections:
       - CCE/Civic Education.md
       - CCE/Education and Career Guidance.md
       - CCE/Sexuality Education.md
-      - Co Curricular Activities.md
       - Special Programmes/.keep
       - Special Programmes/STEAM Education.md
       - Special Programmes/Talent Development Programme (ASR Scholars
