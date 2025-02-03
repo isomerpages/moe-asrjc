@@ -26,25 +26,10 @@ prestigious National School Games.</p>
 <p><em>One Team, One Dream</em>
 </p>
 <p>No pain, no gain. Putting in their best effort during training</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb1.png">
-</div>
 <p>Engaged and attentive in a tactical session conducted by the coach</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb2.jpg">
-</div>
 <p>
 <br>Doing our part for the community in the school event – ASRGives</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb4.jpg">
-</div>
 <p>Competing in a National School Games (NSG) with unwavering support from
 the home crowd.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb5.jpg">
-</div>
 <p>One Team, One Dream</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb6.jpg">
-</div>
 <p></p>
