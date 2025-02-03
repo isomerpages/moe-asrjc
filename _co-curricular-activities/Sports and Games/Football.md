@@ -5,3 +5,46 @@ variant: tiptap
 description: ""
 third_nav_title: Sports and Games
 ---
+<p>The ASR Football CCA is a dynamic and inclusive programme that helps students
+improve their skills in technique, strategy, and teamwork. It provides
+an opportunity for students to cultivate resilience, focus, and sportsmanship
+while fostering camaraderie through a common love for the sport. As an
+integral part of the school’s sports community, the ASR Football CCA not
+only refines technical abilities and builds physical resilience but also
+develops character, confidence, and a competitive mindset among its members.&nbsp;</p>
+<p>Throughout the year, the ASR Football CCA provides a range of exciting
+activities, such as weekly training sessions led by experienced coaches
+to enhance players' skills and tactical knowledge. Members also engage
+in inter-school friendly matches and the internal ASR League (an annual
+intra-CCA football tournament), all within a supportive and encouraging
+environment. There are ample opportunities for members to develop leadership
+skills through involvement in organising key CCA events, including the
+Open House, CCA Bazaar, Selection Trials, March Holiday Camp, and JC2 Farewell.
+Additionally, members have the opportunity to showcase their footballing
+skills and compete at the highest level by representing the school at the
+prestigious National School Games.</p>
+<p><em>One Team, One Dream</em>
+</p>
+<p>No pain, no gain. Putting in their best effort during training</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb1.png">
+</div>
+<p>Engaged and attentive in a tactical session conducted by the coach</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb2.jpg">
+</div>
+<p>
+<br>Doing our part for the community in the school event – ASRGives</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb4.jpg">
+</div>
+<p>Competing in a National School Games (NSG) with unwavering support from
+the home crowd.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb5.jpg">
+</div>
+<p>One Team, One Dream</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb6.jpg">
+</div>
+<p></p>
