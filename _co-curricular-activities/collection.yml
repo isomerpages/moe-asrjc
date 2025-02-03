@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
+      - Performing Arts/Choir.md
       - Performing Arts/Dance Society.md
       - Performing Arts/Guitar Ensemble.md
       - Performing Arts/.keep
