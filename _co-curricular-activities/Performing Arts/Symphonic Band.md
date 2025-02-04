@@ -8,7 +8,6 @@ third_nav_title: Performing Arts
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z_q-gjLUhqw?si=2d9TNlDKhLCmO9R8"></iframe>
 </div>
-<p></p>
 <p>The Anderson Serangoon Junior College (ASRJC) Symphonic Band stands as
 a beacon of musical excellence, driven by its passion, dedication and outstanding
 musicianship. Under the guidance of their esteemed conductor, Mr Adrian
@@ -56,11 +55,4 @@ great joy and pride, bringing ASRJC Symphonic Band to greater heights.</p>
 <p>The ASRJC Symphonic Band at The Jewel in 2023</p>
 <p></p>
 <p></p>
-<p>
-<br>
-</p>
 <p></p>
-<p></p>
-<p></p>
-<p><strong>The ASRJC Symphonic Band at its biennial concert in 2024</strong>
-</p>
