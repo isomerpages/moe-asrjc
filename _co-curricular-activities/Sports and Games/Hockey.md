@@ -23,31 +23,30 @@ travel overseas to learn from other athletes from different socio-cultural
 backgrounds. Whether you are new to the sport or an experienced player,
 Hockey provides an opportunity to build lifelong friendships, challenge
 yourself, and represent the college with pride.</p>
-<p>The boys team receiving their medals for representing the college at the
-2024 Under-19 National Junior League.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1.jpg">
 </div>
-<p>The girls team in action at a match during the 2024 National School Games.</p>
+<p>The boys team receiving their medals for representing the college at the
+2024 Under-19 National Junior League.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/compressed_photo_2.jpg">
+</div>
+<p>The girls team in action at a match during the 2024 National School Games.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey_4.jpg">
 </div>
 <p>The entire team celebrating after the boys were placed second runners-up
 in the 2024 National School Games.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey_3.jpg">
 </div>
 <p>The boys’ team after scoring the winning penalty to secure the bronze
 medal in the 2023 National School Games.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey_5.jpg">
 </div>
 <p>The 2024 JC1s during a student-initiated Service Learning project, where
 they organised an outreach to migrant workers in collaboration with Hope
-Initiative Alliance.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey_5.jpg">
-</div>
-<p>
+Initiative Alliance.
 <br>
 </p>
