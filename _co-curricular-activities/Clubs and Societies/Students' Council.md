@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WGr6xEIp21M?si=jxfmPh6SCrq2-1Vj"></iframe>
+</div>
 <p>The Students’ Council drives the college spirit through organising events
 such as the Freshmen Orientation, Teachers’ Day Celebrations and Movie
 Night. As leaders elected by students from their respective Houses, the
