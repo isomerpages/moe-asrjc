@@ -139,6 +139,20 @@ posted here.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>11</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Calculation of L1R5 Score</h4>
