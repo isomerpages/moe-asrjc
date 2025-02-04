@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Performing Arts
 ---
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hp22GZrTSYo?si=5iLIwGuAUdNLqzSL"></iframe>
+</div>
 <p>The Anderson Serangoon Junior College Choir is a vibrant ensemble of young
 adult singers from diverse backgrounds. Under the guidance of Ms Angela
 Lee, an experienced choral conductor, the Choir performs a wide repertoire
