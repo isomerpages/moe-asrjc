@@ -45,26 +45,27 @@ individuals, and make meaningful contributions to the school and community.
 If you’re ready to learn, create, and make an impact, we warmly invite
 you to join the AVA Club. Together, we celebrate teamwork, creativity,
 and service.</p>
-<p>AVA Lighting and Sound Engineering</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event_support_.png">
 </div>
-<p>AVA members discover What Powers a Performance at Star Theatre</p>
+<p>AVA Lighting and Sound Engineering</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_journey_to_STAR.jpg">
 </div>
-<p></p>
-<p>AVA members&nbsp; Learning the Ropes of Film Production.</p>
+<p>AVA members discover What Powers a Performance at Star Theatre</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/film_production_setup.png">
 </div>
-<p>
-<br>AVA on the frontline, fighting against beach pollution.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/svL_learning.jpg">
-</div>
-<p>CCA Members Enhance Their Video Editing Expertise at AVA Club Workshop</p>
+<p>AVA members&nbsp; Learning the Ropes of Film Production.
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/compressed_capcut_workshop_rgb.jpg">
 </div>
+<p>CCA Members Enhance Their Video Editing Expertise at AVA Club Workshop</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/svL_learning.jpg">
+</div>
+<p>AVA on the frontline, fighting against beach pollution.</p>
 <p></p>
