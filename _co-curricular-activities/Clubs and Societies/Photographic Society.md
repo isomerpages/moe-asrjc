@@ -26,3 +26,23 @@ Photography Competition, Photo Essay, Photo Exhibition and People of ASR
 <p>7) Working with highly driven and passionate photographers in the college
 community.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PS_Photo_1.jpg">
+</div>
+<p><em>Fun and engaging studio photography sessions</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PS_Photo_2.jpg">
+</div>
+<p><em>Organise and curate photography exhibitions</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PS_Photo_3.jpg">
+</div>
+<p><em>Learn basic and advanced photography techniques</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PS_Photo_4.jpg">
+</div>
+<p><em>Provide photography coverage for vibrant school events</em>
+</p>
