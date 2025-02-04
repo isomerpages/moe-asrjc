@@ -42,6 +42,10 @@ great joy and pride, bringing ASRJC Symphonic Band to greater heights.</p>
 </div>
 <p>The ASRJC Symphonic Band at its biennial concert in 2024</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3.jpg">
+</div>
+<p>The ASRJC Symphonic Band at its biennial concert in 2024</p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_4.jpg">
 </div>
 <p>Opportunity for Exchange with other Bands in 2024</p>
@@ -51,5 +55,4 @@ great joy and pride, bringing ASRJC Symphonic Band to greater heights.</p>
 <p>The ASRJC Symphonic Band at The Jewel in 2023</p>
 <p></p>
 <p></p>
-<p><strong>Opportunity for Exchange with other Bands in 2024</strong>
-</p>
+<p></p>
