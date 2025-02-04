@@ -8,8 +8,7 @@ third_nav_title: Sports and Games
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YFAEnpRgOHs?si=k1GeY-dvnYr8dg77"></iframe>
 </div>
-<p>
-<br>The Anderson Serangoon Junior College Hockey team offers a unique opportunity
+<p>The Anderson Serangoon Junior College Hockey team offers a unique opportunity
 for students from diverse backgrounds to develop not just physically, but
 also mentally, as they grow into stronger, more resilient individuals.
 As much as Hockey is about physical endurance, it is equally about mental
