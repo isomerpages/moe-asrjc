@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SR1_Qvk1pjc?si=WTLBG_TC6p4HnEuc"></iframe>
+</div>
 <p>The Visual Art Club (VA) provides a creative sanctuary for ASRJC students
 to express their imagination, hone artistic skills, and foster a deeper
 appreciation for the visual arts. Open to all students, the club aims to
