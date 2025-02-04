@@ -29,6 +29,29 @@ learning journey, fostering a deep appreciation for the art of drama.</p>
 cultural fabric of the College. By encouraging students to embrace creativity
 and collaboration, the club contributes to their holistic development and
 strengthens the College’s vibrant arts scene.&nbsp;</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1___Publicity_Still.png">
+</div>
+<p>Publicity still for Scarlet Murder, a 2023 in-school production.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2___J2_Farewell.jpg">
+</div>
+<p>J2 Farewell 2023 at the Yio Chu Kang Campus&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/compressed_stagework_photo_3.jpg">
+</div>
+<p>SYF Arts Presentation 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_4___SYF_Showcase.jpg">
+</div>
+<p>SYF Showcase 2024</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>
