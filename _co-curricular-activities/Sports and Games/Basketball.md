@@ -37,17 +37,25 @@ to making a positive impact.</p>
 <p>The Basketball CCA is more than just a sports team. It is a community
 dedicated to character building, skill enhancement, leadership, and meaningful
 contributions beyond the CCA.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASRexplore.jpg">
+</div>
 <p>ASR Explore: Cultural and Sports Exchange Program to Pathum Thani (Thailand)
 - Cooking Classes</p>
-<p>
-<br>NSG 2024</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_BB.jpg">
+</div>
+<p>NSG 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/External_Competition.jpg">
+</div>
 <p>Participation in External Competition: Friendships Cup 2024</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Training.jpg">
+</div>
 <p>CCA Training</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community_Service.jpg">
+</div>
 <p>Community Service</p>
 <p></p>
