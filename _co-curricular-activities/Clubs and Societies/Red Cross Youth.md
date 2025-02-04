@@ -30,6 +30,19 @@ aid video, raising awareness about the importance of safe play. At Red
 Cross Youth, we are committed to nurture compassionate, skilled individuals
 who embody the spirit of humanity in action.</p>
 <p></p>
-<p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/unnamed__3_.jpg">
+</div>
+<p><em>Blood Donation Drive</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SFATC__3_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/unnamed__2_.jpg">
+</div>
+<p><em>SFATC Certification Course</em>
 <br>
 </p>
