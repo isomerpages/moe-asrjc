@@ -17,13 +17,14 @@ camaraderie of our shooters, showing that with perseverance and collective
 commitment, success is always within reach.</p>
 <p>The sports of shooting continues to shape our students into disciplined
 and determined individuals, ready to take on any challenges.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_E0592.jpg">
 </div>
 <p><em>One of our Air-Rifle boys in action</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_E0696.jpg">
 </div>
 <p><em>Shooting at National School Games</em>
 <br>
