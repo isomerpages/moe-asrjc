@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Performing Arts
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xph95R4Tis8?si=wb-nDI1hVGTtau8d"></iframe>
+</div>
 <p>The Dance CCA is a vibrant and transformative program that nurtures inclusivity,
 resilience, and passion for the art of movement. With a primary focus on
 Contemporary Dance, the CCA welcomes students with varying levels of experience,

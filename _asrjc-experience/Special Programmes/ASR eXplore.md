@@ -12,3 +12,11 @@ ASR eXplore prepares students for immersive overseas learning experiences, and f
 ![](/images/Service-Learning-in-Lijiang.jpg)
 
 ![](/images/Internationalisation_Photo_4a.jpg)
+
+![](/images/WhatsApp_Image_2025_01_18_at_12_52_54_PM.jpg)
+
+![](/images/WhatsApp_Image_2025_01_18_at_12_52_54_PM__1_.jpg)
+
+![](/images/WhatsApp_Image_2025_01_18_at_12_52_55_PM.jpg)\
+
+![](/images/WhatsApp_Image_2025_01_18_at_12_52_55_PM__1_.jpg)

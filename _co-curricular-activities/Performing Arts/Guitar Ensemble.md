@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Performing Arts
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/spUAuGrE6fU?si=5vU7NUB_43HP9DeO"></iframe>
+</div>
 <p>ASR Guitar Ensemble aims to develop the students’ musical knowledge and
 guitar skills, as well as to grow their creativity and teamwork. Our motto
 “Six Strings One Sound” encompasses the ensemble’s core values of collaboration
