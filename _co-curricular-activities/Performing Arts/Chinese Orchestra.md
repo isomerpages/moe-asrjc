@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Performing Arts
 ---
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PYYR79cORqQ?si=RIklzjUmx-xB2wA3"></iframe>
+</div>
 <p>The Anderson Serangoon Junior College Chinese Orchestra (ASRCO) is led
 by the conductor, Mr Ng Seng Hong. The orchestra has consistently attained
 the Certificate of Distinction at the Singapore Youth Festival Arts Presentation
