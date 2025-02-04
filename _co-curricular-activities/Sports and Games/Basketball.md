@@ -40,8 +40,8 @@ contributions beyond the CCA.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASRexplore.jpg">
 </div>
-<p>ASR Explore: Cultural and Sports Exchange Program to Pathum Thani (Thailand)
-- Cooking Classes</p>
+<p>ASR Explore: Cultura &amp; Sports Exchange Program to Thailand - Cooking
+Classes</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_BB.jpg">
 </div>
