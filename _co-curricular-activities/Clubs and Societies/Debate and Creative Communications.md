@@ -30,6 +30,13 @@ contributing meaningfully to the college’s mission of shaping informed,
 engaged, and ethical citizens.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_02_03_at_14_49_22.jpg">
+</div>
+<p></p>
+<p><em>I love arguing, I love debate – engaging in discourse, embracing the pursuit of dispute.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Debate_3.png">
 </div>
 <p><em>Service Learning with ASR Debates: inspiring the next generation with our passion for the art of debate!</em>
