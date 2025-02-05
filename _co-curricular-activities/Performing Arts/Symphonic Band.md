@@ -36,15 +36,18 @@ great joy and pride, bringing ASRJC Symphonic Band to greater heights.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/compressed_photo1.jpg">
 </div>
-<p>The ASRJC Symphonic Band at its biennial concert in 2024</p>
+<p><em>The ASRJC Symphonic Band at its biennial concert in 2024</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/compressed_photo2.jpg">
 </div>
-<p>The ASRJC Symphonic Band at its biennial concert in 2024</p>
+<p><em>The ASRJC Symphonic Band at its biennial concert in 2024</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3.jpg">
 </div>
-<p>The ASRJC Symphonic Band at its biennial concert in 2024</p>
+<p><em>The ASRJC Symphonic Band at its biennial concert in 2024</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_4.jpg">
 </div>
@@ -52,7 +55,8 @@ great joy and pride, bringing ASRJC Symphonic Band to greater heights.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_5.jpg">
 </div>
-<p>The ASRJC Symphonic Band at The Jewel in 2023</p>
+<p><em>The ASRJC Symphonic Band at The Jewel in 2023</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
