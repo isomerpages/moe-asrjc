@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Sports and Games
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/b1jb9oPBjgQ?si=3u0KKS98rC2UZF9H"></iframe>
+</div>
 <p>Shooting is more than just pulling a trigger; it is a discipline that
 demands fortitude, patience and perseverance. Every shot is a test of mental
 and physical acuity. It requires sharp focus, steady hands and a calm mind,
