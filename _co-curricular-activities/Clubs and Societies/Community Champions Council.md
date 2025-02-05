@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7yVNLlvct3A?si=CIgegW4jHc5UDyNr"></iframe>
+</div>
 <p>The Community Champions Council (CCC) stands as a beacon of service and
 leadership, guided by the motto: serve with passion, lead with compassion.
 With a strong emphasis on both outreach and leadership, CCC fosters holistic
