@@ -34,19 +34,23 @@ strengthens the College’s vibrant arts scene.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1___Publicity_Still.png">
 </div>
-<p>Publicity still for Scarlet Murder, a 2023 in-school production.&nbsp;</p>
+<p><em>Publicity still for Scarlet Murder, a 2023 in-school production</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2___J2_Farewell.jpg">
 </div>
-<p>J2 Farewell 2023 at the Yio Chu Kang Campus&nbsp;</p>
+<p><em>J2 Farewell 2023 at the Yio Chu Kang Campus&nbsp;</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/compressed_stagework_photo_3.jpg">
 </div>
-<p>SYF Arts Presentation 2024</p>
+<p><em>SYF Arts Presentation 2024</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_4___SYF_Showcase.jpg">
 </div>
-<p>SYF Showcase 2024</p>
+<p><em>SYF Showcase 2024</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
