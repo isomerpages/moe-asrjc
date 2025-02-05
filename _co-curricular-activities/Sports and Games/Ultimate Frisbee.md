@@ -29,29 +29,21 @@ the playing field. You'll be part of a vibrant community that values teamwork,
 integrity, and camaraderie. Join us, and embark on a journey of self-discovery,
 growth, and excellence.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UF_1.jpg">
-</div>
-<p><em>The team that achieved 3<sup>rd</sup> placing in Inter JC Ultimate Championship 2019</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/unnamed__7_.jpg">
-</div>
-<p><em>Team celebration after winning the 3<sup>rd</sup>/4<sup>th</sup> placing match</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/unnamed__8_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/default_1_69_1.jpg">
 </div>
 <p><em>Out jumping (Sky) opponent to catch the disc</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/unnamed__9_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/default_1_23_1.jpg">
 </div>
-<p><em>Layout to catch the disc</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/unnamed__10_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/frisbee_2.jpg">
 </div>
-<p><em>Annual Past Vs Present Gathering</em>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Frisbee_1.jpg">
+</div>
+<p></p>
