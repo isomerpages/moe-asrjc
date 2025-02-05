@@ -5,10 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Sports and Games
 ---
-<p>strategy. Our Touch Rugby programme is designed for students of all skill
-levels, including those with no prior experience in the sport. All that
-is required is a strong desire to achieve your personal best and work cohesively
-as a team both on and off the field.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/p4Zxlzymb3I?si=E7RYHQy65d52nFrt"></iframe>
+</div>
+<p>Touch Rugby is a dynamic and exhilarating sport that emphasises teamwork,
+agility, and strategy. Our Touch Rugby programme is designed for students
+of all skill levels, including those with no prior experience in the sport.
+All that is required is a strong desire to achieve your personal best and
+work cohesively as a team both on and off the field.</p>
 <p>Students will engage in weekly training sessions conducted by an experienced
 coach, who is supported by a team of dedicated teachers. These sessions
 provide a structured and nurturing environment where students can develop
