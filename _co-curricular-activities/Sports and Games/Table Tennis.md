@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Sports and Games
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ccTfKD79vfU?si=CR2pZlfYgisrEUMc"></iframe>
+</div>
 <p>ASR Table Tennis CCA is a welcoming and friendly community where players
 of all skill levels come together to practice, improve, and build connections.
 Whether you're a beginner or an experienced player, the CCA provides a
