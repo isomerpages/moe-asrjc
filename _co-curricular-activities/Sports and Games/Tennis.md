@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Sports and Games
 ---
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dlY487UhNEI?si=ZKVhUMrBgXoRt6Fa"></iframe>
+</div>
 <p><strong>Discover Tennis with CCA: Building Skills, Friendships, and Accomplishments</strong>
 </p>
 <p>For many of our members, joining the tennis CCA begins as a leap into
