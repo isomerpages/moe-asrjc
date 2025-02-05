@@ -37,11 +37,7 @@ to making a positive impact.</p>
 <p>The Basketball CCA is more than just a sports team. It is a community
 dedicated to character building, skill enhancement, leadership, and meaningful
 contributions beyond the CCA.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASRexplore.jpg">
-</div>
-<p><em>ASR Explore: Cultural &amp; Sports Exchange Program to Thailand - Cooking Classes</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_BB.jpg">
 </div>
@@ -61,5 +57,11 @@ contributions beyond the CCA.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community_Service.jpg">
 </div>
 <p><em>Community Service</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download__2_.jpg">
+</div>
+<p><em>ASR Explore: Cultural &amp; Sports Exchange Program to Thailand - Cooking Classes</em>
 </p>
 <p></p>
