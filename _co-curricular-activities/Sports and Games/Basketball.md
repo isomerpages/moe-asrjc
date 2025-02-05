@@ -40,22 +40,26 @@ contributions beyond the CCA.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASRexplore.jpg">
 </div>
-<p>ASR Explore: Cultura &amp; Sports Exchange Program to Thailand - Cooking
-Classes</p>
+<p><em>ASR Explore: Cultural &amp; Sports Exchange Program to Thailand - Cooking Classes</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_BB.jpg">
 </div>
-<p>NSG 2024</p>
+<p><em>NSG 2024</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/External_Competition.jpg">
 </div>
-<p>Participation in External Competition: Friendships Cup 2024</p>
+<p><em>Participation in External Competition: Friendships Cup 2024</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Training.jpg">
 </div>
-<p>CCA Training</p>
+<p><em>CCA Training</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community_Service.jpg">
 </div>
-<p>Community Service</p>
+<p><em>Community Service</em>
+</p>
 <p></p>
