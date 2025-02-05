@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/znquheleXRo?si=PD46aPR8zWcZXKTp"></iframe>
+</div>
 <p>Are you ready to explore the exciting world of Science, Technology, Engineering,
 and Mathematics? Our STEM CCA is more than just a club – it’s a community
 where curious minds come together to learn, create, and inspire each other.</p>
