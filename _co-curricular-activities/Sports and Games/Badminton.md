@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Sports and Games
 ---
-<p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o_U8aPtIYNU?si=raU6Jm-KRGWgaWm1"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o_U8aPtIYNU?si=MQZYSTxXao60FBox"></iframe>
 </div>
 <p>The Badminton CCA stands out for its vibrant and inclusive culture, offering
 a holistic development program that refines students' technical skills
