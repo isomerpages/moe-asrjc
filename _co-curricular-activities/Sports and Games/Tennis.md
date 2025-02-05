@@ -38,17 +38,7 @@ the college’s motto, offering members opportunities to serve the community
 while continuing to learn and grow. By engaging in meaningful projects,
 students not only develop their character but also embody the values of
 leadership, compassion, and teamwork.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/T1.jpg">
-</div>
-<p><em>ASR Team Tennis – We’ll always have your back!</em>
-</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/T2.jpg">
-</div>
-<p><em>Gearing up for the National School Games</em>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/T3.jpg">
