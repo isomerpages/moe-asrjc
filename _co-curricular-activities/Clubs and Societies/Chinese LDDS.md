@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GaySdknxUdA?si=HH8A0roCSEGO4woX"></iframe>
+</div>
 <p>The Chinese Language Drama and Debate Society (CLDDS) is a platform for
 students to share their passion for Chinese theatre. Through exposure to
 theatre, members gain numerous opportunities to build confidence and explore
@@ -49,7 +52,7 @@ the performing arts!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLDDS_Picture_4.jpg">
 </div>
-<p><em>Members trying out costumes portraying as Samsui Women </em>
+<p><em>Members trying out costumes portraying as Samsui Women</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLDDS_Picture_5.jpg">
