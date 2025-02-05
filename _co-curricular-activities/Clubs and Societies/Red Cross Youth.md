@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yuXTCLrJjZM?si=uVk7O-uI6yqKn5mF"></iframe>
+</div>
 <p>Red Cross Youth(RCY) embodies the value of “Humanity in Our Hands”, setting
 the foundation for many young talents to develop compassion and a sense
 of responsibility. Our CCA has been actively involved in a wide range of&nbsp;
@@ -16,9 +19,6 @@ would be one of our members stepping up to assist in a cardiac arrest case
 in their neighborhood, providing crucial early support. This act of humanity
 aligns with our Red Cross promise to join with others all over the world
 to help the sick and the suffering.&nbsp;</p>
-<p>
-<br>
-</p>
 <p>Delving into the key activities carried out by our CCA, we organise the
 annual Blood Donation Drive carried out in our college, collaborating with
 Singapore Red Cross Society and Health Science Authority. Red Cross Youth
