@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bRVk35RyJj4?si=1MFLuuazDru3IMmu"></iframe>
+</div>
 <p>If you have the passion for photography, possess a positive and growth
 mindset, able to perform under pressure, work independently and in teams,
 we want you! Your CCA experience will be intense but highly rewarding.&nbsp;</p>
