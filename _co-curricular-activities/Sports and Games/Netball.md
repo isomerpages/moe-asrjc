@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Sports and Games
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PfuphBefj7M?si=7GS8SnQvvxNvrxQv"></iframe>
+</div>
 <p>The ASR Netball Team is a dynamic and driven group of student-athletes
 united by a shared passion for Netball. With a clear vision to strive for
 excellence underpinned by strong team unity and training ethos, the ASR
@@ -44,7 +47,6 @@ is poised to make their mark on the court!</p>
 </div>
 <p><em>Together as ONE</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/netball_7.jpg">
 </div>
