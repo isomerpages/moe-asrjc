@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Sports and Games
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Kg0AKzHWdeE?si=kE_b8tKUojTBIn54"></iframe>
+</div>
 <p>Volleyball is a dynamic team sport that fosters both mental and physical
 strength in students. It offers a unique opportunity to challenge personal
 limits, build resilience, and develop a strong sense of camaraderie among
