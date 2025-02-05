@@ -39,12 +39,12 @@ yourself, and represent the college with pride.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey_4.jpg">
 </div>
-<p><em>The entire team celebrating after the boys were placed second runners-up in the 2024 National School Games</em>
+<p><em>The boys’ team after scoring the winning penalty to secure the bronze medal in the 2023 National School Games</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey_3.jpg">
 </div>
-<p><em>The boys’ team after scoring the winning penalty to secure the bronze medal in the 2023 National School Games</em>
+<p><em>The entire team celebrating after the boys were placed second runners-up in the 2024 National School Games</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey_5.jpg">
