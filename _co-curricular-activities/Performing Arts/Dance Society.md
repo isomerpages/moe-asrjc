@@ -47,15 +47,17 @@ individuals who excel both on stage and in life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_2_min.jpg">
 </div>
-<p>Self-choreographed item for Dance Concert 2024 “Mechanical Reverie: Shades
-of Transition”</p>
+<p><em>Self-choreographed item for Dance Concert 2024 “Mechanical Reverie: Shades of Transition”</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_3_min.jpg">
 </div>
-<p>Self-choreographed item for Teachers’ Day 2024</p>
+<p><em>Self-choreographed item for Teachers’ Day 2024</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_4_min.jpg">
 </div>
-<p>Physical Training behind the scenes</p>
+<p><em>Physical training behind the scenes</em>
+</p>
