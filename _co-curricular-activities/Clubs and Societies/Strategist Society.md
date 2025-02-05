@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/g04Dv3CwkC4?si=Xbbg5oGcXmuH36sY"></iframe>
+</div>
 <p>The Strategist Society focuses on international chess, designed to develop
 critical thinking, strategic decision-making and problem-solving skills
 among students. This CCA offers a platform for students to sharpen their
