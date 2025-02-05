@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/10z2dV82aWw?si=43vrvJCXEeXxY6sN"></iframe>
+</div>
 <p>The Debate Club is committed to equipping participants with a deep understanding
 of key issues, current affairs, and academic disciplines, ensuring that
 debaters are well-versed in a wide range of topics and prepared for diverse
