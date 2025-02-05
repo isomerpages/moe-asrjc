@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Sports and Games
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-RS3fFkKOR0?si=RA9RjY0ScF3l-zbD"></iframe>
+</div>
 <p>The Basketball CCA is committed to fostering both athletic excellence
 and strong character and values in its members. In our CCA programme, we
 emphasise the values of Respect, Responsibility, Resilience, Integrity,
@@ -34,17 +37,31 @@ to making a positive impact.</p>
 <p>The Basketball CCA is more than just a sports team. It is a community
 dedicated to character building, skill enhancement, leadership, and meaningful
 contributions beyond the CCA.</p>
-<p>ASR Explore: Cultural and Sports Exchange Program to Pathum Thani (Thailand)
-- Cooking Classes</p>
-<p>
-<br>NSG 2024</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_BB.jpg">
+</div>
+<p><em>NSG 2024</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/External_Competition.jpg">
+</div>
+<p><em>Participation in External Competition: Friendships Cup 2024</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Training.jpg">
+</div>
+<p><em>CCA Training</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community_Service.jpg">
+</div>
+<p><em>Community Service</em>
+</p>
 <p></p>
-<p>Participation in External Competition: Friendships Cup 2024</p>
-<p></p>
-<p></p>
-<p>CCA Training</p>
-<p></p>
-<p></p>
-<p>Community Service</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download__2_.jpg">
+</div>
+<p><em>ASR Explore: Cultural &amp; Sports Exchange Program to Thailand - Cooking Classes</em>
+</p>
 <p></p>

@@ -1,6 +1,6 @@
 ---
 title: Sports and Games
-permalink: /co-curricular-activities/
+permalink: /welcome-to-open-house-2025/co-curricular-activities/
 variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities

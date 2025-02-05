@@ -8,7 +8,6 @@ third_nav_title: Performing Arts
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z_q-gjLUhqw?si=2d9TNlDKhLCmO9R8"></iframe>
 </div>
-<p></p>
 <p>The Anderson Serangoon Junior College (ASRJC) Symphonic Band stands as
 a beacon of musical excellence, driven by its passion, dedication and outstanding
 musicianship. Under the guidance of their esteemed conductor, Mr Adrian
@@ -33,24 +32,31 @@ positivity wherever they go.</p>
 <p>Divided by sections but united in harmony, the ASRJC Symphonic Band members
 and its alumni continue to carry the passion and love of music making with
 great joy and pride, bringing ASRJC Symphonic Band to greater heights.</p>
-<p>The ASRJC Symphonic Band at its biennial concert in 2024</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/compressed_photo1.jpg">
 </div>
-<p>The ASRJC Symphonic Band at its biennial concert in 2024</p>
+<p><em>The ASRJC Symphonic Band at its biennial concert in 2024</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/compressed_photo2.jpg">
 </div>
-<p>The ASRJC Symphonic Band at its biennial concert in 2024</p>
+<p><em>The ASRJC Symphonic Band at its biennial concert in 2024</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3.jpg">
 </div>
-<p>Opportunity for Exchange with other Bands in 2024</p>
+<p><em>The ASRJC Symphonic Band at its biennial concert in 2024</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_4.jpg">
 </div>
-<p>The ASRJC Symphonic Band at The Jewel in 2023</p>
+<p>Opportunity for Exchange with other Bands in 2024</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_5.jpg">
 </div>
+<p><em>The ASRJC Symphonic Band at The Jewel in 2023</em>
+</p>
+<p></p>
+<p></p>
 <p></p>

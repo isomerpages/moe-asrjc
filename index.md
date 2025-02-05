@@ -29,7 +29,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: ASRJC Open House 2025
-      subtitle: New!
+      subtitle: HIGHLIGHTS
       id: infopic
       description: ASRJC Open House 2025 will take place on 14 January Tuesday, 10am
         to 5pm. We look forward to welcoming all of you at our Upper Serangoon

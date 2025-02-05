@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/10z2dV82aWw?si=43vrvJCXEeXxY6sN"></iframe>
+</div>
 <p>The Debate Club is committed to equipping participants with a deep understanding
 of key issues, current affairs, and academic disciplines, ensuring that
 debaters are well-versed in a wide range of topics and prepared for diverse
@@ -28,6 +31,13 @@ creativity and compassion. In this way, the club provides a dynamic platform
 for students to develop their intellectual and leadership potential while
 contributing meaningfully to the college’s mission of shaping informed,
 engaged, and ethical citizens.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_02_03_at_14_49_22.jpg">
+</div>
+<p></p>
+<p><em>I love arguing, I love debate – engaging in discourse, embracing the pursuit of dispute.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Debate_3.png">

@@ -29,5 +29,33 @@ skills and compete at the highest level by representing the school at the
 prestigious National School Games.</p>
 <p><em>One Team, One Dream</em>
 </p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FB1.jpg">
+</div>
+<p><em>No pain, no gain. Putting in their best effort during training</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FB2.jpg">
+</div>
+<p><em>Engaged and attentive in a tactical session conducted by the coach</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FB3.jpg">
+</div>
+<p><em>We work hard and we play hard. Bonding game during March Holiday Camp</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FB4.jpg">
+</div>
+<p><em>Doing our part for the community in the school event – ASRGives</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Compressed_FB5.jpg">
+</div>
+<p><em>Competing in a National School Games (NSG) with unwavering support from the home crowd</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Compressed_FB6.jpg">
+</div>
+<p><em>One Team, One Dream</em>
+</p>
