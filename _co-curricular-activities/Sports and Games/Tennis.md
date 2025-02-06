@@ -52,8 +52,12 @@ leadership, compassion, and teamwork.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/T5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__Played_tennis_with_students_from_Sumidagawa_High_School__Japan__during_their_2024_exchange_at_ASR_.jpg">
 </div>
 <p><em>Memorable experience to have played tennis with students from Sumidagawa High School (Japan) during their visit to ASR for their exchange programme in 2024</em>
+<br>
 </p>
+<p></p>
+<p></p>
+<p>Always looking forward to trainings! Bright courts, wide smiles!</p>
 <p></p>
