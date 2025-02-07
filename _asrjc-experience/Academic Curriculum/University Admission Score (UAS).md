@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Curriculum
 variant: tiptap
 ---
-<h1>Rank Points</h1>
+<h1>University Admission Score (UAS)</h1>
 <h4>Marks and Grading Scheme</h4>
 <table style="minWidth: 150px">
 <colgroup>
