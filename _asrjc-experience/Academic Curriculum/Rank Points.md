@@ -184,52 +184,51 @@ of the UAS.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/uas_70.png">
 </div>
 <p></p>
-<p><strong><u>Computation of Rank Points </u></strong>
+<p><strong><u>Computation of Rank Points</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Without H1 content-based/fourth H2 or H1 MTL</strong>
 </p>
-</li>
-</ol>
+<p></p>
 <p>A student’s rank points are calculated by adding together the rank points
-the student has achieved for</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>best three H2 content subjects</p>
-</li>
-<li>
-<p>H1 General Paper</p>
-</li>
-</ul>
+the student has achieved for best three H2 content subjects and H1 General
+Paper</p>
+<p></p>
 <p>Maximum UAS:</p>
+<p></p>
 <p>= 3 H2 + H1 GP</p>
 <p>= 20 + 20 + 20 + 10</p>
-<p>= <strong>70 points</strong>
+<p><strong>= 70 points</strong>
 </p>
+</li>
+</ol>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Computation of Rank Points with either H1 content-based/fourth H2 <u>or</u> H1 MTL </strong>
+<p><strong>Computation of Rank Points with either H1 content-based/fourth H2 <u>or</u> H1 MTL</strong>
 </p>
 <p></p>
 <p>In such an event, the rank points will be rebased from /80 to /70.</p>
 <p></p>
 <p>Maximum UAS:</p>
+<p></p>
+<p>= [(3 H2 + H1 GP + H1 MTL/H1 content-based/fourth H2) / 80] x 70</p>
+<p>= [(20 + 20 + 20 + 10 + 10) / 80] x 70</p>
+<p><strong>= 70 points</strong>
+</p>
+<p></p>
 </li>
-</ol>
-<p>= [(3 H2 + H1 GP + H1 MTL/H1 content-based/fourth H2) / 80] x 70&nbsp;</p>
-<p>= [(20 + 20 + 20 + 10 + 10) / 80] x 70&nbsp;</p>
-<p>= 70</p>
-<ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Computation of Rank Points with either H1 content-based/fourth H2 <u>and</u> H1 MTL </strong>
+<p><strong>Computation of Rank Points with either H1 content-based/fourth H2 <u>and</u> H1 MTL</strong>
 </p>
 <p></p>
 <p>Maximum UAS:</p>
+<p></p>
 <p>= [(3 H2 + H1 GP + H1 MTL + H1 content-based/fourth H2) / 90] x 70&nbsp;</p>
 <p>= [(20 + 20 + 20 + 10 + 10 + 10) / 90] x 70&nbsp;</p>
-<p>= 70</p>
+<p><strong>= 70 points</strong>
+</p>
 </li>
 </ol>
 <p></p>
