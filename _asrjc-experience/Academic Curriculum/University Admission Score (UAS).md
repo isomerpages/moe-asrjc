@@ -184,16 +184,15 @@ of the UAS.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/uas_70.png">
 </div>
 <p></p>
-<p><strong><u>Computation of Rank Points</u></strong>
+<p><strong><u>Computation of UAS</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Without H1 content-based/fourth H2 or H1 MTL</strong>
 </p>
 <p></p>
-<p>A student’s rank points are calculated by adding together the rank points
-the student has achieved for best three H2 content subjects and H1 General
-Paper</p>
+<p>A student’s UAS is calculated by adding together the points the student
+has achieved for best three H2 content subjects and H1 General Paper</p>
 <p></p>
 <p>Maximum UAS:</p>
 <p></p>
@@ -206,10 +205,10 @@ Paper</p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Computation of Rank Points with either H1 content-based/fourth H2 <u>or</u> H1 MTL</strong>
+<p><strong>Computation of UAS with either H1 content-based/fourth H2 <u>or</u> H1 MTL</strong>
 </p>
 <p></p>
-<p>In such an event, the rank points will be rebased from /80 to /70.</p>
+<p>In such an event, the UAS will be rebased from /80 to /70.</p>
 <p></p>
 <p>Maximum UAS:</p>
 <p></p>
@@ -220,7 +219,7 @@ Paper</p>
 <p></p>
 </li>
 <li>
-<p><strong>Computation of Rank Points with either H1 content-based/fourth H2 <u>and</u> H1 MTL</strong>
+<p><strong>Computation of UAS with either H1 content-based/fourth H2 <u>and</u> H1 MTL</strong>
 </p>
 <p></p>
 <p>Maximum UAS:</p>
