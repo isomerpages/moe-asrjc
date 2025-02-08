@@ -74,8 +74,7 @@ with National University of Singapore</p>
 </p>
 </li>
 </ul>
-<p><strong><a href="https://staging.d2l6tfmz18j0q.amplifyapp.com/special-programmes/elementz-international-science-research-conference-and-exhibition/" rel="noopener noreferrer nofollow" target="_blank">26<sup>th </sup>International Elementz Fair</a></strong>
-</p>
+<h4><strong><a href="https://staging.d2l6tfmz18j0q.amplifyapp.com/special-programmes/elementz-international-science-research-conference-and-exhibition/" rel="noopener noreferrer nofollow" target="_blank">26<sup>th </sup>International Elementz Fair</a></strong></h4>
 <p>The annual International Elementz Fair (formerly known as Elementz Science
 Research Conference and Exhibition) aims to provide a platform for Upper
 Secondary and Junior College students to showcase their primary and secondary
