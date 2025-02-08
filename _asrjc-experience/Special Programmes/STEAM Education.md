@@ -86,8 +86,6 @@ event in our annual 3-day S.T.E.A.M. Conference held from 22<sup>nd</sup> to
 24<sup>th</sup> April 2025. The S.T.E.A.M. Conference aims to allow students
 to appreciate the integration of Science, Technology, Engineering, Arts
 and Mathematics through talks, workshops and learning journeys.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p>For more information and updates on 26<sup>th</sup> International Elementz
 Fair, please visit <a href="https://sites.google.com/moe.edu.sg/asrjc-steam-conference/elementz-fair" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/asrjc-steam-conference/elementz-fair</a>.</p>
 <h3>Arts Education Programme</h3>
