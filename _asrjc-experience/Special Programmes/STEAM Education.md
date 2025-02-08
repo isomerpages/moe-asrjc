@@ -74,13 +74,22 @@ with National University of Singapore</p>
 </p>
 </li>
 </ul>
-<p><strong><a href="https://staging.d2l6tfmz18j0q.amplifyapp.com/special-programmes/elementz-international-science-research-conference-and-exhibition/" rel="noopener noreferrer nofollow" target="_blank">International Elementz Fair</a></strong>
+<p><strong><a href="https://staging.d2l6tfmz18j0q.amplifyapp.com/special-programmes/elementz-international-science-research-conference-and-exhibition/" rel="noopener noreferrer nofollow" target="_blank">26<sup>th </sup>International Elementz Fair</a></strong>
 </p>
-<p>STEAM education in ASRJC offers an interdisciplinary, collaborative approach
-to learning, so as to prepare our students for real-world issues and life-long
-learning. This year, the college will host its inaugural STEAM Conference
-that showcases the fusion of Arts and Sciences, and the convening of diverse
-perspectives to create new ways to visualise the world around us.</p>
+<p>The annual International Elementz Fair (formerly known as Elementz Science
+Research Conference and Exhibition) aims to provide a platform for Upper
+Secondary and Junior College students to showcase their primary and secondary
+scientific research, and prototypes which can contribute to the betterment
+of society.</p>
+<p>The 26<sup>th</sup> International Elementz Fair will be featured as a key
+event in our annual 3-day S.T.E.A.M. Conference held from 22<sup>nd</sup> to
+24<sup>th</sup> April 2025. The S.T.E.A.M. Conference aims to allow students
+to appreciate the integration of Science, Technology, Engineering, Arts
+and Mathematics through talks, workshops and learning journeys.</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p>For more information and updates on 26<sup>th</sup> International Elementz
+Fair, please visit <a href="https://sites.google.com/moe.edu.sg/asrjc-steam-conference/elementz-fair" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/asrjc-steam-conference/elementz-fair</a>.</p>
 <h3>Arts Education Programme</h3>
 <p>Our college’s Arts Education Programme is designed for and by our students
 in the Arts stream to develop aesthetic sensitivity and cultural awareness,
