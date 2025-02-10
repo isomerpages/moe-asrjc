@@ -86,7 +86,8 @@ event in our annual 3-day S.T.E.A.M. Conference held from 22<sup>nd</sup> to
 to appreciate the integration of Science, Technology, Engineering, Arts
 and Mathematics through talks, workshops and learning journeys.</p>
 <p>For more information and updates on 26<sup>th</sup> International Elementz
-Fair, please visit <a href="https://sites.google.com/moe.edu.sg/asrjc-steam-conference/elementz-fair" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/asrjc-steam-conference/elementz-fair</a>.</p>
+Fair, please visit <a href="https://sites.google.com/moe.edu.sg/asrjc-steam-conference/intl-elementz-fair" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/asrjc-steam-conference/intl-elementz-fair</a>
+</p>
 <h3>Arts Education Programme</h3>
 <p>Our college’s Arts Education Programme is designed for and by our students
 in the Arts stream to develop aesthetic sensitivity and cultural awareness,
