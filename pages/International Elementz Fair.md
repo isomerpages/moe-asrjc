@@ -18,6 +18,5 @@ in our annual 3-day S.T.E.A.M. Conference held from 22nd&nbsp;to 24th&nbsp;April
 integration of Science, Technology, Engineering, Arts and Mathematics through
 talks, workshops and learning journeys.</p>
 <p>For more information and updates on 26th&nbsp;International Elementz Fair,
-please visit <strong><a href="https://sites.google.com/moe.edu.sg/asrjc-steam-conference/intl-elementz-fair" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/asrjc-elementz-fair</a></strong>
-<a href="https://sites.google.com/moe.edu.sg/asrjc-steam-conference/intl-elementz-fair" rel="noopener noreferrer nofollow" target="_blank">.</a>
+please click <a href="https://sites.google.com/moe.edu.sg/asrjc-steam-conference/intl-elementz-fair" rel="noopener nofollow" target="_blank">here.</a>
 </p>
