@@ -33,9 +33,9 @@ appointed proxy may collect the results at the General Office <strong>from 3.45 
 after 23 February 2024. Students who intend to appoint a proxy are to send
 an email to inform us (<em><a href="https://www.asrjc.moe.edu.sg/files/Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>asrjc@moe.edu.sg</u></a></em>),
 indicating the full name and ID number of the proxy. An authorisation letter
-is required for the proxy to collect the results. The <strong><em><a href="/files/Authorisation_letter_for_Proxies_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Authorisation Letter</u></a></em></strong> is
+is required for the proxy to collect the results. The <em><a href="/files/Authorisation_letter_for_Proxies_2025.pdf" rel="noopener nofollow" target="_blank">authorisation letter</a></em> is
 attached for your use.</p>
-<p>Last but not least, do refer to the attached guides <strong><em><a href="https://www.asrjc.moe.edu.sg/files/You_Got_This_Infographic.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>You Got This</u></a></em></strong> and <strong><em><a href="https://www.asrjc.moe.edu.sg/files/Resources_For_Your_Next_Step.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Resources for You Next Step</u></a></em></strong> for
+<p>Last but not least, do refer to the attached guides <em><a href="https://www.asrjc.moe.edu.sg/files/You_Got_This_Infographic.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>You Got This</u></a></em> and <em><a href="https://www.asrjc.moe.edu.sg/files/Resources_For_Your_Next_Step.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Resources for You Next Step</u></a></em> for
 planning your next step in your education journey. The guides also suggest
 ways you can prepare yourself when receiving your results and be a supportive
 friend.</p>
