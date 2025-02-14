@@ -29,11 +29,11 @@ International Students will receive your system-generated username via
 email from Wednesday 19 February 2025. You may refer to this <em><a href="https://www.asrjc.moe.edu.sg/files/Guide_to_access_result_online___School_Candidates.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>guide to access results online</u></a></em>.</p>
 <p>Students may appoint a proxy to collect the results on your behalf. The
 appointed proxy may collect the results at the General Office <strong>from 3.45 pm</strong>  <strong>to 5 pm</strong> on
-23 February 2024, or during office hours (8.30 am to 5 pm) on weekdays
-after 23 February 2024. Students who intend to appoint a proxy are to send
+21 February 2025, or during office hours (8.30 am to 5 pm) on weekdays
+after 21 February 2025. Students who intend to appoint a proxy are to send
 an email to inform us (<em><a href="https://www.asrjc.moe.edu.sg/files/Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>asrjc@moe.edu.sg</u></a></em>),
 indicating the full name and ID number of the proxy. An authorisation letter
-is required for the proxy to collect the results. The <a href="/files/Authorisation_letter_for_Proxies_2025.pdf" rel="noopener nofollow" target="_blank">authorisation letter</a> is
+is required for the proxy to collect the results. The <em><a href="/files/Authorisation_letter_for_Proxies_2025.pdf" rel="noopener nofollow" target="_blank">authorisation letter</a></em> is
 attached for your use.</p>
 <p>Last but not least, do refer to the attached guides <em><a href="https://www.asrjc.moe.edu.sg/files/You_Got_This_Infographic.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>You Got This</u></a></em> and <em><a href="https://www.asrjc.moe.edu.sg/files/Resources_For_Your_Next_Step.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Resources for You Next Step</u></a></em> for
 planning your next step in your education journey. The guides also suggest
