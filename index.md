@@ -14,7 +14,7 @@ sections:
           url: https://www.instagram.com/asr.jc/
         - title: Highlights
           description: Check out our highlights!
-          url: https://www.asrjc.moe.edu.sg/welcome-2025-jc1s/
+          url: https://www.asrjc.moe.edu.sg/release-of-2024-a-level-results/
         - title: Education & Career Guidance @ ASR
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
