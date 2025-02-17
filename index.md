@@ -19,6 +19,16 @@ sections:
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
   - infopic:
+      title: Release of 2024 A-level Results
+      id: infopic
+      description: Our heartiest welcome and congratulations to the class of 2024!
+        Please report to the college hall on 21st February at 2.15pm.
+      button: More details here
+      url: https://www.asrjc.moe.edu.sg/release-of-2024-a-level-results/
+      image: /images/A_level_Results_2024_Website_Pic.png
+      alt: Image alt text
+      subtitle: Highlights
+  - infopic:
       title: Welcome JC1s!
       subtitle: NEW!
       id: infopic
@@ -108,13 +118,4 @@ sections:
       alt: Image alt text
       description: "See ASRJC's Open House highlights: engaging booths, performances,
         and talks in one vibrant community."
-  - infopic:
-      title: Release of 2024 A-level Results
-      id: infopic
-      description: Our heartiest welcome and congratulations to the class of 2024!
-        Please report to the college hall on 21st February at 2.15pm.
-      button: More details here
-      url: https://www.asrjc.moe.edu.sg/release-of-2024-a-level-results/
-      image: /images/A_level_Results_2024_Website_Pic.png
-      alt: Image alt text
 ---
