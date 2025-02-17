@@ -110,7 +110,6 @@ sections:
         and talks in one vibrant community."
   - infopic:
       title: Release of 2024 A-level Results
-      subtitle: Add an image and text
       id: infopic
       description: Our heartiest welcome and congratulations to the class of 2024!
         Please report to the college hall on 21st February at 2.15pm.
