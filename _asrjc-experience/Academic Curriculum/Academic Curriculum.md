@@ -29,7 +29,7 @@ More information can be found on the&nbsp;[Ministry of Education website](https:
 
 *   It aims to provide students with the opportunity to explore the inter-relationships and inter-connectedness of subject-specific knowledge; encourages students to break away from compartmentalised learning, and to develop the ability to integrate information and make meaningful links between different strands of knowledge.
 *   A group of 4 or 5 students will conduct a project based on the project task given (i.e. question), under the supervision of a supervising tutor.
-*   PW is calculated as a H1 subject and thus the grading system is the same as other H1 subject (ie. A, B, C, D, E, S &amp; U).
+*   PW is calculated as a pass/fail subject. Students must pass PW for admission to the local autonomous universities.
 
 **What is the structure of PW?**
 
