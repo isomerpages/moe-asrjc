@@ -39,13 +39,12 @@ and served with purpose, demonstrating what it truly means to be an ASRJCian.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3.png">
-</div>
 <p>Our heartfelt thanks go to the parents who have stood by their children
 through this journey and to our dedicated teachers and staff who have nurtured,
 guided, and inspired our students every step of the way.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3.png">
+</div>
 <p>As our graduates move on to the next chapter of their lives, we believe
 this is just the beginning of many new and exciting adventures. We hope
 they carry the lessons, friendships, and values from ASR with them wherever
