@@ -21,8 +21,7 @@ sections:
   - infopic:
       title: Release of 2024 A-level Results
       id: infopic
-      description: Our heartiest welcome and congratulations to the class of 2024!
-        Please report to the college hall on 21 February at 2.15pm.
+      description: Our heartiest congratulations to the class of 2024!
       button: More details here
       url: https://www.asrjc.moe.edu.sg/release-of-2024-a-level-results/
       image: /images/A_level_Results_2024_Website_Pic__Final_.png
