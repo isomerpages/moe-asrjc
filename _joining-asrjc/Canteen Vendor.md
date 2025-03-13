@@ -8,7 +8,7 @@ variant: markdown
 
 | **Type of Stall** | **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Vegetarian | 28/02/2025 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
+| Western Food (Halal) | 30/04/2025 | Mixed wholegrain rice or 100% wholegrain noodle stalls are acceptable. |
 
 
 **Application Procedure**
