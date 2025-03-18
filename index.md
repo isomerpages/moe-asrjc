@@ -31,7 +31,8 @@ sections:
       title: MTL Fortnight 2025
       subtitle: HIGHLIGHTS
       id: infopic
-      description: Infopic description
+      description: A vibrant celebration of language and culture, featuring music,
+        art, games, and interactive experiences!
       button: VIEW HERE
       url: https://www.asrjc.moe.edu.sg/mother-tongue-fortnight-2025/
       alt: Image alt text
