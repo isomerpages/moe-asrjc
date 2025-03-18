@@ -32,7 +32,7 @@ together through traditional pastimes. Whether it was strategy-based board
 games or high-energy activities like chapteh, these games highlighted the
 importance of heritage and community.</p>
 <p></p>
-<h3><strong>Keeping Our Languages Alive</strong></h3>
+<h4><strong>Keeping Our Languages Alive</strong></h4>
 <p>Mother Tongue Fortnight 2025 was more than just an event; it was a meaningful
 journey of rediscovery. Through music, art, language challenges, and games,
 ASRJCians deepened their appreciation for their mother tongues. As we continue
