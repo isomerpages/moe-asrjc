@@ -51,10 +51,10 @@ of different cultures, sparking creativity and appreciation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_7.png">
 </div>
-<p>The fortnight concluded with a series of <strong>cultural games</strong> that
-brought students together through traditional pastimes. Whether it was
-strategy-based board games or high-energy activities like chapteh, these
-games highlighted the importance of heritage and community.</p>
+<p>The fortnight concluded with a series of cultural games that brought students
+together through traditional pastimes. Whether it was strategy-based board
+games or high-energy activities like chapteh, these games highlighted the
+importance of heritage and community.</p>
 <p></p>
 <h4><strong>Keeping Our Languages Alive</strong></h4>
 <p>Mother Tongue Fortnight 2025 was more than just an event; it was a meaningful
