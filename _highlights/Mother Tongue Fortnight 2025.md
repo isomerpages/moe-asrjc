@@ -4,7 +4,7 @@ permalink: /mother-tongue-fortnight-2025/
 variant: tiptap
 description: ""
 ---
-<h4>Mother Tongue Fortnight 2025: A Celebration of Language and Culture</h4>
+<h4>MTL Fortnight 2025: A Celebration of Language and Culture</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_1.png">
