@@ -28,11 +28,11 @@ sections:
       alt: Image alt text
       subtitle: Highlights
   - infopic:
-      title: Infopic
-      subtitle: MTL Fortnight 2025
+      title: MTL Fortnight 2025
+      subtitle: HIGHLIGHTS
       id: infopic
       description: Infopic description
-      button: Button Text
+      button: VIEW HERE
       url: https://www.asrjc.moe.edu.sg/mother-tongue-fortnight-2025/
       alt: Image alt text
   - infopic:
