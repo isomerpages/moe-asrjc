@@ -24,7 +24,8 @@ project, created to raise awareness about maintaining clean beaches, featured
 interviews and hands-on cleanup efforts. It is a testament to our club’s
 creativity in storytelling and dedication to making a meaningful impact.
 <br>
-<br><a href="https://www.cgs.gov.sg/keep-singapore-clean-video-competition-2024/" rel="noopener noreferrer nofollow" target="_blank">https://www.cgs.gov.sg/keep-singapore-clean-video-competition-2024/</a> 
+<br>View our winning entry on the official NEA website:
+<br><a href="https://www.cgs.gov.sg/keep-singapore-clean-video-competition-2024/" rel="noopener noreferrer nofollow" target="_blank">https://www.cgs.gov.sg/keep-singapore-clean-video-competition-2024/</a>
 </p>
 <h3>Training &amp; Skill Development</h3>
 <p>During <strong>CCA sessions</strong> (Mondays 4:00 PM – 6:00 PM, Wednesdays
