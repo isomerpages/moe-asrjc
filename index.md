@@ -36,6 +36,7 @@ sections:
       button: VIEW HERE
       url: https://www.asrjc.moe.edu.sg/mother-tongue-fortnight-2025/
       alt: Image alt text
+      image: /images/compressed_MTL_fortnight_2025.png
   - infopic:
       title: Welcome JC1s!
       subtitle: NEW!
