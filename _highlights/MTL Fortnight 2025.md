@@ -12,8 +12,8 @@ description: ""
 <p>Mother Tongue Fortnight 2025 kicked off with a vibrant display of culture
 and language! Over the course of eight exciting days, ASRJCians experienced
 the beauty of their mother tongues through hands-on activities, performances,
-and engaging challenges. The theme, "Experience, Immerse, Appreciate,<strong>"</strong> set
-the tone for a deep dive into our linguistic and cultural roots.</p>
+and engaging challenges. The theme, "Experience, Immerse, Appreciate,"
+set the tone for a deep dive into our linguistic and cultural roots.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_2.png">
@@ -57,7 +57,7 @@ games or high-energy activities like chapteh, these games highlighted the
 importance of heritage and community.</p>
 <p></p>
 <h4><strong>Keeping Our Languages Alive</strong></h4>
-<p>Mother Tongue Fortnight 2025 was more than just an event; it was a meaningful
+<p>Mother Tongue Fortnight 2025 was more than just an event- it was a meaningful
 journey of rediscovery. Through music, art, language challenges, and games,
 ASRJCians deepened their appreciation for their mother tongues. As we continue
 to celebrate our diverse linguistic heritage, may the lessons and experiences
