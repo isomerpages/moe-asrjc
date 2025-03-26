@@ -12,7 +12,7 @@ description: ""
 <p>Mother Tongue Fortnight 2025 kicked off with a vibrant display of culture
 and language! Over the course of eight exciting days, ASRJCians experienced
 the beauty of their mother tongues through hands-on activities, performances,
-and engaging challenges. The theme, "Experience, Immerse, Appreciate,"
+and engaging challenges. The theme, "Experience, Immerse, Appreciate",
 set the tone for a deep dive into our linguistic and cultural roots.</p>
 <p></p>
 <div class="isomer-image-wrapper">
