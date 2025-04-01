@@ -11,7 +11,7 @@ stories of identity, challenges, and aspirations. Each perspective adds
 to a larger narrative of resilience and growth. Through these stories,
 we celebrate their achievements and hope to inspire current students to
 pursue their own paths with confidence and determination.
-<br>-
+<br>
 <br><strong>Mohd Thaqif Uzair Bin Fadil</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -34,7 +34,8 @@ them transition smoothly into JC life.</p>
 understanding of humanity and global issues. As he prepares for National
 Service, he remains committed to lifelong learning, immersing himself in
 readings that broaden his perspectives.
-<br>-</p>
+<br>
+</p>
 <p><strong>Long Yuan En, Andria</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -65,7 +66,6 @@ and compassionate individual she is today.</p>
 <p>Now, as she prepares for the next chapter of her journey, Andria looks
 forward to working in a SPED school as an Occupational Therapist, bringing
 hope and support to those in need.
-<br>-
 <br>
 <br><strong>Nguyen Phuc Chuong</strong>
 </p>
@@ -100,7 +100,7 @@ and artificial intelligence—fields he believes have the power to transform
 society. With a relentless drive for innovation, he continues to engage
 in cutting-edge projects, preparing himself to make meaningful contributions
 to the future of technology.
-<br>-
+<br>
 <br><strong>Ng Ding Xun, Nantres</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -126,7 +126,7 @@ emerged as a role model for many.</p>
 to pursue a degree in Computer Science, eager to develop software that
 makes a meaningful impact. His journey at ASRJC exemplifies how determination
 and support can turn challenges into opportunities.
-<br>-
+<br>
 <br><strong>Sathiavageeswaran Sadhana</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -154,7 +154,7 @@ earned her the Singapore Silent Heroes (Student) Award 2024. She continues
 to pursue her passion through the MOE JC Teaching Internship Programme
 (TIP) and her internship at Spectra Secondary School as she prepares to
 study Tamil Language and Literature at NTU-NIE.
-<br>-
+<br>
 <br><strong>Periyakkaruppan Seenivasan</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -185,7 +185,7 @@ journey while inspiring those around him.</p>
 <p>Currently serving National Service, Seenivasan aspires to pursue a degree
 in Environmental Studies at NUS, driven by a desire to address environmental
 challenges and protect ecosystems.
-<br>-
+<br>
 <br><strong>Sharmaine Lim</strong>
 </p>
 <div class="isomer-image-wrapper">
