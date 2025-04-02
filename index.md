@@ -14,7 +14,7 @@ sections:
           url: https://www.instagram.com/asr.jc/
         - title: Highlights
           description: Check out our highlights!
-          url: https://www.asrjc.moe.edu.sg/release-of-2024-a-level-results/
+          url: https://www.asrjc.moe.edu.sg/stories-of-asr-class-of-2024/
         - title: Education & Career Guidance @ ASR
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
@@ -127,4 +127,13 @@ sections:
       alt: Image alt text
       description: "See ASRJC's Open House highlights: engaging booths, performances,
         and talks in one vibrant community."
+  - infopic:
+      title: Stories of ASR Class of 2024
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Let's celebrate our alumni's achievements!
+      button: VIEW HERE
+      url: https://www.asrjc.moe.edu.sg/stories-of-asr-class-of-2024/
+      image: /images/IMG_8559.jpg
+      alt: Image alt text
 ---
