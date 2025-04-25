@@ -2,7 +2,6 @@ collections:
   joining-asrjc:
     output: true
     order:
-      - Direct School Admission/Leadership.md
       - Direct School Admission/.keep
       - Direct School Admission/Direct School Admission.md
       - Direct School Admission/Sports.md
@@ -10,6 +9,7 @@ collections:
       - Direct School Admission/Language and Humanities.md
       - Direct School Admission/Science, Technology, Enginering and
         Mathematics.md
+      - Direct School Admission/Leadership.md
       - Joint Admissions Exercise.md
       - Returning Singaporeans or International students.md
       - Canteen Vendor.md
