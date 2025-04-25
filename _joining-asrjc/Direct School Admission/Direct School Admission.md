@@ -11,23 +11,11 @@ in various fields to apply for entry to the college through Direct School
 Admission (DSA). For more information on DSA, please refer to <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">MOE DSA-JC website</a>.</p>
 <h4>1) DSA Talent Areas</h4>
 <p>We are looking for students with talent in the following areas:</p>
-<ol data-tight="true" class="tight">
-<li>
 <p>Sports</p>
-</li>
-<li>
 <p>Performing Arts</p>
-</li>
-<li>
 <p>Science, Technology, Engineering and Mathematics</p>
-</li>
-<li>
 <p>Language and Humanities</p>
-</li>
-<li>
 <p>Leadership</p>
-</li>
-</ol>
 <h4>2) Application Process</h4>
 <p><strong>Step 1: Application</strong>
 </p>
