@@ -36,7 +36,11 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Application for 2024 is closed.</p>
+<p>Submit online application form through this <strong><a href="http://dsa.asrjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a> (date to be confirmed)</strong>
+</p>
+</li>
+<li>
+<p>The deadline for the submission of online application forms is <strong>Fri 18 July 2025</strong>.</p>
 </li>
 <li>
 <p>Applicants are <strong>strongly encouraged</strong> to submit their application
@@ -48,8 +52,9 @@ with their application:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Year-end
-and Sec 4 Weighted Assessment (or equivalent) results, including copies
-of latest school academic results <strong>if available</strong>.</p>
+and Sec 4/5 Weighted Assessment (or equivalent) results, including copies
+of latest school academic results <strong>if available.</strong>
+</p>
 </li>
 <li>
 <p>For Secondary 5NA applicants: GCE (NA)-Level Examination results</p>
@@ -84,84 +89,23 @@ documents are unavailable.</p>
 </p>
 </li>
 <li>
-<p><em>Please note that successful DSA-JC candidates will </em><strong><em>NOT</em></strong><em> be allowed to participate in the Joint Admissions Exercise. They will also </em><strong><em>NOT</em></strong><em> be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</em>
+<p><em>Please note that successful DSA-JC candidates will </em><strong><em>NOT </em></strong><em>be allowed to participate in the Joint Admissions Exercise. They will also </em><strong><em>NOT </em></strong><em>be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</em>
 </p>
 </li>
 </ul>
-<h4>3. Selection Process</h4>
-<p><strong><u>Trials / Auditions</u></strong>
-</p>
-<p>Applicants for Sports* &amp; Performing Arts talent areas will be shortlisted
-for trials/auditions based on evidence of the following aspects:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Track record, experience, and commitment to the talent area.</p>
-</li>
-<li>
-<p>Achievements, qualifications, and certifications in the talent area.</p>
-</li>
-</ul>
-<p><em>No trials will be conducted for Shooting. Selection will be based on other relevant criteria</em>.*</p>
-<p><strong><u>Interviews</u></strong>
-</p>
-<p>Applicants for Sports &amp; Performing Arts talent areas will be further
-shortlisted for interviews based on their performance at trials / auditions.</p>
-<p>Students applying for the following DSA talent areas will be shortlisted
-for interviews based on their application submissions:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Science &amp; Technology</p>
-</li>
-<li>
-<p>Tamil Language Elective Programme</p>
-</li>
-<li>
-<p>Humanities Programme</p>
-</li>
-</ul>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zKy9Yuxrpbw?si=BddM8gcLsNIj1QGG"></iframe>
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Leadership</p>
-</li>
-</ul>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oc7dab6mJy8?si=hTaL3FZhiGLrD8mq"></iframe>
-</div>
-<p>Shortlisted applicants will be required to attend an in-person interview
-to enable the College to better understand the:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Applicant’s interest/passion for the specific talent area;</p>
-</li>
-<li>
-<p>Applicant’s experiences (if any) in nurturing the specific talent area
-(e.g., through school CCA, sport academies/clubs or private coaching);</p>
-</li>
-<li>
-<p>Applicant’s motivation for joining ASRJC;</p>
-</li>
-<li>
-<p>Applicant’s ability to cope with JC curriculum.</p>
-</li>
-</ul>
+<h4>3. Selection Process (To be announced)</h4>
+<p></p>
 <h4>4. Details of Selection Trials/Auditions (To be announced)</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images%20for%20DSA%20Talent%20Areas/clubsocieties_schedule.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images%20for%20DSA%20Talent%20Areas/Leadership_schedule.png">
-</div>
 <h4>5. Enquiry</h4>
 <p>For general enquiries regarding DSA, you may contact the following personnel:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>SH/PE&amp;CCA, Mr Chang Shu Yuet – chang_shu_yuet@schools.gov.sg</p>
+<p>HOD /PE&amp;CCA, Ms. Tay Li May- <a rel="noopener noreferrer nofollow" target="_blank"><u>tay_li_may</u>@schools.gov.sg</a>
+</p>
 </li>
 <li>
-<p>Dean, Ms Zhu Youyan Corrine - zhu_youyan@schools.gov.sg</p>
+<p>Dean, Ms Tan Su Chin – <a rel="noopener noreferrer nofollow" target="_blank"><u>tan_su_chin@schools.gov.sg</u></a>
+</p>
 </li>
 </ul>
 <h4>6. Other Information</h4>
@@ -171,6 +115,6 @@ to enable the College to better understand the:</p>
 </p>
 </li>
 </ul>
-<p>The list of subject combinations offered in <strong>2025</strong> is downloadable <strong><a href="/files/Subject_Combination_List_2025.pdf" rel="noopener nofollow" target="_blank">here</a></strong>
+<p>The list of subject combinations offered in <strong>2025</strong> is downloadable <strong><a href="/files/asrjc prospectus 2025 (web).pdf" rel="noopener nofollow" target="_blank">here</a></strong>
 <a href="/files/Subject_Combination_List_2025.pdf" rel="noopener nofollow" target="_blank">.</a>
 </p>
