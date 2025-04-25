@@ -12,24 +12,12 @@ in various fields to apply for entry to the college through Direct School
 Admission (DSA). For more information on DSA, please refer to <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">MOE DSA-JC website</a>.</p>
 <h4>1) DSA Talent Areas</h4>
 <p>We are looking for students with talent in the following areas:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/newdsatalentarea1b.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa_1_final.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/newdsatalentarea2d.png">
-</div>
-<h3>Hear from some of our DSA students about their CCA journey and experience in ASRJC!</h3>
-<h4>ASR Basketball</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eqW6CyNXKtw?si=DxnOZIvqz5nE2Hsm"></iframe>
-</div>
-<h4>ASR Chinese Orchestra</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RcIvI2Hq4LI?si=gip735TmRxldRwzM"></iframe>
-</div>
-<h4>ASR STEM</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1MkEvnvvVrM?si=NvSRfCpsZda8nSDO"></iframe>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa_2_final.png">
 </div>
 <h4>2) Application Process</h4>
 <p><strong>Step 1: Application</strong>
