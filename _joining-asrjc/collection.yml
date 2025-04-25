@@ -2,6 +2,7 @@ collections:
   joining-asrjc:
     output: true
     order:
+      - Direct School Admission/Language and Humanities.md
       - Direct School Admission/Science, Technology, Enginering and
         Mathematics.md
       - Direct School Admission/Performing Arts.md
