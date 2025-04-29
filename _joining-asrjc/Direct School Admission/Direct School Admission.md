@@ -70,10 +70,6 @@ documents are unavailable.</p>
 <p><em>Applicants who are not offered a place in Phase 1 need not resubmit, as all applications will be considered for both Phase 1 and 2 (if there is vacancy).</em>
 </p>
 </li>
-<li>
-<p><em>Please note that successful DSA-JC candidates will </em><strong><em>NOT </em></strong><em>be allowed to participate in the Joint Admissions Exercise. They will also </em><strong><em>NOT </em></strong><em>be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</em>
-</p>
-</li>
 </ul>
 <h4>3. Selection Process (To be announced)</h4>
 <p></p>
