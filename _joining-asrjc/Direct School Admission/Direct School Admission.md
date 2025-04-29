@@ -11,37 +11,22 @@ in various fields to apply for entry to the college through Direct School
 Admission (DSA). For more information on DSA, please refer to <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">MOE DSA-JC website</a>.</p>
 <h4>1) DSA Talent Areas</h4>
 <p>We are looking for students with talent in the following areas:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Sports</p>
-</li>
-<li>
-<p>Performing Arts</p>
-</li>
-<li>
-<p>Science, Technology, Engineering and Mathematics</p>
-</li>
-<li>
-<p>Language and Humanities</p>
-</li>
-<li>
-<p>Leadership</p>
-</li>
-</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/TalentArea2025A.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/TalentArea2025B.png">
+</div>
 <h4>2) Application Process</h4>
 <p><strong>Step 1: Application</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submit online application form through this <strong><a href="http://dsa.asrjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a> (date to be confirmed)</strong>
+<p>Submit online application form through this link<strong> (link address to be confirmed)</strong>
 </p>
 </li>
 <li>
 <p>The deadline for the submission of online application forms is <strong>Fri 18 July 2025</strong>.</p>
-</li>
-<li>
-<p>Applicants are <strong>strongly encouraged</strong> to submit their application
-well in advance of the deadline to be considered for Phase 1.</p>
 </li>
 <li>
 <p>Applicants are required to attach scanned copies of the following along
