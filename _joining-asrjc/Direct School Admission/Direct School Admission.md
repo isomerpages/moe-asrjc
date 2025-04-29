@@ -17,7 +17,7 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/TalentArea2025B.png">
 </div>
-<h4>Hear from some of our DSA students about their CCA journey and experience in ASRJC! </h4>
+<h4>Hear from some of our DSA students about their CCA journey and experience in ASRJC!</h4>
 <h4>ASR Basketball</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eqW6CyNXKtw?si=IxagC7-ngo6bvHtB"></iframe>
