@@ -17,6 +17,29 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/TalentArea2025B.png">
 </div>
+<h4>Hear from some of our DSA students about their CCA journey and experience in ASRJC! </h4>
+<h4>ASR Basketball</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eqW6CyNXKtw?si=IxagC7-ngo6bvHtB"></iframe>
+</div>
+<h4>ASR Netball</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uvgsDxguwZY?si=8049vRl111L-O6su"></iframe>
+</div>
+<h4>ASR Taekwondo</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/d5rFcm3l2AM?si=FLZ8SfNkV_iPQnGL"></iframe>
+</div>
+<h4>ASR Chinese Orchestra</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RcIvI2Hq4LI?si=7tzcYy7GYbR0ZsiC"></iframe>
+</div>
+<h4>ASR STEM</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1MkEvnvvVrM?si=S2nNJsG4Dd6cmXDr"></iframe>
+</div>
+<p></p>
+<p></p>
 <h4>2) Application Process</h4>
 <p><strong>Step 1: Application</strong>
 </p>
