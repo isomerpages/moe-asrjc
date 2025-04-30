@@ -15,7 +15,7 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/TalentArea2025A.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/TalentArea2025B.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/ASRJC_DSA_Talent_Area_Acad_and_Leadershipnew.png">
 </div>
 <h4>Hear from some of our DSA students about their CCA journey and experience in ASRJC!</h4>
 <h4>ASR Basketball</h4>
@@ -51,7 +51,7 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submit online application form through this link<strong> (link address to be confirmed)</strong>
+<p>Submit online application form through this link<strong> (application date and link address to be confirmed)</strong>
 </p>
 </li>
 <li>
@@ -92,7 +92,7 @@ documents are unavailable.</p>
 <p>• Attend the in-person selection trials/auditions if shortlisted. <strong>Only shortlisted applicants will be contacted to attend the trial</strong>.</p>
 <p><strong>Step 3: Interview</strong>
 </p>
-<p>• Attend the in-person interview if further shortlisted. <strong>Only shortlisted applicants will be notified by email to attend the interview</strong>.</p>
+<p>• Attend the in-person interview if further shortlisted. <strong>Only shortlisted applicants will be contacted to attend the interview</strong>.</p>
 <p>Special Note:</p>
 <ul>
 <li>
