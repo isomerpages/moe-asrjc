@@ -6,8 +6,7 @@ description: ""
 third_nav_title: Direct School Admission
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/TalentArea2025Acad.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/TalentArea2025Acadnew.png">
 </div>
 <p></p>
