@@ -100,7 +100,7 @@ documents are unavailable.</p>
 </p>
 </li>
 </ul>
-<h4>3. Selection Process </h4>
+<h4>3. Selection Process</h4>
 <p><strong><u>Trials / Auditions</u></strong>
 </p>
 <p>Applicants for Sports* &amp; Performing Arts talent areas will be shortlisted
@@ -160,19 +160,24 @@ to enable the College to better understand the:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sports</p>
+<p><a href="https://www.asrjc.moe.edu.sg/dsa/sports/" rel="noopener nofollow" target="_blank">Sports</a>
+</p>
 </li>
 <li>
-<p>Performing Arts</p>
+<p><a href="https://www.asrjc.moe.edu.sg/dsa/performing-arts/" rel="noopener nofollow" target="_blank">Performing Arts</a>
+</p>
 </li>
 <li>
-<p>Language and Humanities</p>
+<p><a href="https://www.asrjc.moe.edu.sg/dsa/language-and-humanities/" rel="noopener nofollow" target="_blank">Language and Humanities</a>
+</p>
 </li>
 <li>
-<p>STEM</p>
+<p><a href="https://www.asrjc.moe.edu.sg/dsa/stem/" rel="noopener nofollow" target="_blank">STEM</a>
+</p>
 </li>
 <li>
-<p>Leadership</p>
+<p><a href="https://www.asrjc.moe.edu.sg/dsa/leadership/" rel="noopener nofollow" target="_blank">Leadership</a>
+</p>
 </li>
 </ul>
 <h4>5. Enquiry</h4>
