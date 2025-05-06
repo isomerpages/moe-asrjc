@@ -51,11 +51,15 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submit online application form through this link<strong> (application date and link address to be confirmed)</strong>
+<p>Submit online application form through this <a href="" rel="noopener nofollow" target="_blank">link</a><strong> (from 7 May onwards)</strong>
 </p>
 </li>
 <li>
 <p>The deadline for the submission of online application forms is <strong>Fri 18 July 2025</strong>.</p>
+</li>
+<li>
+<p>Applicants are <strong>strongly encouraged</strong> to submit their application
+well in advance of the deadline to be considered for Phase 1.</p>
 </li>
 <li>
 <p>Applicants are required to attach scanned copies of the following along
