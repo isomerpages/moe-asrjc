@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h3>Schedule</h3>
-<p></p>
+<h2>Schedule</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_schedule.jpg">
 </div>
