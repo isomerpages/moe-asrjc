@@ -97,10 +97,24 @@ documents are unavailable.</p>
 <p><strong>Step 3: Interview</strong>
 </p>
 <p>• Attend the in-person interview if further shortlisted. <strong>Only shortlisted applicants will be contacted to attend the interview</strong>.</p>
-<p>Special Note:</p>
+<p></p>
+<p><em>Special Note:</em>
+</p>
 <ul>
 <li>
-<p><em>Applicants who are not offered a place in Phase 1 need not resubmit, as all applications will be considered for both Phase 1 and 2 (if there is vacancy).</em>
+<p><em>All shortlisted applicants who have participated in the Phase 1 selection will be informed of the outcome between 30 Jul and 12 Aug 2025.</em>
+</p>
+</li>
+<li>
+<p><em>All shortlisted applicants who have participated in the Phase 2 selection will be informed of the outcome between 26 Aug and 8 Sep 2025.</em>
+</p>
+</li>
+<li>
+<p><em>Shortlisted applicants who are not offered in Phase 1 may be considered for Phase 2.</em> 
+</p>
+</li>
+<li>
+<p><em>Applicants who are not offered a place in Phase 1 need not resubmit, as all applications will be considered for both Phase 1 and 2 (if there is vacancy)</em>
 </p>
 </li>
 </ul>
