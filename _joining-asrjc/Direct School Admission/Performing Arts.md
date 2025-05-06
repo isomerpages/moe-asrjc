@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Direct School Admission
 ---
 <h2>Schedule</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_schedule.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/PA_schedule_6may.png">
 </div>
 <h3>Selection Criteria</h3>
 <div class="isomer-image-wrapper">
