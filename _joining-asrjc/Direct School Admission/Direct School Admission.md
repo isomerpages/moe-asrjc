@@ -51,7 +51,7 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submit online application form through this <a href="" rel="noopener nofollow" target="_blank">link</a><strong> (from 7 May onwards)</strong>
+<p>Submit online application form through this <a href="http://dsa.asrjc.edu.sg/" rel="noopener nofollow" target="_blank">link</a><strong> (from 7 May onwards)</strong>
 </p>
 </li>
 <li>
@@ -110,7 +110,7 @@ documents are unavailable.</p>
 </p>
 </li>
 <li>
-<p><em>Shortlisted applicants who are not offered in Phase 1 may be considered for Phase 2.</em> 
+<p><em>Shortlisted applicants who are not offered in Phase 1 may be considered for Phase 2.</em>
 </p>
 </li>
 <li>
