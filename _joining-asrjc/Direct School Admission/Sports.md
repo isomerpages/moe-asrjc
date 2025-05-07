@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h2>Schedule</h2>
+<h3>Schedule</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/sports_schedule6may.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sports_schedule_3.jpg">
 </div>
 <h3>Selection Criteria</h3>
 <div class="isomer-image-wrapper">
