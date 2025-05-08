@@ -303,6 +303,7 @@ variant: tiptap
 <p>Mr Tan Wee Dat</p>
 <p><strong>Administrative Executives</strong>
 </p>
+<p>Mdm Rohaya Taib</p>
 <p>Ms Wong Miao Ling</p>
 <p>Mr Yu Yeong Jian Albert</p>
 <p><strong>Senior School Counsellor</strong>
@@ -315,7 +316,6 @@ variant: tiptap
 </p>
 <p>Ms Dorothy Yeng Siew Yin</p>
 <p>Mdm Ngiam Min Lin Linda</p>
-<p>Mdm Rohaya Taib</p>
 <p><strong>AVA Technician</strong>
 </p>
 <p>Mr Lim Wenjun</p>
