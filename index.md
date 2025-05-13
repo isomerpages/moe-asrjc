@@ -69,4 +69,13 @@ sections:
       alt: Image alt text
       url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
       button: VIEW HERE
+  - infopic:
+      title: Direct School Admission Exercise 2025
+      subtitle: DSA
+      id: infopic
+      description: Applications are now open!
+      button: MORE DETAILS HERE
+      url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
+      image: /images/DSA_jpg.jpg
+      alt: Image alt text
 ---
