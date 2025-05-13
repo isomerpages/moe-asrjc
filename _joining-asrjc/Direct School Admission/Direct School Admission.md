@@ -6,6 +6,10 @@ variant: tiptap
 third_nav_title: Direct School Admission
 ---
 <h2>Direct School Admission (DSA-JC) Exercise 2025</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_jpg.jpg">
+</div>
 <p>Anderson Serangoon Junior College (ASRJC) welcomes students with talent
 in various fields to apply for entry to the college through Direct School
 Admission (DSA). For more information on DSA, please refer to <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">MOE DSA-JC website</a>.</p>
