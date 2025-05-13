@@ -22,6 +22,15 @@ sections:
           description: Click here to know more!
           url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
   - infopic:
+      title: Direct School Admission Exercise 2025
+      subtitle: DSA
+      id: infopic
+      description: Applications are now open!
+      button: MORE DETAILS HERE
+      url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
+      image: /images/DSA_jpg.jpg
+      alt: Image alt text
+  - infopic:
       title: Stories of ASR Class of 2024
       subtitle: HIGHLIGHTS
       id: infopic
