@@ -28,7 +28,7 @@ sections:
       description: Applications are now open!
       button: MORE DETAILS HERE
       url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
-      image: /images/DSA_jpg.jpg
+      image: /images/Images for DSA Talent Areas/ASRJC_DSA_EDM.png
       alt: Image alt text
   - infopic:
       title: Stories of ASR Class of 2024
