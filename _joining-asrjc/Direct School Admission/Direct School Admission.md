@@ -8,7 +8,7 @@ third_nav_title: Direct School Admission
 <h2>Direct School Admission (DSA-JC) Exercise 2025</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_jpg.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/ASRJC_DSA_EDM.png">
 </div>
 <p>Anderson Serangoon Junior College (ASRJC) welcomes students with talent
 in various fields to apply for entry to the college through Direct School
