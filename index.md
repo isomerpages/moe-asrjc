@@ -29,6 +29,7 @@ sections:
       button: VIEW HERE
       url: https://www.asrjc.moe.edu.sg/steam-conference/
       alt: Image alt text
+      image: /images/cover_1_scaled.jpg
   - infopic:
       title: Direct School Admission Exercise 2025
       subtitle: DSA
