@@ -27,7 +27,7 @@ sections:
       id: infopic
       description: Celebrating creativity and inquiry through interdisciplinary learning.
       button: VIEW HERE
-      url: https://www.asrjc.moe.edu.sg/steam-conference-2025
+      url: https://www.asrjc.moe.edu.sg/steam-conference/
       alt: Image alt text
   - infopic:
       title: Direct School Admission Exercise 2025
