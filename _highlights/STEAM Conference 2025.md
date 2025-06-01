@@ -40,12 +40,36 @@ in hands-on learning across topics such as sustainable culinary design,
 electroluminescent artwork, and biology-inspired visual expression. These
 sessions exemplified the college’s commitment to fostering interdisciplinary
 innovation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A3.png">
+</div>
 <p><strong>Arts Symposium</strong>
 <br>The conference concluded with the Arts Symposium, which focused on the
 theme of <em>Authenticity</em>. This interactive event encouraged critical
 reflection and dialogue on evolving social trends, inviting participants
 to consider the role of the arts in examining identity, values, and societal
 change.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS9.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS10.png">
+</div>
 <p><strong>A Platform for Future-Ready Learning</strong>
 <br>The 2025 STEAM Conference was a celebration of intellectual curiosity
 and collaborative learning. Through its diverse programmes, the conference
