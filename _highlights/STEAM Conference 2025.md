@@ -19,6 +19,19 @@ research and prototypes addressing real-world issues, reaffirming the Fair’s
 role in nurturing a strong research culture. Organisations such as Altimate
 Nutrition and the Science and Humanities Research Olympiad also participated,
 adding breadth to the learning experience.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E5.png">
+</div>
+<p></p>
 <p><strong>ArtScience Festival</strong>
 <br>The ArtScience Festival highlighted the integration of scientific and
 artistic disciplines. A total of 21 STEAMinars—led by staff, students,
