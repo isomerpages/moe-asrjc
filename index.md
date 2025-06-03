@@ -23,7 +23,7 @@ sections:
           url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
   - infopic:
       title: STEAM Conference 2025
-      subtitle: Add an image and text
+      subtitle: HIGHLIGHTS
       id: infopic
       description: Celebrating creativity and inquiry through interdisciplinary learning.
       button: VIEW HERE
