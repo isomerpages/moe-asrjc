@@ -22,6 +22,15 @@ sections:
           description: Click here to know more!
           url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
   - infopic:
+      title: STEAM Conference 2025
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Celebrating creativity and inquiry through interdisciplinary learning.
+      button: VIEW HERE
+      url: https://www.asrjc.moe.edu.sg/steam-conference/
+      alt: Image alt text
+      image: /images/cover_1_scaled.jpg
+  - infopic:
       title: Direct School Admission Exercise 2025
       subtitle: DSA
       id: infopic
