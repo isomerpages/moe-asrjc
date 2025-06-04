@@ -87,4 +87,13 @@ sections:
       alt: Image alt text
       url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
       button: VIEW HERE
+  - infopic:
+      title: Career and Industry Scholarship Symposium 2025
+      subtitle: highlights
+      id: infopic
+      description: Empowering our students in exploring future careers!
+      button: view here
+      url: https://www.asrjc.moe.edu.sg/career-symposium-2025/
+      image: /images/Student_1.jpg
+      alt: Image alt text
 ---
