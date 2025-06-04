@@ -22,15 +22,6 @@ sections:
           description: Click here to know more!
           url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
   - infopic:
-      title: STEAM Conference 2025
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: Celebrating creativity and inquiry through interdisciplinary learning.
-      button: VIEW HERE
-      url: https://www.asrjc.moe.edu.sg/steam-conference/
-      alt: Image alt text
-      image: /images/cover_1_scaled.jpg
-  - infopic:
       title: Direct School Admission Exercise 2025
       subtitle: DSA
       id: infopic
@@ -39,6 +30,24 @@ sections:
       url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
       image: /images/Images for DSA Talent Areas/ASRJC_DSA_EDM.png
       alt: Image alt text
+  - infopic:
+      title: Career and Industry Scholarship Symposium 2025
+      subtitle: highlights
+      id: infopic
+      description: Empowering our students in exploring future careers!
+      button: view here
+      url: https://www.asrjc.moe.edu.sg/career-symposium-2025/
+      image: /images/Student_1.jpg
+      alt: Image alt text
+  - infopic:
+      title: STEAM Conference 2025
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Celebrating creativity and inquiry through interdisciplinary learning.
+      button: VIEW HERE
+      url: https://www.asrjc.moe.edu.sg/steam-conference/
+      alt: Image alt text
+      image: /images/cover_1_scaled.jpg
   - infopic:
       title: Stories of ASR Class of 2024
       subtitle: HIGHLIGHTS

@@ -1,5 +1,5 @@
 ---
-title: Career Symposium 2025
+title: Career and Industry Scholarship Symposium 2025
 permalink: /career-symposium-2025/
 variant: tiptap
 description: ""
