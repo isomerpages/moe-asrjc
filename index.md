@@ -31,6 +31,15 @@ sections:
       image: /images/Images for DSA Talent Areas/ASRJC_DSA_EDM.png
       alt: Image alt text
   - infopic:
+      title: iHEART Run 2025
+      subtitle: highlights
+      id: infopic
+      description: "Closing Term 2 with purpose: set your pace, own the race."
+      button: VIEW HERE
+      url: https://www.asrjc.moe.edu.sg/iheart-run-2025
+      image: /images/DSC4598.jpg
+      alt: Image alt text
+  - infopic:
       title: Career and Industry Scholarship Symposium 2025
       subtitle: highlights
       id: infopic
