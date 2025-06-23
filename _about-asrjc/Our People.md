@@ -89,7 +89,6 @@ variant: tiptap
 <p>Ms Loh Yee Wei Clare</p>
 <p>Ms Sim Shan Lin</p>
 <p>Mr Tan Deng Zheng</p>
-<p>Mr Tay Xiang Wei</p>
 <p>Mr Tsui Hui Ee Samuel</p>
 </div>
 </details>
@@ -113,6 +112,7 @@ variant: tiptap
 </p>
 <p>Mr Kuan Jie Hui Eugene</p>
 <p>Ms Lim Mei Fu Gayne</p>
+<p>Mr Loke Tuck Yuen</p>
 <p>Mr Ng Kim Teck</p>
 <p>Mr Sebastian Goh Wei Ying</p>
 </div>
