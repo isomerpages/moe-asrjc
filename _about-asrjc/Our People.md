@@ -59,8 +59,10 @@ variant: tiptap
 <p>Mr Koh Tze Khang Adrian</p>
 <p><strong>SH General Paper</strong>
 </p>
-<p>Ms Ang Hui Ting</p>
 <p>Ms Sharifah Nadzirah Bte Syed Zulkifli</p>
+<p><strong>SH General Paper (Covering)</strong>
+</p>
+<p>Ms Lim Wenjia, Claresta</p>
 <p><strong>SH English Literature</strong>
 </p>
 <p>Mdm Lim Sok Peng</p>
@@ -85,7 +87,6 @@ variant: tiptap
 <p>Ms Goh Mei-Yi, Eunice</p>
 <p>Ms Hemma Balakrishnan</p>
 <p>Ms Ho Ying Xin, Berakah</p>
-<p>Ms Lim Wenjia, Claresta</p>
 <p>Ms Loh Yee Wei Clare</p>
 <p>Ms Sim Shan Lin</p>
 <p>Mr Tan Deng Zheng</p>
