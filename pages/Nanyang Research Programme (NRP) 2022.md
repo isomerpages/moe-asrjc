@@ -2,6 +2,7 @@
 title: Nanyang Research Programme (NRP) 2022
 permalink: /special-programmes/nanyang-research-programme/
 description: ""
+variant: markdown
 ---
 #### Science Research &amp; Enrichment Programme
 
@@ -9,8 +10,6 @@ description: ""
 
 &nbsp;**Application Period**<br>
  The application period for&nbsp;[NRP 2023](https://www.ntu.edu.sg/education/talent-outreach/NRP/application#Content_C034_Col00)&nbsp;is from 6 to 24 February 2023, 3:00 pm.
-
-For your reference, the list of projects and project synopses&nbsp;can be downloaded&nbsp;[here](https://www.ntu.edu.sg/docs/default-source/talent-outreach/nrp/nrp-2023-project-synopses.pdf?sfvrsn=1e4239fd_3).
 
 Interested students&nbsp;**MUST**&nbsp;meet the following criteria before submitting your online application:
 
