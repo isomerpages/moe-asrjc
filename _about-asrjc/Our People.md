@@ -132,11 +132,11 @@ variant: tiptap
 <p>Mdm Kamalavani d/o Palaiyan</p>
 <p><strong>Teachers</strong>
 </p>
+<p>Ms Halimah Bte Rahmat</p>
 <p>Mr Heng Soong Phiau</p>
 <p>Ms Kalaivani d/o Ilango</p>
 <p>Ms Ma Junhui</p>
 <p>Mdm Ong Kwee Hoon</p>
-<p>Ms Siti Nur Khairiah Binte Zakaria</p>
 <p>Mdm Yao Heping</p>
 </div>
 </details>
