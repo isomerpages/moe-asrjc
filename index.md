@@ -105,4 +105,14 @@ sections:
       alt: Image alt text
       url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
       button: VIEW HERE
+  - infopic:
+      title: Student Leaders' Investiture 2025
+      id: infopic
+      description: The Student Leaders’ Investiture 2025 was a meaningful occasion
+        that celebrated the contributions of outgoing leaders and the promise of
+        those newly appointed.
+      button: Button Text
+      url: https://www.asrjc.moe.edu.sg/SLI2025
+      image: /images/Copy_of__DSC6072_Enhanced_NR.jpg
+      alt: Image alt text
 ---
