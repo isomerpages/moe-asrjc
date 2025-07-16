@@ -31,6 +31,16 @@ sections:
       image: /images/Images for DSA Talent Areas/ASRJC_DSA_EDM.png
       alt: Image alt text
   - infopic:
+      title: Student Leaders' Investiture 2025
+      id: infopic
+      description: The Student Leaders’ Investiture 2025 was a meaningful occasion
+        that celebrated the contributions of outgoing leaders and the promise of
+        those newly appointed.
+      button: VIEW HERE
+      url: https://www.asrjc.moe.edu.sg/SLI2025
+      image: /images/Copy_of__DSC6072_Enhanced_NR.jpg
+      alt: Image alt text
+  - infopic:
       title: iHEART Run 2025
       subtitle: highlights
       id: infopic
@@ -105,14 +115,4 @@ sections:
       alt: Image alt text
       url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
       button: VIEW HERE
-  - infopic:
-      title: Student Leaders' Investiture 2025
-      id: infopic
-      description: The Student Leaders’ Investiture 2025 was a meaningful occasion
-        that celebrated the contributions of outgoing leaders and the promise of
-        those newly appointed.
-      button: Button Text
-      url: https://www.asrjc.moe.edu.sg/SLI2025
-      image: /images/Copy_of__DSC6072_Enhanced_NR.jpg
-      alt: Image alt text
 ---
