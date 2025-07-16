@@ -59,8 +59,10 @@ variant: tiptap
 <p>Mr Koh Tze Khang Adrian</p>
 <p><strong>SH General Paper</strong>
 </p>
-<p>Ms Ang Hui Ting</p>
 <p>Ms Sharifah Nadzirah Bte Syed Zulkifli</p>
+<p><strong>SH General Paper (Covering)</strong>
+</p>
+<p>Ms Lim Wenjia, Claresta</p>
 <p><strong>SH English Literature</strong>
 </p>
 <p>Mdm Lim Sok Peng</p>
@@ -75,19 +77,19 @@ variant: tiptap
 <p>Ms Chew Ai Ling Melissa</p>
 <p><strong>Teachers</strong>
 </p>
+<p>Mr Ang Teng Xiang Nigel</p>
 <p>Ms Aw Yuan Ling Cheryl</p>
 <p>Ms Chai Xue Fang Beatrice</p>
+<p>Mr Chow Zhi Wei</p>
 <p>Mr Clifton Tay Xiang Rui</p>
-<p>Mdm Eng Seok Hoon Rose</p>
 <p>Mr Foo Chuan Wang Derek</p>
+<p>Mr Gabriel Sim Qin Jie</p>
 <p>Ms Goh Mei-Yi, Eunice</p>
 <p>Ms Hemma Balakrishnan</p>
 <p>Ms Ho Ying Xin, Berakah</p>
-<p>Ms Lim Wenjia, Claresta</p>
 <p>Ms Loh Yee Wei Clare</p>
 <p>Ms Sim Shan Lin</p>
 <p>Mr Tan Deng Zheng</p>
-<p>Mr Tay Xiang Wei</p>
 <p>Mr Tsui Hui Ee Samuel</p>
 </div>
 </details>
@@ -111,6 +113,7 @@ variant: tiptap
 </p>
 <p>Mr Kuan Jie Hui Eugene</p>
 <p>Ms Lim Mei Fu Gayne</p>
+<p>Mr Loke Tuck Yuen</p>
 <p>Mr Ng Kim Teck</p>
 <p>Mr Sebastian Goh Wei Ying</p>
 </div>
@@ -130,11 +133,11 @@ variant: tiptap
 <p>Mdm Kamalavani d/o Palaiyan</p>
 <p><strong>Teachers</strong>
 </p>
+<p>Ms Halimah Bte Rahmat</p>
 <p>Mr Heng Soong Phiau</p>
 <p>Ms Kalaivani d/o Ilango</p>
 <p>Ms Ma Junhui</p>
 <p>Mdm Ong Kwee Hoon</p>
-<p>Ms Siti Nur Khairiah Binte Zakaria</p>
 <p>Mdm Yao Heping</p>
 </div>
 </details>
