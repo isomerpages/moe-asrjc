@@ -37,7 +37,7 @@ sections:
         that celebrated the contributions of outgoing leaders and the promise of
         those newly appointed.
       button: VIEW HERE
-      url: https://www.asrjc.moe.edu.sg/SLI2025
+      url: https://www.asrjc.moe.edu.sg/student-leaders-investiture-2025/
       image: /images/Copy_of__DSC6072_Enhanced_NR.jpg
       alt: Image alt text
   - infopic:
