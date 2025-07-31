@@ -31,6 +31,15 @@ sections:
       image: /images/Images for DSA Talent Areas/ASRJC_DSA_EDM.png
       alt: Image alt text
   - infopic:
+      title: University and Scholarship Symposium 2025
+      subtitle: highlights
+      id: infopic
+      description: Empowering our students as they explore higher educational pathways!
+      button: View here
+      url: https://www.asrjc.moe.edu.sg/university-and-scholarship-symposium-2025/
+      image: /images/US3.jpg
+      alt: Image alt text
+  - infopic:
       title: Student Leaders' Investiture 2025
       id: infopic
       description: The Student Leaders’ Investiture 2025 was a meaningful occasion
