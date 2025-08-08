@@ -31,6 +31,16 @@ sections:
       image: /images/Images for DSA Talent Areas/ASRJC_DSA_EDM.png
       alt: Image alt text
   - infopic:
+      title: Singapore-Industry Scholarship Recipients
+      subtitle: Highlights
+      id: infopic
+      description: Celebrating ASRJC alumni who have been awarded the
+        Singapore-Industry (SgIS) Scholarship 2025!
+      button: VIEW HERE
+      url: https://www.asrjc.moe.edu.sg/singapore-industry-scholarship-recipients-2025/
+      image: /images/sgis_sub.jpg
+      alt: Image alt text
+  - infopic:
       title: University and Scholarship Symposium 2025
       subtitle: highlights
       id: infopic
@@ -124,14 +134,4 @@ sections:
       alt: Image alt text
       url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
       button: VIEW HERE
-  - infopic:
-      title: Singapore-Industry Scholarship Recipients
-      subtitle: Highlights
-      id: infopic
-      description: Celebrating ASRJC alumni who have been awarded the
-        Singapore-Industry (SgIS) Scholarship 2025!
-      button: VIEW HERE
-      url: https://www.asrjc.moe.edu.sg/singapore-industry-scholarship-recipients-2025/
-      image: /images/sgis_sub.jpg
-      alt: Image alt text
 ---
