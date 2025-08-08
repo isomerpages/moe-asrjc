@@ -124,4 +124,14 @@ sections:
       alt: Image alt text
       url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
       button: VIEW HERE
+  - infopic:
+      title: Singapore-Industry Scholarship Recipients
+      subtitle: Highlights
+      id: infopic
+      description: Celebrating ASRJC alumni who have been awarded the
+        Singapore-Industry (SgIS) Scholarship 2025!
+      button: VIEW HERE
+      url: https://www.asrjc.moe.edu.sg/singapore-industry-scholarship-recipients-2025/
+      image: /images/sgis_sub.jpg
+      alt: Image alt text
 ---
