@@ -312,7 +312,7 @@ variant: tiptap
 <p><strong>Senior School Counsellor</strong>
 </p>
 <p>Ms Chiang Yik Huey, Sophia</p>
-<p><strong>ECG Counsellor</strong>
+<p><strong>Senior ECG Counsellor</strong>
 </p>
 <p>Mr Gui Choon Hock Tony</p>
 <p><strong>Corporate Support Officers</strong>
