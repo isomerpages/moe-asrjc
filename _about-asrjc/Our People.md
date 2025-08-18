@@ -151,10 +151,6 @@ variant: tiptap
 <p><strong>JC2 Deputy Dean</strong>
 </p>
 <p>Mr Lee Han Meng Desmond</p>
-<p><strong>Senior Teachers</strong>
-</p>
-<p>Mr Anuar Bin Kassim</p>
-<p>Mr Cheu Ker Jim</p>
 <p><strong>SH Mathematics</strong>
 </p>
 <p>Mr Lim Ting</p>
@@ -162,6 +158,10 @@ variant: tiptap
 <p><strong>SH IME &amp; EdTech</strong>
 </p>
 <p>Mr Lam Meng Hwee</p>
+<p><strong>Senior Teachers</strong>
+</p>
+<p>Mr Anuar Bin Kassim</p>
+<p>Mr Cheu Ker Jim</p>
 <p><strong>Teachers</strong>
 </p>
 <p>Ms Foo Yong Jeh</p>
@@ -183,12 +183,12 @@ variant: tiptap
 <p><strong>HOD Physical Education</strong>
 </p>
 <p>Ms Tay Li May</p>
-<p><strong>Senior Teachers</strong>
-</p>
-<p>Mr Chua Wee Lian William</p>
 <p><strong>SH PE &amp; CCA</strong>
 </p>
 <p>Mr Chang Shu Yuet</p>
+<p><strong>Senior Teachers</strong>
+</p>
+<p>Mr Chua Wee Lian William</p>
 <p><strong>Teachers</strong>
 </p>
 <p>Mr Chong Song Cheng</p>
@@ -312,7 +312,7 @@ variant: tiptap
 <p><strong>Senior School Counsellor</strong>
 </p>
 <p>Ms Chiang Yik Huey, Sophia</p>
-<p><strong>ECG Counsellor</strong>
+<p><strong>Senior ECG Counsellor</strong>
 </p>
 <p>Mr Gui Choon Hock Tony</p>
 <p><strong>Corporate Support Officers</strong>
