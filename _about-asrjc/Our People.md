@@ -151,10 +151,6 @@ variant: tiptap
 <p><strong>JC2 Deputy Dean</strong>
 </p>
 <p>Mr Lee Han Meng Desmond</p>
-<p><strong>Senior Teachers</strong>
-</p>
-<p>Mr Anuar Bin Kassim</p>
-<p>Mr Cheu Ker Jim</p>
 <p><strong>SH Mathematics</strong>
 </p>
 <p>Mr Lim Ting</p>
@@ -162,6 +158,10 @@ variant: tiptap
 <p><strong>SH IME &amp; EdTech</strong>
 </p>
 <p>Mr Lam Meng Hwee</p>
+<p><strong>Senior Teachers</strong>
+</p>
+<p>Mr Anuar Bin Kassim</p>
+<p>Mr Cheu Ker Jim</p>
 <p><strong>Teachers</strong>
 </p>
 <p>Ms Foo Yong Jeh</p>
