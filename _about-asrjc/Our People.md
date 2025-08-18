@@ -183,12 +183,12 @@ variant: tiptap
 <p><strong>HOD Physical Education</strong>
 </p>
 <p>Ms Tay Li May</p>
-<p><strong>Senior Teachers</strong>
-</p>
-<p>Mr Chua Wee Lian William</p>
 <p><strong>SH PE &amp; CCA</strong>
 </p>
 <p>Mr Chang Shu Yuet</p>
+<p><strong>Senior Teachers</strong>
+</p>
+<p>Mr Chua Wee Lian William</p>
 <p><strong>Teachers</strong>
 </p>
 <p>Mr Chong Song Cheng</p>
