@@ -113,7 +113,7 @@ variant: tiptap
 </p>
 <p>Mr Kuan Jie Hui Eugene</p>
 <p>Ms Lim Mei Fu Gayne</p>
-<p>Mr Loke Tuck Yuen</p>
+<p>Mr Loke Tuck Luen</p>
 <p>Mr Ng Kim Teck</p>
 <p>Mr Sebastian Goh Wei Ying</p>
 </div>
