@@ -22,15 +22,6 @@ sections:
           description: Click here to know more!
           url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
   - infopic:
-      title: Direct School Admission Exercise 2025
-      subtitle: DSA
-      id: infopic
-      description: Applications are now open!
-      button: MORE DETAILS HERE
-      url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
-      image: /images/Images for DSA Talent Areas/ASRJC_DSA_EDM.png
-      alt: Image alt text
-  - infopic:
       title: Singapore-Industry Scholarship Recipients
       subtitle: Highlights
       id: infopic
@@ -67,6 +58,15 @@ sections:
       button: VIEW HERE
       url: https://www.asrjc.moe.edu.sg/iheart-run-2025
       image: /images/DSC4598.jpg
+      alt: Image alt text
+  - infopic:
+      title: Direct School Admission Exercise 2025
+      subtitle: DSA
+      id: infopic
+      description: Applications are now open!
+      button: MORE DETAILS HERE
+      url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
+      image: /images/Images for DSA Talent Areas/ASRJC_DSA_EDM.png
       alt: Image alt text
   - infopic:
       title: Career and Industry Scholarship Symposium 2025
