@@ -22,6 +22,16 @@ sections:
           description: Click here to know more!
           url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
   - infopic:
+      title: CSIT Computing Scholarship Recipient
+      subtitle: Highlights
+      id: infopic
+      description: Celebrating our ASRJC student who has been awarded the CSIT
+        Computing Scholarship 2025!
+      button: View here
+      url: https://www.asrjc.moe.edu.sg/csit-computing-scholarship-recipient-2025/
+      image: /images/CSIT_1.jpg
+      alt: Image alt text
+  - infopic:
       title: Singapore-Industry Scholarship Recipients
       subtitle: Highlights
       id: infopic
