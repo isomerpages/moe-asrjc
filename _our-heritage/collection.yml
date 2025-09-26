@@ -2,7 +2,6 @@ collections:
   our-heritage:
     output: true
     order:
-      - Our Heritage.md
       - Anderson Junior College/.keep
       - Anderson Junior College/History of AJC.md
       - Anderson Junior College/Learning.md
