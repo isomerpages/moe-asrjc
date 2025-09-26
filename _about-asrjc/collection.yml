@@ -2,7 +2,7 @@ collections:
   about-asrjc:
     output: true
     order:
-      - College Advisory Committee.md
       - Principal's Message.md
       - Our Identity.md
       - Our People.md
+      - College Advisory Committee.md
