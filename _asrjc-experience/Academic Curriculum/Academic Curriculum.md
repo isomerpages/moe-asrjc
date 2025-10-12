@@ -107,7 +107,7 @@ the assessors</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>Offering Subjects at H3 Level</strong></h4>
+<h4>Offering Subjects at H3 Level</h4>
 <p>The H3 curriculum is designed to allow exceptionally strong students who
 have the ability to cope with a workload beyond the norm to pursue a subject
 or area for which they have the interest and aptitude. Students who offer
