@@ -32,25 +32,18 @@ They also walk away with valuable life lessons, including discipline, resilience
 and the importance of teamwork.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="306" width="462" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfSe77zgM3oYPmmOTjnLdZhZUUYUhneB-BBLShPMqT-5UK7aJu8Wq8WLCMinZRs12nX5MF14XU-FWKU39wAgMMznIgezpdKgcrSaiIuqrZMO9qOAf6SZRBXPqy794wCDAG22tJ7vQOmbjJPifQ9N9w?key=qHgv1Um8IjeZKkIq9JSnJs90">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_2.jpg">
 </div>
-<p><em>Resonance: ASRCO x ASR Choir Concert in 2024</em>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="315" width="236" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfj4pYTTm9rGI69hFBe32a5mPqsdrXx4xTa6l118cJyr-1OQndS8p1fs4aCjxu2sbg7V2Nm14fopsURFqkML6WOJaQIW7HkIqLNqLZgLM_wkt8jTMFO4YonFmjBBydQx5HDQdpAgtxshpmSZrf7av8?key=qHgv1Um8IjeZKkIq9JSnJs90">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_1.jpg">
 </div>
-<p><em>ASRConnects NDP Performance 2024</em>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="268" width="357" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdyM6dtPFns7zg7kqpvklLHX_ipAVfQO9LXKljE5JULAdl_hQeR5PAnUgAxoUkfGBxFzSUFwlWrW3UbB32HO3-_egQ6kJue-Ic7TcpWrcHNVpb6uqLirrlHz4Y2UgXR5jOxUpBvv__MBBIMxBOwMxA?key=qHgv1Um8IjeZKkIq9JSnJs90">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_4_min__adjust_.jpg">
 </div>
-<p><em>Service Learning at All Saints Home in 2024</em>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="234" width="352" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfB8Gr44xNoRtf-gU5evkqQOIjHyOIN0BkZ3I6E0DvtWcWYQ4iXNJQXfndJUpomEKrcptqoD_n4zwg4Oww5s5xrnsFx5Q3HcQS52wyaHtsYM67l8yGpPqY0emA8yZPRn-YnquD3Uho3R8qIf9Tn4Q?key=qHgv1Um8IjeZKkIq9JSnJs90">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_3.jpg">
 </div>
-<p><em>Chinese New Year Celebration<br></em>
-</p>
+<p></p>
