@@ -18,9 +18,6 @@ sections:
         - title: Education & Career Guidance @ ASR
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
-        - title: Direct School Admission
-          description: Click here to know more!
-          url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
   - infopic:
       title: CSIT Computing Scholarship Recipient
       subtitle: Highlights
