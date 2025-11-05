@@ -8,7 +8,7 @@ variant: markdown
 
 | **Type of Stall** | **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Halal Stall (Rice & Noodles) | 31 October 2025 | Yong Tau Foo Stall |
+| Halal Stall (Rice & Noodles) | 30 December 2025 | Yong Tau Foo Stall |
 
 
 **Application Procedure**
