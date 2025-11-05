@@ -8,7 +8,7 @@ variant: markdown
 
 | **Type of Stall** | **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Halal Stall (Rice & Noodles) | 31 October 2025 | Mixed wholegrain rice of 100% wholegrain noodle stalls are acceptable |
+| Halal Stall (Rice & Noodles) | 31 October 2025 | Yong Tau Foo Stall |
 
 
 **Application Procedure**
