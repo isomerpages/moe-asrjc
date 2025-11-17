@@ -5,17 +5,24 @@ description: ""
 third_nav_title: Special Programmes
 variant: tiptap
 ---
-<h1>Special Programmes</h1>
 <h3>Science, Technology, Engineering, Arts and Mathematics (STEAM) Education</h3>
 <p>ASRJC offers an interdisciplinary, collaborative approach to learning
-through STEAM Education. With inquiry at the heart of STEAM Education,
-we explore themes and issues relevant to our students in an authentic setting
-across the Sciences, Technology, Engineering, the Arts and Mathematics
-(STEAM). Students will have the opportunity to plan and run STEAM-related
-activities. This includes running workshops at our annual ArtScience Festival,
-a day set aside for all students to explore concepts or real-life issues
-through an interdisciplinary perspective. Through STEAM Education, we prepare
-our students to tackle real-world issues and embrace life-long learning.</p>
+through <strong>STEAM Education.</strong> With inquiry at the heart of STEAM
+Education, we explore themes and issues relevant to our students in an
+authentic setting across the Sciences, Technology, Engineering, the Arts
+and Mathematics (STEAM). Students will have the opportunity to plan and
+run STEAM-related activities. This includes running workshops at our annual
+ArtScience Festival, a day set aside for all students to explore concepts
+or real-life issues through an interdisciplinary perspective. Through STEAM
+Education, we prepare our students to tackle real-world issues and embrace
+life-long learning.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U-FXjdamZFE?si=Jsdn8owadm2TX7dK"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vAGw81DfVeY?si=6o-HrWktrZMOncu0"></iframe>
+</div>
 <h3>Science, Technology, Engineering, and Mathematics (STEM) Programme</h3>
 <p><strong>Science, Technology, Engineering, and Mathematics (STEM) Programme</strong>
 </p>
