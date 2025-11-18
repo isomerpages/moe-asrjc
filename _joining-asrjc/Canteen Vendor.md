@@ -8,7 +8,7 @@ variant: markdown
 
 | **Type of Stall** | **Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-| Yong Tau Foo Stall | 30 December 2025 | Mixed wholegrain rice of 100% wholegrain noodle stalls are acceptable |
+| - | - | - |
 
 
 **Application Procedure**
