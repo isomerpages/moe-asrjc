@@ -19,6 +19,15 @@ sections:
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
   - infopic:
+      title: Farewell Assembly 2025
+      subtitle: Highlights
+      id: infopic
+      description: Celebrating the achievements, friendships, and growth of our JC2s.
+      button: click here
+      url: https://www.asrjc.moe.edu.sg/farewell-assembly-2025/
+      image: /images/Copy_of_IMG_0659_min.jpg
+      alt: Image alt text
+  - infopic:
       title: CSIT Computing Scholarship Recipient
       subtitle: Highlights
       id: infopic
