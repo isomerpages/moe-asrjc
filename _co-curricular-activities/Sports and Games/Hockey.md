@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Sports and Games
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YFAEnpRgOHs?si=k1GeY-dvnYr8dg77"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s_Ob6XDwtyw?si=aLITvuum6CpDu4jY"></iframe>
 </div>
 <p>The Anderson Serangoon Junior College Hockey team offers a unique opportunity
 for students from diverse backgrounds to develop not just physically, but
@@ -25,7 +25,8 @@ League, give back to the community through Service Learning projects and
 travel overseas to learn from other athletes from different socio-cultural
 backgrounds. Whether you are new to the sport or an experienced player,
 Hockey provides an opportunity to build lifelong friendships, challenge
-yourself, and represent the college with pride.</p>
+yourself, and represent the college with pride.
+<br><strong>Instagram: </strong>@asrhockey</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1.jpg">
 </div>
