@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/10z2dV82aWw?si=43vrvJCXEeXxY6sN"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/v4xiMIaCHBw?si=mMtjo_SbfPOVqDs3"></iframe>
 </div>
 <p>The Debate Club is committed to equipping participants with a deep understanding
 of key issues, current affairs, and academic disciplines, ensuring that
@@ -31,7 +31,7 @@ creativity and compassion. In this way, the club provides a dynamic platform
 for students to develop their intellectual and leadership potential while
 contributing meaningfully to the college’s mission of shaping informed,
 engaged, and ethical citizens.</p>
-<p></p>
+<p><strong>Instagram</strong>: @asr.debate</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_02_03_at_14_49_22.jpg">
 </div>
