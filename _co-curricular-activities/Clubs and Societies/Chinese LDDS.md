@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GaySdknxUdA?si=HH8A0roCSEGO4woX"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hEbBhQiBsQQ?si=K3RSTd8d5oq-aDOO"></iframe>
 </div>
 <p>The Chinese Language Drama and Debate Society (CLDDS) is a platform for
 students to share their passion for Chinese theatre. Through exposure to
@@ -34,6 +34,7 @@ CC, adding to their repertoire of enriching experiences.</p>
 <p>If you share a passion for theatre arts and wish to grow both on and off
 the stage, join the CLDDS family and embark on an inspiring journey in
 the performing arts!</p>
+<p><strong>Instagram</strong>: @asr.cldds</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLDDS_Picture_1.jpg">
 </div>
