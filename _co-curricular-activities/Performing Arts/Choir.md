@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hp22GZrTSYo?si=5iLIwGuAUdNLqzSL"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HUWQqghKFwk?si=iAdgEkPtjxz-BsMv"></iframe>
 </div>
 <p>The Anderson Serangoon Junior College Choir is a vibrant ensemble of young
 adult singers from diverse backgrounds. Under the guidance of Ms Angela
@@ -18,7 +18,8 @@ Singapore Youth Festival Arts Presentations, in addition to holding our
 public concert in every alternate year. We also contribute to college life
 by performing at school events. With our motto of “Simul Harmonia”, the
 Choir experience not only develops our members’ musical abilities but also
-fosters teamwork, discipline and leadership skills.</p>
+fosters teamwork, discipline and leadership skills.
+<br><strong>Instagram:</strong> @asr.choir</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="407" width="610" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfr5itOOHZk3aVVruztyrFvFdjDNQhRj-IZOhiZfMPlLOO4PiKVkP3RmAoQh7v_Av84AXJkKzYqMiRd3LcduTfaKYR9_R0dXx8xnJJt8Hktx_SwPECSz1xWDe7udbrCCNojaX-PdAkl0H61g3FuOR8?key=bc08wHx6puxz5V7HbKp7ijLA">
