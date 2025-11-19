@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7yVNLlvct3A?si=CIgegW4jHc5UDyNr"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Xy9ijE82oC8?si=cKO2OTmqvPwOzOnv"></iframe>
 </div>
 <p>The Community Champions Council (CCC) stands as a beacon of service and
 leadership, guided by the motto: serve with passion, lead with compassion.
@@ -37,7 +37,7 @@ between Community Champions and the community.</p>
 changes within the community. Through these efforts, CCC not only serves
 and leads, but also cultivates a sense of empathy and responsibility that
 extends far beyond the walls of the school.</p>
-<p></p>
+<p><strong>Instagram: </strong>@asr.ccc</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__ASRGives.jpg">
 </div>
