@@ -5,19 +5,30 @@ description: ""
 third_nav_title: Special Programmes
 variant: tiptap
 ---
-<p>Our students enter the college with diverse aspirations. The Talent Development
-Programme, a.k.a. <strong>ASR Scholars Programme</strong>, empowers our
-students to fulfil their aspirations, through a wide range of intellectual
-and co-curricular opportunities to develop the students in 6 key areas:
-leadership, academic, community service, expanding perspectives, skills
-and achievements.</p>
-<p>In addition, the college is proud to offer the ASRJC College Advisory
-Committee (CAC) Scholarship, awarded to top students who have demonstrated
-exceptional academic achievement, outstanding co-curricular involvement,
-and strong leadership qualities. Valued at S$1,000 per annum and tenable
-for two years, the CAC Scholarship provides not only financial recognition
-but also the opportunity for recipients to be groomed under the ASR Scholars
-Programme, further empowering them to thrive as future-ready leaders.</p>
+<p>The <strong>ASR Scholars Programme</strong> equips students with the confidence,
+curiosity and character to excel in scholarship pathways and make meaningful
+contributions to society. Through workshops, dialogues and leadership experiences,
+students develop critical, adaptive and inventive thinking, reflective
+habits and a broad understanding of national and global issues. They learn
+to respond to challenges with creativity and sound judgement, while communicating
+and collaborating effectively.</p>
+<p>Anchored in ASRJC’s iHeart values and guided by our motto Discere Servire:
+Non Mihi Solum (“To learn to serve, not for myself alone”), the ASR Scholars
+Programme nurtures scholars who lead with integrity, empathy and purpose.
+The programme also strengthens students’ civic, global and cross-cultural
+literacy, enabling them to engage diverse perspectives, navigate complexity
+with maturity and make decisions that balance personal conviction with
+collective well-being.</p>
+<p>In support of this mission, the college also offers the ASRJC College
+Advisory Committee (CAC) Scholarship, which recognises outstanding students
+who exemplify academic excellence, strong CCA involvement and leadership
+potential. Beyond the accompanying financial award, recipients benefit
+from enhanced developmental opportunities under the ASR Scholars Programme—expanding
+their exposure, sharpening their competencies and positioning them to grow
+as future-ready leaders.</p>
+<p>Together, the experiences prepare ASRJC scholars to serve with heart,
+think with clarity and lead with impact, demonstrating resilience, collaboration,
+empathy and the courage to blaze new paths for themselves and others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Talent-Management-Programme_1-1024x768.jpg">
 </div>
