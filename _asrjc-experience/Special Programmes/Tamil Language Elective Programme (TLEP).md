@@ -14,14 +14,14 @@ attain a high level of proficiency and competency in using the Tamil Language,
 enhance students’ knowledge and understanding of Tamil Literature and Culture,
 and develop effectively bilingual students.</p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/TLEP1-300x229.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TLEP_1.jpg">
 </div>
 <p>TLEP is a two-year programme and TLEP-JC students must offer H2 Tamil
 Language and Literature (H2 TLL) at ‘A’ Level. It will consist of signature
 activities such as language camps and overseas immersion programmes. There
 will also be enrichment activities such as literary lecture series.</p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/TLEP2-300x197.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TLEP_4.jpg">
 </div>
 <p>Secondary School students selected for TLEP-JC are eligible to enjoy 2
 bonus points for admission to the college. To qualify for the programme,
@@ -40,6 +40,14 @@ students should have attained at least:</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/TLEP3-300x244.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TLEP_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TLEP_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TLEP_3.jpg">
 </div>
 <p></p>
