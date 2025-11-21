@@ -96,10 +96,15 @@ and Mathematics through talks, workshops and learning journeys.</p>
 Fair, please visit <a href="https://sites.google.com/moe.edu.sg/asrjc-steam-conference/intl-elementz-fair" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/asrjc-steam-conference/intl-elementz-fair</a>
 </p>
 <h3>Arts Education Programme</h3>
-<p>Our college’s Arts Education Programme is designed for and by our students
-in the Arts stream to develop aesthetic sensitivity and cultural awareness,
-while exploring issues through socio-cultural perspectives. Students can
-look forward to learning opportunities such as plays, movie screenings,
-talks by distinguished speakers, and learning journeys to museums. Students
-also organise the Arts Symposium, where they showcase their learning and
-curate their very own Arts Learning Trail around Singapore.</p>
+<p>Our college’s Arts Education Programme (AEP) is designed for and by our
+students in the Arts stream to develop civic and cross-cultural literacy,
+by exploring current social issues through socio-cultural perspectives.
+Students can look forward to authentic learning opportunities such as plays,
+talks and workshops conducted by distinguished speakers including academics
+and practitioners, humanities competitions as well as learning journeys
+to museums. One signature programme within the AEP is the Arts Symposium
+which showcases our JC2 Art students’ exploration and deep dive into current
+and emerging social issues. The Arts Symposium is entirely curated and
+facilitated by our JC2 Arts students for their juniors and humanities students
+from invited secondary schools.</p>
+<p></p>
