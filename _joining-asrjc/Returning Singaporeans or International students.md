@@ -10,7 +10,7 @@ Returning Singaporeans (RS) who wish to seek admission to JC1 in the next academ
 
 Applicants may choose to apply for ASRJC if he/ she is eligible, based on the SPERS results.
 
-Applications will be via this [**link**](https://apply.asrjc.edu.sg) which will open on **23 Dec 2024**. All Applications are to be submitted by **10 Jan 2025**.
+Applications will be via this [**link**](https://apply.asrjc.edu.sg) which will open on **22 Dec 2025**. All Applications are to be submitted by **09Jan 2026**.
 
 ### **Application for International Students**
 
@@ -22,4 +22,4 @@ The College will only be able to consider any application for admission of inter
 
 International students who wish to apply for admission to ASRJC are **required** **to sit for** **and pass** the Junior College Principals Academy Certification Test (J-PACT) conducted by Principals Academy Inc (PAI). For details on the test format and examination schedule, please visit the **[J-PACT website.](https://pact.sg/index.php?option=com_content&view=section&id=7&Itemid=74)**
 
-Applications will be via this [**link**](https://apply.asrjc.edu.sg) which will open on **23 Dec 2024**. All Applications are to be submitted by **10 Jan 2025**.
+Applications will be via this [**link**](https://apply.asrjc.edu.sg) which will open on **22 Dec 2024**. All Applications are to be submitted by **09 Jan 2025**.
