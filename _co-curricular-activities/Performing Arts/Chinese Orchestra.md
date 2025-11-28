@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PYYR79cORqQ?si=RIklzjUmx-xB2wA3"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VhjTmUYC5q0?si=giXnKT7mrnSjxXk4"></iframe>
 </div>
 <p>The Anderson Serangoon Junior College Chinese Orchestra (ASRCO) is led
 by the conductor, Mr Ng Seng Hong. The orchestra has consistently attained
@@ -30,6 +30,7 @@ beyond the college.</p>
 of their time in the orchestra, having built strong bonds with one another.
 They also walk away with valuable life lessons, including discipline, resilience,
 and the importance of teamwork.</p>
+<p><strong>Instagram: </strong>@asr_co</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_2.jpg">
