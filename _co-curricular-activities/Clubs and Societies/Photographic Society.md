@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bRVk35RyJj4?si=1MFLuuazDru3IMmu"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IL7lDHq54Nc?si=OhFiNK1iJuCAJSbM"></iframe>
 </div>
 <p>If you have the passion for photography, possess a positive and growth
 mindset, able to perform under pressure, work independently and in teams,
@@ -28,7 +28,7 @@ Photography Competition, Photo Essay, Photo Exhibition and People of ASR
 <p>6) Organising and embark on exciting photoshoot trails around Singapore.</p>
 <p>7) Working with highly driven and passionate photographers in the college
 community.</p>
-<p></p>
+<p><strong>Instagram: </strong>@asr.ps_</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PS_Photo_1.jpg">
 </div>
