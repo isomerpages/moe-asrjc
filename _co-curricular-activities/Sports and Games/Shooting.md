@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Sports and Games
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/b1jb9oPBjgQ?si=3u0KKS98rC2UZF9H"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6c0LywYz4rg?si=r7u_Z_A79xpZ-3JM"></iframe>
 </div>
 <p>Shooting is more than just pulling a trigger; it is a discipline that
 demands fortitude, patience and perseverance. Every shot is a test of mental
@@ -20,7 +20,7 @@ camaraderie of our shooters, showing that with perseverance and collective
 commitment, success is always within reach.</p>
 <p>The sports of shooting continues to shape our students into disciplined
 and determined individuals, ready to take on any challenges.</p>
-<p></p>
+<p><strong>Instagram: </strong>@asrstofficial</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_E0592.jpg">
 </div>
