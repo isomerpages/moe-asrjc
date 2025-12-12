@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/g04Dv3CwkC4?si=Xbbg5oGcXmuH36sY"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Edes4LWpuL4?si=LxyZMiYoUe5YMUtL"></iframe>
 </div>
 <p>The Strategist Society focuses on international chess, designed to develop
 critical thinking, strategic decision-making and problem-solving skills
@@ -27,7 +27,7 @@ their peers. Hosting internal tournaments and friendly matches within the
 CCA allows students to compete against each other which encourages healthy
 competition and provides a valuable opportunity for students to test and
 refine new tactics in real-time, learning from both successes and mistakes.</p>
-<p></p>
+<p><strong>Instagram:</strong> @asr.strategistsociety</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/unnamed__4__strategist.jpg">
 </div>
