@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T4MHozv6j8U?si=s0VVRTLrc44ZXIx0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3MkYsxKuMPc?si=msLfTmeFXzP5UZzj"></iframe>
 </div>
 <p><strong>ASR ODAC: Embark on an enriching Outdoor Adventure!</strong>
 </p>
@@ -40,7 +40,7 @@ build resilience, and forge lasting friendships. So why wait? Join us and
 embark on an unforgettable journey of adventure and growth!</p>
 <p>*Major events usually take place on weekends as they require more time
 and start in the morning.&nbsp;</p>
-<p></p>
+<p><strong>Instagram:</strong> @asrodac</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1_20230715_082805.jpg">
 </div>
