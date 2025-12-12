@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7xk5m_4qhLA?si=CJfqEsZHHBxBEHM5"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7xk5m_4qhLA?si=CJfqEsZHHBxBEHM5"></iframe>
 </div>
 <p>Tamil Language Debate and Dance Society (TLDDS) is a creative and dynamic
 CCA that fosters passion in Indian traditional and folk dances. It offers
