@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9T8-eoGCwlc?si=MNMPSOWa2u-MMH-_"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3Cb73NLn6a4?si=OItk9A7zNsQLCUL7"></iframe>
 </div>
 <p>Stageworks serves as a vibrant platform for students to explore their
 creativity, discover their unique strengths, and express themselves through
@@ -29,7 +29,7 @@ learning journey, fostering a deep appreciation for the art of drama.</p>
 cultural fabric of the College. By encouraging students to embrace creativity
 and collaboration, the club contributes to their holistic development and
 strengthens the College’s vibrant arts scene.&nbsp;</p>
-<p></p>
+<p><strong>Instagram: </strong>@asr.stageworks</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1___Publicity_Still.png">
