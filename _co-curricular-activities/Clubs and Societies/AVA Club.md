@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YifCVCbJkbY?si=CHwcwhGkkv1koWLx"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uxXKYwgrJiA?si=wPyEtgdwMPCBkqNc"></iframe>
 </div>
 <p>Welcome to the AVA Club, where our motto is <em>“Inspiring Creativity, Capturing Every Moment.”</em> At
 AVA, we bring events to life, transform ideas into reality, and preserve
@@ -67,7 +67,7 @@ the school community.</p>
 <p>If you’re ready to be part of a dynamic team that <strong>blends creativity, technical expertise, and storytelling</strong>,
 we warmly invite you to join us. Together, we celebrate teamwork, innovation,
 and servic</p>
-<p></p>
+<p><strong>Instagram: </strong>@asrjc.ava</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event_support_.png">
 </div>
