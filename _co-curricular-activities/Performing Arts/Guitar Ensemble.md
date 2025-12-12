@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/spUAuGrE6fU?si=5vU7NUB_43HP9DeO"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/st8QCT6dYhE?si=fYbPHi9NI03vZgwJ"></iframe>
 </div>
 <p>ASR Guitar Ensemble aims to develop the students’ musical knowledge and
 guitar skills, as well as to grow their creativity and teamwork. Our motto
@@ -28,7 +28,7 @@ on the community. Through the bonding activities, a culture of care is
 fostered and the camaraderie among the members is strengthened.&nbsp;</p>
 <p>ASR Guitar Ensemble exemplifies the growth mindset among the members,
 and creates an unforgettable memory in one’s JC experience.</p>
-<p></p>
+<p><strong>Instagram: </strong>@asr.ge</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASR_Guitar_Ensemble_1_min.jpg">
 </div>
