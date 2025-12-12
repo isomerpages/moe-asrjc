@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Sports and Games
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i6HeN0Mv2P8?si=N7-_gAB4AJLX_eSp"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/728mHsMB9Dk?si=4muv9KTD1v_KGCtr"></iframe>
 </div>
 <p>Anderson Serangoon Taekwondo (ASR TKD) is a sports Co-Curricular Activity
 (CCA) where students perform Poomsae patterns of varying difficulty levels
@@ -51,6 +51,7 @@ their needs. We approached the experience with humility, focusing not on
 personal recognition but on making a positive impact and fostering a sense
 of connection and joy with others. This initiative reflects our commitment
 to service and continuous personal growth.</p>
+<p><strong>Instagram:</strong> @asrjctkd</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TKD_Picture_1.jpg">
 </div>
