@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/znquheleXRo?si=PD46aPR8zWcZXKTp"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WpzlHO2XCfA?si=3mm1F5rgYb6jLOSu"></iframe>
 </div>
 <p>Are you ready to explore the exciting world of Science, Technology, Engineering,
 and Mathematics? Our STEM CCA is more than just a club – it’s a community
@@ -25,7 +25,7 @@ teamwork, and leadership.</p>
 <p>So, why wait? Join us on this exciting journey of discovery and growth.
 Together, let’s make STEM an unforgettable part of your junior college
 experience!</p>
-<p></p>
+<p><strong>Instagram: </strong>@asr.stem</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_1.jpg">
 </div>
