@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yuXTCLrJjZM?si=uVk7O-uI6yqKn5mF"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OZcJf9Pl3lk?si=YqBMW-u3xX2lOYc9"></iframe>
 </div>
 <p>Red Cross Youth(RCY) embodies the value of “Humanity in Our Hands”, setting
 the foundation for many young talents to develop compassion and a sense
@@ -29,7 +29,7 @@ we were featured on the Red Cross Youth page for our inspirational first
 aid video, raising awareness about the importance of safe play. At Red
 Cross Youth, we are committed to nurture compassionate, skilled individuals
 who embody the spirit of humanity in action.</p>
-<p></p>
+<p><strong>Instagram: </strong>@asr.rcy</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/unnamed__3_.jpg">
 </div>
