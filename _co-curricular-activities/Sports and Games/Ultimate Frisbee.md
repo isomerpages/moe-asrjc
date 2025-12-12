@@ -5,10 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Sports and Games
 ---
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BQ2h-6c2Tzw?si=PByCKZTyuoseJ76N"></iframe>
-</div>
+<p><strong>Watch our YouTube short <a href="https://youtube.com/shorts/bBtrjoHTdzc?si=spEqUrWMn2qdhhpQ" rel="noopener nofollow" target="_blank">here</a>! </strong>
+</p>
 <p>Embark on an unforgettable journey with ASR Ultimate (ASRU), where physical
 activity, teamwork, and camaraderie blend seamlessly together. Ultimate
 Frisbee is an exceptional way to stay active, improving agility, cardiovascular
@@ -28,6 +26,7 @@ community that strives for excellence, self-improvement, and mutual growth.</p>
 the playing field. You'll be part of a vibrant community that values teamwork,
 integrity, and camaraderie. Join us, and embark on a journey of self-discovery,
 growth, and excellence.</p>
+<p><strong>Instagram: </strong>@asrultimate</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frisbee1_compressed.jpg">
 </div>
