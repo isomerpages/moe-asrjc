@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WGr6xEIp21M?si=jxfmPh6SCrq2-1Vj"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P2rcAFen-m4?si=hibQo56QXEaR5Xwz"></iframe>
 </div>
 <p>The Students’ Council drives the college spirit through organising events
 such as the Freshmen Orientation, Teachers’ Day Celebrations and Movie
@@ -14,7 +14,7 @@ Night. As leaders elected by students from their respective Houses, the
 councillors also organise initiatives such as Trash-to-Treasure and Free
 Play that provide platforms to participate in college life and to build
 memories together.&nbsp;</p>
-<p></p>
+<p><strong>Instagram: </strong>@asr.sc</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_Council_Photo_1_Poseidon_Day__House_Days_.jpg">
 </div>
