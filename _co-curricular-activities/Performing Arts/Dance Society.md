@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xph95R4Tis8?si=wb-nDI1hVGTtau8d"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BGeQzxKDxXc?si=gAnXJ6tRSeOBbMYy"></iframe>
 </div>
 <p>The Dance CCA is a vibrant and transformative program that nurtures inclusivity,
 resilience, and passion for the art of movement. With a primary focus on
@@ -37,6 +37,7 @@ and body anatomy to promote safe practices.</p>
 the Dance CCA fosters discipline, confidence, and a strong sense of community.
 Members embark on a journey of self-discovery, emerging as well-rounded
 individuals who excel both on stage and in life.</p>
+<p><strong>Instagram: </strong>@asr.dancesociety</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance_Photo_1__Replaced__min.jpg">

@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SR1_Qvk1pjc?si=WTLBG_TC6p4HnEuc"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JDk6q3EIq0g?si=gfZeyXJ3X2Yz3utZ"></iframe>
 </div>
 <p>The Visual Art Club (VA) provides a creative sanctuary for ASRJC students
 to express their imagination, hone artistic skills, and foster a deeper
@@ -33,7 +33,7 @@ through a variety of hands-on art fringe activities. It also provides a
 platform for our VA members to showcase their artistic talents.&nbsp;</p>
 <p>Through these experiences, VA continues to be a cornerstone of artistic
 development, instilling confidence and creativity in its members.</p>
-<p></p>
+<p><strong>Instagram: </strong>@asr.visualarts</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="341" width="478" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfGw6Maoh7mhqB_D9bvWR_ySuGpsojrRKxraZELntjvfOerIxvalkGsoEjKPkapgeVSugKjGu3GsM6coNFxQ2SpzS-VCEwYlkZOTQCewz3SK3WbET502CHtKS9GqWGX7Kb5Qtzdkg?key=JheMWlIkZUKV5bRliDIan_yp">
 </div>
