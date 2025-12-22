@@ -26,8 +26,8 @@ sections:
       subtitle: highlights
       id: infopic
       description: Our Open House will take place on Tuesday 13 January 2026, from
-        10am to 5pm, at our campus, 1033 Upper Serangoon Road. We look forward
-        to welcoming you!
+        10am to 5pm, at our Upper Serangoon campus. We look forward to welcoming
+        you!
       button: Click here
       url: https://www.asrjc.moe.edu.sg/open-house-2026/
       image: /images/ASRJC_Open_House_2026_Square_2.png
