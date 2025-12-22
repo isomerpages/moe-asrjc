@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/Website Banner/Website_Banner_2025_VII.jpg
       key_highlights:
+        - title: Open House 2026
+          description: Come visit us!
+          url: https://www.asrjc.moe.edu.sg/open-house-2026/
         - title: Social media
           description: Follow us on Instagram!
           url: https://www.instagram.com/asr.jc/
@@ -18,6 +21,17 @@ sections:
         - title: Education & Career Guidance @ ASR
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
+  - infopic:
+      title: ASRJC Open House 2026
+      subtitle: highlights
+      id: infopic
+      description: Our Open House will take place on Tuesday 13 January 2026, from
+        10am to 5pm, at our campus, 1033 Upper Serangoon Road. We look forward
+        to welcoming you!
+      button: Click here
+      url: https://www.asrjc.moe.edu.sg/open-house-2026/
+      image: /images/ASRJC_Open_House_2026_Square_2.png
+      alt: Image alt text
   - infopic:
       title: Farewell Assembly 2025
       subtitle: Highlights
@@ -150,15 +164,4 @@ sections:
       alt: Image alt text
       url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
       button: VIEW HERE
-  - infopic:
-      title: ASRJC Open House 2026
-      subtitle: highlights
-      id: infopic
-      description: Our Open House will take place on Tuesday 13 January 2026, from
-        10am to 5pm, at our campus, 1033 Upper Serangoon Road. We look forward
-        to welcoming you!
-      button: Click here
-      url: https://www.asrjc.moe.edu.sg/open-house-2026/
-      image: /images/ASRJC_Open_House_2026_Square_2.png
-      alt: Image alt text
 ---
