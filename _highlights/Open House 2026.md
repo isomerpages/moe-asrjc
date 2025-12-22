@@ -5,17 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Join Us at ASR Open House 2026!</strong></h3>
+<p>Step into our vibrant campus at Anderson Serangoon Junior College on <strong>13 January, from 10.00am to 5.00pm, </strong>at<strong> 1033 Upper Serangoon Road.</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ASRJC_Open_House_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Slogan_1.png">
 </div>
-<p>Step into the vibrant campus life at Anderson Serangoon Junior College
-on<strong> 13 January, </strong>from <strong>10.00am to 5.00pm, </strong>at <strong>1033 Upper Serangoon Road.</strong>
-</p>
-<p>Follow our college socials for more extensive updates!
-<br><strong>Instagram:</strong>  <a href="https://www.instagram.com/asr.jc/" rel="noopener nofollow" target="_blank">@asr.jc</a>
-<br><strong>Facebook: </strong><a href="https://www.facebook.com/andersonserangoonjc" rel="noopener nofollow" target="_blank">Anderson Serangoon Junior College</a>
-</p>
-<p></p>
 <p>Discover what life at ASR is like as you interact with our dedicated staff
 and students, and explore our well-equipped learning spaces and facilities.
 From STEAM and sports to the arts and beyond, our programmes and activities
@@ -26,27 +20,31 @@ and experience first-hand what makes ASR a place where potential is nurtured
 and aspirations take flight.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/OH2026_Talks_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/OH2026_Talks_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/OH2026_Performances.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Performances.png">
 </div>
 <h3><strong>CCAs</strong></h3>
-<p>Discover how our wide range of CCAs helps every student develop talents,
-passions, and lifelong friendships beyond the classroom. Click <a href="https://www.asrjc.moe.edu.sg/co-curricular-activities/" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p>Discover how our <a href="https://www.asrjc.moe.edu.sg/co-curricular-activities/" rel="noopener nofollow" target="_blank">wide range of CCAs</a> helps
+every student develop talents, passions, and lifelong friendships beyond
+the classroom.</p>
 <p></p>
-<h3><strong>Special Programmes </strong></h3>
-<p>Explore our special programmes designed to challenge curious minds, nurture
-strengths, and support students in reaching their fullest potential. Click
-<a href="https://www.asrjc.moe.edu.sg/asrjc-experience/special-programmes/steamedu/" rel="noopener nofollow" target="_blank">here</a>!</p>
+<h3><strong>Special Programmes</strong></h3>
+<p>Explore our <a href="https://www.asrjc.moe.edu.sg/asrjc-experience/special-programmes/steamedu/" rel="noopener nofollow" target="_blank">special programmes</a> designed
+to challenge curious minds, nurture strengths, and support students in
+reaching their fullest potential.</p>
 <p></p>
-<h3><strong>Directions </strong></h3>
-<p>How to Get Here by Bus or MRT
+<h3><strong>Directions</strong></h3>
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6859593824033!2d103.88524087567897!3d1.3650978615251856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16ea1318d8bd%3A0x21480951d51f79be!2sAnderson%20Serangoon%20Junior%20College!5e0!3m2!1sen!2ssg!4v1766394517134!5m2!1sen!2ssg"></iframe>
+</div>
+<p>How to get here by bus or train:
 <br>🚇 <strong>From Ang Mo Kio MRT</strong> Hop on bus 25 or 132 at Exit A,
 get off at Opp Blk 709, and enjoy a short 8-minute stroll to our doorstep!
 <br>🚇 <strong>From Serangoon MRT</strong> Catch bus 81 or 82 at Exit E, or
@@ -56,4 +54,10 @@ just a 5-minute walk away.
 at Opp Blk 370, and walk over in 5 minutes.
 <br>🚇 <strong>From Eunos MRT</strong> Jump on bus 25, 55, or 854 at Exit C.
 Get off at Blk 708 and take a leisurely 8-minute walk to find us.</p>
+<p></p>
+<h3><strong>Follow Us!</strong></h3>
+<p>Follow us on social media for more extensive Open House updates!
+<br><strong>Instagram:</strong>  <a href="https://www.instagram.com/asr.jc/" rel="noopener nofollow" target="_blank">@asr.jc</a>
+<br><strong>Facebook: </strong><a href="https://www.facebook.com/andersonserangoonjc" rel="noopener nofollow" target="_blank">Anderson Serangoon Junior College</a>
+</p>
 <p></p>
