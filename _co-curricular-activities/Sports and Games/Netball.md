@@ -35,7 +35,7 @@ lasting relationships, and create unforgettable memories.</p>
 is poised to make their mark on the court!</p>
 <p><em>One Team, One Dream</em>
 </p>
-<p>Instagram: @asrnetball</p>
+<p><strong>Instagram</strong>: @asrnetball</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ASRJC Netball Team: Strength, Unity, and Passion on the Court! #OneTeamOneDream" src="/images/netball_team.jpg">
 </div>
