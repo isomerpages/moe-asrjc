@@ -39,12 +39,16 @@ Principal, Mr. Heng!</p>
 <p>Discover how our <a href="https://www.asrjc.moe.edu.sg/co-curricular-activities/" rel="noopener nofollow" target="_blank">wide range of CCAs</a> helps
 every student develop talents, passions, and lifelong friendships beyond
 the classroom.</p>
-<p></p>
+<p>
+<br>
+</p>
 <h3><strong>Special Programmes</strong></h3>
 <p>Explore our <a href="https://www.asrjc.moe.edu.sg/asrjc-experience/special-programmes/steamedu/" rel="noopener nofollow" target="_blank">special programmes</a> designed
 to challenge curious minds, nurture strengths, and support students in
 reaching their fullest potential.</p>
-<p></p>
+<p>
+<br>
+</p>
 <h3><strong>Directions</strong></h3>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6859593824033!2d103.88524087567897!3d1.3650978615251856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16ea1318d8bd%3A0x21480951d51f79be!2sAnderson%20Serangoon%20Junior%20College!5e0!3m2!1sen!2ssg!4v1766394517134!5m2!1sen!2ssg"></iframe>
