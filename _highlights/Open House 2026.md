@@ -30,7 +30,12 @@ and aspirations take flight.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Performances.png">
 </div>
-<h3><strong>CCAs</strong></h3>
+<h3><strong>Principal's Message</strong></h3>
+<h3></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OTMy2etx4BA?si=ZhxrBZCVe2mvI-du"></iframe>
+</div>
+<h3><br><strong>CCAs</strong></h3>
 <p>Discover how our <a href="https://www.asrjc.moe.edu.sg/co-curricular-activities/" rel="noopener nofollow" target="_blank">wide range of CCAs</a> helps
 every student develop talents, passions, and lifelong friendships beyond
 the classroom.</p>
