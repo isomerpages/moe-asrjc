@@ -32,6 +32,7 @@ the community while enhancing their teamwork and leadership skills. Whether
 you're looking to improve your game, develop character, or make meaningful
 connections, the Badminton CCA is a place for growth, achievement, and
 camaraderie.</p>
+<p><strong>Instagram:</strong> @asr.badminton</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/e81dcaea_4ae6_4a72_9000_7945838bba24.jpg">
