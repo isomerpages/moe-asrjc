@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Sports and Games
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/X1V9t71sRX4?si=z4ODrypyOWdu88Df"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZXsojjcxu7k?si=iIZzQDfvqthCNAM5"></iframe>
 </div>
 <p>ASR Table Tennis CCA is a welcoming and friendly community where players
 of all skill levels come together to practice, improve, and build connections.
