@@ -18,20 +18,20 @@ to grow as imaginative thinkers and caring leaders.</p>
 <p>Browse the summary of events and activities for our Open House below,
 and experience first-hand what makes ASR a place where potential is nurtured
 and aspirations take flight.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Academics.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Student_Life.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Performances.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Performances__Updated_.png">
 </div>
-<h3><strong>Principal's Message</strong></h3>
-<h3></h3>
+<h3><br><strong>Principal's Message</strong></h3>
+<p>Curious to find out more about what ASRJC has to offer? Hear from our
+Principal, Mr. Heng!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OTMy2etx4BA?si=ZhxrBZCVe2mvI-du"></iframe>
 </div>
