@@ -18,28 +18,37 @@ to grow as imaginative thinkers and caring leaders.</p>
 <p>Browse the summary of events and activities for our Open House below,
 and experience first-hand what makes ASR a place where potential is nurtured
 and aspirations take flight.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Academics.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Student_Life.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Performances.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Performances__Updated_.png">
 </div>
-<h3><strong>CCAs</strong></h3>
+<h3><br><strong>Principal's Message</strong></h3>
+<p>Curious to find out more about what ASRJC has to offer? Hear from our
+Principal, Mr. Heng!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OTMy2etx4BA?si=ZhxrBZCVe2mvI-du"></iframe>
+</div>
+<h3><br><strong>CCAs</strong></h3>
 <p>Discover how our <a href="https://www.asrjc.moe.edu.sg/co-curricular-activities/" rel="noopener nofollow" target="_blank">wide range of CCAs</a> helps
 every student develop talents, passions, and lifelong friendships beyond
 the classroom.</p>
-<p></p>
+<p>
+<br>
+</p>
 <h3><strong>Special Programmes</strong></h3>
 <p>Explore our <a href="https://www.asrjc.moe.edu.sg/asrjc-experience/special-programmes/steamedu/" rel="noopener nofollow" target="_blank">special programmes</a> designed
 to challenge curious minds, nurture strengths, and support students in
 reaching their fullest potential.</p>
-<p></p>
+<p>
+<br>
+</p>
 <h3><strong>Directions</strong></h3>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6859593824033!2d103.88524087567897!3d1.3650978615251856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da16ea1318d8bd%3A0x21480951d51f79be!2sAnderson%20Serangoon%20Junior%20College!5e0!3m2!1sen!2ssg!4v1766394517134!5m2!1sen!2ssg"></iframe>
