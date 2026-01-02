@@ -299,7 +299,6 @@ variant: tiptap
 </p>
 <p>Mdm Rohaya Taib</p>
 <p>Ms Wong Miao Ling</p>
-<p>Mr Yu Yeong Jian Albert</p>
 <p><strong>Senior School Counsellor</strong>
 </p>
 <p>Ms Chiang Yik Huey, Sophia</p>
