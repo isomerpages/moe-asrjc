@@ -96,13 +96,10 @@ variant: tiptap
 <summary><strong>Humanities Department</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>HOD Economics &amp; Humanities</strong>
-</p>
-<p>Mr Arumugam Meganathan</p>
-<p><strong>HOD Information &amp; Communication Technology &amp; Partnerships (Covering)</strong>
+<p><strong>HOD Information &amp; Communication Technology &amp; Partnerships </strong>
 </p>
 <p>Mr Goh Ying Shi Darwin</p>
-<p><strong>JC1 Dean</strong>
+<p><strong>JC2 Dean</strong>
 </p>
 <p>Ms Zhu Youyan, Corrine</p>
 <p><strong>SH Geography</strong>
