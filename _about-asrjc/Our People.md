@@ -23,19 +23,21 @@ variant: tiptap
 <summary><strong>Economics Department</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>HOD Economics &amp; Humanities</strong>
+<p><strong>HOD Economics (Covering)</strong>
+</p>
+<p>Ms Teng Yuting</p>
+<p><strong>JC1 Dean</strong>
 </p>
 <p>Mr Arumugam Meganathan</p>
-<p><strong>JC2 Dean</strong>
-</p>
-<p>Mrs Lim-Tan Su Chin</p>
 <p><strong>SH Economics</strong>
 </p>
 <p>Mrs Agnes Wong-Lim Min Fong</p>
-<p>Ms Teng Yuting</p>
-<p><strong>SH Student Leadership</strong>
+<p><strong>SH Economics (Covering)</strong>
 </p>
-<p>Mr Chung Ka Wing Kevin</p>
+<p>Ms Pauline Yeong Pao Lian</p>
+<p><strong>JC2 Deputy Dean (Covering)</strong>
+</p>
+<p>Ms Ten Cai Tian</p>
 <p><strong>Teachers</strong>
 </p>
 <p>Ms Cai Mingfang</p>
@@ -43,7 +45,6 @@ variant: tiptap
 <p>Mr Jowell Yong Kaijie</p>
 <p>Ms Lai Peck Chai</p>
 <p>Ms Nurdiyanah Bte Mohd Daud</p>
-<p>Ms Pauline Yeong Pao Lian</p>
 <p>Mdm Poh Poh Lian</p>
 <p>Ms Tan Sok Mun Ruth</p>
 <p>Ms Ten Cai Tian</p>
