@@ -96,7 +96,7 @@ variant: tiptap
 <summary><strong>Humanities Department</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>HOD Information &amp; Communication Technology &amp; Partnerships </strong>
+<p><strong>HOD Information &amp; Communication Technology &amp; Partnerships</strong>
 </p>
 <p>Mr Goh Ying Shi Darwin</p>
 <p><strong>JC2 Dean</strong>
@@ -199,9 +199,6 @@ variant: tiptap
 <summary><strong>Project Work Department</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>HOD Project Work</strong>
-</p>
-<p>Mr Lim Che Pinn Andy</p>
 <p><strong>SH Project Work</strong>
 </p>
 <p>Ms Lim Li Wen Evon</p>
