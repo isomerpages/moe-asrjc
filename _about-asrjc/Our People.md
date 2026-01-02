@@ -23,19 +23,21 @@ variant: tiptap
 <summary><strong>Economics Department</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>HOD Economics &amp; Humanities</strong>
+<p><strong>HOD Economics (Covering)</strong>
+</p>
+<p>Ms Teng Yuting</p>
+<p><strong>JC1 Dean</strong>
 </p>
 <p>Mr Arumugam Meganathan</p>
-<p><strong>JC2 Dean</strong>
-</p>
-<p>Mrs Lim-Tan Su Chin</p>
 <p><strong>SH Economics</strong>
 </p>
 <p>Mrs Agnes Wong-Lim Min Fong</p>
-<p>Ms Teng Yuting</p>
-<p><strong>SH Student Leadership</strong>
+<p><strong>SH Economics (Covering)</strong>
 </p>
-<p>Mr Chung Ka Wing Kevin</p>
+<p>Ms Pauline Yeong Pao Lian</p>
+<p><strong>JC2 Deputy Dean (Covering)</strong>
+</p>
+<p>Ms Ten Cai Tian</p>
 <p><strong>Teachers</strong>
 </p>
 <p>Ms Cai Mingfang</p>
@@ -43,10 +45,8 @@ variant: tiptap
 <p>Mr Jowell Yong Kaijie</p>
 <p>Ms Lai Peck Chai</p>
 <p>Ms Nurdiyanah Bte Mohd Daud</p>
-<p>Ms Pauline Yeong Pao Lian</p>
 <p>Mdm Poh Poh Lian</p>
 <p>Ms Tan Sok Mun Ruth</p>
-<p>Ms Ten Cai Tian</p>
 <p>Ms Wang Shuhui Mabel</p>
 </div>
 </details>
@@ -59,14 +59,12 @@ variant: tiptap
 <p>Mr Koh Tze Khang Adrian</p>
 <p><strong>SH General Paper</strong>
 </p>
-<p>Ms Sharifah Nadzirah Bte Syed Zulkifli</p>
-<p><strong>SH General Paper (Covering)</strong>
-</p>
 <p>Ms Lim Wenjia, Claresta</p>
+<p>Ms Sharifah Nadzirah Bte Syed Zulkifli</p>
 <p><strong>SH English Literature</strong>
 </p>
 <p>Mdm Lim Sok Peng</p>
-<p><strong>SH Civic Education</strong>
+<p><strong>SH Student Leadership</strong>
 </p>
 <p>Ms Choo Li Min Bernadette Teresa</p>
 <p><strong>Senior Teacher (General Paper)</strong>
@@ -77,7 +75,6 @@ variant: tiptap
 <p>Ms Chew Ai Ling Melissa</p>
 <p><strong>Teachers</strong>
 </p>
-<p>Mr Ang Teng Xiang Nigel</p>
 <p>Ms Aw Yuan Ling Cheryl</p>
 <p>Ms Chai Xue Fang Beatrice</p>
 <p>Mr Chow Zhi Wei</p>
@@ -87,6 +84,7 @@ variant: tiptap
 <p>Ms Goh Mei-Yi, Eunice</p>
 <p>Ms Hemma Balakrishnan</p>
 <p>Ms Ho Ying Xin, Berakah</p>
+<p>Ms Loh Jia Tyan</p>
 <p>Ms Loh Yee Wei Clare</p>
 <p>Ms Sim Shan Lin</p>
 <p>Mr Tan Deng Zheng</p>
@@ -97,13 +95,10 @@ variant: tiptap
 <summary><strong>Humanities Department</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>HOD Economics &amp; Humanities</strong>
-</p>
-<p>Mr Arumugam Meganathan</p>
-<p><strong>HOD Information &amp; Communication Technology &amp; Partnerships (Covering)</strong>
+<p><strong>HOD Information &amp; Communication Technology &amp; Partnerships</strong>
 </p>
 <p>Mr Goh Ying Shi Darwin</p>
-<p><strong>JC1 Dean</strong>
+<p><strong>JC2 Dean</strong>
 </p>
 <p>Ms Zhu Youyan, Corrine</p>
 <p><strong>SH Geography</strong>
@@ -148,13 +143,13 @@ variant: tiptap
 <p><strong>HOD Mathematics</strong>
 </p>
 <p>Mr Kan Kok Leong</p>
-<p><strong>JC2 Deputy Dean</strong>
-</p>
-<p>Mr Lee Han Meng Desmond</p>
 <p><strong>SH Mathematics</strong>
 </p>
 <p>Mr Lim Ting</p>
 <p>Mr Tay Guo Yong</p>
+<p><strong>JC1 Deputy Dean</strong>
+</p>
+<p>Mr Lee Han Meng Desmond</p>
 <p><strong>SH IME &amp; EdTech</strong>
 </p>
 <p>Mr Lam Meng Hwee</p>
@@ -164,6 +159,7 @@ variant: tiptap
 <p>Mr Cheu Ker Jim</p>
 <p><strong>Teachers</strong>
 </p>
+<p>Ms Chong Bao Ling</p>
 <p>Ms Foo Yong Jeh</p>
 <p>Mr Khoo Jin Yee Kenneth
 <br>Ms Koh Seok Xian</p>
@@ -203,9 +199,6 @@ variant: tiptap
 <summary><strong>Project Work Department</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>HOD Project Work</strong>
-</p>
-<p>Mr Lim Che Pinn Andy</p>
 <p><strong>SH Project Work</strong>
 </p>
 <p>Ms Lim Li Wen Evon</p>
@@ -229,15 +222,15 @@ variant: tiptap
 <p><strong>HOD Science (Biology and Physics)</strong>
 </p>
 <p>Mr Ong Jun Kok</p>
-<p><strong>HOD Science (Chemistry &amp; Science Research)</strong>
+<p><strong>HOD Science (Chemistry) (Covering)</strong>
 </p>
-<p>Ms Wong Kai Ning</p>
+<p>Mr Yang Wee Chin, Kenneth</p>
 <p><strong>HOD Character and Citizenship Education</strong>
 </p>
 <p>Mr Yeo Wee Leng, Joshua</p>
 <p><strong>School Staff Developer</strong>
 </p>
-<p>Mr Ng Yung Hui Eugene</p>
+<p>Ms Wong Kai Ning</p>
 <p><strong>Master Teacher (Biology)</strong>
 </p>
 <p>Mr Muhamad Salahuddin Ibrahim</p>
@@ -249,14 +242,11 @@ variant: tiptap
 <p>Mdm Resma Bte Gulzar Mohd</p>
 <p><strong>SH Chemistry</strong>
 </p>
+<p>Ms Khiew Shi Hui</p>
 <p>Mr Peh Kar Liang</p>
-<p>Mr Yang Wee Chin, Kenneth</p>
 <p><strong>SH Physics</strong>
 </p>
 <p>Mdm Tan Pei Yun</p>
-<p><strong>JC1 Deputy Dean</strong>
-</p>
-<p>Ms Khiew Shi Hui</p>
 <p><strong>SH STEM</strong>
 </p>
 <p>Mr Soo Kah Wai Kelvin</p>
@@ -281,6 +271,7 @@ variant: tiptap
 <p>Ms Lee Gui Wei</p>
 <p>Ms Leow Shu Ting</p>
 <p>Mdm Leung Sau Wai</p>
+<p>Ms Ng Ling Nee Faith</p>
 <p>Mdm Sim Yong Hui</p>
 <p>Ms Seah Suei Hua Jocelyn</p>
 <p>Ms Tan Ee Yong</p>
