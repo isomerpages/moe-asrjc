@@ -144,7 +144,7 @@ variant: tiptap
 <p><strong>HOD Mathematics</strong>
 </p>
 <p>Mr Kan Kok Leong</p>
-<p><strong>JC2 Deputy Dean</strong>
+<p><strong>JC1 Deputy Dean</strong>
 </p>
 <p>Mr Lee Han Meng Desmond</p>
 <p><strong>SH Mathematics</strong>
