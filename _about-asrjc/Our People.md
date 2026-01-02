@@ -43,7 +43,6 @@ variant: tiptap
 <p>Ms Cai Mingfang</p>
 <p>Mr Gan Teck Ming, Alvin</p>
 <p>Mr Jowell Yong Kaijie</p>
-<p>Ms Lai Peck Chai</p>
 <p>Ms Nurdiyanah Bte Mohd Daud</p>
 <p>Mdm Poh Poh Lian</p>
 <p>Ms Tan Sok Mun Ruth</p>
@@ -189,7 +188,6 @@ variant: tiptap
 </p>
 <p>Mr Chong Song Cheng</p>
 <p>Mr Clunies Ross Sean James</p>
-<p>Mr Ho Kuan Peng</p>
 <p>Mr Lee Kok Weng</p>
 <p>Ms Pang Seng Hui</p>
 <p>Mr Tan Ser Yang</p>
@@ -299,7 +297,6 @@ variant: tiptap
 </p>
 <p>Mdm Rohaya Taib</p>
 <p>Ms Wong Miao Ling</p>
-<p>Mr Yu Yeong Jian Albert</p>
 <p><strong>Senior School Counsellor</strong>
 </p>
 <p>Ms Chiang Yik Huey, Sophia</p>
