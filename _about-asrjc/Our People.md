@@ -144,13 +144,13 @@ variant: tiptap
 <p><strong>HOD Mathematics</strong>
 </p>
 <p>Mr Kan Kok Leong</p>
-<p><strong>JC1 Deputy Dean</strong>
-</p>
-<p>Mr Lee Han Meng Desmond</p>
 <p><strong>SH Mathematics</strong>
 </p>
 <p>Mr Lim Ting</p>
 <p>Mr Tay Guo Yong</p>
+<p><strong>JC1 Deputy Dean</strong>
+</p>
+<p>Mr Lee Han Meng Desmond</p>
 <p><strong>SH IME &amp; EdTech</strong>
 </p>
 <p>Mr Lam Meng Hwee</p>
