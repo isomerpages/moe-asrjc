@@ -60,14 +60,12 @@ variant: tiptap
 <p>Mr Koh Tze Khang Adrian</p>
 <p><strong>SH General Paper</strong>
 </p>
-<p>Ms Sharifah Nadzirah Bte Syed Zulkifli</p>
-<p><strong>SH General Paper (Covering)</strong>
-</p>
 <p>Ms Lim Wenjia, Claresta</p>
+<p>Ms Sharifah Nadzirah Bte Syed Zulkifli</p>
 <p><strong>SH English Literature</strong>
 </p>
 <p>Mdm Lim Sok Peng</p>
-<p><strong>SH Civic Education</strong>
+<p><strong>SH Student Leadership</strong>
 </p>
 <p>Ms Choo Li Min Bernadette Teresa</p>
 <p><strong>Senior Teacher (General Paper)</strong>
@@ -78,7 +76,6 @@ variant: tiptap
 <p>Ms Chew Ai Ling Melissa</p>
 <p><strong>Teachers</strong>
 </p>
-<p>Mr Ang Teng Xiang Nigel</p>
 <p>Ms Aw Yuan Ling Cheryl</p>
 <p>Ms Chai Xue Fang Beatrice</p>
 <p>Mr Chow Zhi Wei</p>
