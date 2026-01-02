@@ -159,6 +159,7 @@ variant: tiptap
 <p>Mr Cheu Ker Jim</p>
 <p><strong>Teachers</strong>
 </p>
+<p>Ms Chong Bao Ling</p>
 <p>Ms Foo Yong Jeh</p>
 <p>Mr Khoo Jin Yee Kenneth
 <br>Ms Koh Seok Xian</p>
