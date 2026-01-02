@@ -222,7 +222,7 @@ variant: tiptap
 <p><strong>HOD Science (Biology and Physics)</strong>
 </p>
 <p>Mr Ong Jun Kok</p>
-<p><strong>HOD Science (Chemistry &amp; Science Research) (Covering)</strong>
+<p><strong>HOD Science (Chemistry) (Covering)</strong>
 </p>
 <p>Mr Yang Wee Chin, Kenneth</p>
 <p><strong>HOD Character and Citizenship Education</strong>
