@@ -85,6 +85,7 @@ variant: tiptap
 <p>Ms Goh Mei-Yi, Eunice</p>
 <p>Ms Hemma Balakrishnan</p>
 <p>Ms Ho Ying Xin, Berakah</p>
+<p>Ms Loh Jia Tyan</p>
 <p>Ms Loh Yee Wei Clare</p>
 <p>Ms Sim Shan Lin</p>
 <p>Mr Tan Deng Zheng</p>
