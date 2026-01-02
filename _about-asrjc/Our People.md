@@ -43,7 +43,6 @@ variant: tiptap
 <p>Ms Cai Mingfang</p>
 <p>Mr Gan Teck Ming, Alvin</p>
 <p>Mr Jowell Yong Kaijie</p>
-<p>Ms Lai Peck Chai</p>
 <p>Ms Nurdiyanah Bte Mohd Daud</p>
 <p>Mdm Poh Poh Lian</p>
 <p>Ms Tan Sok Mun Ruth</p>
