@@ -271,6 +271,7 @@ variant: tiptap
 <p>Ms Lee Gui Wei</p>
 <p>Ms Leow Shu Ting</p>
 <p>Mdm Leung Sau Wai</p>
+<p>Ms Ng Ling Nee Faith</p>
 <p>Mdm Sim Yong Hui</p>
 <p>Ms Seah Suei Hua Jocelyn</p>
 <p>Ms Tan Ee Yong</p>
