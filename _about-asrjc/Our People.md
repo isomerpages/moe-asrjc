@@ -188,7 +188,6 @@ variant: tiptap
 </p>
 <p>Mr Chong Song Cheng</p>
 <p>Mr Clunies Ross Sean James</p>
-<p>Mr Ho Kuan Peng</p>
 <p>Mr Lee Kok Weng</p>
 <p>Ms Pang Seng Hui</p>
 <p>Mr Tan Ser Yang</p>
