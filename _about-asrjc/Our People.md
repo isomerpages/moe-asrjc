@@ -47,7 +47,6 @@ variant: tiptap
 <p>Ms Nurdiyanah Bte Mohd Daud</p>
 <p>Mdm Poh Poh Lian</p>
 <p>Ms Tan Sok Mun Ruth</p>
-<p>Ms Ten Cai Tian</p>
 <p>Ms Wang Shuhui Mabel</p>
 </div>
 </details>
