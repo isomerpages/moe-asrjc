@@ -227,15 +227,15 @@ variant: tiptap
 <p><strong>HOD Science (Biology and Physics)</strong>
 </p>
 <p>Mr Ong Jun Kok</p>
-<p><strong>HOD Science (Chemistry &amp; Science Research)</strong>
+<p><strong>HOD Science (Chemistry &amp; Science Research) (Covering)</strong>
 </p>
-<p>Ms Wong Kai Ning</p>
+<p>Mr Yang Wee Chin, Kenneth</p>
 <p><strong>HOD Character and Citizenship Education</strong>
 </p>
 <p>Mr Yeo Wee Leng, Joshua</p>
 <p><strong>School Staff Developer</strong>
 </p>
-<p>Mr Ng Yung Hui Eugene</p>
+<p>Ms Wong Kai Ning</p>
 <p><strong>Master Teacher (Biology)</strong>
 </p>
 <p>Mr Muhamad Salahuddin Ibrahim</p>
@@ -247,14 +247,11 @@ variant: tiptap
 <p>Mdm Resma Bte Gulzar Mohd</p>
 <p><strong>SH Chemistry</strong>
 </p>
+<p>Ms Khiew Shi Hui</p>
 <p>Mr Peh Kar Liang</p>
-<p>Mr Yang Wee Chin, Kenneth</p>
 <p><strong>SH Physics</strong>
 </p>
 <p>Mdm Tan Pei Yun</p>
-<p><strong>JC1 Deputy Dean</strong>
-</p>
-<p>Ms Khiew Shi Hui</p>
 <p><strong>SH STEM</strong>
 </p>
 <p>Mr Soo Kah Wai Kelvin</p>
