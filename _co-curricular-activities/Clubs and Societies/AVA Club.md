@@ -67,7 +67,7 @@ the school community.</p>
 <p>If you’re ready to be part of a dynamic team that <strong>blends creativity, technical expertise, and storytelling</strong>,
 we warmly invite you to join us. Together, we celebrate teamwork, innovation,
 and servic</p>
-<p><strong>Instagram: </strong>@asrjc.ava</p>
+<p><strong>Instagram: </strong>@asr.avaclub</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event_support_.png">
 </div>
