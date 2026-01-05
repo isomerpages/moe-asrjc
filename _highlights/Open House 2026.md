@@ -29,6 +29,22 @@ and aspirations take flight.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Performances__Updated_.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Performances_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Map.png">
+</div>
+<h3><strong>Prospectus</strong></h3>
+<p>Interested in more information? Click <a href="/files/ASRJC_Prospectus_2026__Website_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to view our prospectus
+and gain insights into our diverse academic programs, co-curricular activities,
+and the lively campus environment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus_Image.png">
+</div>
 <h3><br><strong>Principal's Message</strong></h3>
 <p>Curious to find out more about what ASRJC has to offer? Hear from our
 Principal, Mr. Heng!</p>
