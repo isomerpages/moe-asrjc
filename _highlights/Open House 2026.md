@@ -18,24 +18,25 @@ to grow as imaginative thinkers and caring leaders.</p>
 <p>Browse the summary of events and activities for our Open House below,
 and experience first-hand what makes ASR a place where potential is nurtured
 and aspirations take flight.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Academics.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_1_060126.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Student_Life.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_2_060126.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Performances__Updated_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Per_1_060126.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Performances_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Per_2_060126.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Map.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Map_060126.png">
 </div>
 <h3><strong>Prospectus</strong></h3>
 <p>Interested in more information? Click <a href="/files/ASRJC_Prospectus_2026__Website_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to view our prospectus
