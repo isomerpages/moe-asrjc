@@ -19,10 +19,10 @@ to grow as imaginative thinkers and caring leaders.</p>
 and experience first-hand what makes ASR a place where potential is nurtured
 and aspirations take flight.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_1_060126.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_1__080126_.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_2_060126.png">
 </div>
