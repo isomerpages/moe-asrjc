@@ -39,9 +39,9 @@ and aspirations take flight.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Map_060126.png">
 </div>
 <h3><strong>Prospectus</strong></h3>
-<p>Interested in more information? Click <a href="/files/ASRJC_Prospectus_2026__Website_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to view our prospectus
-and gain insights into our diverse academic programs, co-curricular activities,
-and the lively campus environment.</p>
+<p>Interested in more information? Click <a href="/files/ASRJC_Prospectus_2026_v2_Website.pdf" rel="noopener nofollow" target="_blank">here</a> to view our
+prospectus and gain insights into our diverse academic programs, co-curricular
+activities, and the lively campus environment.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus_Image.png">
