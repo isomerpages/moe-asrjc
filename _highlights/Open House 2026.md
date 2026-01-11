@@ -23,18 +23,18 @@ and aspirations take flight.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_1_090126.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_2_060126.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Talks_2_110126.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Per_1_060126.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Performance_1_110126.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Per_2_060126.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Performance_2_110126.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2026_Map_060126.png">
 </div>
