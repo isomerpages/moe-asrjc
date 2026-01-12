@@ -14,7 +14,7 @@ Assistance Scheme (MOE FAS):</p>
 <p>Student must be a Singapore Citizen</p>
 </li>
 <li>
-<p>Family’s Gross Household Income (GHI) not exceeding $3,000.00 monthly</p>
+<p>Family’s Gross Household Income (GHI) not exceeding $4,000.00 monthly</p>
 </li>
 <li>
 <p>MOE FAS is automatically granted to students, whose family is under ComCare.
@@ -23,30 +23,34 @@ They do not need to submit the application for MOE FAS.</p>
 </p>
 </li>
 <li>
-<p>Family’s Gross Household Income (GHI) exceeds $3,000.00 but the Per Capita
-Income (PCI) is $750.00 or less per month. PCI = monthly GHI/ no. of member
+<p>Family’s Gross Household Income (GHI) exceeds $4,000.00 but the Per Capita
+Income (PCI) is $1000.00 or less per month. PCI = monthly GHI/ no. of member
 in the household</p>
 </li>
 </ul>
-<p>Successful applicants will be granted full <u>waiver of school fees</u>,
-full <u>waiver of standard miscellaneous fees, $17 transport credit per month up to total of $204 transport credits per annum and a bursary of $1,200</u>.</p>
-<p>Students with siblings studying in different government and/ or government-aided
-schools need to submit only <u>1</u> application form. The school receiving
-the application form will process the application and all siblings indicated
-in the form will be granted the MOE FAS.</p>
-<p>Application for the <strong>MOE FAS</strong> is available in Term 1. However,
-applications may also be considered anytime in the year under special circumstances.</p>
+<p>Successful applicants will be granted <u>full waiver of School Fees and Miscellaneous fees, and a bursary of $1,600 per annum inclusive of transport subsidy.</u>
+</p>
+<p>You can apply <strong><em><a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">online</a></em></strong>.
+Alternatively, you can download the MOE FAS application form or collect
+a copy at your child’s school. Submit the completed form directly to the
+school.</p>
+<p>If you have children in different government or government-aided schools,
+you just need to submit 1 application form to any of their schools. The
+school that receives the application form will inform you of the outcome.</p>
+<p></p>
 <p><strong>2. ASRJC College Advisory Committee Bursary (CAC Bursary)</strong>
 </p>
-<p>The ASRJC CAC Bursary provides financial assistance to needy students
-who do not meet the income criteria for the MOE FAS. Application for the
-CAC Bursary is available in Term 1, and the amount to be awarded ranges
-from $800 to $1000 per annum.</p>
+<p>The ASRJC CAC Bursary offers financial support to students in need who
+are not eligible for the MOE Financial Assistance Scheme (FAS). Students
+may approach the General Office for details and application procedures.</p>
+<p>Successful applicants will be granted full waiver of School Fees and Miscellaneous
+fees, and a bursary of either $650 or $450 per annum inclusive of transport
+subsidy.</p>
 <p>Criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Gross household income must not exceed $4500 or per capita income &lt;
-$1125 whichever is lower</p>
+<p>Gross household income must not exceed $5500 or per capita income &lt;
+$1375 whichever is lower</p>
 </li>
 </ul>
 <table style="minWidth: 75px">
@@ -72,28 +76,29 @@ $1125 whichever is lower</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$3001 - $3500</p>
+<p>$4001 - $4500</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$751 - $875</p>
+<p>$1001 - $1125</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1000</p>
+<p>$650</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$3501 - $4500</p>
+<p>$4501 - $5500</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$876 - $1125</p>
+<p>$1126 - $1375</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$800</p>
+<p>$450</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>3.</strong>&nbsp;<strong>ASRJC College Advisory Committee Scholarship</strong>
 </p>
 <p>ASRJC CAC offers scholarships to outstanding JC1 students. The scholarship,
