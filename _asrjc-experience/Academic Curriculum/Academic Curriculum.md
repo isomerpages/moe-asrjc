@@ -6,7 +6,9 @@ third_nav_title: Academic Curriculum
 variant: tiptap
 ---
 <h4>PROSPECTUS</h4>
-<p><a href="/files/asrjc%20prospectus%202025%20(web).pdf" rel="noopener noreferrer nofollow" target="_blank">Click to view ASRJC's E-Prospectus</a>
+<p>Click <a href="/files/ASRJC_Prospectus_2026_v2_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view ASRJC's E-Prospectus.
+<br>
 </p>
 <h4>JC CURRICULUM</h4>
 <p>Starting from 2006, students entering Junior Colleges (JCs) and Millennia
