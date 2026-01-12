@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3MkYsxKuMPc?si=msLfTmeFXzP5UZzj"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T4MHozv6j8U?si=kriKSmMwyb1FDQ8n"></iframe>
 </div>
 <p><strong>ASR ODAC: Embark on an enriching Outdoor Adventure!</strong>
 </p>
