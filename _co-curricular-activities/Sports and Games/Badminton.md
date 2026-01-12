@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Sports and Games
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o_U8aPtIYNU?si=MQZYSTxXao60FBox"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/coJvz5TxYvs?si=Mub_KjwJ_b6qa5Lb"></iframe>
 </div>
 <p>The Badminton CCA stands out for its vibrant and inclusive culture, offering
 a holistic development program that refines students' technical skills
