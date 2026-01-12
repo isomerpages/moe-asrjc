@@ -34,9 +34,10 @@ in the household</p>
 Alternatively, you can download the MOE FAS application form or collect
 a copy at your child’s school. Submit the completed form directly to the
 school.</p>
-<p>If you have children in different government or government-aided schools,
-you just need to submit 1 application form to any of their schools. The
-school that receives the application form will inform you of the outcome.</p>
+<p>Students with siblings studying in different government and/ or government-aided
+schools need to submit only 1 application form. The school receiving the
+application form will process the application and all siblings indicated
+in the form will be granted the MOE FAS.</p>
 <p></p>
 <p><strong>2. ASRJC College Advisory Committee Bursary (CAC Bursary)</strong>
 </p>
