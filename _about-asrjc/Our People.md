@@ -82,7 +82,6 @@ variant: tiptap
 <p>Mr Gabriel Sim Qin Jie</p>
 <p>Ms Goh Mei-Yi, Eunice</p>
 <p>Ms Hemma Balakrishnan</p>
-<p>Ms Ho Ying Xin, Berakah</p>
 <p>Ms Loh Jia Tyan</p>
 <p>Ms Loh Yee Wei Clare</p>
 <p>Ms Sim Shan Lin</p>
@@ -162,7 +161,6 @@ variant: tiptap
 <p>Ms Foo Yong Jeh</p>
 <p>Mr Khoo Jin Yee Kenneth
 <br>Ms Koh Seok Xian</p>
-<p>Mdm Koh Suh Miin</p>
 <p>Mr Lau Haw Ping</p>
 <p>Mr Lee Dong Liang</p>
 <p>Ms Ng Cheng Yee</p>
@@ -203,12 +201,11 @@ variant: tiptap
 <p><strong>SH Information &amp; Communication Technology</strong>
 </p>
 <p>Ms Koh Wenting</p>
-<p><strong>Senior Teacher (Character and Citizenship Education)</strong>
+<p><strong>Senior Teacher Character and Citizenship Education</strong>
 </p>
 <p>Koh Yi Ting Cristee</p>
 <p><strong>Teachers</strong>
 </p>
-<p>Ms Khaw Maylee</p>
 <p>Mrs Malarvizhi Haugen</p>
 <p>Mr Soh Wai Hong Peter</p>
 </div>
