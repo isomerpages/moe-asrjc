@@ -107,6 +107,12 @@ which is tenable for two years, is valued at $1000 per year. Information
 on the application process will be shared with JC1 students during Orientation.</p>
 <p>Application opens in Semester 1 and students will be invited to apply
 for the scholarship.</p>
+<p></p>
+<h4><strong>Personalised Digital Learning Programme (PDLP)</strong></h4>
+<p>ASRJC supports PDLP-JC for our students. The devices offered consists
+of both laptops and ipad. Details of the programme will be shared with
+JC1 students during Orientation.</p>
+<p></p>
 <h4><strong>MOE Group Personal Accident (GPA) Insurance Plan for Students</strong></h4>
 <p>Information on claims, FAQs and other details pertaining to the MOE GPA
 Insurance Plan for students can be found on Income’s website <a href="https://www.income.com.sg/studentgpa" rel="noopener nofollow" target="_blank">here</a>.</p>
