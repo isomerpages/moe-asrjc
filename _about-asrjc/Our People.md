@@ -289,7 +289,6 @@ variant: tiptap
 <p><strong>Operations Manager</strong>
 </p>
 <p>Mr Eric Yeo Eng Koon</p>
-<p>Mr Kong Koon Fock</p>
 <p><strong>ICT Manager</strong>
 </p>
 <p>Mr Tan Wee Dat</p>
