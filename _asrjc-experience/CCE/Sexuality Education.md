@@ -62,14 +62,13 @@ Behaviour, and Culture, Society and Law woven into the main focus on relationshi
 </p>
 <p><strong>Pre-U Year 1</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_PU1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SE_PU1__Updated_.png">
 </div>
 <p><strong>Pre-U Year 2</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_PU2__Updated_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SE_PU2__Updated_.png">
 </div>
 <p><strong><em>eTeens</em></strong>  <strong>Programme</strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
