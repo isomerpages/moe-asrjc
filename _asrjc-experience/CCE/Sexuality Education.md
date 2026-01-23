@@ -142,15 +142,14 @@ by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated to parents at the start of the year and
-is also available <u>here</u> (please upload parents opt-out form found in <strong>Annex A</strong> and
-insert a hyperlink for parents to access the form). The completed form
-is to be submitted by&nbsp;<strong>13 February 2026</strong>&nbsp;for JC2
-and&nbsp;<strong>10 April 2026</strong>&nbsp;for JC1.</p>
+is also available <a href="/files/Annex_A_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The completed form is to
+be submitted by&nbsp;<strong>13 February 2026</strong>&nbsp;for JC2 and&nbsp;<strong>10 April 2026</strong>&nbsp;for
+JC1.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the <strong><em>eTeens</em></strong>  <strong>programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Annex_B_2025.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be submitted
-by <strong>7 April 2025</strong>.</p>
+out of the <strong><em>eTeens</em> programme</strong> need to complete an
+opt-out form. This form will be communicated to parents at the start of
+the year and is also available <a href="/files/Annex_B_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> . The completed form is to
+be submitted by <strong>10 April 2026</strong>&nbsp;for JC1.</p>
 <p>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6459 6822
 for discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
