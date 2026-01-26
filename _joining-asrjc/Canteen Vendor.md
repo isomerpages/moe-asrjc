@@ -7,7 +7,7 @@ variant: markdown
 #### School Canteen Advertisement
 
 | **Type of Stall** | **Closing Date** | **Requirements** |
-| Vegetarian | 30 January 2026 | Mixed wholegrain rice or 100% wholegrain noodle are acceptable |
+| Vegetarian | 31 March 2026 | Mixed wholegrain rice or 100% wholegrain noodle are acceptable |
 | - | - | - |
 
 
