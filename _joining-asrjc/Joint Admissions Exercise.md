@@ -153,6 +153,18 @@ posted here.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Calculation of L1R5 Score</h4>
@@ -242,13 +254,13 @@ Mother Tongue)</p>
 <p>Students can enjoy up to a maximum of 4 bonus points. However, a minimum
 raw score of L1R5 20 points is necessary to qualify for bonus points.</p>
 <h3><strong>Post-JAE Appeal Procedure</strong></h3>
-<p>Appeals for admission to ASRJC will commence on Tuesday, 4 February 2025
-and end on Monday, 10 February 2025.</p>
+<p>Appeals for admission to ASRJC will commence on Tuesday, 3 February 2026
+and end on Monday, 9 February 2026.</p>
 <p>Only students with net L1R5 equal or less than ASRJC cut-off points can
 be considered for appeals.&nbsp;All appeals application must be completed
-online. The online application form can be accessed&nbsp;<strong><a href="https://portal.asrjc.edu.sg/appeal" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.&nbsp;<strong>All appeals must be submitted by Monday 10 February 2025, 9am.</strong>
+online. The online application form can be accessed&nbsp;<strong><a href="https://portal.asrjc.edu.sg/appeal" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.&nbsp;<strong>All appeals must be submitted by Monday 9 February 2026, 9am.</strong>
 </p>
-<p>You can download the user guide for appeal&nbsp;<strong><a href="/files/2024_User_Guide_for_Appeal.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a></strong>
+<p>You can download the user guide for appeal&nbsp;<strong><a href="/files/2026_User_Guide_for_Appeal.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><a href="/files/2024_User_Guide_for_Appeal.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a></strong>
 </p>
 <p><strong><u>Only shortlisted candidates will be called up for an interview.</u></strong>
 </p>
@@ -273,21 +285,20 @@ copy of the:</p>
 </li>
 </ul>
 <h3><strong>Subject&nbsp;Combinations&nbsp;in ASRJC</strong></h3>
-<p>The list of subject combinations offered in 2025 is downloadable <a href="/files/Subject_Combination_List_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>The list of subject combinations offered in 2026 is viewable in our prospectus
+<a href="/files/ASRJC_Prospectus_2026_v2_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <h3><strong>Selection Tests</strong></h3>
 <p><strong>H2 Computing</strong>
 </p>
-<p>The test for H2 Computing is will take place on 6 Feb Thursday 8:30a.m.
-at LT4.</p>
+<p>The test for H2 Computing is will take place on <u>5 Feb Thursday 7:30a.m. at LT4</u>.</p>
 <p><strong>H2 Further Mathematics</strong>
 </p>
 <p>H2 Further Mathematics is to be offered with H2 Mathematics as a double
-mathematics course. The test for H2 Further Mathematics 6 Feb Thursday
-10:30a.m. at LT4.</p>
+mathematics course. The test for H2 Further Mathematics <u>5 Feb Thursday 10:30a.m. at LT4</u>.</p>
 <p><strong>H2 Art</strong>
 </p>
-<p>The test for H2 Art is 6 Feb Thursday 8:30a.m. at the Art Studio. Students
+<p>The test for H2 Art is 5 Feb Thursday 7:30a.m. at the Art Studio. Students
 are advised to bring their own drawing and painting materials for the test
-and submit their portfolio at the same time. The interview will be conducted
-on the same afternoon.</p>
+and bring along their portfolio at the same time. The interview will be
+conducted on the same session.</p>
