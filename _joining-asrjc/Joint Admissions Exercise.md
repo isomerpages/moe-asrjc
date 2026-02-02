@@ -254,8 +254,7 @@ Mother Tongue)</p>
 <p>Students can enjoy up to a maximum of 4 bonus points. However, a minimum
 raw score of L1R5 20 points is necessary to qualify for bonus points.</p>
 <h3><strong>Post-JAE Appeal Procedure</strong></h3>
-<p>Appeals for admission to ASRJC will commence on Tuesday, 3 February 2026
-and end on Monday, 9 February 2026.</p>
+<p>Appeals for admission to ASRJC will commence on <u>Tuesday, 3 February 2026 and end on Monday, 9 February 2026</u>.</p>
 <p>Only students with net L1R5 equal or less than ASRJC cut-off points can
 be considered for appeals.&nbsp;All appeals application must be completed
 online. The online application form can be accessed&nbsp;<strong><a href="https://portal.asrjc.edu.sg/appeal" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.&nbsp;<strong>All appeals must be submitted by Monday 9 February 2026, 9am.</strong>
@@ -298,7 +297,7 @@ copy of the:</p>
 mathematics course. The test for H2 Further Mathematics <u>5 Feb Thursday 10:30a.m. at LT4</u>.</p>
 <p><strong>H2 Art</strong>
 </p>
-<p>The test for H2 Art is 5 Feb Thursday 7:30a.m. at the Art Studio. Students
-are advised to bring their own drawing and painting materials for the test
-and bring along their portfolio at the same time. The interview will be
-conducted on the same session.</p>
+<p>The test for H2 Art is <u>5 Feb Thursday 7:30a.m. at the Art Studio</u>.
+Students are advised to bring their own drawing and painting materials
+for the test and bring along their portfolio at the same time. The interview
+will be conducted on the same session.</p>
