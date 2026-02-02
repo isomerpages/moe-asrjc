@@ -285,7 +285,8 @@ copy of the:</p>
 </li>
 </ul>
 <h3><strong>Subject&nbsp;Combinations&nbsp;in ASRJC</strong></h3>
-<p>The list of subject combinations offered in 2026 is downloadable <a href="/files/Subject_Combination_List_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>The list of subject combinations offered in 2026 is viewable in our prospectus
+<a href="/files/ASRJC_Prospectus_2026_v2_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <h3><strong>Selection Tests</strong></h3>
 <p><strong>H2 Computing</strong>
