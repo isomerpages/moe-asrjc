@@ -22,6 +22,16 @@ sections:
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
   - infopic:
+      title: "Orientation 2026: To ASR and BEYOND"
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Congratulations on your posting to Anderson Serangoon Junior
+        College! We warmly welcome you to the ASR family!
+      button: Click HERe
+      url: /orientation-2026/
+      image: /images/O2026_Thumbnail.jpg
+      alt: Image alt text
+  - infopic:
       title: ASRJC Open House 2026
       subtitle: highlights
       id: infopic
