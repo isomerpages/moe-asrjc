@@ -49,7 +49,7 @@ and 153.</p>
 <p>The deadline for subject combination registration is 5 February 2026,
 Thursday at 9.30 a.m. You may take this opportunity to explore the available
 choices in advance to make a well-considered decision. The list of subject
-combinations offered in 2026 is downloadable here.</p>
+combinations offered in 2026 can be viewed from our <strong><a href="https://www.asrjc.moe.edu.sg/files/ASRJC_Prospectus_2026_v2_Website.pdf" rel="noopener nofollow" target="_blank">prospectus</a></strong>.</p>
 <p>&nbsp;</p>
 <h4><strong>For Parents</strong></h4>
 <p><strong>Webinar by our College Education &amp; Career Guidance (ECG) Counsellor</strong>
