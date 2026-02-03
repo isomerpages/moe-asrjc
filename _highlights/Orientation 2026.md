@@ -51,7 +51,7 @@ Thursday at 9.30 a.m. You may take this opportunity to explore the available
 choices in advance to make a well-considered decision. The list of subject
 combinations offered in 2026 is downloadable here.</p>
 <p>&nbsp;</p>
-<h4><strong>For Parents </strong></h4>
+<h4><strong>For Parents</strong></h4>
 <p><strong>Webinar by our College Education &amp; Career Guidance (ECG) Counsellor</strong>
 </p>
 <p>The webinar will be held on 4 February 2026, Wednesday at 7 p.m. During
