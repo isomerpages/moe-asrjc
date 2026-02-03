@@ -279,9 +279,6 @@ copy of the:</p>
 <p>CCA records</p>
 </li>
 <li>
-<p>Secondary school testimonial</p>
-</li>
-<li>
 <p>Other relevant supporting documents</p>
 </li>
 </ul>
