@@ -24,6 +24,9 @@ college on 4 February 2026.</p>
 access the full programme schedule for Day 1.
 <br>
 </p>
+<h4><strong>Finding your Orientation Group</strong></h4>
+<p>Please <strong><a href="https://sites.google.com/moe.edu.sg/asrjc/og-finder" rel="noopener nofollow" target="_blank">click here</a></strong> to
+find your Orientation Group.</p>
 <h4><strong>Getting to our College</strong></h4>
 <p>We are located at 1033 Upper Serangoon Road, Singapore 534768.</p>
 <p><strong><u>Private Transport</u></strong>
@@ -54,10 +57,11 @@ combinations offered in 2026 can be viewed from our <strong><a href="https://www
 <h4><strong>For Parents</strong></h4>
 <p><strong>Webinar by our College Education &amp; Career Guidance (ECG) Counsellor</strong>
 </p>
-<p>The webinar will be held on 4 February 2026, Wednesday at 7 p.m. During
-the session, our ECG counsellor will provide information to help you support
-your child/ward in choosing a subject combination that best fits their
-strengths, interests and aspirations. To join the webinar, you may click <strong><a href="https://for.edu.sg/asr2026-jc1parents-ecg" rel="noopener nofollow" target="_blank">here</a></strong>.</p>
+<p>The webinar will be held on 4 February 2026, Wednesday at 7 p.m. via Microsoft
+Teams. During the session, our ECG counsellor will provide information
+to help you support your child/ward in choosing a subject combination that
+best fits their strengths, interests and aspirations. To join the webinar,
+you may click <strong><a href="https://for.edu.sg/asr2026-jc1parents-ecg" rel="noopener nofollow" target="_blank">here</a></strong>.</p>
 <p><strong>Parent Support Group (PSG)</strong>
 </p>
 <p>ASRJC’s Parent Support Group (PSG) is a volunteer group comprising parents
