@@ -159,10 +159,12 @@ posted here.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>10</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>9</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -290,14 +292,14 @@ copy of the:</p>
 <h3><strong>Selection Tests</strong></h3>
 <p><strong>H2 Computing</strong>
 </p>
-<p>The test for H2 Computing is will take place on <u>5 Feb Thursday 7:30a.m. at LT4</u>.</p>
+<p>The test for H2 Computing is on <u>5 Feb Thursday 7:30a.m. at LT4</u>.</p>
 <p><strong>H2 Further Mathematics</strong>
 </p>
 <p>H2 Further Mathematics is to be offered with H2 Mathematics as a double
-mathematics course. The test for H2 Further Mathematics <u>5 Feb Thursday 10:30a.m. at LT4</u>.</p>
+mathematics course. The test for H2 Further Mathematics is on <u>5 Feb Thursday 9:00a.m. at LT4</u>.</p>
 <p><strong>H2 Art</strong>
 </p>
-<p>The test for H2 Art is <u>5 Feb Thursday 7:30a.m. at the Art Studio</u>.
+<p>The test for H2 Art is on <u>5 Feb Thursday 7:30a.m. at the Art Studio</u>.
 Students are advised to bring their own drawing and painting materials
 for the test and bring along their portfolio at the same time. The interview
 will be conducted on the same session.</p>
