@@ -12,7 +12,7 @@ ASRJC firmly believes in the strategic partnership between parents and the Colle
 
 The ASRJC Portal provides an online platform for parents to keep up-to-date with the progress of their children. Various student information can be found on the Portal, such as class, results, and attendance.
 
-A guide on accessing the ASRJC Portal can be found [**here**](/files/additional-info-instructions-for-accessing-parents-portal.pdf).
+A guide on accessing the ASRJC Portal can be found [**here**](/files/2026_Instructions_on_Accessing_the_Parents_Portal.pdf).
 
 Parents can access the ASRJC Portal **[here.](https://portal.asrjc.edu.sg/)**
 
