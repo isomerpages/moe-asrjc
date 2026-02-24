@@ -22,6 +22,15 @@ sections:
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
   - infopic:
+      title: Release of 2025 A-Level Results
+      subtitle: Highlights
+      id: infopic
+      description: Our heartiest congratulations to the class of 2025!
+      button: More details here
+      url: https://www.asrjc.moe.edu.sg/release-of-2025-a-level-results/
+      image: /images/2025_A_Level_Results_Pic.png
+      alt: Image alt text
+  - infopic:
       title: "Orientation 2026: To ASR and BEYOND"
       subtitle: HIGHLIGHTS
       id: infopic
@@ -174,13 +183,4 @@ sections:
       alt: Image alt text
       url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
       button: VIEW HERE
-  - infopic:
-      title: Release of 2025 A-Level Results
-      subtitle: Highlights
-      id: infopic
-      description: Our heartiest congratulations to the class of 2025!
-      button: More details here
-      url: https://www.asrjc.moe.edu.sg/release-of-2025-a-level-results/
-      image: /images/2025_A_Level_Results_Pic.png
-      alt: Image alt text
 ---
