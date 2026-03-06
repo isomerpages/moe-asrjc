@@ -63,7 +63,7 @@ Behaviour, and Culture, Society and Law woven into the main focus on relationshi
 <p><strong>Pre-U Year 1</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SE_PU1__Updated_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_JC1_SEd_060326.png">
 </div>
 <p><strong>Pre-U Year 2</strong>
 </p>
@@ -128,7 +128,7 @@ negotiation to say ‘no’ to peer pressure to have pre-marital sex)</p>
 including avenues for help-seeking</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -142,13 +142,13 @@ by MOE-approved external providers.</p>
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated to parents at the start of the year and
 is also available <a href="/files/Annex_A_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The completed form is to
-be submitted by&nbsp;<strong>13 February 2026</strong>&nbsp;for JC2 and&nbsp;<strong>10 April 2026</strong>&nbsp;for
+be submitted by&nbsp;<strong>13 February 2026</strong>&nbsp;for JC2 and&nbsp;<strong>25 March 2026</strong>&nbsp;for
 JC1.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
 the year and is also available <a href="/files/Annex_B_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> . The completed form is to
-be submitted by <strong>10 April 2026</strong>&nbsp;for JC1.</p>
+be submitted by <strong>25 March 2026</strong>&nbsp;for JC1.</p>
 <p>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6459 6822
 for discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
