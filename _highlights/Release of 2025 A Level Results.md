@@ -5,36 +5,59 @@ variant: tiptap
 description: ""
 ---
 <h2>Release of 2025 A-Level Results</h2>
-<p>Dear ASRJCians,</p>
-<p>The 2025 Singapore-Cambridge GCE A-Level Examination results will be released
-on&nbsp;<strong>Friday</strong>,&nbsp;<strong>27 February 2026</strong>,
-in our college Hall.</p>
-<p>2025 JC2 students may return to the college from&nbsp;<strong>1 p.m. onwards</strong>&nbsp;to
-receive your examination certificates, SGC and CCA records. You may visit
-the Universities’ Information Booths at the Foyer before heading to the
-Hall. Please be in the Hall by&nbsp;<strong>2.15 p.m.</strong>&nbsp;for
-our Principal’s address.</p>
-<p>Parents are welcomed to accompany their child – accompanying parents will
-need to register at the guard house when entering the college.</p>
-<p>Entrance to the college will be through the main gate. We regret to inform
-that vehicle parking is not available in the college. Parking lots may
-be available at the nearby HDB carparks.</p>
-<p>Students who are unwell should exercise social responsibility and may
-access your results online via Singapore Examinations and Assessment Board’s
-(SEAB) Candidates Portal at&nbsp;<a href="http://www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a>  <strong>from 3.15 p.m. on Friday, 27 February 2026 till 11 p.m. on Friday, 13 March 2026</strong>.
-You may use your Singpass account to access SEAB’s Candidates Portal. International
-Students will receive your system-generated username via email from Wednesday,
-25 February 2026. You may refer to this&nbsp;<em><a href="https://staging-lite.duc175n7dtuih.amplifyapp.com/files/Guide_to_access_result_online___School_Candidates.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to access results online.</a></em>
-</p>
-<p>Students may appoint a proxy to collect the results on your behalf. The
-appointed proxy may collect the results at the General Office&nbsp;<strong>from 3.45 p.m.</strong>&nbsp;<strong>to 5 p.m.&nbsp;on</strong>  <strong>27 February 2026</strong>,
-or during office hours (8.30 a.m. to 5 p.m.) on weekdays after 27 February
-2026. An authorisation letter is required for the proxy to collect the
-results. The&nbsp;<strong><em><a href="/files/Authorisation_letter_for_Proxies_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Authorisation letter</u></a></em></strong>&nbsp;is
-attached for your use.</p>
-<p>Last but not least, do refer to the attached guides&nbsp;<em><a href="https://staging-lite.duc175n7dtuih.amplifyapp.com/files/You_Got_This_Infographic.pdf" rel="noopener noreferrer nofollow" target="_blank">You Got This</a></em>&nbsp;and&nbsp;<em><a href="https://sites.google.com/view/asrecg/higher-education/release-of-a-level-results" rel="noopener noreferrer nofollow" target="_blank">Resources for Your Next Step</a></em>&nbsp;for
-planning your next step in your education journey. The guides also suggest
-ways you can prepare yourself when receiving your results and be a supportive
-friend.</p>
-<p>All the best for your results!! 😊</p>
+<p>On 27 February 2026, ASRJCians returned to the college with anticipation
+and emotion to receive their 2025 GCE A-Level results. The atmosphere was
+filled with pride, gratitude and reflection as the college community gathered
+to celebrate the achievements of the Class of 2025, who completed their
+journey with grit, tenacity and resilience.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_2026.png">
+</div>
+<p>In his address to the cohort, Principal Mr Heng Yew Seng encouraged graduates
+to cherish their memories in ASRJC, express gratitude to those who had
+supported them, and continue to pay it forward to future generations. He
+shared inspiring stories of students who embodied the college values and
+lived out the vision of being Imaginative Thinkers and Caring Leaders.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_2026.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_2026.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_2026.png">
+</div>
+<p></p>
+<p>Throughout their time in ASRJC, the cohort demonstrated perseverance as
+they balanced academic pursuits with a wide range of co-curricular, leadership
+and service learning experiences. Their journey reflects the spirit of
+determination and growth that defines the ASRJC experience.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_2026.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8_2026.png">
+</div>
+<p>We would also like to thank our parents for their steadfast partnership,
+and our teachers and non-teaching staff for their dedication and care in
+guiding our students through these formative years.</p>
+<p>As our graduates embark on new chapters—whether pursuing university studies,
+fulfilling national service, or exploring other pathways—we are confident
+that they will carry forward the friendships, values and lessons gained
+during their time in ASRJC.</p>
+<p>May they continue to hold close to their hearts our college motto:
+<br>Discere Servire – Non Mihi Solum <em>(To Learn, To Serve – Not for Myself Alone).</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_2026.png">
+</div>
+<p></p>
+<p><strong>Congratulations to the Class of 2025. We are immensely proud of your achievements and wish you every success in the exciting journeys ahead!</strong>
+</p>
