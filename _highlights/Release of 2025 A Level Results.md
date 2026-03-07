@@ -59,5 +59,5 @@ during their time in ASRJC.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_2026.png">
 </div>
 <p></p>
-<p><strong>Congratulations to the Class of 2025. We are immensely proud of your achievements and wish you every success in the exciting journeys ahead.</strong>
+<p><strong>Congratulations to the Class of 2025. We are immensely proud of your achievements and wish you every success in the exciting journeys ahead!</strong>
 </p>
