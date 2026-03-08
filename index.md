@@ -25,7 +25,7 @@ sections:
       title: Release of 2025 A-Level Results
       subtitle: Highlights
       id: infopic
-      description: We look forward to welcoming back our Class of 2025!
+      description: Congratulations to the Class of 2025!
       button: More details here
       url: https://www.asrjc.moe.edu.sg/release-of-2025-a-level-results/
       image: /images/2025_A_Level_Results_Pic.png
