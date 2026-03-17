@@ -17,11 +17,11 @@ or real-life issues through an interdisciplinary perspective. Through STEAM
 Education, we prepare our students to tackle real-world issues and embrace
 life-long learning.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U-FXjdamZFE?si=Jsdn8owadm2TX7dK"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U-FXjdamZFE?si=Jsdn8owadm2TX7dK"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vAGw81DfVeY?si=6o-HrWktrZMOncu0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vAGw81DfVeY?si=6o-HrWktrZMOncu0"></iframe>
 </div>
 <h3>Science, Technology, Engineering, and Mathematics (STEM) Programme</h3>
 <p><strong>Science, Technology, Engineering, and Mathematics (STEM) Programme</strong>
@@ -39,15 +39,15 @@ lab or industry attachment.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://staging.d2l6tfmz18j0q.amplifyapp.com/special-programmes/nanyang-research-programme/" rel="noopener noreferrer nofollow" target="_blank">Nanyang Research Programme</a>&nbsp;(NRP)
+<p><a href="https://www.ntu.edu.sg/education/talent-outreach/NRP" rel="noopener noreferrer nofollow" target="_blank">Nanyang Research Programme</a>&nbsp;(NRP)
 with Nanyang Technological University (NTU)</p>
 </li>
 <li>
-<p><a href="https://staging.d2l6tfmz18j0q.amplifyapp.com/special-programmes/science-research-programme-srp/" rel="noopener noreferrer nofollow" target="_blank">Science Research Programme</a>&nbsp;(SRP)
+<p><a href="https://www.science.nus.edu.sg/undergraduates/schools-and-public-outreach/research-programmes/science-research-programme-srp/" rel="noopener noreferrer nofollow" target="_blank">Science Research Programme</a>&nbsp;(SRP)
 with National University of Singapore</p>
 </li>
 <li>
-<p><a href="https://staging.d2l6tfmz18j0q.amplifyapp.com/special-programmes/singapore-university-of-technology-and-design-research-mentorship-programme-rmp/" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Technology and Design (SUTD) Research Mentorship Programme (RMP)</a>
+<p><a href="https://www.sutd.edu.sg/innovation/davincisutd/mentorship-programmes/research-mentorship-programme/" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Technology and Design (SUTD) Research Mentorship Programme (RMP)</a>
 </p>
 </li>
 </ul>
