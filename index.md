@@ -22,6 +22,14 @@ sections:
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
   - infopic:
+      title: Stories of ASR Class of 2025
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Celebrating our alumni's achievements and the journeys that shaped them.
+      button: Button Text
+      image: /images/Cruise1.jpg
+      alt: Image alt text
+  - infopic:
       title: Release of 2025 A-Level Results
       subtitle: Highlights
       id: infopic
@@ -183,12 +191,4 @@ sections:
       alt: Image alt text
       url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
       button: VIEW HERE
-  - infopic:
-      title: Stories of ASR Class of 2025
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: Celebrating our alumni's achievements and the journeys that shaped them.
-      button: Button Text
-      image: /images/Cruise1.jpg
-      alt: Image alt text
 ---
