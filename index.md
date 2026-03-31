@@ -183,4 +183,12 @@ sections:
       alt: Image alt text
       url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
       button: VIEW HERE
+  - infopic:
+      title: Stories of ASR Class of 2025
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Celebrating our alumni's achievements and the journeys that shaped them.
+      button: Button Text
+      image: /images/Cruise1.jpg
+      alt: Image alt text
 ---
