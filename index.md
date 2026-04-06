@@ -26,9 +26,10 @@ sections:
       subtitle: HIGHLIGHTS
       id: infopic
       description: Celebrating our alumni's achievements and the journeys that shaped them.
-      button: Button Text
+      button: VIEW HERE
       image: /images/Cruise1.jpg
       alt: Image alt text
+      url: https://www.asrjc.moe.edu.sg/stories-of-asr-class-of-2025/
   - infopic:
       title: Release of 2025 A-Level Results
       subtitle: Highlights
