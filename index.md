@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/Website Banner/Website_Banner_2025_VII.jpg
       key_highlights:
-        - title: JAE Appeal 2026
-          description: Find out more.
-          url: https://www.asrjc.moe.edu.sg/joining-asrjc/joint-admission-exercise/
         - title: Social media
           description: Follow us on Instagram!
           url: https://www.instagram.com/asr.jc/
