@@ -18,6 +18,9 @@ sections:
         - title: Education & Career Guidance @ ASR
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
+        - title: DSA 2026
+          description: See our 2026 talent areas!
+          url: /joining-asrjc/direct-school-admission/
   - infopic:
       title: Stories of ASR Class of 2025
       subtitle: HIGHLIGHTS
