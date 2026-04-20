@@ -20,7 +20,7 @@ sections:
           url: https://sites.google.com/view/asrecg/home
         - title: DSA 2026
           description: See our 2026 talent areas!
-          url: /joining-asrjc/direct-school-admission/
+          url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
   - infopic:
       title: Stories of ASR Class of 2025
       subtitle: HIGHLIGHTS
