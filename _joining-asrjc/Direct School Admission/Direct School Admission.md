@@ -13,6 +13,13 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 <h4>1) DSA Talent Areas</h4>
 <p>We are looking for students with talent in the following areas:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/ASRJC_DSA_Talent_Areas___Schedule__2026_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/ASRJC_DSA_Talent_Areas___Schedule__2026_2.png">
+</div>
 <h4>Hear from some of our DSA students about their CCA journey and experience in ASRJC!'</h4>
 <h4>ASR Hockey</h4>
 <div class="iframe-wrapper">
@@ -83,3 +90,4 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 <p><strong>&nbsp;</strong>The College will relocate back to our permanent
 campus in January 2028 at the following address:</p>
 <p>189 Ang Mo Kio Avenue 8, Singapore 569904</p>
+<p></p>
