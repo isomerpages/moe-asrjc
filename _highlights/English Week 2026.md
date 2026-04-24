@@ -94,8 +94,22 @@ such as rhythm-based word challenges, storytelling, and word games, provided
 interactive and engaging ways for participants to experience language.
 At the Open Mic, both staff and students took to the stage to share music,
 comedy, and spoken word, creating a warm and inclusive atmosphere.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_042A2616.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_042A2726.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_042A2701.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_IMG_0003.jpg">
+</div>
 <p>English Week 2026 ultimately celebrated the enduring power of stories—told
 through speech, writing, and performance—to connect individuals, inspire
 reflection, and give voice to diverse experiences within the college community.</p>
-<p>&nbsp;</p>
+<p></p>
