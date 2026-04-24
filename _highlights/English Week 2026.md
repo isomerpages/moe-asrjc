@@ -34,7 +34,6 @@ flair, and strong critical thinking skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_DSC00012.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_DSC03275.jpg">
 </div>
