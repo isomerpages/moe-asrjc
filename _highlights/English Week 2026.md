@@ -66,7 +66,27 @@ of voices and perspectives, and demonstrating the many forms stories can
 take on the page.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_IMG_0791.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_042A2605.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_IMG_0792.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_IMG_0780.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_IMG_0772.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_IMG_0796.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_IMG_0783.jpg">
 </div>
 <p>The celebrations concluded with an English Carnival held outside the library,
 alongside an Open Mic session indoors. Student-run booths, featuring activities
@@ -74,6 +94,7 @@ such as rhythm-based word challenges, storytelling, and word games, provided
 interactive and engaging ways for participants to experience language.
 At the Open Mic, both staff and students took to the stage to share music,
 comedy, and spoken word, creating a warm and inclusive atmosphere.</p>
+<p></p>
 <p>English Week 2026 ultimately celebrated the enduring power of stories—told
 through speech, writing, and performance—to connect individuals, inspire
 reflection, and give voice to diverse experiences within the college community.</p>
