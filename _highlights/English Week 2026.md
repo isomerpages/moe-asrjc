@@ -11,12 +11,13 @@ celebration of language, creativity, and expression. Held in Term 2, Week
 1, this year’s theme, <em>“Stories”,</em> invited students to reflect on
 the many ways narratives shape perspectives, identities, and connections
 through a dynamic line-up of programmes.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MG_6645.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MG_6663.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MG_6622.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MG_6622N.jpg">
 </div>
 <p>The week opened with the Inter-House Oratorical Competition, where JC2
 students delivered compelling speeches on thought-provoking issues. Drawing
@@ -92,7 +93,7 @@ alongside an Open Mic session indoors. Student-run booths, featuring activities
 such as rhythm-based word challenges, storytelling, and word games, provided
 interactive and engaging ways for participants to experience language.
 At the Open Mic, both staff and students took to the stage to share music,
-comedy, and spoken word, creating a warm and inclusive atmosphere.</p>
+creating a warm and inclusive atmosphere.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_042A2616.jpg">
 </div>
