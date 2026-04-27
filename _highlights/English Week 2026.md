@@ -8,7 +8,7 @@ description: ""
 </p>
 <p>English Week 2026 brought the college community together in a vibrant
 celebration of language, creativity, and expression. Held in Term 2, Week
-1, this year’s theme, <em>“Stories,”</em> invited students to reflect on
+1, this year’s theme, <em>“Stories”,</em> invited students to reflect on
 the many ways narratives shape perspectives, identities, and connections
 through a dynamic line-up of programmes.</p>
 <div class="isomer-image-wrapper">
