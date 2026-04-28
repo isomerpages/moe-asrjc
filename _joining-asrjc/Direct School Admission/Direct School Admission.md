@@ -16,8 +16,9 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/ASRJC_DSA_Talent_Areas___Schedule__2026_1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/ASRJC_DSA_Talent_Areas___Schedule__2026_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images for DSA Talent Areas/ASRJC_DSA_Talent_Areas___Schedule__2026_2b.png">
 </div>
 <h4>Hear from some of our DSA students about their CCA journey and experience in ASRJC!'</h4>
 <h4>ASR Hockey</h4>
@@ -70,9 +71,9 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 </p>
 </li>
 </ul>
-<p>The list of subject combinations offered in <strong>2026</strong> is downloadable
-<a href="https://www.asrjc.moe.edu.sg/files/ASRJC_Prospectus_2026_v2_Website.pdf" rel="noopener nofollow" target="_blank">here</a><a href="/files/Subject_Combination_List_2025.pdf" rel="noopener nofollow" target="_blank">.</a>
-</p>
+<p>The list of subject combinations offered in <strong>2026 </strong>may be
+found in our E-Prospectus downloadable <strong><a href="https://www.asrjc.moe.edu.sg/files/ASRJC_Prospectus_2026_v2_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+reference.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Change of college campus in 2028</strong>
