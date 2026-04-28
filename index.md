@@ -22,6 +22,15 @@ sections:
           description: See our 2026 talent areas!
           url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
   - infopic:
+      title: English Week 2026
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: English Week 2026 brought stories to life, celebrating the power of
+        language to inspire, connect, and ignite new perspectives.
+      button: Button Text
+      image: /images/Copy_of_042A2605.jpg
+      alt: Image alt text
+  - infopic:
       title: Stories of ASR Class of 2025
       subtitle: HIGHLIGHTS
       id: infopic
