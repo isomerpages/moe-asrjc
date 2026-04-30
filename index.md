@@ -27,9 +27,10 @@ sections:
       id: infopic
       description: English Week 2026 brought stories to life, celebrating the power of
         language to inspire, connect, and ignite new perspectives.
-      button: Button Text
+      button: VIEW HERE
       image: /images/Copy_of_042A2605.jpg
       alt: Image alt text
+      url: https://www.asrjc.moe.edu.sg/english-week-2026/
   - infopic:
       title: Stories of ASR Class of 2025
       subtitle: HIGHLIGHTS
