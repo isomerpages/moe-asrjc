@@ -73,15 +73,15 @@ with their application:</p>
 </li>
 </ul>
 <p></p>
-<p>o&nbsp;&nbsp; Secondary School Report book with Sec 3 Weighted Assessment,
-Sec 3 Year-end and Sec 4/5 Weighted Assessment (or equivalent) results,
-including copies of latest school academic results <strong>if available.</strong>
-<br>o&nbsp;&nbsp; For Secondary 5NA applicants: GCE (NA)-Level Examination
+<p>◦ Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Year-end
+and Sec 4/5 Weighted Assessment (or equivalent) results, including copies
+of latest school academic results <strong>if available.</strong>
+<br>◦&nbsp;&nbsp; For Secondary 5NA applicants: GCE (NA)-Level Examination
 results
-<br>o&nbsp;&nbsp; School CCA records
-<br>o&nbsp;&nbsp; Relevant certifications and/or records of achievement related
+<br>◦&nbsp;&nbsp; School CCA records
+<br>◦&nbsp;&nbsp; Relevant certifications and/or records of achievement related
 to the talent area
-<br>o&nbsp;&nbsp; Personal statement (in application form)</p>
+<br>◦&nbsp;&nbsp; Personal statement (in application form)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Applicants may go ahead to submit the application form first if the official
