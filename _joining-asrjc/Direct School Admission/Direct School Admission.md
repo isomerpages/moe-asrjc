@@ -152,10 +152,6 @@ documents are unavailable, and upload them once they are available.</p>
 </p>
 </li>
 </ul>
-<p><em>&nbsp;</em>
-</p>
-<p><em><s>&nbsp;</s></em>
-</p>
 </td>
 </tr>
 </tbody>
