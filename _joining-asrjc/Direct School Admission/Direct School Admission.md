@@ -69,20 +69,16 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 </li>
 <li>
 <p>Applicants are required to attach scanned copies of the following along
-with their application:</p>
-</li>
-</ul>
-<p></p>
-<p>◦ Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Year-end
+with their application:
+<br>◦ Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Year-end
 and Sec 4/5 Weighted Assessment (or equivalent) results, including copies
 of latest school academic results <strong>if available.</strong>
-<br>◦&nbsp;&nbsp; For Secondary 5NA applicants: GCE (NA)-Level Examination
-results
-<br>◦&nbsp;&nbsp; School CCA records
-<br>◦&nbsp;&nbsp; Relevant certifications and/or records of achievement related
-to the talent area
-<br>◦&nbsp;&nbsp; Personal statement (in application form)</p>
-<ul data-tight="true" class="tight">
+<br>◦ For Secondary 5NA applicants: GCE (NA)-Level Examination results
+<br>◦ School CCA records
+<br>◦ Relevant certifications and/or records of achievement related to the
+talent area
+<br>◦ Personal statement (in application form)</p>
+</li>
 <li>
 <p>Applicants may go ahead to submit the application form first if the official
 documents are unavailable, and upload them once they are available.</p>
