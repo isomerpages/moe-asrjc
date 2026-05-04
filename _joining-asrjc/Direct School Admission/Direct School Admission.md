@@ -216,11 +216,12 @@ to enable the College to better understand the:</p>
 <p></p>
 <h4>4) Details of Selection Trials/Auditions</h4>
 <p>Click <strong>the following buttons</strong> to find out more:
-<br>Sports
-<br>Performing Arts
-<br>Language and Humanities
-<br>STEM
-<br>Leadership</p>
+<br><a href="https://www.asrjc.moe.edu.sg/dsa/sports/" rel="noopener nofollow" target="_blank">Sports</a> 
+<br><a href="https://www.asrjc.moe.edu.sg/dsa/performing-arts/" rel="noopener nofollow" target="_blank">Performing Arts</a> 
+<br><a href="https://www.asrjc.moe.edu.sg/dsa/language-and-humanities/" rel="noopener nofollow" target="_blank">Language and Humanities</a> 
+<br><a href="https://www.asrjc.moe.edu.sg/dsa/stem/" rel="noopener nofollow" target="_blank">STEM</a> 
+<br><a href="https://www.asrjc.moe.edu.sg/dsa/leadership/" rel="noopener nofollow" target="_blank">Leadership</a>
+</p>
 <p></p>
 <h4>5) Enquiry</h4>
 <p>For general enquiries regarding DSA, you may contact the following personnel:</p>
