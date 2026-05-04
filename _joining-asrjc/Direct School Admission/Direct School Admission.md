@@ -46,9 +46,94 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1MkEvnvvVrM?si=S2nNJsG4Dd6cmXDr"></iframe>
 </div>
 <h4></h4>
-<h4>2) Application Process (To be announced)</h4>
+<h4>2) Application Process</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Step 1: Application</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Submit online application form through this <strong><a href="http://dsa.asrjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a> (from 6 May onwards)</strong>
+</p>
+</li>
+<li>
+<p>The deadline for the submission of online application forms is <strong>Fri 17 July 2026</strong>.</p>
+</li>
+<li>
+<p>Applicants are required to attach scanned copies of the following along
+with their application:</p>
+</li>
+</ul>
 <p></p>
-<h4>3) Selection Process </h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Year-end
+and Sec 4/5 Weighted Assessment (or equivalent) results, including copies
+of latest school academic results <strong>if available.</strong>
+</p>
+</li>
+<li>
+<p>For Secondary 5NA applicants: GCE (NA)-Level Examination results</p>
+</li>
+<li>
+<p>School CCA records</p>
+</li>
+<li>
+<p>Relevant certifications and/or records of achievement related to the talent
+area</p>
+</li>
+<li>
+<p>Personal statement (in application form)</p>
+</li>
+<li>
+<p>Applicants may go ahead to submit the application form first if the official
+documents are unavailable, and upload them once they are available.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Step 2:<br>Trials/Auditions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Attend the in-person selection trials/auditions if shortlisted. <strong>Only shortlisted applicants will be contacted to attend trials/auditions.</strong>
+</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Step 3:<br>Interview</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Attend the in-person interview if further shortlisted. <strong>Only shortlisted applicants will be contacted to attend the interview.</strong>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>3) Selection Process</h4>
 <p><strong><u>Trials / Auditions</u></strong>
 </p>
 <p>Applicants for Sports* &amp; Performing Arts talent areas will be shortlisted
@@ -106,7 +191,7 @@ to enable the College to better understand the:</p>
 </li>
 </ul>
 <p></p>
-<h4>4) Details of Selection Trials/Auditions </h4>
+<h4>4) Details of Selection Trials/Auditions</h4>
 <p>Click <strong>the following buttons</strong> to find out more:
 <br>Sports
 <br>Performing Arts
