@@ -48,9 +48,71 @@ Admission (DSA). For more information on DSA, please refer to <a href="https://w
 <h4></h4>
 <h4>2) Application Process (To be announced)</h4>
 <p></p>
-<h4>3) Selection Process (To be announced)</h4>
+<h4>3) Selection Process </h4>
+<p><strong><u>Trials / Auditions</u></strong>
+</p>
+<p>Applicants for Sports* &amp; Performing Arts talent areas will be shortlisted
+for trials/auditions based on evidence of the following aspects:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Track record, experience, and commitment to the talent area.</p>
+</li>
+<li>
+<p>Achievements, qualifications, and certifications in the talent area.</p>
+</li>
+</ul>
+<p><em>* No trials will be conducted for Shooting. Selection will be based on the stated criteria.</em>
+</p>
+<p>&nbsp;</p>
+<p><strong><u>Interviews</u></strong>
+</p>
+<p>Applicants for Sports &amp; Performing Arts talent areas will be further
+shortlisted for interviews based on their performance at trials / auditions.</p>
+<p>Students applying for the following DSA talent areas will be shortlisted
+for interviews based on their application submissions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Science &amp; Technology</p>
+</li>
+<li>
+<p>Chinese Language and Literature</p>
+</li>
+<li>
+<p>Tamil Language Elective Programme</p>
+</li>
+<li>
+<p>Humanities Programme</p>
+</li>
+<li>
+<p>Leadership</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Shortlisted applicants will be required to attend an in-person interview
+to enable the College to better understand the:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicant’s interest/ passion for the specific talent area;&nbsp;</p>
+</li>
+<li>
+<p>Applicant’s experiences (if any) in nurturing the specific talent area
+(e.g. through school CCA or external participation);</p>
+</li>
+<li>
+<p>Applicant’s motivation for joining ASRJC;</p>
+</li>
+<li>
+<p>Applicant’s suitability for JC education.</p>
+</li>
+</ul>
 <p></p>
-<h4>4) Details of Selection Trials/Auditions (To be announced)</h4>
+<h4>4) Details of Selection Trials/Auditions </h4>
+<p>Click <strong>the following buttons</strong> to find out more:
+<br>Sports
+<br>Performing Arts
+<br>Language and Humanities
+<br>STEM
+<br>Leadership</p>
 <p></p>
 <h4>5) Enquiry</h4>
 <p>For general enquiries regarding DSA, you may contact the following personnel:</p>
