@@ -5,8 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h2>Schedule (To be updated)</h2>
-<h3>Selection Criteria (To be updated)</h3>
+<h3>Schedule</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Club___Societies_Schedule_DSA_2026.png">
+</div>
+<h3>Selection Criteria</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_SC_2026.png">
+</div>
 <h3>Hear from some of our DSA students about their CCA journey and experience in ASRJC!</h3>
 <h4>ASR STEM</h4>
 <div class="iframe-wrapper">
