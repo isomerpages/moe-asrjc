@@ -73,26 +73,16 @@ with their application:</p>
 </li>
 </ul>
 <p></p>
+<p>o&nbsp;&nbsp; Secondary School Report book with Sec 3 Weighted Assessment,
+Sec 3 Year-end and Sec 4/5 Weighted Assessment (or equivalent) results,
+including copies of latest school academic results <strong>if available.</strong>
+<br>o&nbsp;&nbsp; For Secondary 5NA applicants: GCE (NA)-Level Examination
+results
+<br>o&nbsp;&nbsp; School CCA records
+<br>o&nbsp;&nbsp; Relevant certifications and/or records of achievement related
+to the talent area
+<br>o&nbsp;&nbsp; Personal statement (in application form)</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Secondary School Report book with Sec 3 Weighted Assessment, Sec 3 Year-end
-and Sec 4/5 Weighted Assessment (or equivalent) results, including copies
-of latest school academic results <strong>if available.</strong>
-</p>
-</li>
-<li>
-<p>For Secondary 5NA applicants: GCE (NA)-Level Examination results</p>
-</li>
-<li>
-<p>School CCA records</p>
-</li>
-<li>
-<p>Relevant certifications and/or records of achievement related to the talent
-area</p>
-</li>
-<li>
-<p>Personal statement (in application form)</p>
-</li>
 <li>
 <p>Applicants may go ahead to submit the application form first if the official
 documents are unavailable, and upload them once they are available.</p>
@@ -132,7 +122,44 @@ documents are unavailable, and upload them once they are available.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Special Note:</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><em>All shortlisted applicants who have participated in the Phase 1 selection will be informed of the outcome between 28 Jul and 11 Aug 2026.</em>
+</p>
+</li>
+<li>
+<p><em>All shortlisted applicants who have participated in the Phase 2 selection will be informed of the outcome between 24 Aug and 7 Sep 2026.</em>
+</p>
+</li>
+<li>
+<p><em>Shortlisted applicants who are not offered in Phase 1 may be considered for Phase 2.</em>
+</p>
+</li>
+<li>
+<p><em>Applicants who are not offered a place in Phase 1 need not resubmit, as all applications will be considered for both Phase 1 and 2 (if there is vacancy).</em>
+</p>
+</li>
+</ul>
+<p><em>&nbsp;</em>
+</p>
+<p><em><s>&nbsp;</s></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>3) Selection Process</h4>
 <p><strong><u>Trials / Auditions</u></strong>
 </p>
