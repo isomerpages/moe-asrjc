@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Direct School Admission
 ---
 <h3>Schedule</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership_Schedule_2026_Ver_2.png">
 </div>
