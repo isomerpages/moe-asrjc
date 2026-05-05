@@ -22,6 +22,15 @@ sections:
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
   - infopic:
+      title: Direct School Admission Exercise 2026
+      id: infopic
+      description: Ready to take your next step? Apply to ASRJC through Direct School
+        Admission and grow your passions with us.
+      button: Click here
+      url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
+      image: /images/Screenshot_2026_05_05_112557.png
+      alt: Image alt text
+  - infopic:
       title: English Week 2026
       subtitle: HIGHLIGHTS
       id: infopic
@@ -202,13 +211,4 @@ sections:
       alt: Image alt text
       url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
       button: VIEW HERE
-  - infopic:
-      title: Direct School Admission 2026
-      id: infopic
-      description: Ready to take your next step? Apply to ASRJC through Direct School
-        Admission and grow your passions with us.
-      button: Click here
-      url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
-      image: /images/Screenshot_2026_05_05_112557.png
-      alt: Image alt text
 ---
