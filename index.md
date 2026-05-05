@@ -28,7 +28,7 @@ sections:
         Admission and grow your passions with us.
       button: Click here
       url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
-      image: /images/Screenshot_2026_05_05_112557.png
+      image: /images/DSA_EDM_2026.jpg
       alt: Image alt text
   - infopic:
       title: English Week 2026
