@@ -7,7 +7,7 @@ third_nav_title: Direct School Admission
 ---
 <h3>Schedule</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic_Schedule_DSA_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic_Schedule_2026_Ver_2.png">
 </div>
 <h3>Selection Criteria</h3>
 <div class="isomer-image-wrapper">

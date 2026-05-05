@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/Website Banner/Website_Banner_2025_VII.jpg
       key_highlights:
+        - title: DSA 2026
+          description: See our 2026 talent areas!
+          url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
         - title: Social media
           description: Follow us on Instagram!
           url: https://www.instagram.com/asr.jc/
@@ -18,9 +21,15 @@ sections:
         - title: Education & Career Guidance @ ASR
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
-        - title: DSA 2026
-          description: See our 2026 talent areas!
-          url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
+  - infopic:
+      title: Direct School Admission Exercise 2026
+      id: infopic
+      description: Ready to take your next step? Apply to ASRJC through Direct School
+        Admission and grow your passions with us.
+      button: Click here
+      url: https://www.asrjc.moe.edu.sg/joining-asrjc/direct-school-admission/
+      image: /images/DSA_EDM_2026.jpg
+      alt: Image alt text
   - infopic:
       title: English Week 2026
       subtitle: HIGHLIGHTS
