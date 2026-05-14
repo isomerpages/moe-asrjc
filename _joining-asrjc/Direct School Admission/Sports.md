@@ -14,6 +14,10 @@ third_nav_title: Direct School Admission
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_SC_2026.png">
 </div>
 <h3>Hear from some of our DSA students about their CCA journey and experience in ASRJC!</h3>
+<h4>ASR Table Tennis</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sRJU7rovzBY?si=sbRSn1Lh6SpwEBCA"></iframe>
+</div>
 <h4>ASR Football</h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lUqyj6P8Kf8?si=N_AbgFNHZ7qDb86t"></iframe>
