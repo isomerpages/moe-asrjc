@@ -14,8 +14,9 @@ third_nav_title: Direct School Admission
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership_SC_2026.png">
 </div>
 <h3>Hear from some of our Community Champions Council DSA students about their experience in ASRJC!</h3>
-<p></p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aW7vTpKc9fg?si=MAPPu2mWdSyNFqqs"></iframe>
+</div>
 <p>
 <br>
 </p>
