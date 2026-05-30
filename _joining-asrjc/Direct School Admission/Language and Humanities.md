@@ -13,6 +13,7 @@ third_nav_title: Direct School Admission
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lang_Human_SC_2026.png">
 </div>
+<h3>Hear from some of our DSA students about their Humanities experience in ASRJC!</h3>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a0xdH_bOtx4?si=xvfNhktw2eiofvlK"></iframe>
 </div>
