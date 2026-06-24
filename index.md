@@ -31,6 +31,15 @@ sections:
       image: /images/DSA_EDM_2026.jpg
       alt: Image alt text
   - infopic:
+      title: iHEART Run 2026
+      subtitle: HIGHLIGHTS
+      id: infopic
+      description: Running with Heart and Purpose
+      button: VIEW HERE
+      url: https://www.asrjc.moe.edu.sg/iheart-run-2026/
+      image: /images/1A.jpg
+      alt: Image alt text
+  - infopic:
       title: English Week 2026
       subtitle: HIGHLIGHTS
       id: infopic
@@ -211,13 +220,4 @@ sections:
       alt: Image alt text
       url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
       button: VIEW HERE
-  - infopic:
-      title: iHEART Run 2026
-      subtitle: HIGHLIGHTS
-      id: infopic
-      description: Running with Heart and Purpose
-      button: VIEW HERE
-      url: https://www.asrjc.moe.edu.sg/iheart-run-2026/
-      image: /images/1A.jpg
-      alt: Image alt text
 ---
