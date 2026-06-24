@@ -28,7 +28,7 @@ variant: tiptap
 <p>Vegetarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 March 2026</p>
+<p>30 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mixed wholegrain rice or 100% wholegrain noodle are acceptable</p>
