@@ -4,11 +4,12 @@ permalink: /iheart-run-2026/
 variant: tiptap
 description: ""
 ---
-<p><strong>iHEART Run 2026: Run with Heart, Serve with Purpose</strong>
-<br>On 29 May 2026, students and staff of Anderson Serangoon Junior College
-gathered at The Kallang for the annual iHEART Run. Anchored on the theme, <em>"Run with Heart, Serve with Purpose"</em>,
-the event brought together the college community for a morning of fitness,
-camaraderie and meaningful service.</p>
+<p><strong>iHEART Run 2026: Run with Heart, Serve with Purpose<br></strong>On
+29 May 2026, students and staff of Anderson Serangoon Junior College gathered
+at The Kallang for the annual iHEART Run. Anchored on the theme, "Run with
+Heart, Serve with Purpose", the event brought together the college community
+for a morning of fitness, camaraderie and meaningful service.<strong><br></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1A.jpg">
 </div>
