@@ -4,7 +4,7 @@ permalink: /asrjc-as-6th-clep-jc-centre/
 variant: tiptap
 description: ""
 ---
-<h1><strong>ASRJC as 6th CLEP JC Centre</strong></h1>
+<h1><strong>ASRJC as the 6th CLEP JC Centre</strong></h1>
 <p><strong><u>安德逊实龙岗初级学院华文语文特选课程（2027年开始收生）</u></strong>
 </p>
 <p>为了栽培精通双语的人才，提高学生的华文水平和文学素养，教育部在1990年在高中开办了华文语文特选课程（简称语特），鼓励对华文和文学有浓厚兴趣的学生加入。安德逊实龙岗初级学院很荣幸地获选为第六所高中语特院校，并将于2027年开始招收本院第一届语特生。</p>
@@ -26,7 +26,7 @@ to attain a high level of proficiency and competency in using the Chinese
 Language, enhance students’ knowledge and understanding of Chinese Literature
 and Culture, and develop effectively bilingual students.</p>
 <p>CLEP is a two-year programme and CLEP-JC students must offer H2 Chinese
-Language and Literature (H2 CLL) at ‘A’ Level. It will consist of signature
+Language and Literature (H2 CLL) at A-Level. It will consist of signature
 activities such as language camps and overseas immersion programmes. There
 will also be enrichment activities such as literary lecture series and
 internship opportunities.</p>
