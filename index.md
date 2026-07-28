@@ -17,7 +17,7 @@ sections:
           url: https://www.instagram.com/asr.jc/
         - title: Highlights
           description: Check out our highlights!
-          url: https://www.asrjc.moe.edu.sg/stories-of-asr-class-of-2024/
+          url: https://www.asrjc.moe.edu.sg/iheart-run-2026/
         - title: Education & Career Guidance @ ASR
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
