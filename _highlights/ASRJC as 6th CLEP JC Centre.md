@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>ASRJC as the 6th CLEP JC Centre</strong></h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP/ASR_CLEP_Publicity_Poster_2026_Landscape.png">
+</div>
 <p><strong><u>安德逊实龙岗初级学院华文语文特选课程（2027年开始收生）</u></strong>
 </p>
 <p>为了栽培精通双语的人才，提高学生的华文水平和文学素养，教育部在1990年在高中开办了华文语文特选课程（简称语特），鼓励对华文和文学有浓厚兴趣的学生加入。安德逊实龙岗初级学院很荣幸地获选为第六所高中语特院校，并将于2027年开始招收本院第一届语特生。</p>
