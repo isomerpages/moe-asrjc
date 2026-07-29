@@ -22,6 +22,16 @@ sections:
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
   - infopic:
+      title: ASRJC as the 6th CLEP JC Centre
+      subtitle: highlights
+      id: infopic
+      description: The Chinese Language Elective Programme at the Pre-University Level
+        (CLEP-JC) will be offered at ASRJC from 2027.
+      button: view here
+      url: https://www.asrjc.moe.edu.sg/asrjc-as-6th-clep-jc-centre/
+      image: /images/CLEP/ASR_CLEP_Publicity_Poster_2026_Landscape.png
+      alt: Image alt text
+  - infopic:
       title: Direct School Admission Exercise 2026
       id: infopic
       description: Ready to take your next step? Apply to ASRJC through Direct School
@@ -220,14 +230,4 @@ sections:
       alt: Image alt text
       url: https://www.asrjc.moe.edu.sg/welcome-to-open-house-2025/
       button: VIEW HERE
-  - infopic:
-      title: ASRJC as the 6th CLEP JC Centre
-      subtitle: highlights
-      id: infopic
-      description: The Chinese Language Elective Programme at the Pre-University Level
-        (CLEP-JC) will be offered at ASRJC from 2027.
-      button: view here
-      url: https://www.asrjc.moe.edu.sg/asrjc-as-6th-clep-jc-centre/
-      image: /images/CLEP/ASR_CLEP_Publicity_Poster_2026_Landscape.png
-      alt: Image alt text
 ---
