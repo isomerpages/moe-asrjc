@@ -6,9 +6,6 @@ description: ""
 third_nav_title: Special Programmes
 ---
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0HFmpjiZAhg?si=bGlwmHa6sMo77AcJ"></iframe>
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP/ASR_CLEP_Publicity_Poster_2026_Landscape.png">
@@ -40,6 +37,9 @@ Elective),&nbsp;<strong>or</strong>
 <p>A2 in Chinese Language</p>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0HFmpjiZAhg?si=bGlwmHa6sMo77AcJ"></iframe>
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP/2025_________.jpg">
