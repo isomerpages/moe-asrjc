@@ -14,7 +14,7 @@ description: ""
 <p>The Chinese Language Elective Programme (CLEP) at Anderson Serangoon Junior
 College (ASRJC) will officially launch in 2027!</p>
 <p>Minister for Education Desmond Lee made the official announcement on 1
-August at the opening ceremony of the Mother Tongue Languages Symposium,
+August 2026 at the opening ceremony of the Mother Tongue Languages Symposium,
 declaring ASRJC as the sixth junior college in Singapore to offer the CLEP.
 ASRJC will roll out a rich and vibrant range of Chinese language and literature
 learning programmes, dedicated to creating a platform for students to showcase
