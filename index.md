@@ -25,8 +25,8 @@ sections:
       title: ASRJC as the 6th CLEP JC Centre
       subtitle: highlights
       id: infopic
-      description: The Chinese Language Elective Programme at the Pre-University Level
-        (CLEP-JC) will be offered at ASRJC from 2027.
+      description: Where Passion Meets Excellence - Be part of our legacy to further
+        your passion and learning of Chinese Language and Chinese Culture!
       button: view here
       url: https://www.asrjc.moe.edu.sg/asrjc-as-6th-clep-jc-centre/
       image: /images/CLEP/ASR_CLEP_Publicity_Poster_2026_Landscape.png
