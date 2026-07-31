@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Special Programmes
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP/ASR_CLEP_Publicity_Poster_2026_Landscape.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP/ASR_CLEP_Publicity_Poster_2026_Landscape_copy.png">
 </div>
 <p>The&nbsp;<strong>Chinese Language Elective Programme at the Pre-University Level</strong>&nbsp;(CLEP-JC)
 will be offered at ASRJC from 2027. This programme aims to encourage students
