@@ -28,7 +28,7 @@ sections:
       description: Where Passion Meets Excellence - Be part of our legacy to further
         your passion and learning of Chinese Language and Chinese Culture!
       button: view here
-      url: https://www.asrjc.moe.edu.sg/asrjc-as-6th-clep-jc-centre/
+      url: https://www.asrjc.moe.edu.sg/highlights/asrjc-as-6th-clep-jc-centre/
       image: /images/CLEP/ASR_CLEP_Publicity_Poster_2026_Landscape.png
       alt: Image alt text
   - infopic:
