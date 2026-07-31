@@ -7,7 +7,7 @@ description: ""
 <h1><strong>ASRJC as the 6th CLEP JC Centre</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP/ASR_CLEP_Publicity_Poster_2026_Landscape.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLEP/ASR_CLEP_Publicity_Poster_2026_Landscape_copy.png">
 </div>
 <p><strong>Where Passion Meets Excellence — Join our legacy to deepen your love and mastery of Chinese language and literature!</strong>
 </p>
