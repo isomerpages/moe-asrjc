@@ -17,10 +17,20 @@ sections:
           url: https://www.instagram.com/asr.jc/
         - title: Highlights
           description: Check out our highlights!
-          url: https://www.asrjc.moe.edu.sg/stories-of-asr-class-of-2024/
+          url: https://www.asrjc.moe.edu.sg/iheart-run-2026/
         - title: Education & Career Guidance @ ASR
           description: Your ECG One-Stop Microsite
           url: https://sites.google.com/view/asrecg/home
+  - infopic:
+      title: ASRJC as the 6th CLEP JC Centre
+      subtitle: highlights
+      id: infopic
+      description: Where Passion Meets Excellence - Be part of our legacy to further
+        your passion and learning of Chinese Language and Chinese Culture!
+      button: view here
+      url: https://www.asrjc.moe.edu.sg/highlights/asrjc-as-6th-clep-jc-centre/
+      image: /images/CLEP/ASR_CLEP_Publicity_Poster_2026_Landscape.png
+      alt: Image alt text
   - infopic:
       title: Direct School Admission Exercise 2026
       id: infopic
